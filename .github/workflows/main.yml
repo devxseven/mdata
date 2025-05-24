@@ -1,0 +1,23 @@
+name: Update JSON Data
+on:
+  schedule:
+    - cron: '*/2 * * * *'  # Runs every 5 minutes
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch JSON data
+        run: |
+          curl -s https://test.devseventeam.workers.dev/matches -o matches.json
+
+      - name: Update JSON file in repository
+        uses: test-room-7/action-update-file@v1
+        with:
+          file-path: matches.json
+          commit-msg: 'Update matches.json with latest data'
+          github-token: ${{ secrets.GITHUB_TOKEN }}
