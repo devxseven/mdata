@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1759423520-0-0-f694b061cf3a220801383852b2c84775"
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1759423820-0-0-f90bc218a2006b87d8ee6193ac6620fd"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1759423520-0-0-e570288b9ba057b6bf444c2513cd11e8"
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1759423820-0-0-20954b797c5a9bd39c028cef78c13537"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1759423520-0-0-5dd5e3d412fea4d3f7646688f3c2d3f2"
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1759423820-0-0-6311f5c6bd980bd5f6069badf84319f9"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1759423520-0-0-f8d632ea5176e771de4f63ba80794b0e"
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1759423820-0-0-83d486b8d2c061b770577456033c58eb"
         },
         {
           "name": "VN HD 3",
@@ -39,13 +39,30 @@
     {
       "id": "300158",
       "match_time": "1759420800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "New York Knicks",
       "home_img": "https://sta.vnres.co/file/common/20250930/8b256aa7300d642626f39c75e8d1f2f3.png",
       "away_name": "Philadelphia 76ers",
       "away_img": "https://sta.vnres.co/file/common/20250930/69553b4ed88b9d2ab2c69ec3bafa3c5c.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=93fd93b6b5c2d0abae477e58479d8f44&txTime=68def39c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=efb22464e01f3aa657b0f13f82827d08&txTime=68def39c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-539752_lhd.m3u8?auth_key=1759423820-0-0-3732a274beb4b6c020c1e985ae0a22d1"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-539752_lsd.m3u8?auth_key=1759423820-0-0-7528e2eab1f0492fceea786111fe9557"
+        }
+      ]
     },
     {
       "id": "300073",
