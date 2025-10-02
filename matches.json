@@ -12,40 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1759398320-0-0-adaba0849795241365940e7c8104eb89"
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1759398620-0-0-9856127eec4e2069c5a1ac0f25db0549"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1759398320-0-0-3537cbe19ff764c0938f60ed241d3cff"
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1759398620-0-0-1fcd5388fcafb302112c3c3258320229"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=8c4e424c951fdb27619b97d6bc018276&txTime=68de9000"
+          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=3bd2cb231e85e0ca633710b7291ff45d&txTime=68de912c"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=535dee0fcda13a4f0630de773dc8e66e&txTime=68de9000"
+          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=0d004c009a33fdc114639f76c9d4632c&txTime=68de912c"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=489fc18fe5273f446836c246b271b6f1&txTime=68de9000"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=8247cabfec5e7a0bb7281602323592fc&txTime=68de912c"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c2e4d1eee917c3bd6ae9ce603f1025a7&txTime=68de9000"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=a4b38445b68ae96f35ca99da8c1ac20b&txTime=68de912c"
         }
       ]
     },
     {
       "id": "300058",
       "match_time": "1759395600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Dong Thap",
       "home_img": "https://sta.vnres.co/file/common/20250928/4a0e4d6a14196b206c46516a3ae30d60.png",
       "away_name": "Ho Chi Minh City",
       "away_img": "https://sta.vnres.co/file/common/20250928/64374abf2659db891f715dcdef476c77.png",
       "league": "VIE D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1759398620-0-0-e732bde827ecba410583728af0287d47"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1759398620-0-0-f460d25ee149ccfe94d1c40450d0dce9"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=98993f7205cb03320656fa3d75b036c0&txTime=68de912c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=5329d98c2621d03e178e40aaf9188bb8&txTime=68de912c"
+        }
+      ]
     },
     {
       "id": "300156",
