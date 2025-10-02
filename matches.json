@@ -12,32 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1759393820-0-0-5abc3bc71690d8d1476d958f5c5e3aa6"
+          "url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1759394120-0-0-b9cee9bb2db19103d6dcf81cb14c13fd"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1759393820-0-0-a8473243128ac3dc8c94d3a59e1c158b"
+          "url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1759394120-0-0-54cc86362842b7a14fe259c2cc9e881d"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912092_lhd.m3u8?auth_key=1759393820-0-0-7ba5aab317117c8343215af23f7a7478"
+          "url": "https://pull.niues.live/live/stream-9912092_lhd.m3u8?auth_key=1759394120-0-0-7ff111f8164506229d38cbab51c13568"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912092_lsd.m3u8?auth_key=1759393820-0-0-5b13c225184b16c10f644aad149901dd"
+          "url": "https://pull.niues.live/live/stream-9912092_lsd.m3u8?auth_key=1759394120-0-0-969cbe5500096633b7eafa5d291bd4a9"
         }
       ]
     },
     {
       "id": "300057",
       "match_time": "1759391100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC Macarthur",
       "home_img": "https://sta.vnres.co/file/common/20250928/4e4cf6fdc15b83f4a6815fc18554daf1.png",
       "away_name": "Beijing Guoan FC",
       "away_img": "https://sta.vnres.co/file/common/20250928/d96ca0fbc522cc51d4657bea17437040.png",
       "league": "ACL2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1759394120-0-0-f2f516ad90822d633f252e6f80875090"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1759394120-0-0-aa437e1d608a114a7b8f61f6f4cf8440"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=2f5543e3954a1c89cd739e13b84f9d95&txTime=68de7f98"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=42763966c4d05681817cdab77b00cdd7&txTime=68de7f98"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=3fccaf83a8a5186e25900083d2390973&txTime=68de7f98"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=7089c8c10989dd87b2044f732744f944&txTime=68de7f98"
+        }
+      ]
     },
     {
       "id": "300058",
