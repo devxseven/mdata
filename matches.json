@@ -32,24 +32,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-539752_lhd.m3u8?auth_key=1759479320-0-0-3677df482250a713e71cacc95fab9980"
+          "url": "https://pull.niues.live/live/stream-539752_lhd.m3u8?auth_key=1759479621-0-0-e0cb8114bee800be77a8da0c65ecd8a9"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-539752_lsd.m3u8?auth_key=1759479320-0-0-2bf88c972a29a5c61fb02648e4b24001"
+          "url": "https://pull.niues.live/live/stream-539752_lsd.m3u8?auth_key=1759479621-0-0-0843b7bf8fe2cbccb133b787f3b9f51e"
         }
       ]
     },
     {
       "id": "300309",
       "match_time": "1759476600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Mobis Phoebus",
       "home_img": "https://sta.vnres.co/file/common/20251002/45e9f131c8d4e6c0a247aa9d5653c5c1.png",
       "away_name": "Wonju DB",
       "away_img": "https://sta.vnres.co/file/common/20251002/5bb3bf0004b1fb99994e9e8da3928494.png",
       "league": "KBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=3fa921e6ef0dedb03c042d23f18ad947&txTime=68dfcd95"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=7f2b6d2845ed8afc812526418170b667&txTime=68dfcd95"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1759479620-0-0-a4650b9f0dd1e26b30615052eab9637a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1759479620-0-0-79959722df7ecb40918fdc502387b480"
+        }
+      ]
     },
     {
       "id": "300310",
