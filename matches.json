@@ -3,57 +3,150 @@
     {
       "id": "300121",
       "match_time": "1759467600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Jeju SK FC",
       "home_img": "https://sta.vnres.co/file/common/20250930/ba016d9f78ebaa9309d5c745cd6d4be4.png",
       "away_name": "Jeonbuk Hyundai Motors",
       "away_img": "https://sta.vnres.co/file/common/20250930/b02e526487e175641ea21555b404697e.png",
       "league": "KOR D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=dba3b6683b1459e867668aa633795073&txTime=68dfaa6c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=e8f9cd4cf81f6603006f26f130468fac&txTime=68dfaa6c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=5e8db5f938b3fb078cc3bf824a1a9b76&txTime=68dfaa6c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=f2b2149ac35b7896cd6b45f8eb4734ad&txTime=68dfaa6c"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=827f98cce91be5ed9e8f48d28ee2bde1&txTime=68dfaa6c"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=70f0dfb6751eba9e19f6e0be95d5e7da&txTime=68dfaa6c"
+        }
+      ]
     },
     {
       "id": "300122",
       "match_time": "1759467600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Chuncheon Citizen",
       "home_img": "https://sta.vnres.co/file/common/20250930/ff9ef259943e56b661c01f0adde7d1ad.png",
       "away_name": "Yeoju Citizen",
       "away_img": "https://sta.vnres.co/file/common/20250930/17b46c0f05f99c3a8cd641af4960ae01.png",
       "league": "KOR D3",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1759470621-0-0-8a7592f876d69e1c1844a70608fa8f68"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1759470621-0-0-7bc4b0dd2e7de2fd6b0a7e4a1bd35100"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=058e1ed0526fb9d78cd563364909c814&txTime=68dfaa6d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=882cfa84dd096827dab29a3e406804f9&txTime=68dfaa6d"
+        }
+      ]
     },
     {
       "id": "300123",
       "match_time": "1759467600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Seongnam FC",
       "home_img": "https://sta.vnres.co/file/common/20250930/3d021e9267094d1ae381f500eb08694d.png",
       "away_name": "Seoul E-Land FC",
       "away_img": "https://sta.vnres.co/file/common/20250930/9800ae974ba2a2e82adca3328e20a748.png",
       "league": "KOR D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=2ddcc2d0cec3b03098e349e4fdbaf7c1&txTime=68dfaa6d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=83d377a626f8dd7b517150640f117eee&txTime=68dfaa6d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1759470620-0-0-4eff1f86668a2333f837fdb1fe9813a7"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-334434_lsd.m3u8?auth_key=1759470620-0-0-23f5ec82c9c7cd6fab3565f08561ed0a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1759470620-0-0-465e9d2c3ea4293e691360fdc6edf9d9"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1759470620-0-0-fc4338aacdaff6dffc697ef6aa3500cf"
+        }
+      ]
     },
     {
       "id": "300306",
       "match_time": "1759467600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "LG Sakers",
       "home_img": "https://sta.vnres.co/file/common/20251002/e2f18a2f29596a7a3552c18cd1a49738.png",
       "away_name": "Seoul Knights",
       "away_img": "https://sta.vnres.co/file/common/20251002/04b63acf68ffde12c2dbb0d6dea53076.png",
       "league": "KBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "300307",
       "match_time": "1759467600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Seoul Thunders",
       "home_img": "https://sta.vnres.co/file/common/20251002/5cb046448458b27c49650ea5f4ca61f0.png",
       "away_name": "KCC Egis",
       "away_img": "https://sta.vnres.co/file/common/20251002/63ad4863147c8d7af0375bd488eb0633.png",
       "league": "KBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=f9309bf4453dfc569421be1be5ad1e60&txTime=68dfaa6c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=af0818595d84b9709a9028ebfbcaaec2&txTime=68dfaa6c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1759470620-0-0-f3db71c450388f394161b3dd4035bc71"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1759470620-0-0-3b4c326294408e2d8916813b88b4969d"
+        }
+      ]
     },
     {
       "id": "300308",
