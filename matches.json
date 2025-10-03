@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1759535120-0-0-b588d6b9a5d33eff48056cdfa27904f6"
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1759535420-0-0-33a2b7f5ef4e8accbbc3c33386ac0ba3"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1759535120-0-0-1bbad99c76986a88d29fbdeee9442c52"
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1759535420-0-0-613d6b1d3bb199e5f76390395fe827b7"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1759535120-0-0-bde5f6d70e3d34ffc9c3911809c281a7"
+          "url": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1759535420-0-0-b543bcf3b3e5d0208f673a58241795d0"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1759535120-0-0-8638bac94ab67734827a7358e3ab4bf5"
+          "url": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1759535420-0-0-6db611993ee15787260fa2d19facec6c"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=270774f297d3698cf832d83b5293adc9&txTime=68e0a660"
+          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=765a8f43d210a4d78bbda15da8655d84&txTime=68e0a78c"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=d1af54e71e7af3287a4570f5f02455d2&txTime=68e0a660"
+          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=a8ccd3eefdbfb9eff530ec9ca6ee91ae&txTime=68e0a78c"
         }
       ]
     },
@@ -48,19 +48,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1759535120-0-0-b543c5452411b2ad5d1d7f9ebb730421"
+          "url": "https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1759535420-0-0-5f4f6ba85811f12b9ae8baf409b3d5e0"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1759535120-0-0-84987274117eaf4694014fe014a4a9e7"
+          "url": "https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1759535420-0-0-e3c900b429c97a311145b53c29b6e6ea"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1759535121-0-0-7431453321ebf6a12eb9920c66703727"
+          "url": "https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1759535421-0-0-033bcbf3e4023e32ca2537c30708b96b"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1759535121-0-0-aae439cb1ff5564e183cacaf3df902e2"
+          "url": "https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1759535421-0-0-a03a81950085a88a473886f4d033b2d2"
         }
       ]
     },
@@ -76,46 +76,97 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-539752_lhd.m3u8?auth_key=1759535121-0-0-06efa328a1f2ae6e79a53da600b77364"
+          "url": "https://pull.niues.live/live/stream-539752_lhd.m3u8?auth_key=1759535421-0-0-4341b84ba14355e0516371ea5244fe70"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-539752_lsd.m3u8?auth_key=1759535121-0-0-09d1009bae3c4bbcc7e8148b110dc90c"
+          "url": "https://pull.niues.live/live/stream-539752_lsd.m3u8?auth_key=1759535421-0-0-d5827fb9f962f8dc5d61494a0286194e"
         }
       ]
     },
     {
       "id": "300173",
       "match_time": "1759532400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Egypt U20",
       "home_img": "https://sta.vnres.co/file/common/20251001/b475d5a47918941eac2253906ced096a.png",
       "away_name": "Chile U20",
       "away_img": "https://sta.vnres.co/file/common/20251001/42eb2d62ade24ccf82d6e2b5d39c42fa.png",
       "league": "FIFA U20",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1759535420-0-0-274c236bc8732f0ae761eb4a1512dbf2"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1759535420-0-0-7cce27a4027b606d33147f0f3385cc8c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=7abd648908dd55fd0ef4d2903187ea76&txTime=68e0a78c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=6ce543622c119e284e8e76eb4a83fbb6&txTime=68e0a78c"
+        }
+      ]
     },
     {
       "id": "300174",
       "match_time": "1759532400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "New Zealand U20",
       "home_img": "https://sta.vnres.co/file/common/20251001/85231886f607698cc663a4727747ac33.png",
       "away_name": "Japan U20",
       "away_img": "https://sta.vnres.co/file/common/20251001/4667fa7c27d73c517c767a87c8e76492.png",
       "league": "FIFA U20",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1759535420-0-0-7fef55bd6a1521ba029d02ee6a71e9f5"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1759535420-0-0-40d3474483844e7df3128d74f06b8b8c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=bba5d9ee3ab3c75a2d4fba8e875baac2&txTime=68e0a78c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=41887eeb482f9a4b55a9b05a8424211b&txTime=68e0a78c"
+        }
+      ]
     },
     {
       "id": "300175",
       "match_time": "1759532400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Club Chivas Tapatio",
       "home_img": "https://sta.vnres.co/file/common/20251001/8adbd4f95aea2d720cdb6365553adba7.png",
       "away_name": "Alebrijes de Oaxaca",
       "away_img": "https://sta.vnres.co/file/common/20251001/a537cd3a6b02094ce505288a73b39528.png",
       "league": "MEX D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1759535420-0-0-be2e43e9ffd33687d1003ce512c4acab"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1759535420-0-0-2e18fdaaa173c7f0c2a145205f996273"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/537460-720p.m3u8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/537460-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "300314",
