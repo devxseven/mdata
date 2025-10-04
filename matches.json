@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1759616120-0-0-c290c978502ffe7bb1ed1264672cfcc7"
+          "url": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1759616420-0-0-cf7f93e10ef421cab3ba45cc75d86176"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1759616120-0-0-ee401d9468c5b4c96fdd9db6fd62c3d6"
+          "url": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1759616420-0-0-37d9ebd8b12e43d2e6b4d4e790675391"
         }
       ]
     },
@@ -32,62 +32,113 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1759616120-0-0-3d516ca0007e8602bcdfec518bdf5245"
+          "url": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1759616420-0-0-5b37ae4f87c039f10e3b423d6d56332e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1759616120-0-0-b845f65896c4997cef1ef5fbbf95d468"
+          "url": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1759616420-0-0-1c62c01b209de01ab04b24b3b4ea0edc"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1759616120-0-0-c643b39c5dab94502423df2e77460ac3"
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1759616420-0-0-efa06fa54931a0da30bca7fea586df66"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1759616120-0-0-8584e44c7733be97e9c6875accbbc88a"
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1759616420-0-0-e15d39af7b39020dc7720161f03f6a40"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=5a24de8c01b25f4a7f93b739359229a4&txTime=68e1e2c8"
+          "url": "https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=cb3fa449b386af5116b5c5f165074b2d&txTime=68e1e3f4"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=c50ae1cf957bbb3b59f48b7284611847&txTime=68e1e2c8"
+          "url": "https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=b4f1881e35c06c3af80db2cf06775361&txTime=68e1e3f4"
         }
       ]
     },
     {
       "id": "300236",
       "match_time": "1759613400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Red Bull Bragantino",
       "home_img": "https://sta.vnres.co/file/common/20251002/0fc9eb4fb4f63ee077a1f56129a7ad83.png",
       "away_name": "Gremio (RS)",
       "away_img": "https://sta.vnres.co/file/common/20251002/6c3988ad8ac01546ff8c27cd1006347f.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1759616420-0-0-e12aabcf46852951bb4b2300550a5068"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1759616420-0-0-448b915288b343118ba8e5780f98fb9c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1759616420-0-0-c42ecf5a80678cea93ce9e6fa3b61cad"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1759616420-0-0-ffcc2fe26f83ea62ade3b5bd0193e307"
+        }
+      ]
     },
     {
       "id": "300237",
       "match_time": "1759613400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Fluminense RJ",
       "home_img": "https://sta.vnres.co/file/common/20251002/d390a6849915f9b1dc6f0db5271b974b.png",
       "away_name": "Atletico Mineiro",
       "away_img": "https://sta.vnres.co/file/common/20251002/cb021901db98ed5d70e7ac093a61f45b.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1759616420-0-0-9f553a6cfd7260953455ff6b71d58a12"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1759616420-0-0-2ece3e3e1e5b9cd8267f9aaeb9f34b75"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=0ab97a6e218391e59e0fc791994d0923&txTime=68e1e3f4"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=2989239a3738b9233d7eb8a32de3c10c&txTime=68e1e3f4"
+        }
+      ]
     },
     {
       "id": "300238",
       "match_time": "1759613400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Internacional RS",
       "home_img": "https://sta.vnres.co/file/common/20251002/2e28ae176f2b65ceb77773a688037e58.png",
       "away_name": "Botafogo RJ",
       "away_img": "https://sta.vnres.co/file/common/20251002/530e93e4dfe1aa5f409ed981e5290174.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1759616420-0-0-c7d3302959ebd669c094bf25fd9631db"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1759616420-0-0-6c97cb16cd2f3cfa3062f7c139103377"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1759590672-0-0-bb0957b251e06fabc85e4143df898c32"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1759590672-0-0-9b1755f4c1fd06671a8bcd2be44a8780"
+        }
+      ]
     },
     {
       "id": "300386",
