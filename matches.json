@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=ea9ad9596aab99dbcaa3a631bf5ce534&txTime=68e3e411"
+          "url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=a1b03b3156c673bfbe0ea0efae2ae970&txTime=68e3e53d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=f720229ec0c34e9325d16ad719b4d1bc&txTime=68e3e411"
+          "url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=2fb06d33cf9d47e5bd30e6d7cd66405f&txTime=68e3e53d"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1759747521-0-0-844422c1e48a054a0b4e252e14830624"
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1759747821-0-0-3318cd2c1d4c9f4aa6027d8bd22552a1"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1759747521-0-0-c8b56d9bd3bd8d3df4394e2f485bfd93"
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1759747821-0-0-68fb874e4579b8cb2704b975e490c2d1"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1759747521-0-0-565be99206c4d2af2a7b3f72287c6256"
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1759747821-0-0-e93f2790d0aa0ff44a900f17c2d1cc10"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1759747521-0-0-de963051fa8d52ba925448a5f1ebe686"
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1759747821-0-0-6a4b63a11f2e7fb56649a006f2baf23b"
         }
       ]
     },
@@ -48,40 +48,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1759747521-0-0-8bd52d8adc2ab4e1f29c7f37379d0073"
+          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1759747821-0-0-ce2c5b7a8f0b432ce02fbaf9a45c3484"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1759747521-0-0-fca288dc01b2825a2ee4455d7b1c80c3"
+          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1759747821-0-0-d4bb79ddad7b33211de608f87e09b013"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1759747521-0-0-3d7563a75dd1092dc04a59e0802d841b"
+          "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1759747821-0-0-8066d020e70214c33740a056143c1c6f"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1759747521-0-0-d5460074cb8c72e22beec34fde966acd"
+          "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1759747821-0-0-b5fe976d21293d5acccfd0b304adfa8f"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1759747521-0-0-7dd00e25f2896ebc796a8732ba5f8857"
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1759747821-0-0-d3b6d4508b36a8fe8677712e199d201a"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1759747521-0-0-be01fe6ddcb615cb576a8547b636d306"
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1759747821-0-0-a5bd39f6f7346aba2441e2b29fdbf705"
         }
       ]
     },
     {
       "id": "300497",
       "match_time": "1759744800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Mindoro Tamaraws",
       "home_img": "https://sta.vnres.co/file/common/20251006/8b57beb4a39d2a63198506be6c67e842.png",
       "away_name": "Cebu Classic",
       "away_img": "https://sta.vnres.co/file/common/20251006/00dc0a57d59ab3022c663d88d6c7f9e4.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "300354",
