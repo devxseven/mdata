@@ -20,11 +20,11 @@
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=65ebf8b2f4243f8c32b3332cf6c44536&txTime=68e6db71"
+          "url": "https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=6b0aa5c7aebbd582bc55e46cc69f30ee&txTime=68e6dc9d"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-519740_lsd.m3u8?txSecret=0d7022b1bd90ca0b000897e706e1f0d1&txTime=68e6db71"
+          "url": "https://pull.niur.live/live/stream-519740_lsd.m3u8?txSecret=b544767baed65d1462ea0c25ec806289&txTime=68e6dc9d"
         }
       ]
     },
@@ -40,84 +40,209 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1759941921-0-0-df72b2cf2a5375cca753ce2a672db340"
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1759942221-0-0-f8ab43f6b5e326cd274275f6b87891d0"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1759941921-0-0-f12128945cc8bfcbad27d3ba063663e1"
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1759942221-0-0-91e53647c29e845296b768397b761a0c"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=b2058cd5fb76bf0785ab32e6b9bd400c&txTime=68e6db71"
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=8f27a83d438359fc5f02a160a46b331b&txTime=68e6dc9d"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=83586dff4268ceeb718a786dec243973&txTime=68e6db71"
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=71d9a0defcd13fb2b5e2a57d54c8db00&txTime=68e6dc9d"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1759941921-0-0-9ac3d53f8daf0150c1eee4bdf685947d"
+          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1759942221-0-0-ea20bc19d39320a85605c4d352129171"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1759941921-0-0-7235c9f6e1379b273b7166710e4c8b2c"
+          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1759942221-0-0-4f7e50a44c20407a0b5e1bb9acba02e4"
         }
       ]
     },
     {
       "id": "300435",
       "match_time": "1759939200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Djibouti",
       "home_img": "https://sta.vnres.co/file/common/20251005/e558db5991225d9311b17411259b43d8.png",
       "away_name": "Egypt",
       "away_img": "https://sta.vnres.co/file/common/20251005/67ba617fbaeea8ea217bef5036430056.png",
       "league": "World Cup qualification (CAF)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-524300_lhd.m3u8?auth_key=1759942221-0-0-9371cbc38f5436cd38d5a5484f983fa7"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-524300_lsd.m3u8?auth_key=1759942221-0-0-db67488ce3de2467a90e23ed85e94ad6"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1759942221-0-0-ee901866fcf5e3b62f7c60454e1915a9"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1759942221-0-0-d9d3748457def58ff688f88b5291b580"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://stream-flv.dfsfe.top/lives/537460-720p.m3u8"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://stream-flv.dfsfe.top/lives/537460-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "300436",
       "match_time": "1759939200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Sierra Leone",
       "home_img": "https://sta.vnres.co/file/common/20251005/e29c4283bbe49ba07bc60589e0f1500b.png",
       "away_name": "Burkina Faso",
       "away_img": "https://sta.vnres.co/file/common/20251005/f3ce7378ffd586945f1c0869e6504050.png",
       "league": "World Cup qualification (CAF)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=853dcb5374c1e5770e0226381c6d3e8b&txTime=68e6dc9d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=997ea97cbc0aaba134d5088de44b5b61&txTime=68e6dc9d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1759942222-0-0-0401e558908a8d63678af086012204aa"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1759942222-0-0-72d6048d11e31e0acc8ebffe78a93de7"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://stream-flv.dfsfe.top/lives/406865-720p.m3u8"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://stream-flv.dfsfe.top/lives/406865-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "300437",
       "match_time": "1759939200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Central African Republic",
       "home_img": "https://sta.vnres.co/file/common/20251005/9799eb3879db375f78ddd731c47b6a69.png",
       "away_name": "Ghana",
       "away_img": "https://sta.vnres.co/file/common/20251005/6c978ee49a6dcb689ca0e09322bdaa18.png",
       "league": "World Cup qualification (CAF)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1759942221-0-0-6421b45f044433947bb72272d2544568"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1759942221-0-0-94dfb000aae27147da48c957953e25dc"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1759942221-0-0-640452780ea6956dbc16e02c1bc1c1ec"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1759942221-0-0-efa463a4d614037225bcccd505319150"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1759942221-0-0-e9971fdaefcdc87cd6da673eef5d5f2f"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1759942221-0-0-23f1d5e3249d0aa8b04f47d56541a295"
+        }
+      ]
     },
     {
       "id": "300438",
       "match_time": "1759939200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Chad",
       "home_img": "https://sta.vnres.co/file/common/20251005/9d5506a928bea9b3bf27ab28717b0f33.png",
       "away_name": "Mali",
       "away_img": "https://sta.vnres.co/file/common/20251005/69d14e6d0a03b3b44f24890d4b7c8e58.png",
       "league": "World Cup qualification (CAF)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=24b27b8399b79d63a8dcfcbca1dc29a7&txTime=68e6dc9d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=d9a79d14ced0a39c5e6cc6189df9d3f1&txTime=68e6dc9d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1759942221-0-0-3a5104c532ef1d7ef4342e8073cc4f91"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1759942221-0-0-9b6b3ef28c689e73a2c741f6be77dd0e"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1759942221-0-0-564583024eefdfd066cbc0eb57cd89f1"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1759942221-0-0-7c4b6ebb25aea7f0a55593aa0ecf3540"
+        }
+      ]
     },
     {
       "id": "300439",
       "match_time": "1759939200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Comoros",
       "home_img": "https://sta.vnres.co/file/common/20251005/672f9c3b6d136252a7d13a8c9c553f71.png",
       "away_name": "Madagascar",
       "away_img": "https://sta.vnres.co/file/common/20251005/5a32eaf390d0de0fb75bf9ec7d27d4f2.png",
       "league": "World Cup qualification (CAF)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=6932cb38b07c61792c8bb43445fc6d5d&txTime=68e6dc9d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=ef28d49ba183e9c148779910662b07c1&txTime=68e6dc9d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1759942221-0-0-4bc52dff4cd3e65ed45a3ee6ce8bf3f5"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1759942221-0-0-f2d2a4500f0decce93f4e9dfdc7e6df8"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-532257_lhd.m3u8?txSecret=f7ca7ad92f39d3afd14548e1063cb2d9&txTime=68e6dc9d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-532257_lsd.m3u8?txSecret=04515e1bdb200f7d62077294ef0d1db2&txTime=68e6dc9d"
+        }
+      ]
     },
     {
       "id": "300440",
