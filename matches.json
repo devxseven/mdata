@@ -12,40 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1760001321-0-0-2df514492186158f464a49c998bc1c32"
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1760001621-0-0-18629adffb1932825109007f71c296b6"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1760001321-0-0-8b1f804c92d323c852ab0c2f8df66291"
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1760001621-0-0-cfce704c226d4079c9cee46361ba7bb4"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=7999b455ee026ca6493af8aab2a8d535&txTime=68e7c379"
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=1388f3ebcd10500a857e0b53e1d6d96b&txTime=68e7c4a5"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=223e7d26a3e734c80464c23bc053c5ab&txTime=68e7c379"
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=ca59c3a941c70f60afc1f51e22e7f822&txTime=68e7c4a5"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1760001321-0-0-197212c1b1cdf3b8bd7117dc539ecf8d"
+          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1760001621-0-0-f5cece2a6e407c7ae4a62bc8e6670252"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1760001321-0-0-737ee1127aebe0a8aeab081dc3de8124"
+          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1760001621-0-0-8a1a107149445db0f9d41efd758d80fc"
         }
       ]
     },
     {
       "id": "300555",
       "match_time": "1759998600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Adelaide 36ers",
       "home_img": "https://sta.vnres.co/file/common/20251007/dca7dad0966c1b29143ddd6103c7ae10.png",
       "away_name": "Tasmania JackJumpers",
       "away_img": "https://sta.vnres.co/file/common/20251007/8f806c88c079c5c7083db96d4b614fb6.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760001621-0-0-20c946cf8ec200829d88dcb2cc0188b5"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760001621-0-0-ee7199383e5ef05f9ee65209d6dd8b29"
+        }
+      ]
     },
     {
       "id": "300468",
