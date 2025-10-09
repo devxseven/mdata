@@ -3,13 +3,38 @@
     {
       "id": "300554",
       "match_time": "1759986000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Suwon KT Sonicboom",
       "home_img": "https://sta.vnres.co/file/common/20251007/ed3d433a8cabaf750e1251a505cba97d.png",
       "away_name": "Seoul Samsung Thunders",
       "away_img": "https://sta.vnres.co/file/common/20251007/5f615a6abb0a843e347b7c1647bb74c0.png",
       "league": "KBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1759989021-0-0-d63c9ce62fe796147666812f49c25999"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1759989021-0-0-f6e610ce2a882ad59c1cf83768814034"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=a8ada65322745fdc55be2e4ad9e17053&txTime=68e7936d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=626e995a58242e0dc54173391bf53317&txTime=68e7936d"
+        }
+      ]
     },
     {
       "id": "300473",
