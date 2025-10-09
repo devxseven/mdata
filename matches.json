@@ -3,24 +3,66 @@
     {
       "id": "300509",
       "match_time": "1760047200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Ferroviaria SP",
       "home_img": "https://sta.vnres.co/file/common/20251007/196c7cc86ce15e0372d1dcd48ca39585.png",
       "away_name": "Chapecoense SC",
       "away_img": "https://sta.vnres.co/file/common/20251007/fab994131ad01f2759b8163a21cb1ad1.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1759981700-0-0-38ea9c0f6f677fc43792bc7566dcbf6d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1759981700-0-0-69e6ee1546c4b3c07fb86d40a00b196c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1760050221-0-0-003eaddf8fca822318e0f37b2848fa8e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1760050221-0-0-2949dc6a3b2249b3da1e7174b5723b39"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1760050221-0-0-df3bba5970dd618b1a9e402c3ec1aad8"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1760050221-0-0-001efc29c6bb680f208c2902bd570299"
+        }
+      ]
     },
     {
       "id": "300510",
       "match_time": "1760047200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "San Antonio(ECU)",
       "home_img": "https://sta.vnres.co/file/common/20251007/25bd2dafc754066f8109408f7adfe4d6.png",
       "away_name": "Liga Dep Universitaria Quito",
       "away_img": "https://sta.vnres.co/file/common/20251007/a02fc27fb1b8085a16c7534735c91113.png",
       "league": "ECU Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1760050221-0-0-6a08ca2b9b44ebb249fb4f156bd5181c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1760050221-0-0-43aae04d1a5cc435e694960b5f701d4f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=e24cbc8c588a0bc0a6544e45484dab5b&txTime=68e8827d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=c34546daaeeb287ae3dc7edd5989a99d&txTime=68e8827d"
+        }
+      ]
     },
     {
       "id": "300689",
