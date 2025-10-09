@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=44b3386e4dd62a28b842332a37b725ab&txTime=68e82cf1"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=0d35090e11f3ca1bfd6acd51485360a9&txTime=68e82e1d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=36e3e7ef0e2c34ac33dbbfb299e7ead3&txTime=68e82cf1"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=44f604cad52267b62b8e8ef1d80d5b13&txTime=68e82e1d"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1760028321-0-0-c70e3f2e716ec15468eedc126eca1fdd"
+          "url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1760028621-0-0-dd944abe74a81a1f99c8788a226d68be"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1760028321-0-0-dd55c591e99455abb990016c66f3ee9e"
+          "url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1760028621-0-0-9914b39c6e6fdda1b679529489c04356"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=5fbf582d95ccc5b9225df818a4071605&txTime=68e82cf1"
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ec713719c22cf00f6d1b93fd20acd0d7&txTime=68e82e1d"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=d6bb1e5f98950651825cf74339266a3a&txTime=68e82cf1"
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=aa592a1df57f1c1b22b778ceb88a69d6&txTime=68e82e1d"
         }
       ]
     },
@@ -48,90 +48,233 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=405cea895a6cec11c0a68e6badc3d00f&txTime=68e82cf1"
+          "url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=215bab06394e9de0313e3896fc27f819&txTime=68e82e1d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=7ba1f174decf1016bba653a850c00871&txTime=68e82cf1"
+          "url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=8e3c26a85b2ae3c20b32a724bb44f82c&txTime=68e82e1d"
         }
       ]
     },
     {
       "id": "300480",
       "match_time": "1760025600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Botswana",
       "home_img": "https://sta.vnres.co/file/common/20251006/4e914276bc47f07ea6193d04eee3d51f.png",
       "away_name": "Uganda",
       "away_img": "https://sta.vnres.co/file/common/20251006/40cca703c510f56ae5b88e6e8bf01e18.png",
       "league": "World Cup qualification (CAF)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1760028621-0-0-5749cc3cfb412c9fa9fedb8f9bd523dd"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1760028621-0-0-d7a1cf8998567232edad7426caa770e3"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1760028621-0-0-1d135d6eefda33c0e0d80bcb974a0069"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1760028621-0-0-739023ba1ff83f26f3f1a476522e1c5c"
+        }
+      ]
     },
     {
       "id": "300481",
       "match_time": "1760025600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Mozambique",
       "home_img": "https://sta.vnres.co/file/common/20251006/cfa6f65358a928ddfa53230a229f52b8.png",
       "away_name": "Guinea",
       "away_img": "https://sta.vnres.co/file/common/20251006/731db1c8b8b96a2aedfaaf7276307977.png",
       "league": "World Cup qualification (CAF)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1760028621-0-0-df586028318b8b5d1d9591bc7c4b6db1"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1760028621-0-0-a4cd9205ebf045c99fa101e871eaa1d3"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1760028621-0-0-62123fbeb2bad61b782544af0a21aa9a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1760028621-0-0-0b3769fcd34c274338afa8bd14c966f9"
+        }
+      ]
     },
     {
       "id": "300482",
       "match_time": "1760025600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Somalia",
       "home_img": "https://sta.vnres.co/file/common/20251006/9ecc1cd429a3d2d440bd0dd2ce1311ea.png",
       "away_name": "Algeria",
       "away_img": "https://sta.vnres.co/file/common/20251006/10af17e8924742ed9aa6b51e8a16a173.png",
       "league": "World Cup qualification (CAF)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=78d8133ac65fabe1a5d8ff1b38b2a34d&txTime=68e82e1d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=462e50de7e8c574a4898f0f2e197df3f&txTime=68e82e1d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1760028621-0-0-a67a50292745291676b5273f36f65a9e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1760028621-0-0-5b0a3db4dc8b687227b931db767df2e3"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-532257_lhd.m3u8?txSecret=e2cb3cd6cae2a79b2f99f56913fa59b1&txTime=68e82e1d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-532257_lsd.m3u8?txSecret=2bae85cd629b7734dcfa1ccd6b18c77b&txTime=68e82e1d"
+        }
+      ]
     },
     {
       "id": "300483",
       "match_time": "1760025600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Liberia",
       "home_img": "https://sta.vnres.co/file/common/20251008/c569fc2855429fa9190e793818f0d92d.png",
       "away_name": "Namibia",
       "away_img": "https://sta.vnres.co/file/common/20251006/31a0f4c870e7ce0565a3e8691dd12355.png",
       "league": "World Cup qualification (CAF)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=d799aa9ee53fd17e079074b7f7188afd&txTime=68e82e1d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=6bfc5d08c4f42d830a07731eafc598a5&txTime=68e82e1d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1760028621-0-0-631d7a33f8e221a82920062ee60d6001"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1760028621-0-0-966bfc0ec69d70e2ca9ac33e498b8a51"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1759962421-0-0-810fab2e0dbff861a5eb429348b4c119"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1759962421-0-0-24fd8c75a12dc72f30ace3e679ba3a94"
+        }
+      ]
     },
     {
       "id": "300485",
       "match_time": "1760025600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Lebanon",
       "home_img": "https://sta.vnres.co/file/common/20251006/d3672c7d20728d3e944d2712817d53f4.png",
       "away_name": "Bhutan",
       "away_img": "https://sta.vnres.co/file/common/20251006/c1afa899527e8988c94042959d4d0e06.png",
       "league": "ASIAN CUP",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1760028621-0-0-aeec81b7cd64c4ff3c79e36f977ac1df"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1760028621-0-0-fd8bb5c6ba6a8af79bd6d014ec38a836"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1760028621-0-0-de7bec9efa0bed3b4474c3de2a019e22"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1760028621-0-0-57026f8f45b44e34cb1f03d57771bb25"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912092_lhd.m3u8?auth_key=1760028621-0-0-c757a7de33d9ba5122d735ba4a494a3f"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912092_lsd.m3u8?auth_key=1760028621-0-0-c1363405dcc1f513d051a6c5396211ca"
+        }
+      ]
     },
     {
       "id": "300486",
       "match_time": "1760025600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Finland",
       "home_img": "https://sta.vnres.co/file/common/20251006/85c21cb293dab6a6bcb40b6a0cb6f8d5.png",
       "away_name": "Lithuania",
       "away_img": "https://sta.vnres.co/file/common/20251006/c8baf4a493962a81d85ef89fc3032327.png",
       "league": "World Cup qualification (UEFA)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=068e53326148c7fe5f2ef0fe52628881&txTime=68e82e1d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=73b6d0c981076214a8a3775f9003e461&txTime=68e82e1d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=a7fbef8adaddfdf647dd6ecdafc33ac4&txTime=68e82e1d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=cb6240b063f240824ccf286efd37bfb1&txTime=68e82e1d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=36de25d5bd00e9afcf9edcb44123330e&txTime=68e82e1d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=38f2410c8f13b91d60b5807680ae5f16&txTime=68e82e1d"
+        }
+      ]
     },
     {
       "id": "300557",
       "match_time": "1760025600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "BC Nizhny Novgorod",
       "home_img": "https://sta.vnres.co/file/common/20251007/ce2cd0305639beaf0b0f15095402248a.png",
       "away_name": "MBA Moscow",
       "away_img": "https://sta.vnres.co/file/common/20251007/0f4ef30acfc18c801879de3dddd0512b.png",
       "league": "VTBUL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-539752_lhd.m3u8?auth_key=1760028621-0-0-8baf852ac0cc273bc51db9eb6f4abe4c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-539752_lsd.m3u8?auth_key=1760028621-0-0-baeeb0f8fb4949df1a198cfb10a68e7b"
+        }
+      ]
     },
     {
       "id": "300487",
