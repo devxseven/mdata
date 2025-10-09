@@ -3,13 +3,38 @@
     {
       "id": "300473",
       "match_time": "1759996800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Brunei Darussalam",
       "home_img": "https://sta.vnres.co/file/common/20251006/2021c2f39209338a2277b3e910b42497.png",
       "away_name": "Yemen",
       "away_img": "https://sta.vnres.co/file/common/20251006/32b1c2a5c7f8c7f3a5f1b8e009fd7755.png",
       "league": "ASIAN CUP",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1759999821-0-0-01634d3c84c5ea4f23a49dbbc2342759"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1759999821-0-0-f7cb8a0b745bc3dea699e2768ce43392"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=31612b54e08762a03c4e0ffb6d25b700&txTime=68e7bd9d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=08d344174f1c95f3cef431642600b2a3&txTime=68e7bd9d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1759999821-0-0-060e453470df29209e9c5b65206c154a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1759999821-0-0-62000d95ac120b2a0516f83798d0d3da"
+        }
+      ]
     },
     {
       "id": "300555",
