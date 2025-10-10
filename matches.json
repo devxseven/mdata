@@ -3,13 +3,38 @@
     {
       "id": "300574",
       "match_time": "1760130000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Suriname",
       "home_img": "https://sta.vnres.co/file/common/20251007/c582dbf7a2cd74eceec5171203f759e8.png",
       "away_name": "Guatemala",
       "away_img": "https://sta.vnres.co/file/common/20251007/c7aa9a30d44d931f0192ae8ef104195d.png",
       "league": "World Cup qualification (CONCACAF)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1760133021-0-0-8add5e23a7de075af2beaa19a020cb4a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1760133021-0-0-330e38d078506c83a3005c3c6983fc24"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1760133021-0-0-4d60582cf529a64bf3168a33c7b3dc4a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1760133021-0-0-4832f8455ae60a2690296d76d955f5e8"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1760133021-0-0-cd6035bc0600cb4c5a45d4f6c97762b3"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1760133021-0-0-4e825cc1052a52d8b6efec62c78d7d6b"
+        }
+      ]
     },
     {
       "id": "300575",
