@@ -3,13 +3,22 @@
     {
       "id": "300695",
       "match_time": "1760077800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Mainland Pouakai W",
       "home_img": "https://sta.vnres.co/file/common/20251009/d60cf190cb4121909edd7e8d65ed632b.png",
       "away_name": "Mid-North Whai W",
       "away_img": "https://sta.vnres.co/file/common/20251009/47c23e2bbea11c630d90d00a997165f1.png",
       "league": "WNZT",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760080821-0-0-6ee195d6227761b1ecab779e623ae672"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760080821-0-0-d3d697dde267e79193b129aaaee77af3"
+        }
+      ]
     },
     {
       "id": "300518",
