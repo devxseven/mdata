@@ -12,24 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760085921-0-0-032689b922b079b3ce3ce0918f779d81"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760086221-0-0-5b14f233b0aa5557ca5b4482f8c3bab0"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760085921-0-0-1c6d205d2aecc3d5cbea75ffa1090476"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760086221-0-0-2376bad4c06d3cc617d2859bacf81d6d"
         }
       ]
     },
     {
       "id": "300518",
       "match_time": "1760083200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "South Melbourne",
       "home_img": "https://sta.vnres.co/file/common/20251007/7ecbe92d67ff2e6362f3b9700af0afdf.png",
       "away_name": "Sydney Olympic",
       "away_img": "https://sta.vnres.co/file/common/20251007/6944e23648b74243ac33603d71329fcd.png",
       "league": "AUS CH",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=2263532a6d9c2f895361c94222be37e5&txTime=68e90f1d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=f4af9500e92ac88a022578ffc553e932&txTime=68e90f1d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=38d790ef68629613d29690690fce5de5&txTime=68e90f1d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=acaea96c24ed1f9dcfc65abb864098eb&txTime=68e90f1d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=6bd737d3e64b8435c548a8abe4afc732&txTime=68e90f1d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=f4075acb4e45ae47ab79cc927d87dd06&txTime=68e90f1d"
+        }
+      ]
     },
     {
       "id": "300519",
