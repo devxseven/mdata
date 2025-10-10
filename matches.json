@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760087721-0-0-23a7e76e8b7fd9964bce051b8ffdf4ed"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760088021-0-0-9a231c325b6eaf967feae7c6d303dfc2"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760087721-0-0-6064df84f4eaf09f1fced16f46a34fbc"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760088021-0-0-92752cee960374e44970dc4f81c5c913"
         }
       ]
     },
@@ -32,51 +32,93 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=3ec9a65d34966e3ba8f89a88be8b51ef&txTime=68e914f9"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=46543a59bbba10ea630eb66a427fcf66&txTime=68e91625"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=3d055b5b5af95783f2fd798f77ff1edd&txTime=68e914f9"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=fc76721a23f3abfd74fc1de2066554dd&txTime=68e91625"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=833ad948877a601c724e193efa8053eb&txTime=68e914f9"
+          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=807af36eb16ef655d4e08512f5a05a34&txTime=68e91625"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=5808b3f1b84b3f583818958fdb73b759&txTime=68e914f9"
+          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=926c19acc1e19d6597e552519ccc1f9a&txTime=68e91625"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=6d83699346f90cdd24d4bd3bcb2aa033&txTime=68e914f9"
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=b458b5745b7b981ed3b69679cc2277c2&txTime=68e91625"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=7fa586dbeb70869903d418320f6adf28&txTime=68e914f9"
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=380cba52dbe382d064460d3b6c87ee92&txTime=68e91625"
         }
       ]
     },
     {
       "id": "300519",
       "match_time": "1760085000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Pekanbaru United",
       "home_img": "https://sta.vnres.co/file/common/20251007/99b58664f09482566cefa8914ee5b485.png",
       "away_name": "Sriwijaya FC",
       "away_img": "https://sta.vnres.co/file/common/20251007/1ef42d78a70dcb51963e442403524f95.png",
       "league": "IDN D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=ab6177daf37cae8211b878031adab9a0&txTime=68e91625"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=dbf588e030ddcf5d7dab18c4142ffd4e&txTime=68e91625"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1760088021-0-0-e08372ed6b4503ac4ce3d637407f8a99"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1760088021-0-0-3a4c0b1913aca6b1b6691849a5b41d98"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1760088021-0-0-8a4aae108d08b5f64ccd45d2b332def7"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1760088021-0-0-8c189aca19bc8e901d752132b4085347"
+        }
+      ]
     },
     {
       "id": "300696",
       "match_time": "1760085000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Cairns Taipans",
       "home_img": "https://sta.vnres.co/file/common/20251009/e8049f515c2fc9bebc20d2b856340c59.png",
       "away_name": "Perth",
       "away_img": "https://sta.vnres.co/file/common/20251009/171a13945dba4f22e75f788d2ab23bbc.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760088021-0-0-9a231c325b6eaf967feae7c6d303dfc2"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760088021-0-0-92752cee960374e44970dc4f81c5c913"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=cf82c74d06916e485129635e8da770a8&txTime=68e91625"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=832f581b909d68e69f413d094b243fa8&txTime=68e91625"
+        }
+      ]
     },
     {
       "id": "300520",
