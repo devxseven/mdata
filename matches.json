@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=38c25d11cc4b458682204f2033e6cba3&txTime=68ed41b9"
+          "url": "https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=d7f7e232913f751b4630c4c91a735422&txTime=68ed42e5"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-519740_lsd.m3u8?txSecret=04122565ea68f6d91c915f13f18d4589&txTime=68ed41b9"
+          "url": "https://pull.niur.live/live/stream-519740_lsd.m3u8?txSecret=7d990bc0d008a038646ee4b677f52825&txTime=68ed42e5"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=fdb91f653d5036065d1b9530db711fcd&txTime=68ed41b9"
+          "url": "https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=9f21280f635c64027789c587997556cb&txTime=68ed42e5"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=edbc549227da4579fdfc7a53e5b039e6&txTime=68ed41b9"
+          "url": "https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=e625ede7331132323554a6847befe2de&txTime=68ed42e5"
         }
       ]
     },
@@ -40,32 +40,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1760361321-0-0-3edb6991a0280294d9f4110766876848"
+          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1760361621-0-0-57fff94e1a6efde297543c3e0ad4ddab"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1760361321-0-0-9903981bca224e081b64091185c7ae4b"
+          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1760361621-0-0-930f708905b956f8e9dd65c248ba7108"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1760361321-0-0-ea07ab13aa0ee48db14757a7ab64d533"
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1760361621-0-0-3c151938dfc771596a9d90ec8df90836"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1760361321-0-0-ae64e5c769fa5f1535b2ab5ac4b662e3"
+          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1760361621-0-0-088c7b5261df281899465e11ff58d77a"
         }
       ]
     },
     {
       "id": "300771",
       "match_time": "1760358600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Thailand U17 Women",
       "home_img": "https://sta.vnres.co/file/common/20251010/e22c50cd2fd0b0617af8894ee00900c7.png",
       "away_name": "Turkmenistan U17 Women",
       "away_img": "https://sta.vnres.co/file/common/20251010/7c0292e1f6965502a5fb40a774164db4.png",
       "league": "AFC WU17",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1760361621-0-0-c4319732cce3e7fd2efdd4a213b65a5b"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1760361621-0-0-da7330f7cd4fa708854f8cf2517000f1"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=7a7fec45db75909c00aa8b9e4d2776b1&txTime=68ed42e5"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=6dde4344c1d39d742790b4c3f0217a34&txTime=68ed42e5"
+        }
+      ]
     },
     {
       "id": "300775",
