@@ -3,13 +3,38 @@
     {
       "id": "300798",
       "match_time": "1760391000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "CA Platense",
       "home_img": "https://sta.vnres.co/file/common/20251011/79978bfbaf5b647afe8a6617af012fbc.png",
       "away_name": "Deportivo Riestra",
       "away_img": "https://sta.vnres.co/file/common/20251011/c675ca9917836e6a4503e8371821ea66.png",
       "league": "ARG D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1760394021-0-0-653cfb2de5758c870ee3f72c547c9a7e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1760394021-0-0-edf42e33928093cda6a76d97ebad9cb5"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1760394021-0-0-aed27c5228d8361899176a7588d9755f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1760394021-0-0-e450f274e2fe07474c6ee26e96c4b82a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1760394021-0-0-86f4dad87789b12f01da7f07a31d1cf5"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1760394021-0-0-209df1a298662cb4bde5e1e5744162ec"
+        }
+      ]
     },
     {
       "id": "300799",
