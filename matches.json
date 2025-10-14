@@ -3,24 +3,58 @@
     {
       "id": "300860",
       "match_time": "1760481000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Chapecoense SC",
       "home_img": "https://sta.vnres.co/file/common/20251012/38a98aeaee1a566e613b68391f7576f2.png",
       "away_name": "Botafogo SP",
       "away_img": "https://sta.vnres.co/file/common/20251012/d5bd8d37a4f054c07c8580190386e20d.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1760484022-0-0-52bb5e55994dd375bf5a3d7c43eca7ce"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1760484022-0-0-fc17cdb558461aee1f84923997259d7d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=f836974afe7b420b021420426a1401a4&txTime=68ef2106"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=558d564594e5ea957cc32cfe17279da2&txTime=68ef2106"
+        }
+      ]
     },
     {
       "id": "300861",
       "match_time": "1760481000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "SC Paysandu Para",
       "home_img": "https://sta.vnres.co/file/common/20251012/315cca6b6dff05ddae8af3d23d3c99fc.png",
       "away_name": "Remo Belem (PA)",
       "away_img": "https://sta.vnres.co/file/common/20251012/ce48dd74ef06e3833a25a54dd765a46e.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1760484022-0-0-c87efa855e42627f98ff8c39f1a0a7d3"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1760484022-0-0-52aaf4d6b6852da264fb87d43abed7d2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1760484022-0-0-71990c7944944595037021e2716d0d92"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1760484022-0-0-b8882f796789a5d47f23c5113245d105"
+        }
+      ]
     },
     {
       "id": "300862",
