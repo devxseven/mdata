@@ -3,24 +3,74 @@
     {
       "id": "300806",
       "match_time": "1760436000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Luxembourg U19",
       "home_img": "https://sta.vnres.co/file/common/20251011/fb01f107682a97dc51827eb235077f2c.png",
       "away_name": "Slovenia U19",
       "away_img": "https://sta.vnres.co/file/common/20251011/f1917b0496966b9ee6b0d3708ae67e59.png",
       "league": "UEFA U19",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1760439022-0-0-98b2e12de41f639da4008fecf010a8ab"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1760439022-0-0-2f5192a4d2dd2f477f2224a4798d21b2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1760439022-0-0-3d6e87f3b8266ac9fd17d1fb5a33cce9"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1760439022-0-0-bbf1172c00722a34f7f8246fd1d80d38"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1760439022-0-0-a059988de802ef336a820e84465d50e1"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1760439022-0-0-ee748eeb193e7c80f152f398e773fa75"
+        }
+      ]
     },
     {
       "id": "300899",
       "match_time": "1760436000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Mobis Phoebus",
       "home_img": "https://sta.vnres.co/file/common/20251013/5f9cba850c66bd6b38dcfbe1c8456769.png",
       "away_name": "KoGas",
       "away_img": "https://sta.vnres.co/file/common/20251013/1eb19b14a97effeddd637ba9f52e5fa5.png",
       "league": "KBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760439022-0-0-1b96b16809e6ae184c436ad491b500c5"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760439022-0-0-27e7c8951a1fd4ff6851477061f5e449"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1760439021-0-0-d1d67efc5d7f1c76e57487257c9cd05e"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1760439021-0-0-83b7c7a49743cb91dcac634e56e1547e"
+        }
+      ]
     },
     {
       "id": "300807",
