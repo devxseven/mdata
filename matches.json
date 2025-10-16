@@ -3,13 +3,30 @@
     {
       "id": "300960",
       "match_time": "1760650200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "General Caballero",
       "home_img": "https://sta.vnres.co/file/common/20251014/8a72802228ce4b49fc0d843f327f0219.png",
       "away_name": "Atlético Tembetary",
       "away_img": "https://sta.vnres.co/file/common/20251014/8a1127b4642796f54f83acbf9c53a7b6.png",
       "league": "PAR D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1760653222-0-0-cae29684d4997dae804e815fe2fac5cb"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1760653222-0-0-92d7d3cb9670b4338af8ceccba347b97"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1760653222-0-0-865b1d05af014aa88989c707dee14a35"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1760653222-0-0-a9356e0a7b6df26135bca6771f2710ea"
+        }
+      ]
     },
     {
       "id": "300961",
