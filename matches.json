@@ -3,13 +3,38 @@
     {
       "id": "301009",
       "match_time": "1760603400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Adelaide",
       "home_img": "https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",
       "away_name": "South East Melbourne",
       "away_img": "https://sta.vnres.co/file/common/20251014/5cba2138e127ca4d8938d626d0420da4.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760606422-0-0-1cd694a0744cba8065df53c747fc23d0"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760606422-0-0-062a5793c6871131e9972bb3c7635d81"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1760606422-0-0-26537b796a662c2ddb95bc03acbc4359"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1760606422-0-0-1192b64038063a6c491dd6c369dbfb5f"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=35e3b58e22a15070e8b6172a035ca41c&txTime=68f0ff26"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=56af23e9fa2dc077a24ebe592c53dd4f&txTime=68f0ff26"
+        }
+      ]
     },
     {
       "id": "300940",
