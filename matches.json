@@ -3,24 +3,58 @@
     {
       "id": "301183",
       "match_time": "1760682600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "New Zealand Breakers",
       "home_img": "https://sta.vnres.co/file/common/20251016/082aeb9601b1dac635a07f64f612537d.png",
       "away_name": "Tasmania JackJumpers",
       "away_img": "https://sta.vnres.co/file/common/20251016/494445c90cd02ee32fc319674856ec80.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1760685622-0-0-5410e12305b202a6e858c022a8beabc6"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1760685622-0-0-860030f0cfc693eea8dd75e22c4e7a77"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=50e500b3266809f87b6a735dcb2ab983&txTime=68f23486"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=d979bf1aa4252c84c0e43593b9a34421&txTime=68f23486"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760685622-0-0-3245c06bb06d467d951d950a17a1b563"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760685622-0-0-d985f7ca282a1c33ff661a00fc8a3b62"
+        }
+      ]
     },
     {
       "id": "301184",
       "match_time": "1760682600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Tokomanawa Queens W",
       "home_img": "https://sta.vnres.co/file/common/20251016/e9e7bf58fdeec33f8b6f9077cd49dfc0.png",
       "away_name": "Northern Kahu W",
       "away_img": "https://sta.vnres.co/file/common/20251016/1189a96889323ffe1f3503c2eb08e51d.png",
       "league": "WNZT",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1760685622-0-0-8e522f8e6cae406f4fc0858d1c9bdab3"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1760685622-0-0-dfc55535ffc58e072defce5738d7ed5f"
+        }
+      ]
     },
     {
       "id": "300971",
