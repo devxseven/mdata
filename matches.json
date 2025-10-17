@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1760690722-0-0-5835327cc9f216bb32a6f2d5ba2480e9"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1760691022-0-0-9e04b9aceda1dae6a20cb19a8eec40ee"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1760690722-0-0-310c33159ccd368c9424eefeb4624fc7"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1760691022-0-0-a94652c8352b26d62014b32e2b63fcdb"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=77e7d6093265d1f828ca1a7c71cdd0bc&txTime=68f24872"
+          "url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=87eadfbd814001a72aba0898ff4bc68d&txTime=68f2499e"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=42c6472e84204cb939cbbb1a1c8ab634&txTime=68f24872"
+          "url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=35c7a785e51e360daa978e2dde8e8cdd&txTime=68f2499e"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760690722-0-0-57175af632c4eeab35bbafa3ca4bc250"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760691022-0-0-a3a1c34c0590620953a11dfeeb31e3be"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760690722-0-0-32a1734730384e0bf73cba6df3393ecf"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760691022-0-0-fb375a389d16fe926b27102cf3349f8e"
         }
       ]
     },
@@ -48,24 +48,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1760690722-0-0-be3552d8c179df4f8ece5924a1e0dba0"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1760691022-0-0-d0eb419e914e6de721fc05929abaeb30"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1760690722-0-0-b259ee3f10f36081076d9429d8db2465"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1760691022-0-0-0d9c2d2d3359c1312cd40c0d67b2c0d9"
         }
       ]
     },
     {
       "id": "300971",
       "match_time": "1760688000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Adelaide United",
       "home_img": "https://sta.vnres.co/file/common/20251014/4827ff574520c0bced60211a8fe34849.png",
       "away_name": "Sydney FC",
       "away_img": "https://sta.vnres.co/file/common/20251014/82bf4d56b9d0f96492d95ac80f3b8f6d.png",
       "league": "AUS D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1760691022-0-0-c818d2ab125236262989de19ace7c1d1"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1760691022-0-0-12c0bc1c1d981d2cab9fec58dd7770b3"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1760691022-0-0-96fc53b86b99b91aa2910e49c79ffa5e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1760691022-0-0-19e193f206d1394243b3e2e59dcafd6d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1cf7303823e364039f296a281d9e6ecf&txTime=68f2499e"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=a5e556d584105d76267bb994139d1796&txTime=68f2499e"
+        }
+      ]
     },
     {
       "id": "300972",
