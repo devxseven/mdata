@@ -12,32 +12,41 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1760825722-0-0-f2e420e841831a7ae5abda32a95059e5"
+          "url": "https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1760826022-0-0-2df50e0e773f861f9721000e7bf60fc1"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1760825722-0-0-05bdc1be8667d1a13128e9f40847293a"
+          "url": "https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1760826022-0-0-d53b8f776bc10ca66eeb148927795cd0"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1760825722-0-0-fed55982df0a6d050f325df2cc97d871"
+          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1760826022-0-0-17f09c4af8ab012fd74fbdd39a3487f2"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1760825722-0-0-8186063cacc4e4ab8ad1cc69c41734b7"
+          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1760826022-0-0-cd149b3c66ce46ba21606effa06e624f"
         }
       ]
     },
     {
       "id": "301110",
       "match_time": "1760823000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Corinthians Paulista (SP)",
       "home_img": "https://sta.vnres.co/file/common/20251015/71fd56e4d3fcb9a59ff1fcab29544355.png",
       "away_name": "Atletico Mineiro",
       "away_img": "https://sta.vnres.co/file/common/20251015/5f665bddaac5a2f4e5cf9ed6e10ef30c.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=054374865f2604ad06067a9b305e5535&txTime=68f458f6"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=30c6866bdaf79ca5138d65b04d4a475b&txTime=68f458f6"
+        }
+      ]
     },
     {
       "id": "301111",
