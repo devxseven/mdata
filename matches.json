@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=6a71f4261e4892527b08ec6876cef134&txTime=68f7ca36"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=565cb61e9719a7d5af345cacb8267d73&txTime=68f7cb62"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=df84dd26eeae4d09210c0e4ff3a951fc&txTime=68f7ca36"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=2410ad65c3e77556c45f0df675a19910&txTime=68f7cb62"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=6ffd64109a607107a9cdf56478d48017&txTime=68f7ca36"
+          "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=bc5ef0e3b2730c4446389018851b5254&txTime=68f7ca87"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=f38368959988e0f06b4cbb81a74af22e&txTime=68f7ca36"
+          "url": "https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=f39cccf213d117920c63adb5a4fa08cb&txTime=68f7ca87"
         }
       ]
     },
@@ -40,27 +40,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=29ce3c1c84c876ac04dcd2fe604a900e&txTime=68f7ca37"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=81470d1b0844b6621053731e0a9ca209&txTime=68f7cb62"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=d7de3c3fcf9f4306b9cb8441a2ef93ad&txTime=68f7ca37"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=4638898a03434b186191102e85342208&txTime=68f7cb62"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=438759f36e90ba57cddf5a28aa707abe&txTime=68f7ca37"
+          "url": "https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=00fd4244a55833564a8daf5154b511e0&txTime=68f7cb62"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=c6fd39d60c6e76baf89cdd67634adbd6&txTime=68f7ca37"
+          "url": "https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=6bfedb7f203d112fa75bde4c1039554b&txTime=68f7cb62"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=03cece020a276d9d3001ec33f48964cb&txTime=68f7ca36"
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=a09eddf2d7ac4dd4b4162ba5afa4651f&txTime=68f7cb62"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=a79cb171600785da7b9577ab832cfcda&txTime=68f7ca36"
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=9272a9536d2a94bab9057e283a68bd1e&txTime=68f7cb62"
         }
       ]
     },
@@ -76,24 +76,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761051623-0-0-3a562fd5cf630e258f16ea9814ed06b8"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761051922-0-0-fda5caf1dcf8e849f2726c7d6b500823"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761051623-0-0-068503886b114d26c843ffe18b6e7898"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761051922-0-0-8f3a83e903665bee090aaef8d19299a4"
         }
       ]
     },
     {
       "id": "301283",
       "match_time": "1761048900",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Shanghai Port FC",
       "home_img": "https://sta.vnres.co/file/common/20251018/e4d7a6519368a793ce345e7613f91e18.png",
       "away_name": "Machida Zelvia",
       "away_img": "https://sta.vnres.co/file/common/20251018/20e1fb16a4a2eace284a0ff9b615f699.png",
       "league": "AFC Champions League Elite",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=c4a01ec075855d376603c0ead0fb26e4&txTime=68f7cb62"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=766eb37e4fd8c17f63197b3ad65b9b04&txTime=68f7cb62"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=f1531799c834a597ceadd0c899f8889b&txTime=68f7cb62"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=a8b188d07b2200131036c2d3cd974ca5&txTime=68f7cb62"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1761051922-0-0-42af20b522e024d7641a234bf3a47d63"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1761051922-0-0-6207bca1019257bd3b1987f9b99c0b57"
+        }
+      ]
     },
     {
       "id": "301284",
