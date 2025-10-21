@@ -3,13 +3,38 @@
     {
       "id": "301276",
       "match_time": "1761032700",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Melbourne City",
       "home_img": "https://sta.vnres.co/file/common/20251018/3b16c70f204317a3b5cc5da2a132d119.png",
       "away_name": "Buriram United",
       "away_img": "https://sta.vnres.co/file/common/20251018/b4d1cd2df1bedde825c6bba5e0eae8e9.png",
       "league": "AFC Champions League Elite",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1761035722-0-0-756607c15e2cc528eecfb20e1b263288"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1761035722-0-0-3a21bdc05f986e2868e5340f91c3c3b6"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1761035722-0-0-11c4b42cb2454b5b0a848d78e8c7c47e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1761035722-0-0-1478f50268221aa11f3ad42ab521a45c"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=21ca5497d904398ff161425fd2aee2b6&txTime=68f78c1a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=52a960450e2360522c72fd9363f5f954&txTime=68f78c1a"
+        }
+      ]
     },
     {
       "id": "301277",
