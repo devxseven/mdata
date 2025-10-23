@@ -12,24 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=1757e0b3e0a7b25747280991ed82334d&txTime=68fa1c5b"
+          "url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=536dbe506df6db89092df5e00f1c2be8&txTime=68fa1d87"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=1963aa16971129d8a41088fdcf7951f6&txTime=68fa1c5b"
+          "url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=b8aa33e3f102830e1793b9141e4626a5&txTime=68fa1d87"
         }
       ]
     },
     {
       "id": "301493",
       "match_time": "1761201000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "New Zealand Breakers",
       "home_img": "https://sta.vnres.co/file/common/20251021/cd2a95a2734024f1849eb681dc5a00fe.png",
       "away_name": "Brisbane Bullets",
       "away_img": "https://sta.vnres.co/file/common/20251021/4a9dc320b6db1187a28811742bfbde7c.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1761204023-0-0-7f858ca7b99aceebc71b9eeeec49a5f3"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1761204023-0-0-f9d30a4b87c8d4527ee82e6509bfdd6f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1761204022-0-0-a8639f1b6b7eeca1a6a6c2acc916cd1f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1761204022-0-0-805de98b7da9536792bdf3da9b484565"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761204023-0-0-68c0dccfb5ca0e7696ab51ffe1d2cd14"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761204023-0-0-4ebe8dc7648e5ed30271faa218a452e0"
+        }
+      ]
     },
     {
       "id": "301494",
