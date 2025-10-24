@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1761345923-0-0-e117f0d405c1ed090cd430932b10a1a8"
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1761346223-0-0-be817764d8deaa0fba36275200c479ca"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1761345923-0-0-da8f82ae7d84b98d927df994d3d92a53"
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1761346223-0-0-016cd8538ff44d499add069ecef4b404"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=1fdc55052a1dfa7c03bed768e5cd7b27&txTime=68fc47d3"
+          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=e77a1d609ec67d186935bd153b03aa61&txTime=68fc48ff"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=b813f3dff152616b51c40b50010b0a46&txTime=68fc47d3"
+          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=f3d9587c8007bb52b6e6d37b7dad73d4&txTime=68fc48ff"
         }
       ]
     },
@@ -40,32 +40,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1761345923-0-0-6b8676ac4f5fed7aa20375f7a188907f"
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1761346223-0-0-a7493722778e2fab2a34cbfd64a074df"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1761345923-0-0-d23e3ed1948854137405a5504f2f5adf"
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1761346223-0-0-6cc21b460e39d8198fe7925ddcff5b7c"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1761345923-0-0-d89f77796546e984b9692eb9a87020bc"
+          "url": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1761346223-0-0-594f0f886f63622385c8d4d7893b6fcc"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1761345923-0-0-76ed42a89b3d55d783b443c2ff1a8b60"
+          "url": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1761346223-0-0-6436c1894475b2b3a6646fe612aa4cbc"
         }
       ]
     },
     {
       "id": "301513",
       "match_time": "1761343200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Gremio Novorizontino",
       "home_img": "https://sta.vnres.co/file/common/20251022/9027b601462ff91ee35caf0d5089cd8a.png",
       "away_name": "Botafogo SP",
       "away_img": "https://sta.vnres.co/file/common/20251022/7892f4d1154e81d604d0e9c22130348e.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=47d62082607e7fb4c7db5ef7521f59ac&txTime=68fc48ff"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=27d786372b61694c4a7d2e7aa0278794&txTime=68fc48ff"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1761346223-0-0-cd992f0a549fc7bf357ed83da4f081a8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1761346223-0-0-01efbe02725e73fbc811f5fe270edfdf"
+        }
+      ]
     },
     {
       "id": "301656",
