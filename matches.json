@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=0b8030d33ff5053762dd3a7d3eda495b&txTime=68ff8583"
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=450fbc0e3280d5001651a7fcd602f5c3&txTime=68ff86af"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=07404510c170f684596f53d1e638a059&txTime=68ff8583"
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=99732c36f83ca9cd979ef2f349f956d5&txTime=68ff86af"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1761558323-0-0-715964cd0ab42efb40eb87c3e88a357b"
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1761558623-0-0-c83e09e7029c7c4a0d8787a8a241d3c5"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1761558323-0-0-8efebb3b1542bacdac65d5c7fcacf96c"
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1761558623-0-0-c23600922681f8247c032d5cc4a4b1aa"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1761558323-0-0-6e63a70fc4fbc0a503dad3dd17117ed6"
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1761558623-0-0-24ebd7dc7022885f2afece4ad6f89843"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1761558323-0-0-6725838ce028fceaa4f8c4330eff5e17"
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1761558623-0-0-a1c815855cdeb70c37422e1171aa6a18"
         }
       ]
     },
@@ -48,51 +48,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1761558323-0-0-7378e7deeb9d3fe979fd31363c8b89fd"
+          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1761558623-0-0-243fe3408c2dd3b71e12a5874173717d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1761558323-0-0-89ddb1ff4f06f3a5eb6ae4b97c301690"
+          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1761558623-0-0-ed3612ed929a2edc35829fdccf1b785e"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1761558323-0-0-1ef5af68d6a50a8386355324e7bc240e"
+          "url": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1761558623-0-0-4c09b5dcdcbffed3792473ab8a0f6355"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1761558323-0-0-12a9c165084487ddfce867fcd4f95775"
+          "url": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1761558623-0-0-d60c40a768b3942d0553db919491a4e2"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=73190917c58327d0fe5cd4e620baac2e&txTime=68ff8583"
+          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=657c80e506f83009e208cda5265352a5&txTime=68ff86af"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=05ff812dcd55346c0af1c2e0441c26f5&txTime=68ff8583"
+          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=5e3ed23ff0de274c4ea89bed9fcc5f72&txTime=68ff86af"
         }
       ]
     },
     {
       "id": "301705",
       "match_time": "1761555600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Dagon Star United",
       "home_img": "https://sta.vnres.co/file/common/20251024/54cc4a4c35c29c81ec41923cb3909841.png",
       "away_name": "Mahar United",
       "away_img": "https://sta.vnres.co/file/common/20251024/ecdfdc15c263719e8531edd66f8c924c.png",
       "league": "MYA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=fd9af5069066d3cec80e4eafdba23019&txTime=68ff86af"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=62bc32b0a0104a82ec136b300808070a&txTime=68ff86af"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=07be7157de145eb14fb65b13cd7aeb39&txTime=68ff86af"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=6d75dd96b45689b92b53e0f8f670eaf7&txTime=68ff86af"
+        }
+      ]
     },
     {
       "id": "301706",
       "match_time": "1761555600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Rakhine United FC",
       "home_img": "https://sta.vnres.co/file/common/20251024/583eed2a7690c8a4b102cbb1a550bca7.png",
       "away_name": "Dagon Port",
       "away_img": "https://sta.vnres.co/file/common/20251024/2b72acfc74c23f65251912c47749c03d.png",
       "league": "MYA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1761558623-0-0-3c0b3a7ff6bb027c39cf93b4c931a0d4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1761558623-0-0-dac1e17dba38877ebea4711a01b71e97"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=4386b967a6bd0a69ff62407ac4c8fd7d&txTime=68ff86af"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=ecc52953c2c3ae84fb7942f50efd91f8&txTime=68ff86af"
+        }
+      ]
     },
     {
       "id": "301707",
