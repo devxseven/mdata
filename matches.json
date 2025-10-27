@@ -3,13 +3,38 @@
     {
       "id": "301703",
       "match_time": "1761552000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Macarthur FC",
       "home_img": "https://sta.vnres.co/file/common/20251024/238cecda7590c77d637075cf8f434876.png",
       "away_name": "Adelaide United",
       "away_img": "https://sta.vnres.co/file/common/20251024/4202e6adfbd2eaec4c30f7352c48d022.png",
       "league": "AUS D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=e7fa7410e82e8316af84b31ddd69729e&txTime=68ff789f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=13c8e5fd074f4e0203e15e8c0cbb938e&txTime=68ff789f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1761555023-0-0-18d91f5ac499441c1da38964fd98dee2"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1761555023-0-0-4212289c38c1184aa68c73b1a779d493"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1761555023-0-0-e3ade2ba7b9bf732e16e743123ccd559"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1761555023-0-0-d35c7f7eb1279871dd0ac508953a2ee4"
+        }
+      ]
     },
     {
       "id": "301704",
