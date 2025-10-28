@@ -32,43 +32,105 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=2f2916ae28a04cf68c7aaec872862bb9&txTime=69018dd3"
+          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=e4da11b33569eeffd4f623474a269e04&txTime=69018eff"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=76c0d925ba4d29a1f49ea921bb3ab371&txTime=69018dd3"
+          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=e889ecaa6d1d355979f8c6d9142f7e5c&txTime=69018eff"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1761691523-0-0-69818dc6a2cb4fda6534e46bba3aa518"
+          "url": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1761691823-0-0-716af183127c6166c40d2be12de86439"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1761691523-0-0-d7a8b299d1879f543a8f8266d4a7d13f"
+          "url": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1761691823-0-0-216989dabefa494ef3b6ef737803340b"
+        }
+      ]
+    },
+    {
+      "id": "301789",
+      "match_time": "1761683700",
+      "match_status": true,
+      "home_name": "FC St. Pauli",
+      "home_img": "https://sta.vnres.co/file/common/20251026/93a459a81f31c34cdb42e60d1e962068.png",
+      "away_name": "TSG Hoffenheim",
+      "away_img": "https://sta.vnres.co/file/common/20251026/2508859d374e692bc64de21a1b3c37f8.png",
+      "league": "GERC",
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=395986624759417b26614f30623feb6a&txTime=69018eff"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=349253742f1f20bb8742d138a9693de4&txTime=69018eff"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-548260_lhd.m3u8?auth_key=1761691823-0-0-b3c6601ceada0906f72622bf01027e00"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-548260_lsd.m3u8?auth_key=1761691823-0-0-e4e68264996319621067f7b0c148253e"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1761691823-0-0-484c7901b396de06e093a1ff1034c29d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1761691823-0-0-e923eea0604ab0a8c96bc490bc4c1a0d"
         }
       ]
     },
     {
       "id": "301796",
       "match_time": "1761688800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Club Aurora",
       "home_img": "https://sta.vnres.co/file/common/20251026/d5809159048306e418337fad92608a64.png",
       "away_name": "Club Guabira",
       "away_img": "https://sta.vnres.co/file/common/20251026/b831cf4ea521e000ba34635a4bba72a2.png",
       "league": "BOL LFPB",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1761691823-0-0-c2982d8b7d1a23324309061a918d8d91"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1761691823-0-0-e24a453df9bdd6510df9f14cca0c21cc"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1761691823-0-0-b5c4bcd1a6713b1c5106ad3960e09a0d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1761691823-0-0-af40d1247beceb27af9f68fdf09c64c1"
+        }
+      ]
     },
     {
       "id": "301890",
       "match_time": "1761688800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Franca",
       "home_img": "https://sta.vnres.co/file/common/20251027/9fa725cf2a2151426a17fe687ad1550b.png",
       "away_name": "Caxias do Sul",
       "away_img": "https://sta.vnres.co/file/common/20251027/c37d01cab898a82891931855e25fd893.png",
       "league": "NBB",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1761691823-0-0-ecbc3d99b81b04e8e366d295e5844788"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1761691823-0-0-8cb617776fe5b6d15997e8395eb9d639"
+        }
+      ]
     },
     {
       "id": "301891",
