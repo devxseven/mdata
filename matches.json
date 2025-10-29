@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e979ccff01b5d5fa1fa44d142a4b677b&txTime=69022883"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=631c2b0ef1ac1c77aa6677529df6446f&txTime=690229af"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=4a824465fea2100b31af35f7d1642926&txTime=69022883"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=204771c99c2a374f601dd1295db1b673&txTime=690229af"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=ce993fae94f481f6dd6e716f556f3b6f&txTime=69022883"
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=7973d85c3188a696d6951ea8cac21fa4&txTime=690229af"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=bc976291135bef0bb053fd3b5c383ae3&txTime=69022883"
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=c78d70d16817ac4ab5648c073fc7db18&txTime=690229af"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1761731123-0-0-8db17811e987e52e4cacc6f821b8317a"
+          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1761731423-0-0-4263e81cc037789fe6ba6ee0903359e1"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1761731123-0-0-ed72a5a2ddb467417fb323003e3247c5"
+          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1761731423-0-0-024c97ddd8f19a039353e8b8df52ba3e"
         }
       ]
     },
@@ -48,24 +48,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761731123-0-0-36a8f685f9c7ba1b1e6be7c2bcd80341"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761731423-0-0-8c140cd87fc4e31e22a3271d7f52236d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761731123-0-0-7cecf0e8b77bd2868d8954b0d3c7b5a6"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761731423-0-0-2313a9f764b28cf415eb99d8df952881"
         }
       ]
     },
     {
       "id": "301806",
       "match_time": "1761728400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "SP Falcons",
       "home_img": "https://sta.vnres.co/file/common/20251026/04e2d362c64a8e3aa098a03c0e9d2d49.png",
       "away_name": "Manila Digger FC",
       "away_img": "https://sta.vnres.co/file/common/20251026/f191f415e4272420dfa81af8cad12ce4.png",
       "league": "ACGL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1761731423-0-0-8800b0c607c2c87cd86adcb3d2ae8f6d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1761731423-0-0-78ec44f958dd7989e745963bcadbd4e1"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1761731423-0-0-d41507871533fa5a3bc32cd7a31a97d8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1761731423-0-0-f84cec68279ed3eb625ef41e57d43e85"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1761731423-0-0-06c3160cd6170dbb9fe14ae6f7fbfff6"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1761731423-0-0-a1261f62266edb46fc971c887b6b1037"
+        }
+      ]
     },
     {
       "id": "301949",
