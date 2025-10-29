@@ -12,40 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=71d10837a50e5ff757836ae3ebe00d4e&txTime=6902217b"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=37dd938d2ee5a3dcde0bc8221e3d43cf&txTime=690222a7"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=f6f4b5e58da095729165882f87f0cd89&txTime=6902217b"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=b39204265ac167228aaf28c0fccd1e62&txTime=690222a7"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=46b4092e45875f6ae93bfc07c04a2564&txTime=6902217b"
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=6872fbab77b66d5a8114b7df7627dec3&txTime=690222a7"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=c6483f9eb4b3c974d3076301f8710414&txTime=6902217b"
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=64232f04f41a4a93fa41afc0e1831fef&txTime=690222a7"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1761729323-0-0-53a73536306217bae7a3f8a82f92dd5c"
+          "url": "https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1761729623-0-0-6218c0e2164759ebb6ee36efdfad26f1"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1761729323-0-0-f86719a080cd3d7c1fba97ebab991b10"
+          "url": "https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1761729623-0-0-c546fcae3dc0922bfa6afe1c9e9e251f"
         }
       ]
     },
     {
       "id": "301896",
       "match_time": "1761726600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Tasmania JackJumpers",
       "home_img": "https://sta.vnres.co/file/common/20251027/19fcb0f9d59af78c85dc9719d8364393.png",
       "away_name": "Perth",
       "away_img": "https://sta.vnres.co/file/common/20251027/0f36105ae3b2e81464cb9a7fc73275ed.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761729623-0-0-1309919ef9a25a8f33ad559a98c161f2"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761729623-0-0-85c12c1aa0b91a345ee71121e6449e39"
+        }
+      ]
     },
     {
       "id": "301806",
