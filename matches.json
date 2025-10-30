@@ -3,13 +3,38 @@
     {
       "id": "301961",
       "match_time": "1761813000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Brisbane Bullets",
       "home_img": "https://sta.vnres.co/file/common/20251028/2e757f2b2693ba1bee131ee84ed5e259.png",
       "away_name": "Cairns Taipans",
       "away_img": "https://sta.vnres.co/file/common/20251028/b262b39673006d9ae674104850b7dd25.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1761816023-0-0-cf7502c813faca7fb414e7beede5a647"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1761816023-0-0-3c743c9e1b693855456bb79ff341ded5"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1761816023-0-0-707e90938bec10fa2a1a4d17f6087c86"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1761816023-0-0-f4304674db5e3c97a0abe7d428462653"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=6b8f072a7912f1385f1f98c1bd1e2849&txTime=6903742d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=4137842f0a752cc782f16155702cc690&txTime=6903742d"
+        }
+      ]
     },
     {
       "id": "301962",
