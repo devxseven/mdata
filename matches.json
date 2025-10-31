@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1761900323-0-0-74d4914bb397c5e7e6a57249f4ef8168"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1761900623-0-0-8474933cd8c721040dd958b294a57294"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1761900323-0-0-c4b1900eae5baa445b933b56a2100eb2"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1761900623-0-0-6b3e6f06e27e2bf03c2aedd8968aa4d9"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761900323-0-0-1ba359eb7f44d1a29aace1fc41ff105b"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761900623-0-0-f045c772ae726def29c5b325bb0cd887"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761900323-0-0-57c38bc4ff08fe9ecd269b4e8833bdbc"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761900623-0-0-249808cf0331e974d24c536d422532f9"
         },
         {
           "name": "VN HD 3",
@@ -39,24 +39,50 @@
     {
       "id": "301922",
       "match_time": "1761897600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "WS Wanderers Women",
       "home_img": "https://sta.vnres.co/file/common/20251028/8ac94cecdab54686a9c7cb4acf714bad.png",
       "away_name": "Perth Glory Women",
       "away_img": "https://sta.vnres.co/file/common/20251028/8dad63e9b63facf616b741464c9828ec.png",
       "league": "AUS WAL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=0678d5658acb182bc8ba0761f991ed5d&txTime=6904be9f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=3ddd11cf20be7a7821031e06bae24841&txTime=6904be9f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1761900623-0-0-125b8e4007874fb07b5d0a2ea0451838"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1761900623-0-0-b6f36738a8d96ccbb166a3ea194a0049"
+        }
+      ]
     },
     {
       "id": "302044",
       "match_time": "1761897600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Southside W",
       "home_img": "https://sta.vnres.co/file/common/20251029/66b3e53ac5c083562c1ba46c28742386.png",
       "away_name": "Townsville W",
       "away_img": "https://sta.vnres.co/file/common/20251029/f29157012ba21cccd6e8e82a5e3b8cb7.png",
       "league": "WNBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1761900623-0-0-f67befec9cb84d59b8379e280823459a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1761900623-0-0-5e6415a27b6650cb66a779aad302d3d9"
+        }
+      ]
     },
     {
       "id": "301924",
