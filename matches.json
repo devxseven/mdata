@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1761997523-0-0-3fbdc5ca5856d7884b4dd7edc38883bc"
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1761997823-0-0-8326a99048520b6c672add73b18bc01d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1761997523-0-0-29fbba85eb9b4bb33689ff51235d7940"
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1761997823-0-0-0711e11f01d480d819c704b9c421be8f"
         }
       ]
     },
@@ -32,19 +32,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1761997523-0-0-d60fdeed8f4e5ed739c96b9d44bda3c1"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1761997812-0-0-da2dc3ab1f9ab3fd560083e144062860"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1761997523-0-0-8f504caf51f474c8cfb76e7da9242610"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1761997812-0-0-571dfdbd8b9a522dc8f789cc953271f8"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761997523-0-0-1a514b64a71a4314c9aaf6b1ca985df0"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761997820-0-0-44e739c2065c1d6a6539fa89f7d059db"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761997523-0-0-b1e844ee770404fb9d0c77301fb2d597"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761997820-0-0-f9328d7aea7a3bc1a5ab7a7815513ecd"
         }
       ]
     },
@@ -60,35 +60,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1761997523-0-0-59b130db3e391f45b1e15b7fb42e2974"
+          "url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1761997823-0-0-b8b02d524d046a4abae25fe3d5767591"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1761997523-0-0-4ec34e901a631f5a4fdd1882436116e2"
+          "url": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1761997823-0-0-925924359b8356fc7d975653ce61a3de"
         }
       ]
     },
     {
       "id": "302013",
       "match_time": "1761994800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "SHB Da Nang",
       "home_img": "https://sta.vnres.co/file/common/20251029/d8a04d2adae3ed0055af935dcd686807.png",
       "away_name": "Song Lam Nghe An",
       "away_img": "https://sta.vnres.co/file/common/20251029/18d3566effd13db6373dc022230fb065.png",
       "league": "VIE D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1761997823-0-0-7d33c0d2ff11337e985fd9760cb509f4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1761997823-0-0-724f0c8cbc6673dd00d5674be4e4b2c3"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1761997823-0-0-d467756969296028b6475e91bd61b8f0"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1761997823-0-0-ebfbf5bb602247c8c0af2192c7102e20"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1761997823-0-0-c39d5328364a6c1c55a97041a75c5879"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1761997823-0-0-c66558eb1ea202c5fe4731462acd543d"
+        }
+      ]
     },
     {
       "id": "302014",
       "match_time": "1761994800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Ninh Binh FC",
       "home_img": "https://sta.vnres.co/file/common/20251029/966b66403b9f641ca775c216ec0c7d77.png",
       "away_name": "Becamex Ho Chi Minh City",
       "away_img": "https://sta.vnres.co/file/common/20251029/5bab4c85f021b929b4e41f0dcce98706.png",
       "league": "VIE D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1761997823-0-0-f53b4a604683874599c2881054393647"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1761997823-0-0-4ef163fc5e0edea1f93cef07d87c73b2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=36c65a4eff5f64eee485809ae15305c9&txTime=69063a4f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=6744e6d9a0c3b762f4862db6b5962964&txTime=69063a4f"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1761997823-0-0-170395eed67d4c22cb12401d9551967f"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1761997823-0-0-c13ea83d1289cc500ddfa0129e470791"
+        }
+      ]
     },
     {
       "id": "302015",
