@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e30ddc6e615dd4a4d02c5bc3a0ee6049&txTime=69083364"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=acf11b1239e5c423572c6a766aff7178&txTime=69083490"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=c3d155bc3b066d19b0c005725774f0cb&txTime=69083364"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=ed647567311e73b59576fe4f61390f9b&txTime=69083490"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=724ff383235fb82c2043051e0561b691&txTime=69083364"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=738738a7ae43a1b923f1e27e830e1675&txTime=69083490"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=ad09a8911acc0234a4cef14210e806a5&txTime=69083364"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=681c2cd5b606c113bddc019bfe2adf89&txTime=69083490"
         }
       ]
     },
@@ -40,65 +40,117 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1762127124-0-0-aa1a764f442fd89a3ac9016fd6a35272"
+          "url": "https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1762127424-0-0-7fca8e574991dc96b47ff466f7e1cd25"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1762127124-0-0-e99474e7b28e17d50eefde886804d362"
+          "url": "https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1762127424-0-0-2b0a7e0e01a0ea1ccacf8926d2c25c77"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1762127124-0-0-5d00f0810f3ca5a96107c520497f3f5f"
+          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1762127424-0-0-2a24bb0d8fdc7e3d42313fb4ed0cbb41"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1762127124-0-0-996f3a75f00f0dce5b9b97d53c4076ec"
+          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1762127424-0-0-a8c646bb235dcd637cd19a23552ad0a7"
         }
       ]
     },
     {
       "id": "302153",
       "match_time": "1762124400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Queretaro FC",
       "home_img": "https://sta.vnres.co/file/common/20251031/83ba3064324d047207a76aac83bb19b9.png",
       "away_name": "Mazatlan FC",
       "away_img": "https://sta.vnres.co/file/common/20251031/e537e62e56489e2f0716308015e772dd.png",
       "league": "MEX D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1762127424-0-0-73d953f5d0349836e330b7100238bdad"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1762127424-0-0-6dfbb33bd2bc4ad4ca554aee28632e67"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1762127424-0-0-795f7ccfe72c02db81e7457be107104e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1762127424-0-0-78df0052bab608be8941961bd521f480"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1762127424-0-0-c133b8e9b6e47b9cd3e35491d747c5b2"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1762127424-0-0-ca44bca2b809cc98f38592639f8924b6"
+        }
+      ]
     },
     {
       "id": "302242",
       "match_time": "1762124400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Brooklyn Nets",
       "home_img": "https://sta.vnres.co/file/common/20251101/55154fbd20f4ce764a4106ff4dacdce0.png",
       "away_name": "Philadelphia 76ers",
       "away_img": "https://sta.vnres.co/file/common/20251101/988e20f8c070d22df2d2c31cd714728e.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1762127424-0-0-3b9da9627e9de30965cfc482b15746d5"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1762127424-0-0-d6529e496cbb73f62e75da798a6690ca"
+        }
+      ]
     },
     {
       "id": "302243",
       "match_time": "1762124400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Cleveland Cavaliers",
       "home_img": "https://sta.vnres.co/file/common/20251101/dabcf96c83b4482fefe25a971b88d2fd.png",
       "away_name": "Atlanta Hawks",
       "away_img": "https://sta.vnres.co/file/common/20251101/3dfde9e54005270a49d21e1786d0fad8.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1762127424-0-0-efab9eb02bee9991ff94f9dac27175c7"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1762127424-0-0-3dfbab24c69bc47f36e7855839f7efca"
+        }
+      ]
     },
     {
       "id": "302244",
       "match_time": "1762124400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Toronto Raptors",
       "home_img": "https://sta.vnres.co/file/common/20251101/af42b8a15ab7120eb8a535c2ec89e0e4.png",
       "away_name": "Memphis Grizzlies",
       "away_img": "https://sta.vnres.co/file/common/20251101/94a634c5b50e0d9baf370d674025e46b.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=a545c1f1fe1e3da3412f4c866e81ec27&txTime=690834a6"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=d0d0398269f4053e2981ffb330cb8a95&txTime=690834a6"
+        }
+      ]
     },
     {
       "id": "302154",
