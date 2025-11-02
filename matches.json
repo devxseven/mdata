@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=6349ddef33b182b6d5b44424a4d9b4dc&txTime=690805b0"
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e03f992f8137110b24104e8bdfacadc1&txTime=690806dc"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=a4cf5251119216a47f6ea23d97cad319&txTime=690805b0"
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=53c3e09f07a9a7b88e139ef39c0c023e&txTime=690806dc"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-548860_lhd.m3u8?auth_key=1762115424-0-0-e9b08e226aef6f7e013ea29bda2ee12d"
+          "url": "https://pull.niues.live/live/stream-548860_lhd.m3u8?auth_key=1762115724-0-0-b2234506000bacc8541207e8d28e9bd0"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-548860_lsd.m3u8?auth_key=1762115424-0-0-fde6532bf6aee3715d1e3c16e1798c7c"
+          "url": "https://pull.niues.live/live/stream-548860_lsd.m3u8?auth_key=1762115724-0-0-c9b47733498632068e8bb3fe1a4e6efc"
         }
       ]
     },
@@ -40,11 +40,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1762115424-0-0-00e530b41d52aa0062b9aa3d80777a6e"
+          "url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1762115724-0-0-858fbf974963166ec97baf60e22bf32f"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1762115424-0-0-1a3fca747590d4f96662d0bbf32a741b"
+          "url": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1762115724-0-0-8eeb43f94922bdf03d0d15eb6537b649"
         }
       ]
     },
@@ -60,35 +60,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1762115424-0-0-d3ac27da86a0bde6ef8dbc464b4893aa"
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1762115724-0-0-e7ab6bb7f03f665324b6715111c7f654"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1762115424-0-0-711337bda3d40ef77d868ebe72f09f37"
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1762115724-0-0-ee3809d6b65aca87a78e59d4b239f22e"
         }
       ]
     },
     {
       "id": "302146",
       "match_time": "1762112700",
-      "match_status": false,
+      "match_status": true,
       "home_name": "AC Milan",
       "home_img": "https://sta.vnres.co/file/common/20251031/53edcae3e70b1ece4577b2c1b6bccf8d.png",
       "away_name": "AS Roma",
       "away_img": "https://sta.vnres.co/file/common/20251031/ab00de477872a6f7a11406b9bc676625.png",
       "league": "Serie A",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1762115724-0-0-3c577cf9b40b007da13359267cd4f7a3"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1762115724-0-0-e28341a1e3c596f3ca3ebc95f36271f5"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=691d7c8a32cefce6d27959e3cb2c309f&txTime=690806dc"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=850489a1c578099d22ff346d6c3db776&txTime=690806dc"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=c813d82fabffa0a1151a0f2cb6ab91e9&txTime=690806dc"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=908185f12349db71fac910e2d215d17e&txTime=690806dc"
+        }
+      ]
     },
     {
       "id": "302147",
       "match_time": "1762112700",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Stade Brestois 29",
       "home_img": "https://sta.vnres.co/file/common/20251031/054c5558af530f93a783f16305b92d35.png",
       "away_name": "Lyon",
       "away_img": "https://sta.vnres.co/file/common/20251031/ff7f2c395e2ad015d6a7bf844057bea3.png",
       "league": "Ligue 1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1762115724-0-0-c200580677a378df93b636be38ae3bb4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1762115724-0-0-0e3eb38569f351a528dec33c938c9296"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1762115724-0-0-a22784011a5b4b014aaa87c749a14da5"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1762115724-0-0-90f9f5e6c1dbc25d7af059c4b1469842"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1762115724-0-0-869efa4d35c9d0cb9cb7a1906f8fd7cd"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1762115724-0-0-13b74f2aa6a545e2533e0b2d4d9da7b6"
+        }
+      ]
     },
     {
       "id": "302148",
