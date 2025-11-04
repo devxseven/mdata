@@ -3,13 +3,38 @@
     {
       "id": "302261",
       "match_time": "1762297200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Nacional Potosi",
       "home_img": "https://sta.vnres.co/file/common/20251102/3cb35bd39d5a8d99e0b32841848eca45.png",
       "away_name": "Blooming",
       "away_img": "https://sta.vnres.co/file/common/20251102/1fc41d6407b800d419b056c918262677.png",
       "league": "BOL D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1762300224-0-0-e89c1403ee8e17caa8e91eb70f146bfa"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1762300224-0-0-8d8d95c28a5eb74d22b3e5e0944f3b62"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1762300224-0-0-55dd481d9f64fc110bbbdea88f9ce673"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1762300224-0-0-32ca225c0c74fae4a770ee0ad14f1fa4"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1762300224-0-0-76f3f3b41ca9477b01cf5db05ff13616"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1762300224-0-0-96681a8cb9154fd2582627de0df3a8d1"
+        }
+      ]
     },
     {
       "id": "302262",
