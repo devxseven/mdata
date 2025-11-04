@@ -12,43 +12,93 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1762218024-0-0-f1a7b52370c6c9e48a25dbf5c72b1a5d"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1762218324-0-0-fefc4446a1b7cb4fe7fa1cab1c7da451"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1762218024-0-0-6359f8937489ff99c04bd75757bcb99d"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1762218324-0-0-39ed8b2b1a758e2526a177069fc0c211"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=8a510be92711e067bb3fee8791b09149&txTime=69099678"
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=22dc3b563a282363abcc37ee6f1e9d74&txTime=690997a4"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=7a4963e9ac37b5e90a03ca90b784252b&txTime=69099678"
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=6adfb6ba3de8f5d1dbac1ef4a4226ce7&txTime=690997a4"
         }
       ]
     },
     {
       "id": "302209",
       "match_time": "1762215300",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Banfield",
       "home_img": "https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",
       "away_name": "Club Atlético Lanús",
       "away_img": "https://sta.vnres.co/file/common/20251101/0111c3263f76f76e3abedb139a2e4831.png",
       "league": "ARG D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=fd9d231fe7d5d50e9332f524c48e20e4&txTime=690997a4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=dc0f84b98569b064b168f5ce2c8aa22b&txTime=690997a4"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1762218324-0-0-7f69ad93bb1de9bae7005844dae20fab"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1762218324-0-0-f87298aa86fb7b395011831336d5f784"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=c61ebd5c91c8646261d2122edd8d17e1&txTime=690997a4"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=d4c397fd3da696d1f5fe84363ee6aa95&txTime=690997a4"
+        }
+      ]
     },
     {
       "id": "302210",
       "match_time": "1762215300",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Belgrano",
       "home_img": "https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",
       "away_name": "Club Atletico Tigre",
       "away_img": "https://sta.vnres.co/file/common/20251101/ca7abbd7c246ed340545325a08918d30.png",
       "league": "ARG D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1762218324-0-0-e394beb205390721d988a7ebfde444cc"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1762218324-0-0-650c7d8dea11c4963dd2c6fe9bfd4eb8"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1762218324-0-0-c963df344d3ac1e94a24210355a48236"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1762218324-0-0-a505a1284cf5f531f2fcabf6c6fac195"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=241bf4c7fe45932dc6cc8a58f421df8e&txTime=690997a4"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=8be4689087fecaa81779a6598418503e&txTime=690997a4"
+        }
+      ]
     },
     {
       "id": "302337",
