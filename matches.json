@@ -3,13 +3,30 @@
     {
       "id": "302342",
       "match_time": "1762243200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "San Juan Knights",
       "home_img": "https://sta.vnres.co/file/common/20251103/69ccd3fc0acf86ab04dd7cf15686dfe2.png",
       "away_name": "Pangasinan Heatwaves",
       "away_img": "https://sta.vnres.co/file/common/20251103/3732821dbbd9118cc98d31460297921d.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1762246524-0-0-7fa911f59b3c32b592f4ff289aa7da1e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1762246524-0-0-fe04e283d59d02a91a7dcc8dd501116e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "302212",
