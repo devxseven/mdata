@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1762230624-0-0-3885f76a178118e2bb9c7f3b587e5625"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1762230924-0-0-d0166282f3cdcae332d1735cbc16fd90"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1762230624-0-0-3faeff0d2b3258bb95082000787a1e6d"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1762230924-0-0-0ee31bafdb6f7ac4989092645d85c0ee"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1762230624-0-0-81bc2b752e9191d02e0697891db2132a"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1762230924-0-0-384998d1fc4950b48e3cf32126cd5f2f"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1762230624-0-0-ad0dae3ab9d8b06e0e0038474efe6c90"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1762230924-0-0-5b7ae226a14325a18d16ac1cb7a4bf50"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1762230624-0-0-024a0b15fe60da1c43f086c7aa3ad6d4"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1762230924-0-0-7668a25589eb26ba312a889f7393d22d"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1762230624-0-0-bd19f92730c3b81cd35a5c678bcdb2dc"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1762230924-0-0-1809edcee7898432cd7660c96dab94a7"
         }
       ]
     },
@@ -48,11 +48,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1762230624-0-0-075cbd446a8f4a1152d5fc4f4376259c"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1762230924-0-0-66c32bd5db2e3992eea364f7e578784b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1762230624-0-0-1cd10b6128e43e21b3bac5b579b7e315"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1762230924-0-0-e1d18d5d70a1e446f011b2fc83a6d4da"
         },
         {
           "name": "VN HD 2",
@@ -67,13 +67,38 @@
     {
       "id": "302211",
       "match_time": "1762227900",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Seattle Sounders",
       "home_img": "https://sta.vnres.co/file/common/20251101/81980f5003bb89e57df76d9d906c4508.png",
       "away_name": "Minnesota United FC",
       "away_img": "https://sta.vnres.co/file/common/20251101/51ee5f550c7766c0983673fe559f50c4.png",
       "league": "Major League Soccer (MLS)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1762230924-0-0-651f3a4ebb63d1825c87887cb3a511a8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1762230924-0-0-c52180fd3157bd873a1bc7a63f3ab97d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1762230924-0-0-5290b7a3981cf66c1b799766ea61c7a4"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1762230924-0-0-8f3b3a4b6ef33530b9eb8909e9397d8d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f6a0d4cfd014580083f7766c3ab37a58&txTime=6909c8dc"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=9808e305b82b7451626dc81b54503eec&txTime=6909c8dc"
+        }
+      ]
     },
     {
       "id": "302342",
