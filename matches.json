@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=b47df54928e831ca7de9bf801972c753&txTime=690c6858"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=54d20d5c89a33c6093531fb5d5ce6f7d&txTime=690c6984"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=7ba3acb7484ecdec88b37602e7920a89&txTime=690c6858"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=e60b390b1aa713833d1671b93851ced6&txTime=690c6984"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=47b1363730a0b555ce51021e9d50eeaa&txTime=690c6858"
+          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=a2f3c4240ff84027b0295e229e4449ed&txTime=690c6984"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=172418c6f3a9706f764a545a52c3c5a4&txTime=690c6858"
+          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=fd2672b6aa4b6992f612cdec51301ecf&txTime=690c6984"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=d0bab6b7219dc478766deeada4614c2f&txTime=690c6858"
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=9773fcd99d31677d88391a416dfa5909&txTime=690c6984"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=85991d62fe07ae2ab973ee7b7fbae966&txTime=690c6858"
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=e2ece14a22ee6ff93b660a5b877dec89&txTime=690c6984"
         }
       ]
     },
@@ -48,62 +48,113 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1762402824-0-0-5e9263fe87fd1188b438d0644fc61df8"
+          "url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1762403124-0-0-f39e00666041c37a9a29929f3fd8b948"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1762402824-0-0-35dee258fbe064037d622c35e3bc77e5"
+          "url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1762403124-0-0-113694cd76e65b164e7cf0c53ed158b0"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=56d641486ba765fb69e9e2dd44448f2a&txTime=690c6858"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=62b60793fef2a73992282a7c772cf093&txTime=690c6984"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=8c300902f2609bc42b9c9de14796ec38&txTime=690c6858"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=a64642cde8a3d4dd66cd9536a38752cb&txTime=690c6984"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=93af8fd8ab634faafde27fd50262c12d&txTime=690c6858"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=80337c0e10552811a7f67e22ee8f6cd8&txTime=690c6984"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=d309820ca71ed525d011849eebd3b851&txTime=690c6858"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=e29fb68af89fe1addf90f250a30eb2a4&txTime=690c6984"
         }
       ]
     },
     {
       "id": "302495",
       "match_time": "1762400100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Los Angeles Lakers",
       "home_img": "https://sta.vnres.co/file/common/20251105/f72cf4e8d67602a556e125735bf302b0.png",
       "away_name": "San Antonio Spurs",
       "away_img": "https://sta.vnres.co/file/common/20251105/3c20e09cd766c78fe15b4ba3b70dbd78.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1762403124-0-0-cee797704c17da7cf6a203fb1464a67c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1762403124-0-0-13989345b1c6b2899da0cacf81933083"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1762403124-0-0-603dda8b80c52f89305f461497f96f7f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1762403124-0-0-ebdb79bed9b86d796c640cc473ad7a8d"
+        }
+      ]
     },
     {
       "id": "302496",
       "match_time": "1762400100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Portland Trail Blazers",
       "home_img": "https://sta.vnres.co/file/common/20251105/652f5886abc6827a0022c12beaf71aff.png",
       "away_name": "Oklahoma City Thunder",
       "away_img": "https://sta.vnres.co/file/common/20251105/1aa768d90b46929bcda327eeb2866e5e.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1762403124-0-0-d5a0134d617f61036a46ee274e1ff617"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1762403124-0-0-c2db877c3f178a6b0de5818c4621aa1c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=d380699bb21757dc54f2cd857310d5c0&txTime=690c6984"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=74caa1656934aa35f12884339bf84eb7&txTime=690c6984"
+        }
+      ]
     },
     {
       "id": "302497",
       "match_time": "1762400100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Sacramento Kings",
       "home_img": "https://sta.vnres.co/file/common/20251105/181d0053a5d52c4b218c190b004ff15e.png",
       "away_name": "Golden State Warriors",
       "away_img": "https://sta.vnres.co/file/common/20251105/b78e0f60108fd3c6cc0446ed346a32d9.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1762403124-0-0-6587f9ec278b20572508f6076746cd53"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1762403124-0-0-f364807035315c01392b044cee36612b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "302498",
