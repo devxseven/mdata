@@ -3,13 +3,38 @@
     {
       "id": "302385",
       "match_time": "1762468200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Fluminense RJ",
       "home_img": "https://sta.vnres.co/file/common/20251104/5e8a78e100eb59e20b82d225fdb6ce97.png",
       "away_name": "Mirassol",
       "away_img": "https://sta.vnres.co/file/common/20251104/1dacc630cd206ce99af33aaa6229fddf.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1762471224-0-0-f8bd9158af47dd3acd7eca6994ce4754"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1762471224-0-0-b637b5fbda93efb9244043f9ca482d74"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1762471224-0-0-0a9be970ddb88fd1fcf128fd8c43592e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1762471224-0-0-3fdd557bc8dc29223f9267b73e6f2069"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1762471224-0-0-875e58b18f46c480e32a685caee6f461"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1762471224-0-0-1ec21c69f9845004eb40135c746e9850"
+        }
+      ]
     },
     {
       "id": "302386",
