@@ -12,54 +12,129 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-548260_lhd.m3u8?auth_key=1762434024-0-0-5c288ada67ca61c20c3f5aa038623540"
+          "url": "https://pull.niues.live/live/stream-548260_lhd.m3u8?auth_key=1762434324-0-0-ff2a455d6b5292da28063f4216a1024e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-548260_lsd.m3u8?auth_key=1762434024-0-0-3e1b0c182bfe45fdbd12d848e755f2fb"
+          "url": "https://pull.niues.live/live/stream-548260_lsd.m3u8?auth_key=1762434324-0-0-f38b832fbf84dff81d07b62f4dc0e56e"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1762434024-0-0-fb3646ed54751f87ee4aec4c862feed8"
+          "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1762434324-0-0-991b7e525514937fa4b21d0d159c914b"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1762434024-0-0-d1bb92cd93299d7bea0e46153114850d"
+          "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1762434324-0-0-55cdb65ec62859394839b7212d7c75d8"
         }
       ]
     },
     {
       "id": "302321",
       "match_time": "1762431300",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Beijing Guoan FC",
       "home_img": "https://sta.vnres.co/file/common/20251103/24387a5fa125aa0ac00a4bf53c46e21b.png",
       "away_name": "Tai Po",
       "away_img": "https://sta.vnres.co/file/common/20251103/14e0c35dc166a03179c7d3a2acac470a.png",
       "league": "ACL2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1762434324-0-0-4de51d027122bb1b6ba46dc0a3be0033"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1762434324-0-0-699f301461333bcee0e3c48103c36941"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=e5b4e97d07bb23290395ac08f247e428&txTime=690ce364"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=352e99728837f692d0acff6c8651e789&txTime=690ce364"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1762434324-0-0-84c4aa91142b12474355e2b02606c9a0"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1762434324-0-0-8373608c7a5fbe9f8dad0bbe4404ed94"
+        }
+      ]
     },
     {
       "id": "302322",
       "match_time": "1762431300",
-      "match_status": false,
+      "match_status": true,
       "home_name": "BG Pathum United",
       "home_img": "https://sta.vnres.co/file/common/20251103/be1ada528c55e21c0e00fdfbcbd00d24.png",
       "away_name": "Kaya FC-Iloilo",
       "away_img": "https://sta.vnres.co/file/common/20251103/96ee8932a52b78a6551578d5acafea29.png",
       "league": "ACL2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=c9f6f1a3b6c311cd6a13910f3c5dff4b&txTime=690ce364"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=28afa637fafbe220a8cd973182d80f95&txTime=690ce364"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1762434324-0-0-4e2fc364f288a36f0b635524f2b9a2d0"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1762434324-0-0-c6bb7f20193fec05c7943cc2ed802db0"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=f49ff0972a9ce211863b4a8d5e30f455&txTime=690ce364"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=02b10d49ab59f74f7d0a9223f2b668f2&txTime=690ce364"
+        }
+      ]
     },
     {
       "id": "302323",
       "match_time": "1762431300",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Selangor FC",
       "home_img": "https://sta.vnres.co/file/common/20251103/f2c084933e32716992a40a37b0b9819c.png",
       "away_name": "Persib Bandung",
       "away_img": "https://sta.vnres.co/file/common/20251103/a0f9feafb56477f5bd2e5f391fb4358a.png",
       "league": "ACL2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=17f57abf9b99399ead8652b78e1451be&txTime=690ce364"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=063c58770e7c673cba3ea04b830910cf&txTime=690ce364"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1762434324-0-0-57bcf122dd5b0f6ba1d02c2235377133"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1762434324-0-0-b46db373e7d90d108c065350f8d6c149"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1762434324-0-0-aaf3c18031d9bf22bd896cadefe53edb"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1762434324-0-0-7ba4cd604ebc8d13591e8cfa20a8be59"
+        }
+      ]
     },
     {
       "id": "302324",
