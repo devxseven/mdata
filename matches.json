@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1762555524-0-0-9c52941cd0f4419201e478a7de5b2114"
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1762555824-0-0-87b98923e240b0aab0a6cbe9af72377f"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1762555524-0-0-3a8b9c01ad259a26dcff75272f67ecbf"
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1762555824-0-0-2dd47d102bf642ce1a16f27a304793f8"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1762555524-0-0-978f18212f8f887f7454a42f6cccf496"
+          "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1762555824-0-0-bf3d79b82dc335932fb7e735f04c0785"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1762555524-0-0-80da13a73423e26be9a7ef9e140f4a39"
+          "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1762555824-0-0-257a59e399ee8031f9514241179bbacd"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1762555524-0-0-5af6fa49660437b740962923619745a8"
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1762555824-0-0-bb046c0dc3202c39d4437b5e2e1e6ad5"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1762555524-0-0-eec3b2801e78093e630462601c084fde"
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1762555824-0-0-b7aab6bd3d2e34cbc8089694f8ae261a"
         }
       ]
     },
@@ -79,13 +79,30 @@
     {
       "id": "302435",
       "match_time": "1762552800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Athletic Club",
       "home_img": "https://sta.vnres.co/file/common/20251105/c187c91bf9a6030925919c1114b5e2fe.png",
       "away_name": "Ferroviaria SP",
       "away_img": "https://sta.vnres.co/file/common/20251105/d6af0c5eac3ef179bf542887559eedef.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=f459099727bbda037a467600acc0fee8&txTime=690ebe00"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=28b99e939546e5a75ddea6386b0a04d4&txTime=690ebe00"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=959fd59e6e77cf42350f433a885e5bf0&txTime=690ebe00"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=923ff45b89ff7664affcaa95b0235c89&txTime=690ebe00"
+        }
+      ]
     },
     {
       "id": "302436",
