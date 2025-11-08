@@ -12,32 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1762604124-0-0-440cd2e24ed13b0f602da4a8bdccf609"
+          "url": "https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1762604424-0-0-223a1f16aeffd9907d9551f903684471"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1762604124-0-0-1a65026c67b18ff7f5b8a8b5859c1d7f"
+          "url": "https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1762604424-0-0-8410f053dda272bcd1e033aeaaea6e71"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-532257_lhd.m3u8?txSecret=1b13b2806be9103db7d0861e506135ad&txTime=690f7aac"
+          "url": "https://pull.niur.live/live/stream-532257_lhd.m3u8?txSecret=7723593a3fdecaf0ca925cc9152a3a25&txTime=690f7bd8"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-532257_lsd.m3u8?txSecret=7d7b24b3329c8c6aae40915882ae62e5&txTime=690f7aac"
+          "url": "https://pull.niur.live/live/stream-532257_lsd.m3u8?txSecret=b68777e033c1d7d928596e749abe9672&txTime=690f7bd8"
         }
       ]
     },
     {
       "id": "302473",
       "match_time": "1762601400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Gazisehir Gaziantep",
       "home_img": "https://sta.vnres.co/file/common/20251105/7fb4f1df8df8b38f6402ba3d65b7105e.png",
       "away_name": "Caykur Rizespor",
       "away_img": "https://sta.vnres.co/file/common/20251105/93eb58d8f1fc95f36948947afe62dc03.png",
       "league": "TUR D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1762604424-0-0-2b555efcab41040c73f87cfa4df7269d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1762604424-0-0-99d0680fa3934ebd5998d22b7b1ed5f7"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1762604424-0-0-6fb6b42e39072e93b056ed5f9870bb9c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1762604424-0-0-5fcebeb854f2641ed4949a3c2e2eb9fe"
+        }
+      ]
     },
     {
       "id": "302472",
