@@ -32,19 +32,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1762645524-0-0-da8dd1ae71eec8cd53fe0fe3c0c9e5cc"
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1762645824-0-0-78620b948d17a9461a27732bf9226153"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1762645524-0-0-7164e3d330e5cee6f5e92863b5c95ecc"
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1762645824-0-0-9f7500d41d181de3b2a838b294f905cc"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=92025312f741c07dcb9c014f97b76d72&txTime=69101c64"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=3a0f08f9f87d44133544e7d6cbf7da09&txTime=69101d90"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=f995f11158853c1f5de3ac5f20358222&txTime=69101c64"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=b7ae3eef9fb82a4ae0ccd98996bbd9e0&txTime=69101d90"
         }
       ]
     },
@@ -60,43 +60,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=463df11987827d38dd940865c7e8db05&txTime=69101c64"
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=49640008361e7d9d5c445b2b15065eb4&txTime=69101d90"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=cdc0b56bbbeb218551499e284051518a&txTime=69101c64"
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=b07de3b232398d57b84b86463a60edbc&txTime=69101d90"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=665d09245c42e31fdae16aae514a2a17&txTime=69101c64"
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=eefbd8986fc418896e89bfe6d3d46df8&txTime=69101d90"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=9f32dd5fd0806716d08478e6eac2062a&txTime=69101c64"
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=67ad02fb2796b32ee01deeb5b0ddb2e7&txTime=69101d90"
         }
       ]
     },
     {
       "id": "302520",
       "match_time": "1762642800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC Cincinnati",
       "home_img": "https://sta.vnres.co/file/common/20251106/48fe4b4073c90f0b114fdc2103a6ce09.png",
       "away_name": "Columbus Crew",
       "away_img": "https://sta.vnres.co/file/common/20251106/eeed3233a2108d589d32e0469da8f813.png",
       "league": "Major League Soccer (MLS)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1762645824-0-0-e8875d77c4eda5ea215a8a2919cb71cd"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1762645824-0-0-50d2f2954a3a7c5f15915834942dfecd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1762645824-0-0-496ec2e75eab1fe3eb7aca74ded93728"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1762645824-0-0-ab10a7b07c5d276c80ae9baf08a8952b"
+        }
+      ]
     },
     {
       "id": "302521",
       "match_time": "1762642800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Tigres UANL",
       "home_img": "https://sta.vnres.co/file/common/20251106/21505336d4c1b08ef3b4bc6865fb9e6e.png",
       "away_name": "Atletico San Luis",
       "away_img": "https://sta.vnres.co/file/common/20251106/1b8fe5e26accbac63d9b08aeae2fb657.png",
       "league": "MEX D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1762645824-0-0-4b98fedd9a8c692dfef2d7f1a4218a4a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1762645824-0-0-051c70613df4f838082efa6a24c78dd0"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1762645824-0-0-1959c697938861c2a9d43c3d720c551d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1762645824-0-0-8214a64dc674544fd331f09b748d84d0"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1762645824-0-0-4146518648e3abe5018ff2bb49d72eec"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1762645824-0-0-c40e373e9268d5769394cba6182bfefb"
+        }
+      ]
     },
     {
       "id": "302522",
