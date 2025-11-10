@@ -3,13 +3,38 @@
     {
       "id": "302630",
       "match_time": "1762754400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC Osaka",
       "home_img": "https://sta.vnres.co/file/common/20251107/c907d1f2e89a69cba7bd47a15cf3b8a6.png",
       "away_name": "AC Nagano Parceiro",
       "away_img": "https://sta.vnres.co/file/common/20251107/0f23cddd99eee8a45d4afe180b8d7913.png",
       "league": "JPN D3",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1762757424-0-0-13c69b8c8f38b73325c9b7e9b8d3e897"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1762757424-0-0-6500126397bf1a3216166c4e6d90c2a0"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=3efb61e2f5050b70195fd3e06a90c44a&txTime=6911d180"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=a567f44c2b21a35195c145c9dc33bd2c&txTime=6911d180"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1762757424-0-0-24a0c22b9cbe5bb6d1b5c34332c7b957"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1762757424-0-0-2c6bf6c09f38562d4acaef6a278b76ce"
+        }
+      ]
     },
     {
       "id": "302677",
