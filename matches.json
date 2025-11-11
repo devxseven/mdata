@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1762834524-0-0-c972d181d2de45071c992de594e70bd3"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1762834824-0-0-b619b01f1cfdd62e0a6bd0db9426830b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1762834524-0-0-75c0fbdd23abb216b86db6bdb6c886f8"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1762834824-0-0-257fad633dcb6a7b970e93bef386ca0a"
         },
         {
           "name": "VN HD 2",
@@ -31,13 +31,38 @@
     {
       "id": "302699",
       "match_time": "1762831800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Los Angeles Clippers",
       "home_img": "https://sta.vnres.co/file/common/20251109/685bf3ecbd33458b2f05085e323d16dc.png",
       "away_name": "Atlanta Hawks",
       "away_img": "https://sta.vnres.co/file/common/20251109/f1f4f17f1cfe07821b006d4336ef7612.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1762834825-0-0-9c30eee38e4aee922ebe46a4b28ebf30"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1762834825-0-0-71ccee2b23d1380fba19671bb34818f5"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1762834825-0-0-8a55ed572d42966935ab420c7b25f247"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1762834825-0-0-6d7be2009c1d0ae2b929cf8a7e240628"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1762834824-0-0-b619b01f1cfdd62e0a6bd0db9426830b"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1762834824-0-0-257fad633dcb6a7b970e93bef386ca0a"
+        }
+      ]
     },
     {
       "id": "302700",
