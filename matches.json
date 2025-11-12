@@ -3,13 +3,38 @@
     {
       "id": "302689",
       "match_time": "1762932600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "South Korea U22",
       "home_img": "https://sta.vnres.co/file/common/20251109/005e4febb9ab9921c5bc8301114f1c26.png",
       "away_name": "Uzbekistan U22",
       "away_img": "https://sta.vnres.co/file/common/20251109/3115c78da9babf71868a285c19fa1a5a.png",
       "league": "INTERF",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=37d7d1afa7687cc542396512e8f5af95&txTime=69148999"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=0ea0b01684f49c8c30455085bb3d1ed2&txTime=69148999"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1762935625-0-0-49fbeaa4f0e37d95b37c22fb72887a33"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912104_lsd.m3u8?auth_key=1762935625-0-0-54a09c8a987021cac1422dafada57055"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1762935625-0-0-73efaeccb0c3554dc8721e96ff8aabe4"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1762935625-0-0-d19afc93f72a61f11ced7946be766e24"
+        }
+      ]
     },
     {
       "id": "302690",
