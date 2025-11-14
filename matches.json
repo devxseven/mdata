@@ -20,19 +20,19 @@
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1763109925-0-0-b3f2b99f06a6c0f8d21b7ffb198eab4c"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1763110225-0-0-2d0a0d510ae358c3f96464dbcbecdb66"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1763109925-0-0-a2fb4a6b37dad07c97a5a81d830b4998"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1763110225-0-0-aececf332754ba176032063f53137c7c"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1763109925-0-0-1f016ceef8f51d2aba072da08b2ea185"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1763110225-0-0-7adefef791e3d7e32e9707bfd60a91b0"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1763109925-0-0-a934718afbd8eff2666e33bc8bc3bca5"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1763110225-0-0-c5a3e3284a65cb82fc55d1eaa45a2edc"
         }
       ]
     },
@@ -48,32 +48,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1763109925-0-0-58988c36323298700be7de37ecf927ad"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1763110225-0-0-4452f3fa7b72ddf6a46c66394d15b2d9"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1763109925-0-0-80c060f36c56593ad75bac1947cc1163"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1763110225-0-0-062f5c5154950d0887f4f1a058f7d4f7"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1763109925-0-0-c85a69c7c74ba3b252d1bea9830e9c88"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1763110225-0-0-d72593567f8e0cbe4aed25c92a4110dc"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1763109925-0-0-7591b7be4a77120f029d5aa2b1e6cff0"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1763110225-0-0-0c505c98be9eec2cabb2e695d915c303"
         }
       ]
     },
     {
       "id": "302752",
       "match_time": "1763107200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Adelaide United Women",
       "home_img": "https://sta.vnres.co/file/common/20251110/8d927bad626fbbc10e9958a958bbe3d8.png",
       "away_name": "Canberra United Women",
       "away_img": "https://sta.vnres.co/file/common/20251110/3f1f4d48227b68509f1cad63981dc699.png",
       "league": "AUS WAL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1763110225-0-0-be35a8e4d32bab08e4673b2c83edff32"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1763110225-0-0-9e1fc3db9d5a34edaed138b48d558067"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1763110225-0-0-9fa93112430061010332db205d1790c6"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1763110225-0-0-2d7460e308280db878337626069e459d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=f36a6b78bbe03d4f6281d8aac2a7d339&txTime=691733a1"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=fed02ca0920e5f776ff5f893425b86b7&txTime=691733a1"
+        }
+      ]
     },
     {
       "id": "302847",
