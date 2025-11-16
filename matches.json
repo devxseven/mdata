@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1763324125-0-0-40def58ebe87f9db76bff29be9effd5d"
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1763324425-0-0-1e0ae50b396f2e9a11ef88931723c819"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1763324125-0-0-7c8566afc2052ac5a97931feac47fe57"
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1763324425-0-0-80a8fa89e48f3b6164b3b27f3d5358cc"
         }
       ]
     },
@@ -32,11 +32,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=dbc0d60266de57caceadd3e1e1c76aae&txTime=691a772d"
+          "url": "https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=6a94748d5489ff1c10dc59ec33a6a44c&txTime=691a7859"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=1442a6df0dd9296e02c3503f7a97a62b&txTime=691a772d"
+          "url": "https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=584a8cdd8b3b20da6e1c3f9b91a4f567&txTime=691a7859"
         }
       ]
     },
@@ -52,62 +52,89 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1763324125-0-0-5c1527892d0d9df35e12ad574415adb8"
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1763324425-0-0-dcaf14e94cca8a4c4d077e9873942849"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1763324125-0-0-e4b9e0724c003c11b2f4e3653ccf7442"
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1763324425-0-0-81ac0dc9546a8dfdcae22ccc6a964207"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1763324125-0-0-6da8e87cf16c7ceddbdec720c464571e"
+          "url": "https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1763324425-0-0-caa7a1e6a5ade35fb0d36deae4a1c568"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1763324125-0-0-2f614b0921cb4e8b1a749debda4332a5"
+          "url": "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1763324425-0-0-caf6e3987d551b1949e44727654911fc"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1763324125-0-0-a13f060b0c07fb6ea98831f9debce85b"
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1763324425-0-0-a59ce70499fcf762e55156abd70714ea"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1763324125-0-0-c59ae5488b3fa41ae7cad587e0fe7e1b"
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1763324425-0-0-be412b3fbcc83902f921524578a74712"
         }
       ]
     },
     {
       "id": "302954",
       "match_time": "1763321400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Criciuma",
       "home_img": "https://sta.vnres.co/file/common/20251114/2f0c26f9cd5ab1f9db80f0920679307b.png",
       "away_name": "Botafogo SP",
       "away_img": "https://sta.vnres.co/file/common/20251114/2d978523643c65be2c316ede1220ce6c.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-532257_lhd.m3u8?txSecret=091fad4679b1690500e5e6e328f874e2&txTime=691a7859"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-532257_lsd.m3u8?txSecret=3d046ee9f860239a1ea817bb0749a979&txTime=691a7859"
+        }
+      ]
     },
     {
       "id": "302955",
       "match_time": "1763321400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Ferroviaria SP",
       "home_img": "https://sta.vnres.co/file/common/20251114/f0576d47c728d7cd6c3e2aef87108c2b.png",
       "away_name": "Athletico Paranaense",
       "away_img": "https://sta.vnres.co/file/common/20251114/fd011f9446bed9a15ae3ede6e86f3057.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1763324425-0-0-b16d91f67301790301561d1f29de7607"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1763324425-0-0-b19bfc30f228abdd0365c524c483c4a7"
+        }
+      ]
     },
     {
       "id": "302956",
       "match_time": "1763321400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Goiás EC",
       "home_img": "https://sta.vnres.co/file/common/20251114/8b2e5f987e3f555fa98a8da0ce14546c.png",
       "away_name": "Gremio Novorizontino",
       "away_img": "https://sta.vnres.co/file/common/20251114/3164d7ab880e31138a4fd793bee92dec.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/552832-720p.m3u8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/552832-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "302957",
