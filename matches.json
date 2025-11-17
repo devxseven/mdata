@@ -3,13 +3,38 @@
     {
       "id": "302996",
       "match_time": "1763418600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "CA Platense",
       "home_img": "https://sta.vnres.co/file/common/20251115/86aa681bdda871bfa855c6467e89639d.png",
       "away_name": "Gimnasia La Plata",
       "away_img": "https://sta.vnres.co/file/common/20251115/4cbf75c36a67bc0362df422ba6f9ffa7.png",
       "league": "ARG D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1763421625-0-0-aff81917600a13a7f10be8159432dd6b"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1763421625-0-0-e0d60f8533a8919596d823dea99029ee"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=3eb7d37adcf65bcb95471af1134efac0&txTime=691bf409"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=6455ea1d902731c987de5fb381d20634&txTime=691bf409"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1763421625-0-0-a7b4e1a86b5e8d179375c69dc0c234a0"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1763421625-0-0-b331d78e2a64e2209d1b3192b445837e"
+        }
+      ]
     },
     {
       "id": "303077",
