@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1763426725-0-0-b73ebbb29b8e002ad1e517a53ca4ee34"
+          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1763427025-0-0-0631623c5bf3fa342f907fe4b46603a9"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1763426725-0-0-ad389f0f9734e43a1fb1dc01ded800e1"
+          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1763427025-0-0-a1c7e49e15db8e5b5f13ab6bc78ce33e"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=0422d60dd7c185b3fc95fd4e278a89d0&txTime=691c07f5"
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=7b7282273d433690dd7f36ca3b54212f&txTime=691c0921"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=331040b23a24557a49981d6fae4451c1&txTime=691c07f5"
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=148c9f1f0a3d4e0149740662d4ce3565&txTime=691c0921"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1763426725-0-0-6487f825feeca2b56751aa240f3d2a34"
+          "url": "https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1763427025-0-0-13d557f1a111590c5a27d9a1fda9b8a9"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1763426725-0-0-de8b43fb70687a2f60fa5793cb35cf58"
+          "url": "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1763427025-0-0-c2d5f1dedc9e054b3e7a54e3ce750aab"
         }
       ]
     },
@@ -48,35 +48,69 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1763426725-0-0-c37e05259fac887613767e9523e32bab"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1763427025-0-0-49cb5b67daea12133fb48634e83a570d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1763426725-0-0-2e98f6177797594f1faefb79aa16e179"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1763427025-0-0-9aad2d27afc923ee92547f030b9bb217"
         }
       ]
     },
     {
       "id": "302997",
       "match_time": "1763424000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Club Sport Emelec",
       "home_img": "https://sta.vnres.co/file/common/20251115/dbf82ab36131c6108da1e133bb632c43.png",
       "away_name": "Liga Dep Universitaria Quito",
       "away_img": "https://sta.vnres.co/file/common/20251115/a560d13a0e81afd134fc2ab00fa73061.png",
       "league": "ECU Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6cf104e10e5ad2c7adf0f14a38a771ed&txTime=691c0921"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=ee49a50b04fe372c23b9678be5d80a76&txTime=691c0921"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=b722de6d4c368e238ea1d33232e6c94c&txTime=691c0921"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=e29f1f17fbd5c35b7cdb3c9647b23da5&txTime=691c0921"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1763427025-0-0-eed61b286676fa006f9b2d7021f331f8"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1763427025-0-0-05901af4226c62b2278457d708448e28"
+        }
+      ]
     },
     {
       "id": "303078",
       "match_time": "1763424000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Cleveland Cavaliers",
       "home_img": "https://sta.vnres.co/file/common/20251116/4a59b1ad0efafb2fae19b8b606691299.png",
       "away_name": "Milwaukee Bucks",
       "away_img": "https://sta.vnres.co/file/common/20251116/5001ccbce12d70be2f0c1d18ac1a6c18.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1763427025-0-0-30bbe3211b5b3901d494d80dcff64b0e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1763427025-0-0-2829030e034dc8102bd991f48bad5f4c"
+        }
+      ]
     },
     {
       "id": "303079",
