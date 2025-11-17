@@ -12,40 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1763423125-0-0-6799d7d097f66f9a77c1189e08255ab8"
+          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1763423425-0-0-7a2fb2e41ea142afca0767b69bc40a84"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1763423125-0-0-2f3f623a0858b0479c95f5a2ed072569"
+          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1763423425-0-0-a9725f5f09a1261aa900e3c3d4c62d9f"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=68ee239d479d4ed9ac4b3de2ac57258c&txTime=691bf9e5"
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=39a706cddeae3767975ce9d2805ecad2&txTime=691bfb11"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=f6b8573f82720b5b0f27849c46351fbe&txTime=691bf9e5"
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=74a68ffc911086ef7981a1e2b1994ca9&txTime=691bfb11"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1763423125-0-0-a67e99f764b4a931e21d141a469fb6a2"
+          "url": "https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1763423425-0-0-3bc604a4f0c83d1d760b3556fc7d4001"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1763423125-0-0-1859c7de51b312e0b7079d34486d3dba"
+          "url": "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1763423425-0-0-6a93c64b66753433a0b1ea71d73681a0"
         }
       ]
     },
     {
       "id": "303077",
       "match_time": "1763420400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Mogi",
       "home_img": "https://sta.vnres.co/file/common/20251116/fb702473ae6d9895fdac8e400bf73c3e.png",
       "away_name": "Pato",
       "away_img": "https://sta.vnres.co/file/common/20251116/c7d11d3460d4666f437adb07e253da20.png",
       "league": "NBB",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1763423425-0-0-2a832eee02d879d4808ee1a3174ee50b"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1763423425-0-0-bd2d39c400c1a7ba7458a35f7f8a8bf9"
+        }
+      ]
     },
     {
       "id": "302997",
