@@ -3,13 +3,30 @@
     {
       "id": "303053",
       "match_time": "1763506800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Antigua Barbuda",
       "home_img": "https://sta.vnres.co/file/common/20251116/4d643e9571b4b31865bb247b461338c3.png",
       "away_name": "Guiana",
       "away_img": "https://sta.vnres.co/file/common/20251116/2c67f83c246d234ac1a02842d0b03cab.png",
       "league": "CNCF CSer",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1763509825-0-0-ca9618bcbb87c8cd2751cacd35b3f235"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1763509825-0-0-013a43ab679171e222171ed304b8b95b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=8af09307c965c90d7ee299904965b428&txTime=691d4c91"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=728e4febec0dccb8b1da2bcc4bf95994&txTime=691d4c91"
+        }
+      ]
     },
     {
       "id": "303054",
