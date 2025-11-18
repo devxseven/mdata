@@ -12,40 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=b89b9f12d7d60c32a67f12c8579b5b7c&txTime=691c7875"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=ff87c088eb3cba1a69b3f85a522eaddf&txTime=691c79a1"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=092934d4479654355e3221f610cae215&txTime=691c7875"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c34e65d45b021d54f575f19859ddd084&txTime=691c79a1"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1763455525-0-0-e544ed43cc188fecda9f24d7a5e5c78e"
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1763455825-0-0-e8399f9bab2e56cae9ed6af4dcce5c80"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1763455525-0-0-a7782b3cf17c8484a0365a6395528273"
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1763455825-0-0-2c3de194bd8b03d0fd0e0dbc79b22751"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1763455525-0-0-6a281dd07df86a05f28ab46e3620cd7a"
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1763455825-0-0-8be89b73828c05af4976dbe6c186f9c6"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1763455525-0-0-f47ac5a21af3f6a0fcf9200a5cc1518c"
+          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1763455825-0-0-56e5eb6200c9f09888d075d4c573a048"
         }
       ]
     },
     {
       "id": "303083",
       "match_time": "1763452800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Adelaide Lightning W",
       "home_img": "https://sta.vnres.co/file/common/20251116/d808e0848f306f5ad6779878ef558d7d.png",
       "away_name": "Bendigo W",
       "away_img": "https://sta.vnres.co/file/common/20251116/770cd42a1d594f56fde66f4fa586f85b.png",
       "league": "WNBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1763455825-0-0-6715c0f2fdfec35f93f87a108d18a121"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1763455825-0-0-65997276813e36432c401abdf1f6a5d2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1763455825-0-0-f06fda610723cdf12ca008985ea493d9"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1763455825-0-0-6194e2c97a08fe4e50d599371c338de3"
+        }
+      ]
     },
     {
       "id": "303120",
