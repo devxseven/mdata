@@ -3,13 +3,38 @@
     {
       "id": "302998",
       "match_time": "1763447400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Timor Leste",
       "home_img": "https://sta.vnres.co/file/common/20251115/e7487ed01cdfdd37807a9ee11a35c3af.png",
       "away_name": "Tajikistan",
       "away_img": "https://sta.vnres.co/file/common/20251115/5489e3e4871afd5e6354a4e7c4002627.png",
       "league": "ASIAN CUP",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=addb6ac47270180fb569f45af1f47812&txTime=691c6489"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=2c2680a5d75bc444669831eb8f68855f&txTime=691c6489"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1763450425-0-0-962f3c621ea1df9c02cefc1fa862c31a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1763450425-0-0-b4fcdf07de024c49f8f8fbbdf25f8965"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1763450425-0-0-2a3524c077a756d05da8b289a5f54948"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1763450425-0-0-913fdea850d8777b7bc45ce6b8566d9c"
+        }
+      ]
     },
     {
       "id": "303083",
