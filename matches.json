@@ -12,139 +12,341 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a397eab709ec61ec24e6f0f14be07883&txTime=691d1db1"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=f7ce70fe17186b11e324614ea84ab0b0&txTime=691d1edd"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=693e20daaffe5781f53923e01809f7c9&txTime=691d1db1"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=641239b54c35d3978b630edb9628cf5a&txTime=691d1edd"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1763497825-0-0-35fbe93221330fac7ab85cb086ec6bc7"
+          "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1763498125-0-0-83d65941867b3b9f29d70465cc417826"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1763497825-0-0-87663b184e33a2d840f609ee6c6980e4"
+          "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1763498125-0-0-71cd4b6a2fe2401c85cf5d04915e61f0"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=c2ef41d9ddc58e641c893c0576ce4d38&txTime=691d1db1"
+          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=173a4db0f9755d95830c40784b4d6615&txTime=691d1edd"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=d923d2f68185a3289b366ffb453dbaf5&txTime=691d1db1"
+          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=63b030d244872c29416cff08d4b53a8d&txTime=691d1edd"
         }
       ]
     },
     {
       "id": "303041",
       "match_time": "1763495100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Kosovo",
       "home_img": "https://sta.vnres.co/file/common/20251116/b823ac3fd64482b28f9eff4e818a25e2.png",
       "away_name": "Switzerland",
       "away_img": "https://sta.vnres.co/file/common/20251116/62c787d1989add5d9ec1584339b76d1c.png",
       "league": "World Cup qualification (UEFA)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1763498125-0-0-5c9cbe1d67c837dd8849eedb7d276692"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1763498125-0-0-c1dae06bd891a83acbea7bad3283b6e6"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1763498125-0-0-f60c2d009ebb418f5900e5e1e10dfa7e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1763498125-0-0-6cfed29d5b86e8cf687d6aec5a112714"
+        }
+      ]
     },
     {
       "id": "303042",
       "match_time": "1763495100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Sweden",
       "home_img": "https://sta.vnres.co/file/common/20251116/0b38187c6f64388a97eec1c5261a050f.png",
       "away_name": "Slovenia",
       "away_img": "https://sta.vnres.co/file/common/20251116/9eede2c8e3ff4ec85b7381ff87ece695.png",
       "league": "World Cup qualification (UEFA)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-548260_lhd.m3u8?auth_key=1763498125-0-0-3eda7191a0e69cebe2ef72915d4d01d9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-548260_lsd.m3u8?auth_key=1763498125-0-0-f6b229776a9554fc7c4db109bb1a2fe8"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1763498125-0-0-bb8bce2d320fcb7cbed30808e3af7273"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1763498125-0-0-99fd9630903391be22f8b8c7fe3071a7"
+        }
+      ]
     },
     {
       "id": "303043",
       "match_time": "1763495100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Belarus",
       "home_img": "https://sta.vnres.co/file/common/20251116/5934e0c2745cc887cdc79ec03b0c4b8d.png",
       "away_name": "Greece",
       "away_img": "https://sta.vnres.co/file/common/20251116/d830dcd4368754b37aeee39b55a8a07c.png",
       "league": "World Cup qualification (UEFA)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1763498125-0-0-9cef6e1d45b00a0303c317ddc9ecfa53"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1763498125-0-0-225a7c01b812467959a2f97b091811dc"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1763498125-0-0-22fbbca21eafc1ca977f9b15ff6496fb"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1763498125-0-0-018eeb782f7fe039a4773717cf7c403c"
+        }
+      ]
     },
     {
       "id": "303044",
       "match_time": "1763495100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Bulgaria",
       "home_img": "https://sta.vnres.co/file/common/20251116/dbadd9f4f948273c0d72999ba43eca4f.png",
       "away_name": "Georgia",
       "away_img": "https://sta.vnres.co/file/common/20251116/f427011e50295b6ed1ad750a31acc66d.png",
       "league": "World Cup qualification (UEFA)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1763498125-0-0-9331219317c46d2aa75ad04c1f2c0b57"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1763498125-0-0-380198b9b279981c366306d697941c18"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1763498125-0-0-8157e70f06b9c7888b53632e119dd5d5"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1763498125-0-0-968dac039fa64e2bd40a155b23f04b51"
+        }
+      ]
     },
     {
       "id": "303045",
       "match_time": "1763495100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Austria",
       "home_img": "https://sta.vnres.co/file/common/20251116/65b81a543067d3e1c097fe67d143ca3b.png",
       "away_name": "Bosnia-Herzegovina",
       "away_img": "https://sta.vnres.co/file/common/20251116/ecf5b10f2beab02da61ff9ac572426ba.png",
       "league": "World Cup qualification (UEFA)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-532257_lhd.m3u8?txSecret=26b68ecea004edf9057d1ec3f06abdb7&txTime=691d1edd"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-532257_lsd.m3u8?txSecret=1df592902a290ed3bcf8e63b28e395ff&txTime=691d1edd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1763498125-0-0-e5761dc0b28861427effdbcb13a36e93"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1763498125-0-0-c5a498ba26f11e1a5a59089c1103c3e3"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1763498125-0-0-c98d24a9b39b0c05ca6548bcd9ec52a6"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1763498125-0-0-6913b522b9a4bb6d9aab8c21595cbc2b"
+        }
+      ]
     },
     {
       "id": "303046",
       "match_time": "1763495100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Romania",
       "home_img": "https://sta.vnres.co/file/common/20251116/2d61223e69416d3484bf9a855706cf02.png",
       "away_name": "San Marino",
       "away_img": "https://sta.vnres.co/file/common/20251116/479ccc7df643f654a0f340f717011168.png",
       "league": "World Cup qualification (UEFA)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1763498125-0-0-7f54762a0f769bc759bea38124aedd8f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1763498125-0-0-d4fb2fd4891598184daadfd87c876a6e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/552832-720p.m3u8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/552832-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "303047",
       "match_time": "1763495100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Scotland",
       "home_img": "https://sta.vnres.co/file/common/20251116/706e679c1ee7173c258b764af42f5738.png",
       "away_name": "Denmark",
       "away_img": "https://sta.vnres.co/file/common/20251116/365dbc0608ae85683f2b0395b7075c77.png",
       "league": "World Cup qualification (UEFA)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1763498125-0-0-3a9788d49265e4c6a0a0763e1cb5c222"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1763498125-0-0-1ec05c48e87c14449d02826e85f00b6f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1763498125-0-0-90fa771c0b6538218cf9d4942e35e7fc"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1763498125-0-0-38c33a9bcb21dceb1e757c24fe109604"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=b58b9752643c45043119a26f65206e9b&txTime=691d1edd"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=afda5d819caa32f8ca102ed3841e9ab1&txTime=691d1edd"
+        }
+      ]
     },
     {
       "id": "303048",
       "match_time": "1763495100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Spain",
       "home_img": "https://sta.vnres.co/file/common/20251116/a27e60140e5b21294db6c26f64b67f76.png",
       "away_name": "Turkiye",
       "away_img": "https://sta.vnres.co/file/common/20251116/b2e8e18d2ab69a34e4b37b3ec34f597a.png",
       "league": "World Cup qualification (UEFA)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=9d13acfa80501a6e92f395ab486d0282&txTime=691d1edd"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=30f9deea20f90293ced7e028fdd20996&txTime=691d1edd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1763498125-0-0-787a9b36e81d9473be3e53be3adf17bf"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1763498125-0-0-ad5694a874f24b3f04fa34c7bdb6a3d4"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1763498125-0-0-597b4ee94d14f2eba369427b1dfe9cc5"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1763498125-0-0-07aab032fff4c4f172e337607e5166af"
+        }
+      ]
     },
     {
       "id": "303049",
       "match_time": "1763495100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Belgium",
       "home_img": "https://sta.vnres.co/file/common/20251116/dfdfd0a8a9415c1f7a6c3158b00f796e.png",
       "away_name": "Liechtenstein",
       "away_img": "https://sta.vnres.co/file/common/20251116/4ca53c053bcd5dd6562c890161c5f331.png",
       "league": "World Cup qualification (UEFA)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1763498125-0-0-61fef459d82759c4f0896a6b603c46e9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1763498125-0-0-534f64a8c6981dafaf3b57e7d922e943"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1763498125-0-0-c6b3adccf01dc070b71cf117f7356971"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1763498125-0-0-f4fd5ccd2b248e39524f39207a934c46"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1763498125-0-0-1b327dfe317a57443078cfb48199a9f5"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1763498125-0-0-e46790aa432b2827e14c5e77e0cfda41"
+        }
+      ]
     },
     {
       "id": "303050",
       "match_time": "1763495100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Wales",
       "home_img": "https://sta.vnres.co/file/common/20251116/9ddec33037a0b5d0dee6081f869f9830.png",
       "away_name": "North Macedonia",
       "away_img": "https://sta.vnres.co/file/common/20251116/5738963b4ca5bcc657535a0cc4d90239.png",
       "league": "World Cup qualification (UEFA)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=5a942c361e0b86ccce0f5a2bddc4aff4&txTime=691d1edd"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=e50f3d8e860a46e09eeef484e6a5bb41&txTime=691d1edd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=c16884235fff271b7d2ea40053d3a388&txTime=691d1edd"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=6a1ec4c2baf9ee34d29583b96bc2f60d&txTime=691d1edd"
+        }
+      ]
     },
     {
       "id": "303053",
