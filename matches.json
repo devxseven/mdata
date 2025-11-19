@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=26dc230454fef1dc78f70299d952226b&txTime=691e3a75"
+          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=fa8a87cc7b120c62be394bbef1486b17&txTime=691e3ba1"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=2307eb2396f112cb484d6d533e9d77d8&txTime=691e3a75"
+          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=7c11a1030076771e2eb0ebe87c4ce052&txTime=691e3ba1"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1763570726-0-0-641586802bc2d5e3a96d6823071e1123"
+          "url": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1763571026-0-0-2280153a009ffff649e3cc4e64b5afc9"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1763570726-0-0-25cec9e1757ff91e32dacde53a4b7218"
+          "url": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1763571026-0-0-331f99dfaff09542cc140ab92361fd30"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1763570726-0-0-545122be42456d65139389f633c435bf"
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1763571026-0-0-99578b5e0d74bb891a6b2d34af990d0f"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1763570726-0-0-95ffc56bca6e91e4c3383f41e8428da1"
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1763571026-0-0-cbd44d5c2edd8853d4719e0e3d4fe664"
         }
       ]
     },
     {
       "id": "303074",
       "match_time": "1763568000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Karlovac",
       "home_img": "https://sta.vnres.co/file/common/20251116/e1f698b050443a0bc8e3db2b6ab5a4b1.png",
       "away_name": "Dinamo Zagreb",
       "away_img": "https://sta.vnres.co/file/common/20251116/c527f2fec9f77596088b2b9e617473c1.png",
       "league": "CRO Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1763571026-0-0-f28665ad1e9e9a600e593586a99787a9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1763571026-0-0-94d48227a9b3dc74c0bb4bc1943578e2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/406865-720p.m3u8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/406865-480p.m3u8"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1763571026-0-0-b3920017b06728e378af17df648b31b4"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1763571026-0-0-4a485861e7c23efc1377411c0b4eec49"
+        }
+      ]
     },
     {
       "id": "303095",
