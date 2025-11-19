@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1763552725-0-0-802a936c34ad78f582e129307c297d7c"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1763553025-0-0-af456608e6a26de58ea321d84850e0fe"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1763552725-0-0-5277bd91f5ace0c1c7978f0c7f55c763"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1763553025-0-0-4479e63a095187a857449b6dcfe8575a"
         }
       ]
     },
@@ -32,11 +32,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1763552725-0-0-1891332f9b2b2cb38a2900f2d87438ec"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1763553025-0-0-8ee102fcaece00ddd8045f0670cb1f64"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1763552725-0-0-10feff50887047198c2e8cc08fca12a2"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1763553025-0-0-83739ca1783bab8f465a5306f2194f87"
         }
       ]
     },
@@ -52,46 +52,97 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1763552725-0-0-1b74d8988dfb210c851eb1c5282f75b0"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1763553025-0-0-e85e46f4095670467aab6087878355f6"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1763552725-0-0-33837f068e6ea81985495730878783cc"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1763553025-0-0-19237e1f160ac5a240f0f84f11c2a911"
         }
       ]
     },
     {
       "id": "301336",
       "match_time": "1763550000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Nagaworld FC",
       "home_img": "https://sta.vnres.co/file/common/20251019/dd883ddb801f316bd71495e6387de62f.png",
       "away_name": "Phnom Penh Crown FC",
       "away_img": "https://sta.vnres.co/file/common/20251019/5d175b717359f506626a5c726b48cd14.png",
       "league": "CAM D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=ba9f5a431702553e0bb39de1eeae7395&txTime=691df551"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=0a30242208dbb89231a1473d4e9e3f7c&txTime=691df551"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/552832-720p.m3u8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/552832-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "303068",
       "match_time": "1763550000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Shurtan Guzor",
       "home_img": "https://sta.vnres.co/file/common/20251116/248df738160b50a07270a1d1280dfb1e.png",
       "away_name": "Buxoro FK",
       "away_img": "https://sta.vnres.co/file/common/20251116/83b01a764f762af1654712e67243bb0d.png",
       "league": "UZB PFL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=ac38ae5cb867ef3cc37571de90b03b40&txTime=691df551"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=01465cea03a19f7ccac5707b8dcf47f6&txTime=691df551"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1763553025-0-0-34d262a6e077e0ace640ba17dc4fa075"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1763553025-0-0-e1bd8232c1471df87ea739f1ffdb7143"
+        }
+      ]
     },
     {
       "id": "303069",
       "match_time": "1763550000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "ISI Dangkor Senchey FC",
       "home_img": "https://sta.vnres.co/file/common/20251116/a8ef183d45ca2abb0513e31c6491d278.png",
       "away_name": "Svay Rieng FC",
       "away_img": "https://sta.vnres.co/file/common/20251116/63250f60a8e6b7e9f36174a34c32b4a1.png",
       "league": "CAM D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1763553025-0-0-90584b216b1718102276a569bee5a912"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1763553025-0-0-a3e07822582e90093d2590e83f848fba"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=a128f5cdcac7cfe8f85c19cada8f8797&txTime=691df551"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=a83886baf719bb959cdd828597270f29&txTime=691df551"
+        }
+      ]
     },
     {
       "id": "303070",
