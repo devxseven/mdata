@@ -3,13 +3,38 @@
     {
       "id": "303073",
       "match_time": "1763564400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Farense U23",
       "home_img": "https://sta.vnres.co/file/common/20251116/323ef91540b76be47e5719b09868f5c2.png",
       "away_name": "Estrela FC U23",
       "away_img": "https://sta.vnres.co/file/common/20251116/9f9909eb5a1bc777b761d1b65bed23c1.png",
       "league": "POR LRU23",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=9e8b059e0bce2557dc041040fb5ff76d&txTime=691e2d91"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=bbeaa737e4711985688f8e04b5bd70cd&txTime=691e2d91"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1763567425-0-0-fac5967547cd45d0eebeccbd82ca619b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1763567425-0-0-aed0406a04f1fbe8cb2e7216f69b01ef"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1763567425-0-0-40c67711726239dcbc6c6ef09e94526f"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1763567425-0-0-10f991d76a1eab9a313be6c3b28e564d"
+        }
+      ]
     },
     {
       "id": "303074",
