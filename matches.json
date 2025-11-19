@@ -3,24 +3,66 @@
     {
       "id": "303100",
       "match_time": "1763591400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Palmeiras",
       "home_img": "https://sta.vnres.co/file/common/20251117/a4e4f7248fca5ae7dcc2a6ff3a68e23c.png",
       "away_name": "Vitoria BA",
       "away_img": "https://sta.vnres.co/file/common/20251117/8a981f4648e1d2cd0e528d2fb623ca97.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1763531905-0-0-cdca294d603212f0add82c12f0b37f65"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1763531905-0-0-fe9b3c563b493e4b465f8cf76d4c6ea7"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=c2acf8956fde390d902644b9a35d59b8&txTime=691e9709"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=f20df59de8d18085b2429cc94dcf5c09&txTime=691e9709"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1763594425-0-0-58f5e409445649d71d843bd1e5704bfe"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1763594425-0-0-5ce26de30058d10bda2ea5c3a1fcbb07"
+        }
+      ]
     },
     {
       "id": "303101",
       "match_time": "1763591400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Vila Nova",
       "home_img": "https://sta.vnres.co/file/common/20251117/5887f1a95426b30d46a91c9c6b831b40.png",
       "away_name": "Volta Redonda",
       "away_img": "https://sta.vnres.co/file/common/20251117/001b63ce91c763a2404d61661d3a0a70.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/9912114-720p.m3u8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/9912114-480p.m3u8"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1763594425-0-0-fe7dd86b61c43ab82046e49d2d2efce6"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1763594425-0-0-1644f3456f1379eab254a70082bb0bd7"
+        }
+      ]
     },
     {
       "id": "303102",
