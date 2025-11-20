@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=3a995015c14dfdfa00132d9e036289c5&txTime=691fe75e"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=1e2a5de059944a99332686e1a8a83922&txTime=691fe88a"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=52642fb497ac20faf9259ed5d0fecafd&txTime=691fe75e"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=570eecf1fa465a948f6c4bccfdb14880&txTime=691fe88a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=d5d9079e89cdfd7f36be629fba881801&txTime=691fe75e"
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=5db0b9dd4cf1de29a71995fb28968208&txTime=691fe88a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=3636a35f74e5ff0517488420d175bfd7&txTime=691fe75e"
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=45b87b668e372744f81082b9e971025b&txTime=691fe88a"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1763680526-0-0-0207614cacc8df1b728c5710011f59a3"
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1763680826-0-0-edfc5664e2ad5e3122be55e5edd13ffb"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1763680526-0-0-b0206c61035dfdf83bdb985ee4d9c628"
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1763680826-0-0-fa865610753c46f7295d33e39acf4c1d"
         }
       ]
     },
@@ -48,35 +48,77 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1763680525-0-0-cf9ba99a40bf8d997a0b563e1ca62d63"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1763680825-0-0-05510d99e2b91fae4f8310711fb6edad"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1763680525-0-0-a1deeeb3ace9a1df33270e8f4affa5da"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1763680825-0-0-7273bf0f022fe1c0806606b4e06efc98"
         }
       ]
     },
     {
       "id": "303148",
       "match_time": "1763677800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Corinthians Paulista (SP)",
       "home_img": "https://sta.vnres.co/file/common/20251118/6df6f07b4e947280503a4bc5afd11ff2.png",
       "away_name": "Sao Paulo",
       "away_img": "https://sta.vnres.co/file/common/20251118/c9dc9b506015a1743fc98ff42b644001.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1763680826-0-0-d72eee811411832ae55c40a9108aceab"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1763680826-0-0-f6d9e15d40b7c04c406d1ac286479356"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=49b001bde0dee788b0e69c5826e80618&txTime=691fe88a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=7c4ebef1b0567f2f422885071756e146&txTime=691fe88a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1763680826-0-0-826a9839f89a3bff87d837a7ac3d2960"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1763680826-0-0-730b15d596a240508f2fec8fc4819b59"
+        }
+      ]
     },
     {
       "id": "303149",
       "match_time": "1763677800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC Nacional Asuncion",
       "home_img": "https://sta.vnres.co/file/common/20251118/20a447a1dccdd44e335225c9bcca8574.png",
       "away_name": "Sportivo Ameliano",
       "away_img": "https://sta.vnres.co/file/common/20251118/9c2914b26e86847c24462c96c0769c6f.png",
       "league": "PAR D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1763680826-0-0-5dd2a083bdc69fce68faac7cc252f2c1"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1763680826-0-0-f33958ba3ddfc0e9a0bf46fa04fc0aef"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1763680826-0-0-67ee2758f9c0d74d3be4fddb7ea27a21"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1763680826-0-0-cf18126972deb3dc484cac6b20dbf2be"
+        }
+      ]
     },
     {
       "id": "303266",
