@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1763671526-0-0-4bbe3c9422e33196814530c804b0ddf4"
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1763671826-0-0-b9bc697cb48e6015ecb298081464efe6"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1763671526-0-0-1d2eb35dbbd5ca24dc8801e221d25e05"
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1763671826-0-0-dd3f51be83d6eae4f0260ecbb6d33ebb"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1763671526-0-0-8de0e5ffabd2f98ff305c19755ff091f"
+          "url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1763671826-0-0-11baa9265e9c8acba772a0af0af9417c"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1763671526-0-0-e747d6024c56dc675687982d3f903824"
+          "url": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1763671826-0-0-988469dfea211db22803bb04727e5a49"
         }
       ]
     },
@@ -40,84 +40,185 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=725abc78c7303f4e71a7395332890a6c&txTime=691fc436"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=4b414b33886f57aeeefb09dc80b9e623&txTime=691fc562"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=394f1a85d31ee980fbfeba5238d37468&txTime=691fc436"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=2a0b1ebb6864842f822e680ecf0e9fff&txTime=691fc562"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1763671526-0-0-8ef92021a11e9ac4504b4b4e28647098"
+          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1763671826-0-0-66712e3efff043376982fd80fdde8cc1"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1763671526-0-0-d1422d9ba650ee54acf14ce518aa44e1"
+          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1763671826-0-0-04619e03d7167f48d9d4049bac2e46cc"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1763671526-0-0-a49ff7de942f613975d5be231c3b1f45"
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1763671826-0-0-6944ec167a1a3a1b9b820d814f3fd1ed"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1763671526-0-0-bccba34af0679570d6d46e10ef85668a"
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1763671826-0-0-47ded94bf05d3203c117816507b842a7"
         }
       ]
     },
     {
       "id": "303142",
       "match_time": "1763668800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Peterborough United",
       "home_img": "https://sta.vnres.co/file/common/20251118/6ea88203564d2067dd12bd864f342d90.png",
       "away_name": "Stockport County",
       "away_img": "https://sta.vnres.co/file/common/20251118/7c0fa778bc699107c1f738ab4a14d05b.png",
       "league": "ENG D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/406865-720p.m3u8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://stream-flv.dfsfe.top/lives/406865-480p.m3u8"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=5e7cec0a8ef0e3cf3ddebc992eac6b31&txTime=691fc562"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=6a170b70b96c76abade023a445eb20e9&txTime=691fc562"
+        }
+      ]
     },
     {
       "id": "303143",
       "match_time": "1763668800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Club Sportivo Trinidense",
       "home_img": "https://sta.vnres.co/file/common/20251118/1fb117f122d30f0a559fbb8fa57b019d.png",
       "away_name": "Atlético Tembetary",
       "away_img": "https://sta.vnres.co/file/common/20251118/012b9281eb4dee75391e372c90287346.png",
       "league": "PAR D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8e7e2006292c1ada1202665cbcd5ef2d&txTime=691fc562"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=675ee4ab0db69415c244c91b4997da12&txTime=691fc562"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1763671826-0-0-c44a9d4b855b1e626d39d03a01b73e57"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1763671826-0-0-b3d11352faab3522f960a8ba615a7e05"
+        }
+      ]
     },
     {
       "id": "303144",
       "match_time": "1763668800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Chelsea FC Women",
       "home_img": "https://sta.vnres.co/file/common/20251118/5c0208d9f09d0a4b0f14f6b2941ce10e.png",
       "away_name": "Barcelona Women",
       "away_img": "https://sta.vnres.co/file/common/20251118/357193959ef1374774f87fbc344eccb6.png",
       "league": "UEFA WCL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1763671826-0-0-9e8f83f1d7eefb49bf656d9ff7742925"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1763671826-0-0-3dd9f76a5ce74ddb49cf08b108bf4511"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1763671826-0-0-464fbfd6154d06594e31f77c9e65ccbd"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1763671826-0-0-af0ca262d70696e6ec292d6a315cf459"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1763671826-0-0-d805863648085cbcdc78cae96290e55d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1763671826-0-0-b835abb5606f9e5f7961bb1337c3441c"
+        }
+      ]
     },
     {
       "id": "303145",
       "match_time": "1763668800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Oud Heverlee Leuven Women",
       "home_img": "https://sta.vnres.co/file/common/20251118/64d01d2f4c731989df380160cf42ef98.png",
       "away_name": "AS Roma Women",
       "away_img": "https://sta.vnres.co/file/common/20251118/04a8b5ec3dfb04116200252b3188d282.png",
       "league": "UEFA WCL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1763671826-0-0-3db9c846189b9b9e0499dfaa2acb9aa9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1763671826-0-0-7fac31ccbfc85fd5b70a7174cf0c2171"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/552832-720p.m3u8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/552832-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "303146",
       "match_time": "1763668800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Paris Saint Germain Women",
       "home_img": "https://sta.vnres.co/file/common/20251118/8d3874e65685004b1d7abed878d02bb7.png",
       "away_name": "Bayern Munchen Women",
       "away_img": "https://sta.vnres.co/file/common/20251118/883429f5704c5113740e4aa6942672da.png",
       "league": "UEFA WCL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1763671826-0-0-db2b2cbef8d6f1a302cf42ecbd8d01ef"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1763671826-0-0-5b0c5c99d3007a7d303c69e53a237759"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1763671826-0-0-fd02d66fd3e5dc48311fa104a36d837a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1763671826-0-0-c19d4b813b744b6cddce449c083fa277"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1763671826-0-0-c64ca2b831de9cebbac06b501443d909"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1763671826-0-0-f41a52aeda025f284b16ece1c4cd2891"
+        }
+      ]
     },
     {
       "id": "303147",
