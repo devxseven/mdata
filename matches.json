@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1763714726-0-0-0c571689f9d0719c31cde64bb8f38eea"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1763715026-0-0-238d321f11d6065fb49a1a5f4814575e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1763714726-0-0-948f86a49530c6ed3f3240e7db5889c8"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1763715026-0-0-54f43b62ba31ebbb3dc755034ae28f0d"
         },
         {
           "name": "VN HD 2",
@@ -31,13 +31,22 @@
     {
       "id": "303272",
       "match_time": "1763712000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Adelaide Lightning W",
       "home_img": "https://sta.vnres.co/file/common/20251119/005a50659e2519f7e59858df58ac460d.png",
       "away_name": "Geelong Venom W",
       "away_img": "https://sta.vnres.co/file/common/20251119/a7b165f2095565f651b792eb15b78e6a.png",
       "league": "WNBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1763715026-0-0-8d79b6a1a914bffe02d046c78076b995"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1763715026-0-0-01efbe6f2275b566b6d67c918f5c9b60"
+        }
+      ]
     },
     {
       "id": "303155",
