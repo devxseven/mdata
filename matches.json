@@ -3,13 +3,30 @@
     {
       "id": "303271",
       "match_time": "1763706600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Northern Kahu W",
       "home_img": "https://sta.vnres.co/file/common/20251119/199985da0cd70d071ee0e4b7a2f25b81.png",
       "away_name": "Mid-North Whai W",
       "away_img": "https://sta.vnres.co/file/common/20251119/007bd28191c67a67ff1d86f19b650ca6.png",
       "league": "WNZT",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1763709626-0-0-a780cf0aad9d175d5ae907081a4e345f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1763709626-0-0-cea1be975c3cd2b9973d2542d0813fc0"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "303272",
