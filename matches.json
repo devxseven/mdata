@@ -20,11 +20,11 @@
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1763766926-0-0-3d8e6f28327ff313993bf4481db1049e"
+          "url": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1763767226-0-0-31a3cedbec2f3e64061dfc9a12ecb4a7"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1763766926-0-0-c0b6c76d5b12bef91d4b73bea56a33b2"
+          "url": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1763767226-0-0-d2ff2166be95abb69679311da0da3eae"
         }
       ]
     },
@@ -60,24 +60,33 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1763766926-0-0-c1e6d239b94345f29d7a0371680a7d00"
+          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1763767226-0-0-8f10f3b1a0dfc25b348edd19c9d74028"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1763766926-0-0-30426c00af0fd30dbe5f5fe94ce7a84b"
+          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1763767226-0-0-5e747e1ea9e2551594c2909e32956aa8"
         }
       ]
     },
     {
       "id": "303356",
       "match_time": "1763764200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Osasco",
       "home_img": "https://sta.vnres.co/file/common/20251120/f7f3797305b436c6d96c79003eb2fce4.png",
       "away_name": "Caxias do Sul",
       "away_img": "https://sta.vnres.co/file/common/20251120/fd5127f5b4f910a1abba98cb40f5abe9.png",
       "league": "NBB",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1763767226-0-0-77e1e5d29ffb2477241f39b7cea4f1d6"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1763767226-0-0-eae021d6acceb90e19bbfc901ae76e0a"
+        }
+      ]
     },
     {
       "id": "303208",
