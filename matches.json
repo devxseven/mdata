@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1763853326-0-0-c79dbf42e41e11e2882412415c13b13f"
+          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1763853626-0-0-31acbd526372c75a2b93485dac7906b6"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1763853326-0-0-6249e322f83aee25c1d008bc7db16cfc"
+          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1763853626-0-0-c5577aca1947460c6a372c73d6daa512"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1763853326-0-0-8a4ac8ef0107dd20733b52885591ff8f"
+          "url": "https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1763853626-0-0-965c749bb831f736c31ac432c5d8983c"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1763853326-0-0-221410a4e5a2ff1e974e3bb553d3a6b3"
+          "url": "https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1763853626-0-0-e3a6b8d31b1dd4a7b96c97da8953f953"
         }
       ]
     },
@@ -40,32 +40,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1763853326-0-0-00d0a684e22e03fbbdb83228214a0ae5"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1763853626-0-0-6191a483e36787fb84dcc805c32593fb"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1763853326-0-0-3ed143be5acdef8f74c2884fafd2ae80"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1763853626-0-0-4f3a1bd49688c60dadd16d6a23a38f32"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1763853326-0-0-51d91636b52f2a3e1bbf54017865ec6b"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1763853626-0-0-e21b5966c0cbb7fe7bc0dec08a973fd0"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1763853326-0-0-c3eb428ce9cfe3c855b069bb2182ed42"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1763853626-0-0-9d82ef62cd10658e1e33a1161554490d"
         }
       ]
     },
     {
       "id": "303297",
       "match_time": "1763850600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Botafogo RJ",
       "home_img": "https://sta.vnres.co/file/common/20251119/ffa7a5ba4e44c1a23018a922318b3da4.png",
       "away_name": "Gremio (RS)",
       "away_img": "https://sta.vnres.co/file/common/20251119/a7a8d4456d6f464c82b2cae29d668870.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=cd6b419b0125932a83f5f4138d134a1a&txTime=69228b8a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=1eb41b9baad18779f2e491fda31ba4fd&txTime=69228b8a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1763853626-0-0-229f10af4cd1902786f2ecf3bfb0d2d0"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1763853626-0-0-33cf3500549374aee779e1cfc9383bee"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1763853626-0-0-ad7e81870ff633b67c60514d31b5e713"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1763853626-0-0-df0cc77db8daa88f51b69b49a55e3c4a"
+        }
+      ]
     },
     {
       "id": "303298",
