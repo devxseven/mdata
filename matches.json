@@ -20,11 +20,11 @@
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1763786726-0-0-818ed865b279033025ab40571420a1d3"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1763787026-0-0-9fed84ab0ec2631304d51288b04c6f1c"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1763786726-0-0-c61c6d95fd8392ac87ab77fcb36ec537"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1763787026-0-0-8375011ac588f503090ae5a1a4263927"
         }
       ]
     },
@@ -40,11 +40,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1763786726-0-0-66ad89790e0d2190ca6d8f947f495dc0"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1763787026-0-0-eca80f01ea23799cc802ba2b1c2fb407"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1763786726-0-0-447d5f7b99f25136e9b27cf15f45edbf"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1763787026-0-0-35e44f273a1ec42c27859641dde8f75e"
         }
       ]
     },
@@ -60,43 +60,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1763786726-0-0-fc3d7a9252af623adae15a8e6fb4bc29"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1763787026-0-0-cca5a7cd47d2c3be579dc79fe9b3f5e4"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1763786726-0-0-38e0b549e762c4f590da12bf82acc09a"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1763787026-0-0-6d9430f7a9616b1b1bebab1fe4db2689"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=782aedb3749bc158c8604bc226d7900b&txTime=69218636"
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=0aae75b1400e38b50db24c1434ce35d7&txTime=69218762"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=f22e13f1355b7972356f81a2f00f7655&txTime=69218636"
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=1ce54d2ae43d1e62b8b25c2d4693b892&txTime=69218762"
         }
       ]
     },
     {
       "id": "303214",
       "match_time": "1763784000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Wellington Phoenix",
       "home_img": "https://sta.vnres.co/file/common/20251119/29a9ad4c91b4c292911c9c8db2ab66a9.png",
       "away_name": "Macarthur FC",
       "away_img": "https://sta.vnres.co/file/common/20251119/7e4a54cb0bc5cea3e8490dad087d8fd3.png",
       "league": "AUS D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=fa0665d0978fdd347457aa3e9ea2dec1&txTime=69218762"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=55a6592a219c20c5f10e6fca3d07f17b&txTime=69218762"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=d9be4b5d469ad42c93ac21ad27490b91&txTime=69218762"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=2dac3ba90ae75c1753afca352947b646&txTime=69218762"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1763787026-0-0-541951c1b0a00b9e47ae90dc2068aa76"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912104_lsd.m3u8?auth_key=1763787026-0-0-009705bf8258f29aaaa25a4e7d70ddea"
+        }
+      ]
     },
     {
       "id": "303215",
       "match_time": "1763784000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Newcastle Jets Women",
       "home_img": "https://sta.vnres.co/file/common/20251119/c70713e7095f7c69ff06997e9fc6155e.png",
       "away_name": "WS Wanderers Women",
       "away_img": "https://sta.vnres.co/file/common/20251119/55610d935ceb459d1d0c9cf4fe30ea43.png",
       "league": "AUS WAL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1763787026-0-0-f95ce1c2cbfa00254755b4dda975edf8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1763787026-0-0-756e535841a579ef076236aacb88c3b4"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=65c9c897858b6632a5402e663fefde21&txTime=69218762"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=e6e5c5b29f2110dba75697025dfa7d9b&txTime=69218762"
+        }
+      ]
     },
     {
       "id": "303216",
