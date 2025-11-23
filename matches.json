@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1763929826-0-0-0123bee74ee1326e4d164dfb4955b9bc"
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1763930126-0-0-693da8053377744faac4a6b496bf1862"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1763929826-0-0-050d959fd6bfc7214df1637a2fe53a36"
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1763930126-0-0-635b45902db23dea06f468945c56abf5"
         }
       ]
     },
@@ -32,35 +32,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1763929826-0-0-6877cc887f2a3a518d17af9636a617df"
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1763930126-0-0-8d94269991f7701f7ecd1279e5bc0a4d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1763929826-0-0-05402bc0b14190981909034855a2f3bf"
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1763930126-0-0-55c283b1b8515995492c5a5770c59e1f"
         }
       ]
     },
     {
       "id": "303376",
       "match_time": "1763927100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Inter Milan",
       "home_img": "https://sta.vnres.co/file/common/20251121/c53a52c87b3fbd83836792729ff8b24f.png",
       "away_name": "AC Milan",
       "away_img": "https://sta.vnres.co/file/common/20251121/e1e473ad79d97bc7b44cf71705c8c3bb.png",
       "league": "Serie A",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912092_lhd.m3u8?auth_key=1763930126-0-0-bdf432ee459c466925863e54b82ed111"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912092_lsd.m3u8?auth_key=1763930126-0-0-b315aa6459d9c1bda235f70820ba5f61"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1763930126-0-0-c3db5b2a04ff41ad5acb3ca0df786120"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1763930126-0-0-4aa11f2d393029d1669eb8f84a8e0621"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1763930126-0-0-f944b5efbc8e1fcecac96386fc9acc68"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1763930126-0-0-97cd465f7cf0dd7e4b176de6f8e359e9"
+        }
+      ]
     },
     {
       "id": "303377",
       "match_time": "1763927100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "LOSC Lille",
       "home_img": "https://sta.vnres.co/file/common/20251121/7c07fc34c142b5321d6f2f3c580c5dfa.png",
       "away_name": "Paris FC",
       "away_img": "https://sta.vnres.co/file/common/20251121/27a6c84f967497b044adc2a604a1fe0a.png",
       "league": "Ligue 1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1763930126-0-0-0f5771ab2971dae4dae0e2333bf4476f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1763930126-0-0-3a3a7552cbae69d92094001b733628f6"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1763930126-0-0-3342d9ae15a56c9f4282e8daaf54da90"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1763930126-0-0-ff7b11e19764f29f3e46249ac82fa302"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=c81535f1326f7884d5a3a204929ac476&txTime=6923b65e"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=dee0822fc5533a5831c9762827bbee6d&txTime=6923b65e"
+        }
+      ]
     },
     {
       "id": "303378",
