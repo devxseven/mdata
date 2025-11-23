@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=164e4214356dd1fb5f27447a5573102f&txTime=6923250e"
+          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=dd85dd2e389c8b498e864da17ffb8c68&txTime=6923263a"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=2eb42b15c9f58af8adc25efd1c7f8cf7&txTime=6923250e"
+          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=bbf08007914f01b5abe511bfbb004777&txTime=6923263a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=c5e8a5b117363e88d8f444f925dcafe9&txTime=6923250e"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=812c35753e698fd60baf38015fb71372&txTime=6923263a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=af0a565807e379853061f796f9ce16f8&txTime=6923250e"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=a086ed04647fe39fdaee72d00fedb3e6&txTime=6923263a"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=03dfe1a8b965d67982a7cf5fdf15f9ec&txTime=6923250e"
+          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=194c9221cddb6313fdf10dfe2156d599&txTime=6923263a"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=c57d966dca6413f5fd8898ac81d40bd2&txTime=6923250e"
+          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=443dc6fee012b3aad9eeb331eb5c8cd7&txTime=6923263a"
         }
       ]
     },
@@ -48,32 +48,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1763892926-0-0-e53e3ed92ff01ee8381a305c0e05b9e9"
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1763893226-0-0-15e6e2bea8427e33ee97a82b5c850fe2"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1763892926-0-0-7c6f74c84afb7f8d5526496f26502a33"
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1763893226-0-0-5cf312da1178fd34e1639a4067ecb312"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1763892926-0-0-94f45ddbc4645d306e45272fa22d3434"
+          "url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1763893226-0-0-5ee94112c4e5faa18d62363ee0eae946"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1763892926-0-0-9581432a971d3d60857f76209ce1e853"
+          "url": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1763893226-0-0-3e5b2e74cc36f936767e968d9ca4a52d"
         }
       ]
     },
     {
       "id": "303326",
       "match_time": "1763890200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "SKN St.Polten",
       "home_img": "https://sta.vnres.co/file/common/20251119/d3a5ac286aad5751af8689b0a4421db1.png",
       "away_name": "Kapfenberg SV 1919",
       "away_img": "https://sta.vnres.co/file/common/20251119/77466c538507c9c110568545c904d016.png",
       "league": "AUT D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1763893226-0-0-5d27c958926c3031bd37b955df090d58"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1763893226-0-0-2cd88df3440e9572681de2d5d3d188a7"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1763893226-0-0-17f3f62f99caa8cd6969f9c5a2e5b2a1"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1763893226-0-0-2b1effb13bf862be5aa6ead33e0862a5"
+        }
+      ]
     },
     {
       "id": "303327",
