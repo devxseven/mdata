@@ -3,13 +3,38 @@
     {
       "id": "303465",
       "match_time": "1764056700",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Melbourne City",
       "home_img": "https://sta.vnres.co/file/common/20251122/d7d4bab467ae21c6880f71387e2fa16f.png",
       "away_name": "Johor Darul Ta'zim FC",
       "away_img": "https://sta.vnres.co/file/common/20251122/11bc1062619a4764d8d5fd80120a38a5.png",
       "league": "AFC Champions League Elite",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=8a057934e462c2f0b9119e06dc8684e6&txTime=6925b09e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=4677c97a17b23c4e8df485dc9e7089f6&txTime=6925b09e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=6c99f2ca22747f327884302ba3f2901c&txTime=6925b09e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=a4a3c39423e64ea7f534be631990a180&txTime=6925b09e"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=a45f53d2f3a54768f276d5b557432a30&txTime=6925b09e"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=cb640c2d654e99a01e0b58e2f7d042dd&txTime=6925b09e"
+        }
+      ]
     },
     {
       "id": "303466",
