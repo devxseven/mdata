@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1764103526-0-0-21b1ed6540cc36e991d4d8d1d7e2609b"
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1764103826-0-0-a5533f22caeb6c56240282d43a11b17f"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1764103526-0-0-a6ddb62062d05156a593e6ec50870128"
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1764103826-0-0-b17660ab9338bb62095b751a217e0641"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1764103527-0-0-389b37b2a10f926710bc128ea338a7d6"
+          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1764103828-0-0-b851e948f99e9d1a6fb416059371ecf1"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1764103527-0-0-e36b83c6605cf07c6dd6725cfe2dda6c"
+          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1764103828-0-0-70f9716845059f37231c1640026d812a"
         },
         {
           "name": "VN HD 3",
@@ -39,79 +39,246 @@
     {
       "id": "303487",
       "match_time": "1764100800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Bodo Glimt",
       "home_img": "https://sta.vnres.co/file/common/20251123/571d26409d63750153ab5aaaa04fc6f4.png",
       "away_name": "Juventus",
       "away_img": "https://sta.vnres.co/file/common/20251123/f5f506d86b2d395eb776effe36b397fd.png",
       "league": "UEFA Champions League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=9d1480557fab40df1476ed33171c6bef&txTime=69265ce4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=bf5f2d69da3b5cf119c69ae0a665dbbd&txTime=69265ce4"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1764103828-0-0-84a68cd37ea87d0db36358a6e63fdbf2"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1764103828-0-0-d2a92e39216c25e4153b37c3bd338f03"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1764103826-0-0-c4072a9c98687a8a12b6aaac4a44c88f"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1764103826-0-0-cdf43fe2b4ec578fafea0b76f6ffa666"
+        }
+      ]
     },
     {
       "id": "303488",
       "match_time": "1764100800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Chelsea",
       "home_img": "https://sta.vnres.co/file/common/20251123/8cbc80f94bec8c045f0fc4fb01eadcde.png",
       "away_name": "FC Barcelona",
       "away_img": "https://sta.vnres.co/file/common/20251123/47708ce3f5f7911fd89c9eb570c0ec61.png",
       "league": "UEFA Champions League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1764103828-0-0-11a4c438c2bb58d2c596ab014b6351d2"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1764103828-0-0-7f841052fa2cb04bb53da7a6a13f60ad"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1764103826-0-0-6dda50fb896172d0c6358f004fc8d205"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1764103826-0-0-960d47110e3848380998b8cd35da9d23"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=451680d9bec7be206c32094fb9faab35&txTime=69265ce4"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=bd3c462d7de898b5cc3fdd0bdaec7a7d&txTime=69265ce4"
+        }
+      ]
     },
     {
       "id": "303489",
       "match_time": "1764100800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Borussia Dortmund",
       "home_img": "https://sta.vnres.co/file/common/20251123/73396186243c9581ab9397d211ecbed9.png",
       "away_name": "Villarreal CF",
       "away_img": "https://sta.vnres.co/file/common/20251123/4a0c8845dd8f4b2262c8adbbb1b265e8.png",
       "league": "UEFA Champions League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=c29ff1ebc70e7a6578737de1c31729de&txTime=69265ce4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=ddeb539aceafce1bbbb62d9062f849ac&txTime=69265ce4"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1764103826-0-0-a709f1de6dcf87f7d67aad478992b411"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1764103826-0-0-578bd453b33107512e777e4b0b4c81c8"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1764103826-0-0-f06bbe2e61ab071c4a8988a1424eb20e"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1764103826-0-0-135b2838360ce27a7a24f265bc9fd6db"
+        }
+      ]
     },
     {
       "id": "303490",
       "match_time": "1764100800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Manchester City",
       "home_img": "https://sta.vnres.co/file/common/20251123/d567a8ebc3a3b413458c932105aaa265.png",
       "away_name": "Bayer 04 Leverkusen",
       "away_img": "https://sta.vnres.co/file/common/20251123/164fbafac2a90c8a040a01199531882c.png",
       "league": "UEFA Champions League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1764103828-0-0-b822cfa4ed730c3f79f252809675aa50"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1764103828-0-0-6400e0be25cbbd4655e486cb503d0515"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1764103826-0-0-a698bc7e35078b2b9e54b9f7d4249a6c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1764103826-0-0-c8c4b802e460fd2717ab326e8bc5a0da"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=ae9a26a83bd678f84c264cc25a522112&txTime=69265ce2"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=d75288eb3e089d2b70ff53c7028db6be&txTime=69265ce2"
+        }
+      ]
     },
     {
       "id": "303491",
       "match_time": "1764100800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Marseille",
       "home_img": "https://sta.vnres.co/file/common/20251123/c3b89f63bc760c0cc1dd6cddbdc04b2d.png",
       "away_name": "Newcastle United",
       "away_img": "https://sta.vnres.co/file/common/20251123/d06cd95574ea88e0b463f8bcb7a1a3a4.png",
       "league": "UEFA Champions League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1764103828-0-0-37bf6d76654d3d15811e27f6c94f2e1d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1764103828-0-0-738c7347170b1e8dff90a214b910ab25"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1764103828-0-0-23f5cfd8370e64f9fa181b7edda49603"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1764103828-0-0-285055ae200b0158442e418e16f2008d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1764103828-0-0-ffd6eeb42a536069b4fdff4cfc739356"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1764103828-0-0-a54c4848c5acce69e131432b350f88c4"
+        }
+      ]
     },
     {
       "id": "303492",
       "match_time": "1764100800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Napoli",
       "home_img": "https://sta.vnres.co/file/common/20251123/c37d0bbcf205070dd87c492365f38af4.png",
       "away_name": "Qarabag",
       "away_img": "https://sta.vnres.co/file/common/20251123/a9fb8305368eef03f47600fabf067e3c.png",
       "league": "UEFA Champions League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1764103828-0-0-849d5cb9fabc9ae51ef4e623ab6ad048"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1764103828-0-0-352527b6dc14664445c871c1d49ba999"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0ea74239d362bba9af791c9effdb25d8&txTime=69265ce4"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=08ab14583ca1b11e69db5e6b70bd5959&txTime=69265ce4"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1764103828-0-0-cbdc795d5b0934500d70a301d89a6832"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1764103828-0-0-03603ae51f8461bf2681db7577e02ad4"
+        }
+      ]
     },
     {
       "id": "303493",
       "match_time": "1764100800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Slavia Praha",
       "home_img": "https://sta.vnres.co/file/common/20251123/a14ac55213b006e071aaf341a5fa405e.png",
       "away_name": "Athletic Club",
       "away_img": "https://sta.vnres.co/file/common/20251123/4cea882cd9a7d0be02d1aad36dea4ce7.png",
       "league": "UEFA Champions League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1764103828-0-0-2e9eb4fdde2eb2811791c93c8cd54dbc"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1764103828-0-0-d26707c01328bf696364c86ca0c339c1"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/552832-720p.m3u8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/552832-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "303494",
