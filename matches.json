@@ -3,13 +3,38 @@
     {
       "id": "303627",
       "match_time": "1764129600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Los Angeles Lakers",
       "home_img": "https://sta.vnres.co/file/common/20251125/60a23d0c03328a7baa051ffc28bbe6dc.png",
       "away_name": "Los Angeles Clippers",
       "away_img": "https://sta.vnres.co/file/common/20251125/88b4c245c40888bd76f6c3a069c26b49.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1764132626-0-0-8bbc4b0df8a165965ba4e93ee65c27d9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1764132626-0-0-35409e11c43fa06365ecb43467c863e2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1764132626-0-0-b18a1c76c09314f2b663fc81a95971a7"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1764132626-0-0-91a42dee000e7db375244588b3168ed3"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "303628",
