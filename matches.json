@@ -3,13 +3,38 @@
     {
       "id": "303557",
       "match_time": "1764229500",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Macarthur FC",
       "home_img": "https://sta.vnres.co/file/common/20251124/aef892e51ebc1b1845395415c0dd377a.png",
       "away_name": "Tai Po",
       "away_img": "https://sta.vnres.co/file/common/20251124/0f959e6c64b5dac51ec717ee2560c73a.png",
       "league": "ACL2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1764232526-0-0-80173df77c2ab3136ecfb8af6f5d72b9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1764232526-0-0-48fc7de87fec4a6bf23033ad9ac4121a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=60998a6459f06509a238042b80cfcc04&txTime=6928539e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=9523ca83023cace6a14b0d5f47c42a8c&txTime=6928539e"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1764232526-0-0-a55d6b2292833d1c7956e8fb35b03cf1"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1764232526-0-0-56c27fe2dc57afa1a53a7d7b28ff602b"
+        }
+      ]
     },
     {
       "id": "303563",
