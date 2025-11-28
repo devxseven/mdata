@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=a9a83473879c2f09b2e2d66bd0088a3d&txTime=692a735e"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=1f92032860cf2f127b87b66c4a4f2cfd&txTime=692a748a"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=dcb7d597feb98520e57c44b75a9f6e98&txTime=692a735e"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=8501e2db9e281b9dfa53e15c399a0df5&txTime=692a748a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0cfc8a20bdf430fc864c48126b08f402&txTime=692a735e"
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=fdf70b58e1c90e2d80c0743937367d4c&txTime=692a748a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=a39f9e46ab5b45a09533796f3a41499f&txTime=692a735e"
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=e1c2377936b6126ecc75e1ca6efc776e&txTime=692a748a"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1764371726-0-0-0516eb63522caa7533aa182dd8dd8ff0"
+          "url": "https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1764372026-0-0-c936032efb92ac457cb8ea67c5e02ecb"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1764371726-0-0-03a03259c38d6d56b47e14b8d08d00e7"
+          "url": "https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1764372026-0-0-c42a9bd87b0115c43bfea2451d76914e"
         }
       ]
     },
     {
       "id": "303662",
       "match_time": "1764369000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Clube de Regatas Vasco da Gama",
       "home_img": "https://sta.vnres.co/file/common/20251126/fb46833a355fca76dc02cf264cf495f3.png",
       "away_name": "Internacional RS",
       "away_img": "https://sta.vnres.co/file/common/20251126/06a6c7945fd213e163b31dcfe2c116f9.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1764372026-0-0-8cad33c395dff19d991e6a2ec18737e6"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1764372026-0-0-9fad78ab5cc4641859e5deeee5618386"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1764372026-0-0-81a47fa8fa8a3a93e31e52475573b366"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1764372026-0-0-026811bb643b3aff524b04d86c3dc728"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=66aa82977e0ac4aa6999d6fef8f60503&txTime=692a748a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=e2a8f0d04ca59e4ea99f35464330d219&txTime=692a748a"
+        }
+      ]
     },
     {
       "id": "303663",
