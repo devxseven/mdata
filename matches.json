@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=4cf378796a98e0664852579c83a91016&txTime=692a7a66"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=ee24da08fb9fe10621589c211cff9715&txTime=692a7b92"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=fcb071d1be9dddb2d41dd68e5005a51c&txTime=692a7a66"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=42fdd1949cca6da6ef2729055c7e963b&txTime=692a7b92"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=69462513eaa7fe60c5861048d5792bf2&txTime=692a7a66"
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c0f41a35415d6ce123ca690bad456bb4&txTime=692a7b92"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=42229b697ffef223cca7ffa67104defe&txTime=692a7a66"
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=3fdf065d82ccb7adb210f9f21431e2f6&txTime=692a7b92"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1764373526-0-0-b3fccf1c602140250f72604ac82940f6"
+          "url": "https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1764373826-0-0-030d9df24fc26fc3ec065aa9e7cfdeb8"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1764373526-0-0-a86b6ed50597e77d206677fd0bd32aaa"
+          "url": "https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1764373826-0-0-8d298345a424414ce45a3e2d8af98147"
         }
       ]
     },
@@ -48,62 +48,113 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1764373526-0-0-5139c608cc766d04de45e7fdf67db1f9"
+          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1764373826-0-0-1a766b68151ed5c86214c675ff09b380"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1764373526-0-0-704c1da04610a1cac6a4eec778998730"
+          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1764373826-0-0-fba5d244e0cc7467fa92ac50ce35d373"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1764373526-0-0-6f5c7cbce603daee61f4384f9d3ef6d1"
+          "url": "https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1764373826-0-0-90261e49fae4a3d02ae38addc1fd227d"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1764373526-0-0-a4e6ec39b3055207d1d1dd4cb3881604"
+          "url": "https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1764373826-0-0-642fd341e4770cc5a305c857cf046d42"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=864b8b9f5da868281d7dcbf09e8dd409&txTime=692a7a66"
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=180b8b80574f5ed0c5b1cbed44ae405d&txTime=692a7b92"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=866d2852c74e5995b3d20ccc09b75ab2&txTime=692a7a66"
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=45235522a8c8b01855e1c479bcf0ba28&txTime=692a7b92"
         }
       ]
     },
     {
       "id": "303663",
       "match_time": "1764370800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Cobresal",
       "home_img": "https://sta.vnres.co/file/common/20251126/e2e826d35ad14aec8fc1042b2204a340.png",
       "away_name": "Colo Colo",
       "away_img": "https://sta.vnres.co/file/common/20251126/205dd5a9df5b10e5aaf2c989feafffc3.png",
       "league": "CHI D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1764373826-0-0-a608c1564a988a46f4344834057cc0bc"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1764373826-0-0-309d3d19a4fd73d6f45d65210fcead42"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1764373826-0-0-572ec0fb5ba6410400649c9b1bf1e9bc"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1764373826-0-0-6c7df2b36c3f8a8386d77c929858d9ef"
+        }
+      ]
     },
     {
       "id": "303664",
       "match_time": "1764370800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Ecuador Women",
       "home_img": "https://sta.vnres.co/file/common/20251126/799815d9fd1aca7e1829f526c374fadc.png",
       "away_name": "Venezuela Women",
       "away_img": "https://sta.vnres.co/file/common/20251126/006de1de564d738f2d34641c9082e68b.png",
       "league": "CON WLN",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1764373826-0-0-bd15bcc07c62703a22769d463870c88a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1764373826-0-0-ae694e5dad643b132896ceb4698e858e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1764373826-0-0-db20a4d075811b0674e8224545fa84b1"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1764373826-0-0-65a698646a9440d40a38a34abe8221b9"
+        }
+      ]
     },
     {
       "id": "303665",
       "match_time": "1764370800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Paraguay Women",
       "home_img": "https://sta.vnres.co/file/common/20251126/0db8b67c0e6fe9876fc567328aa2ba99.png",
       "away_name": "Uruguay Women",
       "away_img": "https://sta.vnres.co/file/common/20251126/54ddcb84b871ace6aff68ca598ce7f75.png",
       "league": "CON WLN",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-548260_lhd.m3u8?auth_key=1764373826-0-0-f05b931683d88d652e177cf993420d99"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-548260_lsd.m3u8?auth_key=1764373826-0-0-4251a5394d41af5834d853f7c547d2ee"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=4bc3bf8627fb21e4ef804a9261de8831&txTime=692a7b92"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-519740_lsd.m3u8?txSecret=ca7e7c7607c8f0b0199675c9b2efb942&txTime=692a7b92"
+        }
+      ]
     },
     {
       "id": "303666",
