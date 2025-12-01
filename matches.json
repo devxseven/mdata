@@ -3,13 +3,38 @@
     {
       "id": "303857",
       "match_time": "1764630000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Audax Italiano",
       "home_img": "https://sta.vnres.co/file/common/20251129/9d02fb3a5fe7feeb713e6e24a84bd870.png",
       "away_name": "Nublense",
       "away_img": "https://sta.vnres.co/file/common/20251129/a85dc2b193e5b2e4d05bf83794ecbd89.png",
       "league": "CHI D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1764633027-0-0-72cc88507866ca6f68fd409862211a6d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1764633027-0-0-560a631ba78476c997a50042bb3d194f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1764633027-0-0-6f21dc5917f35b6746329e4dbeb1f142"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1764633027-0-0-874a9f27050adce0cec89cd1275b269f"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=946e8fd267c919bc7c5726c394df05cd&txTime=692e7013"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=4ffe4a7f386b079cf30b541f34b94e7c&txTime=692e7013"
+        }
+      ]
     },
     {
       "id": "303859",
