@@ -3,13 +3,38 @@
     {
       "id": "303999",
       "match_time": "1764667800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Australia W",
       "home_img": "https://sta.vnres.co/file/common/20251201/138139b46f460d5fb0f66a771bd9d28d.png",
       "away_name": "New Zealand W",
       "away_img": "https://sta.vnres.co/file/common/20251201/bce94fb58728c70eb2c37eeda8990fef.png",
       "league": "INTERF",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1764670827-0-0-e42b0db2c1c1795fe7f4847557de45ea"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1764670827-0-0-f86a4c756ae5b3e0df4f3f198ee3ac04"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=d81ccda4304ea74f8ef741c048dd2b0f&txTime=692f03bb"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=5f4a174ca5c37b6b84ab0a26c0a51912&txTime=692f03bb"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1764670827-0-0-90cffbb7907286b3cecd046b363a8ccd"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912104_lsd.m3u8?auth_key=1764670827-0-0-5f5ffc27e67d576ffd209910025f4719"
+        }
+      ]
     },
     {
       "id": "303865",
