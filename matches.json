@@ -23,13 +23,38 @@
     {
       "id": "303929",
       "match_time": "1764752400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Vietnam U22",
       "home_img": "https://sta.vnres.co/file/common/20251130/fe24629d7289d757b664037ea1ffa9ff.png",
       "away_name": "Laos U22",
       "away_img": "https://sta.vnres.co/file/common/20251130/3ed88cf6e1cc51cea147470a0a5d0e4f.png",
       "league": "SEA Games",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=570d73a6227fcd5e3ec0c5b29787b635&txTime=69304e33"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c86eacfcf51862a2bfde589bcec4558d&txTime=69304e33"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1764755427-0-0-5dfbb338b3508cb800d102e484b206aa"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1764755427-0-0-a36e60eac846aa831fc628c810856c48"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=d18daf378777f47efd36d5f79d501e3a&txTime=69304e33"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=cf8a72448de45e6352d783e63f02ac74&txTime=69304e33"
+        }
+      ]
     },
     {
       "id": "303930",
