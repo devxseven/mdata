@@ -3,13 +3,22 @@
     {
       "id": "304139",
       "match_time": "1764831600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Beijing",
       "home_img": "https://sta.vnres.co/file/common/20251203/9ebccac80c1bae13201eb7386c35a5ec.png",
       "away_name": "Qingdao",
       "away_img": "https://sta.vnres.co/file/common/20251203/3205d5d0216bf489e24274547cda6c61.png",
       "league": "CBACC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1764834627-0-0-54a663ff030b5f7774ee9e0a308ec4f1"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1764834627-0-0-2500cccfd6c03b0e6094dec7bedf1611"
+        }
+      ]
     },
     {
       "id": "304140",
