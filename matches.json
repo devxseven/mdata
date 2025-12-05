@@ -3,13 +3,38 @@
     {
       "id": "304081",
       "match_time": "1764975600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Palestino",
       "home_img": "https://sta.vnres.co/file/common/20251203/c1c578f8da38a8d1d55f15d33b55d9da.png",
       "away_name": "Huachipato",
       "away_img": "https://sta.vnres.co/file/common/20251203/4194eba1415e9f316fa860be8432e5cf.png",
       "league": "CHI D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1764978627-0-0-99278336edf514957dae18f0250c9a84"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1764978627-0-0-83e9df02e27fc3f8d50f04e3f8f5eed1"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1764978627-0-0-a4479300c18ddfe6113d763f706f6a3f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1764978627-0-0-1336a71720ff66b474d08d940b93029f"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1764978627-0-0-cad6422b2549a19604ab9e07ee00032c"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1764978627-0-0-f2ab62b33cba0ec0c1bc2e67f7a10cd6"
+        }
+      ]
     },
     {
       "id": "304082",
