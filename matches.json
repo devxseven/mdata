@@ -3,13 +3,38 @@
     {
       "id": "304339",
       "match_time": "1765177200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Shandong",
       "home_img": "https://sta.vnres.co/file/common/20251206/597d1de9c1816c52485ad645ce1ea684.png",
       "away_name": "Qingdao",
       "away_img": "https://sta.vnres.co/file/common/20251206/416208f8ca4c8312adfc326be5ea266c.png",
       "league": "CBACC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1765180227-0-0-776e49595c8d65883f6713c27e352692"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1765180227-0-0-b2b79479eeedfd23bd0f673dfdb5633d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765180227-0-0-df5d745d19197fad6fb6ac159e541f6b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765180227-0-0-094bf48131b0c0c51fd33bb85f979ea6"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1765180227-0-0-c95d859d4e0c2c18f0e447445da59287"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1765180227-0-0-55b79a7000dd6e595ca57a40335db48b"
+        }
+      ]
     },
     {
       "id": "304261",
