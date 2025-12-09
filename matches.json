@@ -3,13 +3,38 @@
     {
       "id": "304305",
       "match_time": "1765263600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Kairat Almaty U19",
       "home_img": "https://sta.vnres.co/file/common/20251206/8638b8162d2196ef0060d52ed374a5fe.png",
       "away_name": "Olympiakos Piraeus  U19",
       "away_img": "https://sta.vnres.co/file/common/20251206/bf29a292dcfc4cce126783be94ea6c76.png",
       "league": "UEFA YL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=3b24d95232880793fbad36165b374eae&txTime=69381b14"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=eb0e95fa6473da42a0ee11b48adacb88&txTime=69381b14"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1765266628-0-0-afd214b9e33187e205dc6be1597ddf7d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1765266628-0-0-92c9e9441c7177c02c23992e391b6adf"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=e0e568d1aafe6582968be130f5ed5546&txTime=69381b14"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=7f17cc8d3b74a9a3c31eaa8ede4d1292&txTime=69381b14"
+        }
+      ]
     },
     {
       "id": "304380",
