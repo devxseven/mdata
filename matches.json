@@ -3,13 +3,38 @@
     {
       "id": "304455",
       "match_time": "1765355400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "South East Melbourne",
       "home_img": "https://sta.vnres.co/file/common/20251209/ab66a4d55cb6e2b68180521bfa2f90c3.png",
       "away_name": "Tasmania JackJumpers",
       "away_img": "https://sta.vnres.co/file/common/20251209/98a1f7885bacf1025b5f810a08611882.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1765358428-0-0-d011f89082901cc06a4601dddac16f11"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1765358428-0-0-7b3e0f32c814820bcdcb6c0995d7d012"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1765358428-0-0-2442a29c43ea25aee5bcdfd8910792db"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1765358428-0-0-56b64bb3b8879d17d70a8814027b6d9e"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765358428-0-0-439cf6424945757026b73666a92ae80a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765358428-0-0-6b6856415ca0b04196c6ee4199fcf9f8"
+        }
+      ]
     },
     {
       "id": "304355",
