@@ -3,13 +3,38 @@
     {
       "id": "304453",
       "match_time": "1765332300",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Toronto Raptors",
       "home_img": "https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",
       "away_name": "New York Knicks",
       "away_img": "https://sta.vnres.co/file/common/20251209/175134db9c9d18c3991c4be1c57e1caa.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1765335328-0-0-adc661029820cf4dcbcb7d194af25710"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1765335328-0-0-9d624f053d117e6634de7b1d2f7555a9"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1765335328-0-0-c65cb583d50bcab09737bcf183ec8bee"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1765335328-0-0-9f4f17922a48068dfb7786caaa30a95b"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1765335328-0-0-bc7699b8d97fa738aaf12135304591bb"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1765335328-0-0-f096f85c6a8995619970ec82aae4ca04"
+        }
+      ]
     },
     {
       "id": "303679",
