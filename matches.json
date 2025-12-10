@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1765381528-0-0-6b6d0d054361a48e9f232de7f17c3ff7"
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1765381828-0-0-e5db26c7e3da2ccc19039e3c92d4bca6"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1765381528-0-0-84f21892084960ca9659ac2cb66910e4"
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1765381828-0-0-a29c24ba4b4ce210b2e38a9231220060"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=632fcc32c33511ba80f0e1323ec9fbd1&txTime=6939dbe8"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=c9035c1e33b94398804d7b91717c862c&txTime=6939dd14"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=54dd9c39dff5362c5a7a920af5f4fdb5&txTime=6939dbe8"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=e689526706287c126326f564b3cd6567&txTime=6939dd14"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-239275_lhd.m3u8?txSecret=78a6445016c56a52127ccfb8be9f38e4&txTime=6939dbe8"
+          "url": "https://pull.niur.live/live/stream-239275_lhd.m3u8?txSecret=0286f7b3e0180cb5ee05116ce0b24b64&txTime=6939dd14"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-239275_lsd.m3u8?txSecret=b95a416b862f72b4d9be9ff20b13ae3b&txTime=6939dbe8"
+          "url": "https://pull.niur.live/live/stream-239275_lsd.m3u8?txSecret=447129f45e2f3581a8f96650465476dc&txTime=6939dd14"
         }
       ]
     },
@@ -48,62 +48,137 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=a61d9a336fd67ad55053c2da4dbb0fa2&txTime=6939dbe8"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=55652273a24b8a6bcc5fe1935a65cc53&txTime=6939dd14"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=c766afaf018912b23ee4096eadcc2ab3&txTime=6939dbe8"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=3dd8ffdd65df034034cb9da877cdd9c5&txTime=6939dd14"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1765381528-0-0-2a5420831142b5de34ab7b8dce2ae094"
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1765381828-0-0-83c5927e5b37ad63e52578ac67c8ca06"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1765381528-0-0-58f4cfe2ab284ab0d1dcdc5ef8f31018"
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1765381828-0-0-0c5b504bd597f367f11665d8e55ed915"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=cd8c747ddcafb48a03f039aedd88e452&txTime=6939dbe8"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b2f4646496e18c35eef742fef6840b94&txTime=6939dd14"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=3e7884dc7bafedef5462c9b866e57cd3&txTime=6939dbe8"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=aa66833b66b2fe31e01634b7ed0ef4d5&txTime=6939dd14"
         }
       ]
     },
     {
       "id": "304373",
       "match_time": "1765378800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Borussia Dortmund U19",
       "home_img": "https://sta.vnres.co/file/common/20251206/e29f936c854f8bb0189abdaf5cd27031.png",
       "away_name": "Bodo Glimt U19",
       "away_img": "https://sta.vnres.co/file/common/20251206/4b2ed146fb586efa350c7271039c8738.png",
       "league": "UEFA YL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1765381828-0-0-73218173a0c56ea978895670ea00ecef"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1765381828-0-0-b06dedb09dc8f406fa920f2f32d2de5c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1765381828-0-0-a3a04e740d3caf861d09a9eb7b20850e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1765381828-0-0-d01486075e24c6fa2693e3b693455895"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1765381828-0-0-8092459646471f8e4c4e05ceb0542e72"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1765381828-0-0-8b0f677692c43913ce69499e47474570"
+        }
+      ]
     },
     {
       "id": "304374",
       "match_time": "1765378800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Real Madrid U19",
       "home_img": "https://sta.vnres.co/file/common/20251206/62b0de7c460857064a30855d64a66459.png",
       "away_name": "Manchester City U19",
       "away_img": "https://sta.vnres.co/file/common/20251206/2250cc5b6bf9cc835a7516d8bae44d8d.png",
       "league": "UEFA YL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1765381828-0-0-41246993b635c8da80fc9e94cf547dbc"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1765381828-0-0-b0d1b2a3370b5ebff191134d35fd8810"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1765381828-0-0-5e0ae0e835a2ad5bef155e619e15d043"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1765381828-0-0-a70a7edc1c14e974e8860c11e1573304"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1765381828-0-0-ec24fdbaa8c27afc70456ffa5289d367"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1765381828-0-0-f661a54b8f3908e25ebe84e9272532ce"
+        }
+      ]
     },
     {
       "id": "304375",
       "match_time": "1765378800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Tala'ea El Gaish",
       "home_img": "https://sta.vnres.co/file/common/20251206/83cbf4c7e89f48240d644818ddefb583.png",
       "away_name": "Ceramica Cleopatra FC",
       "away_img": "https://sta.vnres.co/file/common/20251206/03d51770d9bde4bf1966b9e930e3f834.png",
       "league": "EGY LC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1765381828-0-0-075f6a04ce107add82fcbcb6c1a89529"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1765381828-0-0-393a324e1736e6e550c56c2d578527da"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-563268_lhd.m3u8?auth_key=1765381828-0-0-453744837a9b11428d3773c0e2103cc3"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-563268_lsd.m3u8?auth_key=1765381828-0-0-15fd692262ed392b16118369694a0637"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1765381828-0-0-2b5e9c0f8f5abbe4c19ebb4bc7b3e2ff"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1765381828-0-0-9ab22756216d2cf8880ab29c7411a965"
+        }
+      ]
     },
     {
       "id": "304459",
