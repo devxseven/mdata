@@ -3,13 +3,38 @@
     {
       "id": "304462",
       "match_time": "1765463400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Morocco",
       "home_img": "https://sta.vnres.co/file/common/20251209/b5dfe9e01df18e83028601367fc6d5c4.png",
       "away_name": "Syria",
       "away_img": "https://sta.vnres.co/file/common/20251209/4700e089aba1cd0dad84df84129696dc.png",
       "league": "ARAB Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1765466428-0-0-db988f88777b011fcbb921c8ca69146a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1765466428-0-0-63bf2ecfb54be872c0454fc7b9d44bc2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1765466428-0-0-dcd0fa92f6d04095b8bfc06fcb0a8da9"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1765466428-0-0-0173e46de80cdc6df14b9b5ef071741f"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1765466428-0-0-ef7a64f9cd9cb78cdeb640fd346013eb"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1765466428-0-0-259f01e1691eb453848580fd68306eed"
+        }
+      ]
     },
     {
       "id": "304411",
