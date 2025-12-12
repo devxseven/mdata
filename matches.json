@@ -3,13 +3,30 @@
     {
       "id": "304520",
       "match_time": "1765526400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Canberra Capitals W",
       "home_img": "https://sta.vnres.co/file/common/20251210/4707b422ed4dff0ebf42fda22147319f.png",
       "away_name": "Southside W",
       "away_img": "https://sta.vnres.co/file/common/20251210/9c7ddd7dc8a3290ca0cbee4d1b41792f.png",
       "league": "WNBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1765529428-0-0-3f17932af71ba61e14c9ed3a14bce007"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1765529428-0-0-f1ab43d2edcd591d601fbb7782204e57"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1765529428-0-0-c1aaf95c65bf0f988e8a6492ed12a042"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1765529428-0-0-992522f8a1625e18a6fca698b6dae836"
+        }
+      ]
     },
     {
       "id": "304521",
