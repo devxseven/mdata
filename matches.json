@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1765801228-0-0-7f65809bf6527dcbc3493f5edd3cd6b4"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1765801528-0-0-b47bcab4faede1e20ee6f21767884f07"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1765801228-0-0-34908d2035cb237299b371c951b984bf"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1765801528-0-0-eb244e631b59a3a105db12db6637ae6c"
         }
       ]
     },
@@ -32,27 +32,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1765801228-0-0-9f730ca81bb111b461b742deeed64e0d"
+          "url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1765801528-0-0-d4b8ded8bafe74b9f8dd80080e970bc9"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1765801228-0-0-04f67c66789f0bd1884e6266a217bf75"
+          "url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1765801528-0-0-6bc1ad2d7e4c69034ab99571cae9d64e"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1765801228-0-0-badba49aff2edb0b315cee4f319dfb93"
+          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1765801528-0-0-c6a53405e26fd678066fa7af33ca89e9"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1765801228-0-0-9395c564ec3976ff832a20eadac3735e"
+          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1765801528-0-0-a02ea2fb754e52be01147150ac440bad"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=e7252e70971e4d15dad6cf61f00cb817&txTime=6940435c"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=3b077db884435b94505142d41b611fc2&txTime=69404488"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=f12794fe99a1bc48fa176b9649ea5771&txTime=6940435c"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=f97326938c834428add26ea31e046a5a&txTime=69404488"
         }
       ]
     },
@@ -68,24 +68,33 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=fdcecc1166a0469626b802af055d47ca&txTime=6940435c"
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=d75420fb1dd109fe552ffac6d4e43225&txTime=69404488"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=0fb6496f9c69601fe2a076859da54ecb&txTime=6940435c"
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=5e5020b8f5fd1007601cef0746b8de23&txTime=69404488"
         }
       ]
     },
     {
       "id": "304714",
       "match_time": "1765798500",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Beijing",
       "home_img": "https://sta.vnres.co/file/common/20251214/c90048cedbfd61aa3a25080e0be2d307.png",
       "away_name": "Xinjiang",
       "away_img": "https://sta.vnres.co/file/common/20251214/6348c30864ca569061274c30cb09ac6b.png",
       "league": "CBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1765801528-0-0-b47bcab4faede1e20ee6f21767884f07"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1765801528-0-0-eb244e631b59a3a105db12db6637ae6c"
+        }
+      ]
     },
     {
       "id": "304715",
