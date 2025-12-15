@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=aae795fb4e21528b2eecdc2fa54ddb7b&txTime=69402d18"
+          "url": "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=2fe0a1732101085f0f69772ceff9e856&txTime=69402e44"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=aa469952f5657982007c5637bb20a1eb&txTime=69402d18"
+          "url": "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=74d549cd0d10f1f44f3287b0fc5f67f6&txTime=69402e44"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a89c74694c9520f2f45000633688b074&txTime=69402d18"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=bd599a757f70c5967ecedab4a7be6300&txTime=69402e44"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=941d0258214164ff41bc83b2cbe70801&txTime=69402d18"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=7f62fdafedfd4001c9ecc54c76d0764d&txTime=69402e44"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1765795528-0-0-cac71a41f3b729fd4e04897a304e3567"
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1765795828-0-0-fc57ca7f34245199ada6bd46f8a556f4"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1765795528-0-0-ee216c96d4217f3854a11a4e68d6b3f9"
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1765795828-0-0-ccddf4b94d93250a97964e1e71dd97f2"
         }
       ]
     },
@@ -48,35 +48,69 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1765795528-0-0-118caa06cc33c25ca749cef2e6c76bec"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1765795828-0-0-d20cdc2146afd92344a9bf4a6d6e5cd8"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1765795528-0-0-2da0d4677601543cdfdf50771f79867e"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1765795828-0-0-754701ec7c5265da7f4da7698b985f65"
         }
       ]
     },
     {
       "id": "304622",
       "match_time": "1765792800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "İmişli FK",
       "home_img": "https://sta.vnres.co/file/common/20251212/4feb1b67a9e290d85a7310651a68d601.png",
       "away_name": "Karvan Evlakh",
       "away_img": "https://sta.vnres.co/file/common/20251212/23bf6812af9ef1cefa5f8a9c3902eadb.png",
       "league": "AZE PR",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1765795828-0-0-75994494001e55007c970c018e6c2330"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1765795828-0-0-8d3942845faf6991d4b5ee2a472a5793"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1765795828-0-0-b300aadbe1b29315b267decdf43d4037"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1765795828-0-0-032a9f2fb84b4e4de1ff32e7a5c6f76a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=96d571c8b7c31235738711f7367c6f98&txTime=69402e44"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=b5aaf24922db45bb0b2a7f8836c4f51b&txTime=69402e44"
+        }
+      ]
     },
     {
       "id": "304713",
       "match_time": "1765792800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "KoGas",
       "home_img": "https://sta.vnres.co/file/common/20251214/05cfa6bf288926fc7c7bac8491f539f8.png",
       "away_name": "Mobis Phoebus",
       "away_img": "https://sta.vnres.co/file/common/20251214/8b0de2a5596b3fc44bed1d74aeeb363c.png",
       "league": "KBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=d63d804b745a766b29baaf1a2def1c1e&txTime=693fdbdf"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=9e60e51cc9a86836cf760a74acb175fc&txTime=693fdbdf"
+        }
+      ]
     },
     {
       "id": "304714",
