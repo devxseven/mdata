@@ -3,13 +3,38 @@
     {
       "id": "304644",
       "match_time": "1765839600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Club Aurora",
       "home_img": "https://sta.vnres.co/file/common/20251212/fb5021d6ddc2fa636e1720e3ab0ac1cb.png",
       "away_name": "Academia del Balompié Boliviano",
       "away_img": "https://sta.vnres.co/file/common/20251212/64fb78293528ddb781ee06a35ad0fed2.png",
       "league": "BOL D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1765842628-0-0-50418a74736bc6cab580a486a881245b"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1765842628-0-0-9f5ecee080f3ccd7b77ec83cd89435a9"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=3ae72c71a467b6029493c72e76a77488&txTime=6940e514"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=7d7023c26b4f8ee855110f8e4778685f&txTime=6940e514"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1765842628-0-0-e152bef07aff4d3aa317d2142481ead4"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1765842628-0-0-a20627480f13f088449197972fffdf11"
+        }
+      ]
     },
     {
       "id": "304645",
