@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1765802728-0-0-4f0a3a58ab36274622abb24e74539f6f"
+          "url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1765803028-0-0-11759e40675a95818e28fb8d98bd713e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1765802728-0-0-ea455a3685f901fcae671de58f705968"
+          "url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1765803028-0-0-d2d2ac6f131139cae48f431e81e4bbb6"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1765802728-0-0-57a55ffca24d042ec0463e7425f2469e"
+          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1765803028-0-0-3af336a9687a0be776f97b4b47fac2b4"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1765802728-0-0-ad0ca67caed28d710293c7de01257f07"
+          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1765803028-0-0-890a20a35993dfda1a14a1a14a6033b6"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=1d1556640c3547c9b62d286bb8cafa30&txTime=69404938"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ff00e529c11bcb58728559904399546b&txTime=69404a64"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=6cb03464a0e0f23146eb09b089d3419d&txTime=69404938"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=104a8e7f040f8b7b91c7f9c4e7422365&txTime=69404a64"
         }
       ]
     },
@@ -48,11 +48,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=f612f3b6feee74bae5aacb14bf2b66e4&txTime=69404938"
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=1d9746048635e94f05592d3c47e8fb4b&txTime=69404a64"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=84784d6d4126c9f647dd160f2d11cb8a&txTime=69404938"
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=f8db88fdc128bb65be15acc20113ab84&txTime=69404a64"
         }
       ]
     },
@@ -68,24 +68,33 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1765802728-0-0-b695e51dfd3161f6038c030fec869702"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1765803028-0-0-f006ff458ff5bb06a811d4128fd20c1d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1765802728-0-0-8c2f1ccb6dea5bfe865a50f982c6b388"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1765803028-0-0-e985301ae83e39f76d2fb61b68caa1cf"
         }
       ]
     },
     {
       "id": "304715",
       "match_time": "1765800000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Thailand",
       "home_img": "https://sta.vnres.co/file/common/20251214/d9657008562d6694b5af20185045dc8f.png",
       "away_name": "Myanmar",
       "away_img": "https://sta.vnres.co/file/common/20251214/176fef25a604c5495eaafd39b575d792.jpg",
       "league": "SEAGM",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1765803028-0-0-dec11006e46ba701021c34c3cd6ddf2b"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1765803028-0-0-cf1a3e2ecff8b6dcb58344ade04d65f4"
+        }
+      ]
     },
     {
       "id": "304624",
