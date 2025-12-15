@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=8c5f35253760e15b2b24b362e80fd66e&txTime=69407368"
+          "url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=5063e033082af1dd48103a48a440cf33&txTime=69407494"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=c262be701bbccae4bd5ca32a2775f158&txTime=69407368"
+          "url": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=60be882b790f90bc577a5f55358999e5&txTime=69407494"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=d8da0058cedd8b38972ea4b7459075a3&txTime=69407368"
+          "url": "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=97d039a593c077418f1900c3639b9d3a&txTime=69407494"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=499619fd48d9bcdb2a68123157fb9065&txTime=69407368"
+          "url": "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=6d3abdf7d36a734b667761177dfbe319&txTime=69407494"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=8a8e5117563094d920b88bc73221c3a3&txTime=69407368"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=436f390fc64d2d587912b2bc52ac90ee&txTime=69407494"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=8925723526ffc92461c6505359054bae&txTime=69407368"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=01065fdc0e8ac2517f472ce0e75b46b3&txTime=69407494"
         }
       ]
     },
@@ -48,62 +48,129 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1765813528-0-0-0492f46cb1cfdbbae1cce75c7fa5c1b7"
+          "url": "https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1765813828-0-0-1de04c54a15def805160429ce271020b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1765813528-0-0-9d73386f00c00c7bc7ba35d179b14948"
+          "url": "https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1765813828-0-0-0c1cab85e01a7fcf8c114d26700b2e31"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=56f6cf5e6e847cb6c11c6fd5df67828b&txTime=69407368"
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=62e1605281dfb9b074a022faa0497ead&txTime=69407494"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=378e1458ea86e367eb149ac4b74a201a&txTime=69407368"
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=d3d6114a08ce063eff295e0229419931&txTime=69407494"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1765813528-0-0-d1a77634d064ed280e714cf3e5a2f63d"
+          "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1765813828-0-0-f5cc8e9d390c45f2a5a74dd2148657c1"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1765813528-0-0-530f2f423ad063c350c32ff5ce474529"
+          "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1765813828-0-0-e3f2eb98e5462ca91945a06180448721"
         }
       ]
     },
     {
       "id": "304623",
       "match_time": "1765810800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Uniao Leiria U23",
       "home_img": "https://sta.vnres.co/file/common/20251212/e675609f15fe265fcab531611f8e1b13.png",
       "away_name": "Farense U23",
       "away_img": "https://sta.vnres.co/file/common/20251212/6332226e873809272f2408aadc0c4610.png",
       "league": "POR LRU23",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1765813828-0-0-40a2387a9e32be557f18e1d6df5c1bbc"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1765813828-0-0-753114d83e75363eae701d2d69ae3ce0"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1765813828-0-0-26e8136374f278034ac9e171701563fc"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1765813828-0-0-8a34eb392cb65a6985b5d4ba2a1ce4fc"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1765813828-0-0-90a27dc94389fdc98cb0e9d6e54dbaa0"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1765813828-0-0-ead5a00758ea722b160c1e86177a02c9"
+        }
+      ]
     },
     {
       "id": "304626",
       "match_time": "1765810800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Foolad Khozestan",
       "home_img": "https://sta.vnres.co/file/common/20251212/b706b04fa7650ff931d252035067024d.png",
       "away_name": "Sepahan",
       "away_img": "https://sta.vnres.co/file/common/20251212/50d78505ee1fdc991963164213de114a.png",
       "league": "IRN PR",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1765813828-0-0-df33c410fc7cd9315f31393a94ab825d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1765813828-0-0-27bdc732a151b2679257ff1f6e464ab5"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1765813828-0-0-46000be109cc2bdef5396c2487627b25"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1765813828-0-0-7c6993bb7360cb4614bb1189e0d553d4"
+        }
+      ]
     },
     {
       "id": "304627",
       "match_time": "1765810800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC Neftci Baku",
       "home_img": "https://sta.vnres.co/file/common/20251212/357872dc756ea93f1c45fad493f555dc.png",
       "away_name": "Sumgayit FK",
       "away_img": "https://sta.vnres.co/file/common/20251212/3175eb981048ed1d934d67644f103bff.png",
       "league": "AZE PR",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1765813828-0-0-13b0d5d10e2aee3c641b33dce0d497d2"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1765813828-0-0-92e0e738caa623f3fde4eb6b66f5e12e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1765813828-0-0-f63a134a43e5a5eb893703371f7775b3"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1765813828-0-0-e44c4ef3b20257dbac2149ee484f85c0"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=c1b7e9e9dfa6ebb481a8d620cb20c6bc&txTime=69407494"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=6de319d081f1bc0cddbcd5bc7fa07ff6&txTime=69407494"
+        }
+      ]
     },
     {
       "id": "304628",
