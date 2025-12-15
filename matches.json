@@ -12,40 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=998a893d14e7599cf322427537051a14&txTime=69402610"
+          "url": "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=13e9d325b8cc297d7e708775560af932&txTime=6940273c"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=075b4fda6c63799667a1adbb4ae12d27&txTime=69402610"
+          "url": "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=a2c65e3fd8a4d0250e9c844d4af2600f&txTime=6940273c"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=93bc90d93e115c8689fee53c7aadf032&txTime=69402610"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=bcfb2641036a13cd24618fd2c843f8f7&txTime=6940273c"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=4c4e8040c9c6e9e1a85639ae09294059&txTime=69402610"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=1284d045a289d1bcf1e9359fbbb57137&txTime=6940273c"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1765793728-0-0-ff0e8071143aca590e16c73bcb00c996"
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1765794028-0-0-1ee1773b5c51c583b6d4cbbbf51bf780"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1765793728-0-0-6b65940c0dc2a5d4b2be73e7b464d1fd"
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1765794028-0-0-7c8a37312b2ef88c66e195068307efe7"
         }
       ]
     },
     {
       "id": "304712",
       "match_time": "1765791000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Thailand W",
       "home_img": "https://sta.vnres.co/file/common/20251214/9dc2454730d0407a1bbd2b3c3a1f0588.png",
       "away_name": "Vietnam W",
       "away_img": "https://sta.vnres.co/file/common/20251214/5ba0c2f9a71fc475c1ac94230d7544c9.jpg",
       "league": "SEAGW",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1765794028-0-0-889883130134ad876a8808e6f32526b4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1765794028-0-0-0408dd8ed601033cf7d79103fd64cb0d"
+        }
+      ]
     },
     {
       "id": "304622",
