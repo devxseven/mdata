@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=39438b68a24f2de24695b5fe10856528&txTime=69423c70"
+          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=f27afb53004dc5d0073d08d4c184858e&txTime=69423d9c"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=10708a9e1de1c8f3251b06588208fc91&txTime=69423c70"
+          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=bc85264cc417d9499ffe3d4092369f21&txTime=69423d9c"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1765930529-0-0-c8f452147309dad93cf106d61304083c"
+          "url": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1765930829-0-0-662481874d7ae2cf38ead80c541cae04"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1765930529-0-0-0a8d5fb513d8c5319db180cc8469d105"
+          "url": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1765930829-0-0-d45cea1bcf544ddc1fbd0e82d9d9a746"
         },
         {
           "name": "VN HD 3",
@@ -48,24 +48,33 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1765930528-0-0-cefb26ded83ab666aee7eebc6afa5326"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1765930828-0-0-2c7dd56608d56e159bf50a4d19915a56"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1765930528-0-0-4b896a479819df2d8e1117080b7859ff"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1765930828-0-0-69d0e3e73a480b777793db2a6f9fbc35"
         }
       ]
     },
     {
       "id": "304757",
       "match_time": "1765927800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "San Lorenzo",
       "home_img": "https://sta.vnres.co/file/common/20251215/bb4fc054c917955a6f38cb9c611e976f.png",
       "away_name": "Regatas",
       "away_img": "https://sta.vnres.co/file/common/20251215/d37a0dc6a6d4f785d657710f96a30cd3.png",
       "league": "ARG BL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1765930828-0-0-b49893e9cc95ab789d903f797e876cfe"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1765930828-0-0-792d1340522257c712e306c40a04f8e4"
+        }
+      ]
     },
     {
       "id": "304684",
