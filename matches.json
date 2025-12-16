@@ -12,32 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765857028-0-0-571694535fdbc2b2ad05260dae61d0ab"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765857328-0-0-1e0759ebb0f9eac854ab009ab8328363"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765857028-0-0-4f758f0b81eb0d56261a82182094b643"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765857328-0-0-d063af54570c058c9776f8621db9746e"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1765857028-0-0-2fed162a6b06f4a7ea5484a36ce51fe9"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1765857328-0-0-2dec8253b964b46ddf9540ca3f3cac51"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1765857028-0-0-a69e08f68756662aa0ffd5f371f35559"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1765857328-0-0-d2975714a016848a09459519d419d08b"
         }
       ]
     },
     {
       "id": "304750",
       "match_time": "1765854300",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Denver Nuggets",
       "home_img": "https://sta.vnres.co/file/common/20251215/8e40bbd5f59deda961343658c53b83da.png",
       "away_name": "Houston Rockets",
       "away_img": "https://sta.vnres.co/file/common/20251215/c06a2bbb951549a0cb57b003c341b26f.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1765857328-0-0-97eee8f153e29db183aa0e10ed658490"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1765857328-0-0-2bbb1cfe3207a764b0625f3d04c52ddd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1765857328-0-0-f93551a6cf129ebf6182b0a0f3045da6"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1765857328-0-0-d486142a1a5b810e2451f5dd63e4e94c"
+        }
+      ]
     },
     {
       "id": "304751",
