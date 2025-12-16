@@ -3,13 +3,38 @@
     {
       "id": "304683",
       "match_time": "1765926000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "The Strongest",
       "home_img": "https://sta.vnres.co/file/common/20251214/aca8389d903deb1c6df762c390004178.png",
       "away_name": "Nacional Potosi",
       "away_img": "https://sta.vnres.co/file/common/20251214/c6f371558a2e578bb90569a9e6184597.png",
       "league": "BOL LFPB",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=d2edd77a12814a59248c5dad6809576c&txTime=69423694"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=711ce65d5f1314e4cadd7a8a4ed22108&txTime=69423694"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1765929029-0-0-9d965966af8902ea3b61f234f36e34c6"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1765929029-0-0-8ae72edda6173741a5fb87272acb40be"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://stream-flv.dfsfe.top/lives/406865-720p.m3u8"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://stream-flv.dfsfe.top/lives/406865-480p.m3u8"
+        }
+      ]
     },
     {
       "id": "304756",
