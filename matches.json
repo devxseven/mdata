@@ -3,13 +3,22 @@
     {
       "id": "304884",
       "match_time": "1766041200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Philippines",
       "home_img": "https://sta.vnres.co/file/common/20251217/ae950843f225d8a4383bf3b5b12ba53c.png",
       "away_name": "Indonesia",
       "away_img": "https://sta.vnres.co/file/common/20251217/2b2930664d8b375fe41e1b0e1a4e0e77.png",
       "league": "SEAGM",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1766044229-0-0-52678240a5806e46c8b9564f935cc6fd"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1766044229-0-0-ec35100afeb83f3e77b1e51f2f0acc18"
+        }
+      ]
     },
     {
       "id": "304814",
