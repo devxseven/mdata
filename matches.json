@@ -12,24 +12,41 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766128529-0-0-c5204b03b36526fa0fa048cc1ae7f4ab"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766128829-0-0-5dacb6b25aeede8808d9a6858967120a"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766128529-0-0-008e0455537d93805f9402b1e04db1a9"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766128829-0-0-480a4fff2633932cee4a63564964886a"
         }
       ]
     },
     {
       "id": "304942",
       "match_time": "1766125800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Bendigo W",
       "home_img": "https://sta.vnres.co/file/common/20251218/6fe1dd07f572c1e5db0933e66b4561a5.png",
       "away_name": "Adelaide Lightning W",
       "away_img": "https://sta.vnres.co/file/common/20251218/987179979c2506d0c95355b4bd54c8e8.png",
       "league": "WNBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766128829-0-0-ef12147fed1077dac5d65d7318f3495e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766128829-0-0-0d84362bae73d326015c663b830ff18f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766128829-0-0-5dacb6b25aeede8808d9a6858967120a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766128829-0-0-480a4fff2633932cee4a63564964886a"
+        }
+      ]
     },
     {
       "id": "304791",
