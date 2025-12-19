@@ -12,43 +12,93 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766130329-0-0-ecbe536cadad7902905924b0263311dc"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766130629-0-0-d620d652b156d01a8b39777adf32fbaf"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766130329-0-0-dc0956d53558ae2c31bd54065dc18a04"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766130629-0-0-8324a5d8af66f314a1cc653d0e5e1b16"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766130329-0-0-77e3c15038bf10d244fdeb5783df5439"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766130629-0-0-220666b319f355c9acec5c9b79874655"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766130329-0-0-5cd628479c5cf5e59057805663ae7088"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766130629-0-0-60d0f71769e15764bbde0ccd850ccbe1"
         }
       ]
     },
     {
       "id": "304791",
       "match_time": "1766127600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Macarthur FC",
       "home_img": "https://sta.vnres.co/file/common/20251216/298a4830051e71596422f32cd7c65a53.png",
       "away_name": "Brisbane Roar",
       "away_img": "https://sta.vnres.co/file/common/20251216/a32983864dbf675fe263355161d8a32b.png",
       "league": "AUS D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=c7280a1f9102462d5f115b0c13583a4f&txTime=69454a15"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=982f8ffe2c0935b18f2626a00a15c6cf&txTime=69454a15"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1766130629-0-0-ebc7bef6b02830712ea7b0e1e8437ef2"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1766130629-0-0-ed9762d6b9962d5b5818f30d23657b2f"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=b4c35d15eab8c13b384268f877ed8642&txTime=69454a15"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=457cc29f1acbfb71f9b5ee8dc04b5192&txTime=69454a15"
+        }
+      ]
     },
     {
       "id": "304956",
       "match_time": "1766127600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Indonesia",
       "home_img": "https://sta.vnres.co/file/common/20251218/320685c7a860649e356eca22ec3d0134.png",
       "away_name": "Malaysia",
       "away_img": "https://sta.vnres.co/file/common/20251218/c1f43b46c22fe23c097dea4a7b3d8d44.png",
       "league": "SEAGM",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1766130533-0-0-0fc9f5eb57d7b610ea7715ec55d72212"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1766130533-0-0-5a81c381196cf7afd94e84b88b5041cd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1766130629-0-0-30ef0eea8d4e811b8ead9e6755802d3a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766130629-0-0-72d7901d5c0ae7c154fb580336b586f3"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1766130629-0-0-fa55419e3191b8f98e0c2bf3888852f6"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1766130629-0-0-1fc27d45a14d46b79ba5b29aaa9f947b"
+        }
+      ]
     },
     {
       "id": "304792",
