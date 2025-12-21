@@ -12,24 +12,41 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1766297729-0-0-bb8a416f763cfa6031f31a5fca8fc5de"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1766298029-0-0-b89b15f85d83e647496ff52acbb10db9"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766297729-0-0-d2ded95ae127a9979c7881f26bb6389a"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766298029-0-0-134bb4593606d8b175d817b11d545bb1"
         }
       ]
     },
     {
       "id": "304967",
       "match_time": "1766295000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Sydney",
       "home_img": "https://sta.vnres.co/file/common/20251219/22e9385b21d5166834ee589f1394ed45.png",
       "away_name": "Cairns Taipans",
       "away_img": "https://sta.vnres.co/file/common/20251219/3de4a2c459f8ae65f4e2e871b713dbaf.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766298045-0-0-7b806769a003536e1a773f2ed1f70f0c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766298045-0-0-cbe06912541078aaf63f6cf590d20177"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1766298029-0-0-dae20c2b3a11fd55f786042bf227f46e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1766298029-0-0-a504b2de54fdd8b93b96eadf49ddb32a"
+        }
+      ]
     },
     {
       "id": "304968",
