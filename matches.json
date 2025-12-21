@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=15d972dd1f248bfb9dc408e5a64dec33&txTime=6947965d"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f74f739630796eebf36d3938a4697284&txTime=69479789"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=9b9ea300befc28ca23537758d29acc04&txTime=6947965d"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=e558fdf46b63f798092ff5a49cca0093&txTime=69479789"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=d5b66beb1466671e0143d1e5f20642a1&txTime=6947965d"
+          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=30aab39114767742bff59c10c78316ba&txTime=69479789"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=e9f852200dda82a7aa588c592144890f&txTime=6947965d"
+          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=6e4492b324fdb4a1fc2bf2cf157acacf&txTime=69479789"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1766281229-0-0-5a5405bcd9df9469a476c750aa41a840"
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1766281529-0-0-2fac17448204d61434e54f61a8a59716"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1766281229-0-0-190b5895ad6ab79a0d986d60aade3a54"
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1766281529-0-0-40407134e2701a1b335b1c08964f4d07"
         }
       ]
     },
@@ -48,11 +48,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1766281229-0-0-c477c851575daf243bf664ec2659ddb1"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1766281529-0-0-440ea45bf8b7cf03e1552b1a2e91c913"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1766281229-0-0-b89df447dcdd7c879299a35315bb51c2"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1766281529-0-0-c3c693fd2a0190841a81ab93570320fe"
         }
       ]
     },
@@ -68,24 +68,33 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766281229-0-0-c8e46f2676e1b6a9d0842d4161364634"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766281529-0-0-5fc3ea4343bea4856194974f67182906"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766281229-0-0-dcdf8e1d4d708a7f792bd26bc43c5b0c"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766281529-0-0-91d1a989c8985215887a8d18f38ff6e9"
         }
       ]
     },
     {
       "id": "304962",
       "match_time": "1766278500",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Detroit Pistons",
       "home_img": "https://sta.vnres.co/file/common/20251219/1ee836752ed32983526f96bf4d1733d3.png",
       "away_name": "Charlotte Hornets",
       "away_img": "https://sta.vnres.co/file/common/20251219/81f0fe488fc86a38c4697572739e368b.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1766281529-0-0-77c3406fbff858109f73d056307e6ab3"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766281529-0-0-b25152d070936fbb8f73b0c5cd796efa"
+        }
+      ]
     },
     {
       "id": "304901",
