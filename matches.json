@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1766375129-0-0-b2a7f5dd612a8e14d019d8b48ab58506"
+          "url": "https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1766375429-0-0-94fb44268038743f71aecb2f6f6a6be7"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1766375129-0-0-69671f9f4a1b87b19244f24f525d48d9"
+          "url": "https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1766375429-0-0-2b63f75e9ea3b35a7c8860238540b8ce"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1766375129-0-0-f892d1519ccfea921570d68baa068db6"
+          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1766375429-0-0-f0f36c2609f329ad9a28adaf6ae98f24"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1766375129-0-0-40863ab1a543ae48b4d8602e37a8b302"
+          "url": "https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1766375429-0-0-d3594e0ed362c8da2758a934e614d692"
         },
         {
           "name": "VN HD 3",
@@ -39,13 +39,38 @@
     {
       "id": "305049",
       "match_time": "1766372400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Sacramento Kings",
       "home_img": "https://sta.vnres.co/file/common/20251220/b6ddbb6296a94daf99bd9b52b406a5f7.png",
       "away_name": "Houston Rockets",
       "away_img": "https://sta.vnres.co/file/common/20251220/d6de28c54520cef8db1971ff69f2b4e0.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766375429-0-0-aa304e9ab0f6c39e9fd684b4b4b95cd1"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766375429-0-0-2aa173369dd72dc29cb53876c4e9978b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766375429-0-0-e349e1c63130d879da7d8bf9f163cf59"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766375429-0-0-224c59140c805b8eb44dc0b422bdb67d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1766375429-0-0-d020b66d4d0e5cc621643bfbfa4f4da2"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766375429-0-0-0bff673b5394ab9486c02719740a2913"
+        }
+      ]
     },
     {
       "id": "304993",
