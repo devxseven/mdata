@@ -3,13 +3,38 @@
     {
       "id": "305049",
       "match_time": "1766374500",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Sacramento Kings",
       "home_img": "https://sta.vnres.co/file/common/20251220/b6ddbb6296a94daf99bd9b52b406a5f7.png",
       "away_name": "Houston Rockets",
       "away_img": "https://sta.vnres.co/file/common/20251220/d6de28c54520cef8db1971ff69f2b4e0.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766377529-0-0-c70452bd1eace6308b84660cc813f089"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766377529-0-0-7ed6f5893841567c46fa7fe92e2f7c9e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766377529-0-0-9604b53aab04dc50a6fe519a3c481e33"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766377529-0-0-956bd04e684eaaa79c46ff48266d8fc8"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1766377529-0-0-2c7d8085b00297bc1668fb28cd09e3f8"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766377529-0-0-826751452aa7a12d6cd2ba732a3f472b"
+        }
+      ]
     },
     {
       "id": "304993",
