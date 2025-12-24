@@ -3,13 +3,38 @@
     {
       "id": "305124",
       "match_time": "1766557800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Adelaide",
       "home_img": "https://sta.vnres.co/file/common/20251222/544085b5bfb025d3d7bf8ea7b5b4a4b3.png",
       "away_name": "Cairns Taipans",
       "away_img": "https://sta.vnres.co/file/common/20251222/edbd6172c5587d101513e2672a18457c.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1766560829-0-0-1ae4b268e8ec378aa5a12199a14a3304"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766560829-0-0-ba1b27681189ba8dba5d272530ea4cd9"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766560829-0-0-f8fb657aabc05e03b23587e51f2f3a26"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766560829-0-0-4aed3e9ef63f3edc0075d4e3e72c7398"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766560829-0-0-6d73909934dc04adb9269a3c95907702"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766560829-0-0-b667d80026e769329f4eb211db1a3ef4"
+        }
+      ]
     },
     {
       "id": "305064",
