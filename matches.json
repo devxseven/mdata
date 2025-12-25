@@ -3,13 +3,22 @@
     {
       "id": "305202",
       "match_time": "1766700000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Golden State Warriors",
       "home_img": "https://sta.vnres.co/file/common/20251224/3e6c8c613dc9230ef7a7a76af9869053.png",
       "away_name": "Dallas Mavericks",
       "away_img": "https://sta.vnres.co/file/common/20251224/f8ea00f1638e04b72ade628c55cecec1.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1766703029-0-0-41135e8fa6fb7b2ed0ad856097d560f1"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1766703029-0-0-3ab1e175af222290c7f59eac04dda381"
+        }
+      ]
     },
     {
       "id": "305135",
