@@ -20,35 +20,85 @@
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1766781930-0-0-554c8b931171327590370c6e9e09a415"
+          "url": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1766782230-0-0-709b91024562b601afee310c9b7009f4"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1766781930-0-0-380b60a994b3a301834c354a6295176a"
+          "url": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1766782230-0-0-d1a01ab78a06bf8191c4c95891740e82"
         }
       ]
     },
     {
       "id": "305169",
       "match_time": "1766779200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Manchester United",
       "home_img": "https://sta.vnres.co/file/common/20251224/036cd18ae27ef8b8e5e729be8581ce17.png",
       "away_name": "Newcastle United",
       "away_img": "https://sta.vnres.co/file/common/20251224/6f984cf960eaf70c62994f0501707fe9.png",
       "league": "Premier League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2aa48a6add16c1ff80e268b7dd2c1660&txTime=694f3b66"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=9234c2faf57dc66c9df87e96c9fc5d6e&txTime=694f3b66"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1766782230-0-0-d7fdaf3209259d6ddbed84a964d6e44e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1766782230-0-0-a6e74d4b98d627302afc8ef61a41bc09"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1766782230-0-0-48364b2417b9611461bd5ec41ce2fa23"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1766782230-0-0-5d9285766b6b758fb8380615d2bbb615"
+        }
+      ]
     },
     {
       "id": "305170",
       "match_time": "1766779200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Morocco",
       "home_img": "https://sta.vnres.co/file/common/20251224/605149c10c76b58ea9ca1777a0ee1499.png",
       "away_name": "Mali",
       "away_img": "https://sta.vnres.co/file/common/20251224/925d4f48a47275e40fd5f9c8b3342e43.png",
       "league": "CAF NC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1766782230-0-0-f1df15e3fdfdb9a37e15946d7069b0e7"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1766782230-0-0-35b60b680c95f243b26000babd953bea"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=ae3f6da7296057466688d7a9815d5e50&txTime=694f3b65"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=b5fdd285e94bd47682dffe7d36786d65&txTime=694f3b65"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1766782230-0-0-68e7be5824f4d248de349f4177f7954d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1766782230-0-0-b1b8c170120fdba3c076406fed592b18"
+        }
+      ]
     },
     {
       "id": "305251",
