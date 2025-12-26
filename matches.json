@@ -3,13 +3,38 @@
     {
       "id": "305204",
       "match_time": "1766721900",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Denver Nuggets",
       "home_img": "https://sta.vnres.co/file/common/20251224/32acf7868738eaac4228b74ff6b9087e.png",
       "away_name": "Minnesota Timberwolves",
       "away_img": "https://sta.vnres.co/file/common/20251224/8dd45a972b7d41e590ed05e0ecec54e8.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1766724929-0-0-f6dbda51426919c6bae2ab51bc377b08"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1766724929-0-0-aa246537c01292572e7ad98c58b5c892"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766724929-0-0-c622bd4fc6034dfbd1f90861301e60cc"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766724929-0-0-484d793617dce4eab75a2a3d97d83768"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766724929-0-0-b8aadfe2553f6be6980743686f3eeb2a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766724929-0-0-ad87e77a551ed918e4659d83d0bb229c"
+        }
+      ]
     },
     {
       "id": "305205",
