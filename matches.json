@@ -3,13 +3,38 @@
     {
       "id": "305205",
       "match_time": "1766737800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Tasmania JackJumpers",
       "home_img": "https://sta.vnres.co/file/common/20251224/1d57bb1ed4816f95e050859a4a768d33.png",
       "away_name": "New Zealand Breakers",
       "away_img": "https://sta.vnres.co/file/common/20251224/0e2fe9a744d8b8811c7258de6530e893.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1766740829-0-0-a8a5b0696956c8bfad951987259c8e9f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1766740829-0-0-b40f69f2a35bd10a6d2a9b23bb59ef9e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766740829-0-0-d6a3b38d88ade885205762ab0dc15ab4"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766740829-0-0-fb45c6087fd3156ea0a8c1066bcfd978"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766740829-0-0-b628ad1189977c6ae136bd3024b26ca9"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766740829-0-0-2a9aad266eb0550322658e2b16835d55"
+        }
+      ]
     },
     {
       "id": "305136",
@@ -416,6 +441,17 @@
       "away_name": "NeoPhoenix",
       "away_img": "https://sta.vnres.co/file/common/20251225/d937804f4186d301d26af8e5e7fd09ed.png",
       "league": "JB1",
+      "links": []
+    },
+    {
+      "id": "305288",
+      "match_time": "1766817000",
+      "match_status": false,
+      "home_name": "Persipura Jayapura",
+      "home_img": "https://sta.vnres.co/file/common/20251226/a8db3fbfeeb68392d71b02100bfce474.png",
+      "away_name": "Persela Lamongan",
+      "away_img": "https://sta.vnres.co/file/common/20251226/d2aa74601b931fd748517f0e6afb6a6e.png",
+      "league": "IDN D2",
       "links": []
     },
     {
