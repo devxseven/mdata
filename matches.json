@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1766805329-0-0-5d840a470bb1239d29b3efd49c466801"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1766805629-0-0-b19627ea995f6f200ad9067ba7ccf80d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766805329-0-0-16c77e0c575205b9cdeafe71d923bbd4"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766805629-0-0-08f5cda5cb37641141007b71089ce299"
         }
       ]
     },
@@ -32,19 +32,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766805329-0-0-83df9c992f30345322be54fde56351bc"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766805629-0-0-b6e472249720a486cc6df693452756d7"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766805329-0-0-23a44b38929b767af3200f2c420d9027"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766805629-0-0-a590acf681ff81e49ae351a2b33b7716"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=ade0ea1a6cb2a3912866fda7f13a7095&txTime=694f95a1"
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=8d528464916bc03721e75c8123b630af&txTime=694f96cd"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=ee7a7cf459c9cc82e49d8254214f3184&txTime=694f95a1"
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=1185806a9ae311d3471b26d16a8afbab&txTime=694f96cd"
         }
       ]
     },
@@ -60,24 +60,41 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766805329-0-0-96707b155e903bfede2c20bbc8ede952"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766805629-0-0-fd3f01ec77e5fd9bfa25492029f97345"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766805329-0-0-b41631e0088727caede5732697e0c9d9"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766805629-0-0-af7974c17ed7b0f7eaf2b90bdf53be4e"
         }
       ]
     },
     {
       "id": "305254",
       "match_time": "1766802600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Utah Jazz",
       "home_img": "https://sta.vnres.co/file/common/20251225/ef862514f7759a4dfee01d420496bbdc.png",
       "away_name": "Detroit Pistons",
       "away_img": "https://sta.vnres.co/file/common/20251225/c7063e05850edb15c97150e8e356b407.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766805629-0-0-fd3f01ec77e5fd9bfa25492029f97345"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766805629-0-0-af7974c17ed7b0f7eaf2b90bdf53be4e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766805629-0-0-b6e472249720a486cc6df693452756d7"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766805629-0-0-a590acf681ff81e49ae351a2b33b7716"
+        }
+      ]
     },
     {
       "id": "305255",
