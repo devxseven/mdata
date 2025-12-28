@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=737ef3fdc5c46c4f192c42a766aaa2d3&txTime=69511f62"
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=bc3dc8b0ad49e37726fcd8eae893420b&txTime=6951208e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=10e8bb6097d9646db62ea62119b1ba80&txTime=69511f62"
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=bff051a7cd544336ddb40d6b138042c8&txTime=6951208e"
         }
       ]
     },
@@ -32,40 +32,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1766906130-0-0-146c2b80ddefcdf1788ba1854b9a18e9"
+          "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1766906430-0-0-c8f378e03fec66eef1673ca31cdf9a2b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1766906130-0-0-5519d6cbb500d2dade430ec019ecfd56"
+          "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1766906430-0-0-10113e90b1301cf00c3349f7d17bc623"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1766906130-0-0-60cd75017505d9ac31b6b0c5f61a96c2"
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1766906430-0-0-8fa406d011fde31ddc1c77027ea2773d"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1766906130-0-0-2872fe752c948b8fadf969b57e0ddedb"
+          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1766906430-0-0-3f424ff080acf43df38d814a4c6ffa49"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1766906130-0-0-b0fb1133cc487585f7619fb6801ed1f6"
+          "url": "https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1766906430-0-0-9fb665206d385aa205baa965f8b7505b"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1766906130-0-0-f63ee1f2499b834bf3d1ba8be96b8f55"
+          "url": "https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1766906430-0-0-8f41a156ff67f0362465983d582911ee"
         }
       ]
     },
     {
       "id": "305222",
       "match_time": "1766903400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Malut United",
       "home_img": "https://sta.vnres.co/file/common/20251225/f61dc3522925ac657bb51c6d8f34ac1c.png",
       "away_name": "Borneo FC",
       "away_img": "https://sta.vnres.co/file/common/20251225/cc93aa50ff7e6412f1105d343458df5a.png",
       "league": "IDN D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=ca54b8a71343c0319c9f5610f384ee4c&txTime=6951208e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=49e8e295865fb2b7c53eb4d36adf37a6&txTime=6951208e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1766906430-0-0-68884f22149b2328febaa6a8f21d7155"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1766906430-0-0-0b24b7b3ab1c91887ef6eba71914af03"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1766906430-0-0-2506e3595aa750f80b6d24e43de97edf"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1766906430-0-0-49bc8d226802bf49fa11dd0e514531ab"
+        }
+      ]
     },
     {
       "id": "305298",
