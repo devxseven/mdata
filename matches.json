@@ -3,13 +3,38 @@
     {
       "id": "305308",
       "match_time": "1766973600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Los Angeles Clippers",
       "home_img": "https://sta.vnres.co/file/common/20251227/2412e9ec83c7d0a5d2db81965ae02b27.png",
       "away_name": "Detroit Pistons",
       "away_img": "https://sta.vnres.co/file/common/20251227/476d3d233fd9939cca420b1d26d55eb0.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766976630-0-0-1c27d46922fc3bfa9616a0aa7b9f0292"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766976630-0-0-dbdbce7990d21a735e6d903726be16a0"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766976630-0-0-c986fad82a0e85c20166bea5bd1fee88"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766976630-0-0-46082c3371f8057d4f872b91ce340237"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1766976630-0-0-880aefcb5e962a1542aac704d290b1fa"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1766976630-0-0-16fe6f4a417af8f97c9f53c98a9fcb6c"
+        }
+      ]
     },
     {
       "id": "305289",
