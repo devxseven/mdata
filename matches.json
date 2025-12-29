@@ -3,13 +3,38 @@
     {
       "id": "305403",
       "match_time": "1767052800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Tlaxcala FC",
       "home_img": "https://sta.vnres.co/file/common/20251229/a693a4cf932563582b6ad5dbe8984a68.png",
       "away_name": "Pachuca",
       "away_img": "https://sta.vnres.co/file/common/20251229/cf3dfe023d0c68204126660e2355f4ec.png",
       "league": "INT CF",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1767055830-0-0-e967f31589d8c52e32af7a7e2a396da7"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1767055830-0-0-969aafb6068f4c7a49e3c1a016894a5b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=b5137d1a6700061aba48c2d4e4622f05&txTime=69536826"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=44afab606b45f5af7465be716af6a76c&txTime=69536826"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1767055830-0-0-345027e3b8c4faa032427fb6f2e4b9e2"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1767055830-0-0-d4081c9d495fe16e9e653311a57f6a8c"
+        }
+      ]
     },
     {
       "id": "305393",
