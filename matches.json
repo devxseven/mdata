@@ -3,13 +3,38 @@
     {
       "id": "305272",
       "match_time": "1766995200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Melbourne Victory",
       "home_img": "https://sta.vnres.co/file/common/20251225/1bc0bd5aaad23e798e6bb17432f434b6.png",
       "away_name": "Wellington Phoenix",
       "away_img": "https://sta.vnres.co/file/common/20251225/77c6681321ba1aae3af98e93f5c94501.png",
       "league": "AUS D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=eb43924d56e922292fcb44789378cc58&txTime=69528726"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=b1493cb25047435e515e92092d01db7b&txTime=69528726"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=64f3b25c05c8b2b1d129b598b7b7e3ea&txTime=69528726"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=508e03285ffa06e3d03d6abe7af37f88&txTime=69528726"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1766998230-0-0-26307557204e86633834e92f1af8387f"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1766998230-0-0-dc8daf9bebffaa8f3ab36da0a81d86c2"
+        }
+      ]
     },
     {
       "id": "305273",
