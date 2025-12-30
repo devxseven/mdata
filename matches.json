@@ -12,47 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1767060330-0-0-7ad74b015464be31d908c1532cd7ae80"
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1767060630-0-0-fe67ba0334ccb3d0da3a5478d58963b9"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1767060330-0-0-03df9cc06cc5fa375bb1420652d0c78e"
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1767060630-0-0-d040dfb71834adbaee0fadeb24192a2d"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=500504c94a990621ccc94222c3f65a02&txTime=695379ba"
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=c76e405f08880c245ca48ab767efad01&txTime=69537ae6"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=d29f65e64643f93948ad2ca3baec2001&txTime=695379ba"
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=d189ee57380f6d420a4a9277c391d26b&txTime=69537ae6"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1767060330-0-0-5cfc0a07edf715fad3ae8d29784b9287"
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1767060630-0-0-778e0b3c660e2b942dbb55c30e8b169a"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1767060330-0-0-514e9d1d93a564b5c173670ec01d26e8"
-        }
-      ]
-    },
-    {
-      "id": "305397",
-      "match_time": "1767056400",
-      "match_status": true,
-      "home_name": "San Antonio Spurs",
-      "home_img": "https://sta.vnres.co/file/common/20251229/ea9f1f9ab9fcf5b26b22fa76eb2c395a.png",
-      "away_name": "Cleveland Cavaliers",
-      "away_img": "https://sta.vnres.co/file/common/20251229/70fb0f5523ebe747a120411c847e8656.png",
-      "league": "NBA",
-      "links": [
-        {
-          "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767060330-0-0-c56cf9af37875fe5523ee98224202b4f"
-        },
-        {
-          "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767060330-0-0-9dd61dbaca35c8b87e212b536940312a"
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1767060630-0-0-d7765b56505efd90577e3209d40b0826"
         }
       ]
     },
@@ -68,11 +48,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767060330-0-0-a266c7f6e7c9645c3f8327a769b9aa0d"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767060630-0-0-52b9b5f3437c31b2197d739b1630d621"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767060330-0-0-21587c0e661b06face48e013ef6b6033"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767060630-0-0-b8011e902dbdeaff4ef87df0014a8f3c"
         }
       ]
     },
@@ -106,6 +86,17 @@
       "home_img": "https://sta.vnres.co/file/common/20251229/b7acd8ea7cbdfa8e3bca9ff761f8ce1b.png",
       "away_name": "Atlanta Hawks",
       "away_img": "https://sta.vnres.co/file/common/20251229/a96737299ef6b08a4de24e7d43a99bbe.png",
+      "league": "NBA",
+      "links": []
+    },
+    {
+      "id": "305397",
+      "match_time": "1767058500",
+      "match_status": false,
+      "home_name": "San Antonio Spurs",
+      "home_img": "https://sta.vnres.co/file/common/20251229/ea9f1f9ab9fcf5b26b22fa76eb2c395a.png",
+      "away_name": "Cleveland Cavaliers",
+      "away_img": "https://sta.vnres.co/file/common/20251229/70fb0f5523ebe747a120411c847e8656.png",
       "league": "NBA",
       "links": []
     },
