@@ -3,13 +3,30 @@
     {
       "id": "305434",
       "match_time": "1767225600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "San Antonio Spurs",
       "home_img": "https://sta.vnres.co/file/common/20251230/cfb47e70ef235268e573a2b300558dc8.png",
       "away_name": "New York Knicks",
       "away_img": "https://sta.vnres.co/file/common/20251230/816fbe82f853379bc7772bd049137d7c.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767228630-0-0-dd8542851771ce7dc0be86f0ec93f272"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767228630-0-0-3cbaa56dd6cd9f37e19e18ba762285d2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=4a55f366c82ecf27302774325d41f822&txTime=69560b26"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=73aacd3653c74fb999656cd6cc960535&txTime=69560b26"
+        }
+      ]
     },
     {
       "id": "305435",
