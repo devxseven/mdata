@@ -3,13 +3,38 @@
     {
       "id": "305424",
       "match_time": "1767142800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Memphis Grizzlies",
       "home_img": "https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",
       "away_name": "Philadelphia 76ers",
       "away_img": "https://sta.vnres.co/file/common/20251230/d65294b873fe0bc51d902403fed73e8b.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767145830-0-0-6210efe9a664260fe9ad37e7e05e1bb6"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767145830-0-0-ee95dd5da086eb535249923a5cf3e3e6"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767145830-0-0-6771a272cdb1768597ff2e0cbed76150"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1767145830-0-0-49ca07a966b24d4a64f5c3fa4ce90323"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767145830-0-0-99baf667a756ed3f26b9ed2ef1b5283b"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767145830-0-0-30d51d8ebcae3e24379a319456e93b9f"
+        }
+      ]
     },
     {
       "id": "305425",
