@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767172530-0-0-27b352a7f24f194079d952a95015dae2"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767172830-0-0-d20bf7c521d1f8abe9bd51cd18403ce4"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767172530-0-0-03143ea80fcb35387211b018a8963061"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767172830-0-0-61e38c7c1e38ef2ad4186e5d1a121701"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767172530-0-0-c155873b813e1b640419f3a48b90afd9"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767172830-0-0-f0179474b9e07c40b96e94eee1f88ac1"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767172530-0-0-916a1d6c48eeffe518c1809b26715a5a"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767172830-0-0-35ddd38c0fc7d498403268fff1cbb3a1"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767172530-0-0-377f6c9247c355082dec68a6e3788252"
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767172830-0-0-640ee51cdaba1470ba1a8d49fe9ae530"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1767172530-0-0-7e077421a8bd495c9d2e59e9f71417b2"
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1767172830-0-0-3aced3b9e0672972ef1bfc7dfaeb5002"
         }
       ]
     },
@@ -48,51 +48,77 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1767172530-0-0-e0ab5f1813f0a98b06a0cbe52b62db91"
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1767172830-0-0-5e133eb6c2571652c308b18965124f07"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1767172530-0-0-ce4c6d5289e041f080e01ad9b7778345"
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1767172830-0-0-1263b4e7e87c0a793a2b63f62d10c5e1"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1767172530-0-0-e66c604669785680fd422da389061305"
+          "url": "https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1767172830-0-0-5155d113f07a039aa2594bbc867f4cf7"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1767172530-0-0-594b5bd382abc77f8f61ae7d4e987d0d"
+          "url": "https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1767172830-0-0-3a5383c381b19db4bb692fab50ebe0ee"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=95d565564b22392feba670cbdfbec06b&txTime=69553002"
+          "url": "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=1ee31a753c8b6e48e61c507347ae65a6&txTime=6955312e"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=7088a6247210caad40b5fd2d025c3ee2&txTime=69553002"
+          "url": "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=04ad13e7061a617ce3d5c8be0be0cb95&txTime=6955312e"
         }
       ]
     },
     {
       "id": "305429",
       "match_time": "1767169800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Cairns Taipans",
       "home_img": "https://sta.vnres.co/file/common/20251230/6bc3761da11e1ee134ce5acb46c421c3.png",
       "away_name": "South East Melbourne",
       "away_img": "https://sta.vnres.co/file/common/20251230/4d275d38ad6643e86cf365d5705bab5c.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767172830-0-0-f0179474b9e07c40b96e94eee1f88ac1"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767172830-0-0-35ddd38c0fc7d498403268fff1cbb3a1"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767172830-0-0-640ee51cdaba1470ba1a8d49fe9ae530"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1767172830-0-0-3aced3b9e0672972ef1bfc7dfaeb5002"
+        }
+      ]
     },
     {
       "id": "305430",
       "match_time": "1767169800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Townsville W",
       "home_img": "https://sta.vnres.co/file/common/20251230/7501589f62e4737c2b7e13b4c81be6b7.png",
       "away_name": "Bendigo W",
       "away_img": "https://sta.vnres.co/file/common/20251230/b3291f6141fe1e6ce5b7cc917784b53e.png",
       "league": "WNBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767172830-0-0-41377ba0b23976749572376c6b1a1ed3"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767172830-0-0-683e9beaffebb34ce1c7ec7b15cc6211"
+        }
+      ]
     },
     {
       "id": "305354",
