@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767160830-0-0-ee7d89d86b4c0cd3a4717d7b875b99b1"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767161130-0-0-f5791460d77598b673739a22186ac8bc"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767160830-0-0-9a2d856ccbe0fe155052f47ed0b86713"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767161130-0-0-4a6b35e7ceb603d1dd15bb1e93d0f1f1"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767160830-0-0-920e414eb342fac8385e25fc61754587"
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767161130-0-0-0591d5058232b98ea1d8590f684965a2"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1767160830-0-0-76b9aaa262d21412ade315d2bb3899a3"
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1767161130-0-0-8c3aa8adee69d193d65ee5e4b3ae705b"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767160830-0-0-f506fc05845ea6909584dbb44c66a931"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767161130-0-0-bfd2b8252f6f5e186bc5d785d2d9cb5d"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767160830-0-0-014d1a2494c7103f573b00e47a5243d8"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767161130-0-0-7d6baa56e090bb9e7276a920e9df52c8"
         }
       ]
     },
@@ -48,24 +48,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1767160830-0-0-0f5d0bd8c63fed770ca615af07c00ff7"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1767161130-0-0-c36d6289c63b0b88d2f0ee9fe6755fc7"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767160830-0-0-8cd799d686e7aeafceedcf9e5825ee91"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767161130-0-0-a7c02729555fc023057056a380f72431"
         }
       ]
     },
     {
       "id": "305352",
       "match_time": "1767158100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Central Coast Mariners women",
       "home_img": "https://sta.vnres.co/file/common/20251228/4b3e7a3b22f006ef15ed5230eb956b6f.png",
       "away_name": "Brisbane Roar Women",
       "away_img": "https://sta.vnres.co/file/common/20251228/d7f3d1732f2a9c520548a744e13874a1.png",
       "league": "AUS WAL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=cf719c9818c487c3e5ebaea45e8163ce&txTime=6955037a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=acc9d706e0c08ffc6a4d98dad374d371&txTime=6955037a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/9912114-720p.m3u8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/9912114-480p.m3u8"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=39c7553aab2bcc9784a1b1d7522c7664&txTime=6955037a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=43c6ac5e7ee265873301b841d1b7efb6&txTime=6955037a"
+        }
+      ]
     },
     {
       "id": "305428",
