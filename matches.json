@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767273330-0-0-28710fb7a06370864d7ef9886ba68002"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767273630-0-0-a885946ae23c184785c72c15592742ed"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767273330-0-0-316e48dc8ea5651f6c7f53f6e198412e"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767273630-0-0-1ab7a27f94278ae887a025fc9b388323"
         }
       ]
     },
@@ -32,35 +32,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1767273330-0-0-b26bc94e6111bc221f207a32a5364744"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1767273630-0-0-dfde93a4fc98d0cf77c36beaed00e720"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767273330-0-0-4bd16c60e484ef70ad48501886139fc2"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767273630-0-0-f53307da3782b2620eb56b90eff59937"
         }
       ]
     },
     {
       "id": "305377",
       "match_time": "1767270600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Blackburn Rovers",
       "home_img": "https://sta.vnres.co/file/common/20251228/1686181785ebc042d5bdac4e9564b07c.png",
       "away_name": "Wrexham",
       "away_img": "https://sta.vnres.co/file/common/20251228/536003c8e8a6dcc5e8f5c3e28ad0d52f.png",
       "league": "ENG LCH",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=81c08eba3f1ce238e85ac41a927c4a99&txTime=6956baee"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=eb447b7575817eca2b15acdc4b6fe27d&txTime=6956baee"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1767273630-0-0-c7f9c15de85639e4272f0628876d976d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1767273630-0-0-f19ec9827ef3e6a46fdc7f648773953b"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1767273630-0-0-7eee74104abdedb2a9a1cbbdaf05f0fe"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1767273630-0-0-2e2b7dd71fa91cf54f7a37aef2ac6f26"
+        }
+      ]
     },
     {
       "id": "305378",
       "match_time": "1767270600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Colwyn Bay",
       "home_img": "https://sta.vnres.co/file/common/20251228/d7105694f8a95911978e9ed858604fe5.png",
       "away_name": "Flint Town",
       "away_img": "https://sta.vnres.co/file/common/20251228/6f652a4e75e37c56219b3faf7f285cce.png",
       "league": "WAL PR",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1767273630-0-0-69bb3472385f885018550b4866ca3b52"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1767273630-0-0-96757f9311015c18fa5bdca70d486b22"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=92f013f839e3805f16f6208579c237d8&txTime=6956baee"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=ce6f40f728747c9323ab0a32ab19482b&txTime=6956baee"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1767273630-0-0-786ba7182e8e94f2eb48d6ae510dbd5c"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1767273630-0-0-6a85beee8e5de25ccff406592dc62f0e"
+        }
+      ]
     },
     {
       "id": "305379",
