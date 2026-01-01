@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1767242730-0-0-68792071a426b6439fc7280c835a0bf4"
+          "url": "https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1767243030-0-0-d1d7869b84cc3e3dd45cab381415c1ae"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1767242730-0-0-169d5229a86f4c9a087f399620b3bf85"
+          "url": "https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1767243030-0-0-5fecbea96120c113a9f5a0270d7e88ce"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1767242730-0-0-4d27ea1a981fd736dceef538c9e37566"
+          "url": "https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1767243030-0-0-c946a2495f4676f09c45ad688929e410"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1767242730-0-0-e02aaefe154dbf053abb0864ac1bd3ae"
+          "url": "https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1767243030-0-0-6a914d480c79abcbdf39045fd50b05ed"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1767242730-0-0-6ae0175a631908c7f9b841500536ce03"
+          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1767243030-0-0-8dae8b909f93ae463feeb268ce10db06"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1767242730-0-0-541ff9f5c8b7d40c9a1bb4ef242db1b1"
+          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1767243030-0-0-e0ea545c3febf691b04d1768ae72cacc"
         }
       ]
     },
     {
       "id": "305375",
       "match_time": "1767240000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Auckland FC",
       "home_img": "https://sta.vnres.co/file/common/20251228/a93a1d2238c783e2e92cd1356545f85c.png",
       "away_name": "Newcastle Jets",
       "away_img": "https://sta.vnres.co/file/common/20251228/2f6b75d0ca2bf62d7830ae12da2f6ae1.png",
       "league": "AUS D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=bd38e7bcbfc3f59746be811facf83fb9&txTime=69564366"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=87d2c179817b6e1f7b359e088cd387a2&txTime=69564366"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d60f5fe97e99d587f36c22ce0a6cfd25&txTime=69564366"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=c5305ba5df3b7326e90682ae1f7e61fc&txTime=69564366"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=0059f53bd81cdff444664a014a5c64a5&txTime=69564366"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=7d6cb3629b10f6c874db2ad541d4d7f5&txTime=69564366"
+        }
+      ]
     },
     {
       "id": "305437",
