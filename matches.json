@@ -3,13 +3,38 @@
     {
       "id": "305482",
       "match_time": "1767310500",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Brooklyn Nets",
       "home_img": "https://sta.vnres.co/file/common/20251231/346cf72d65cb6a439c6bc3fe1b3c374c.png",
       "away_name": "Houston Rockets",
       "away_img": "https://sta.vnres.co/file/common/20251231/04f967bc087eb9a6f0b1d82a813b9692.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767313530-0-0-2cd1beb870793f1628860c056f91babb"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767313530-0-0-6eeb71c9fd34814818cb3127a10956fe"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=616567ddca5ae6713e2617a95756c66d&txTime=695756ca"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=2dd69b89a095daa5ec4f3d2c8d002f5a&txTime=695756ca"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1767313530-0-0-a1c732ad133d673f84e4fa2c73c9e707"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767313530-0-0-11cfa39243699c1fa2c080704f54404f"
+        }
+      ]
     },
     {
       "id": "305483",
