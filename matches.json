@@ -3,13 +3,22 @@
     {
       "id": "305565",
       "match_time": "1767398400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Indiana Pacers",
       "home_img": "https://sta.vnres.co/file/common/20260102/6901d33c89d33788d1827e553b2d7db1.png",
       "away_name": "San Antonio Spurs",
       "away_img": "https://sta.vnres.co/file/common/20260102/363cb6966d63300b23496d13ce7fc6df.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=86aca00041abbf6424dc98a77b733dc0&txTime=6958ae26"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=d5dfcd8ade64c9c6be9cafcdb0a0933b&txTime=6958ae26"
+        }
+      ]
     },
     {
       "id": "305566",
