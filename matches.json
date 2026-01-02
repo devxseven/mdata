@@ -12,24 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1767325530-0-0-4eff0a7801ca242812ae95b1662f65da"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1767325830-0-0-6735175bc4f7427437a404faa49c9f6f"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767325530-0-0-97cf58d1bdde2fb2ab52d41603731cc4"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767325830-0-0-b095a8fc0c19434a21fc435a75cff79c"
         }
       ]
     },
     {
       "id": "305485",
       "match_time": "1767322800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Sacramento Kings",
       "home_img": "https://sta.vnres.co/file/common/20251231/e426ee1b504876d3e2f0dfc64aedc464.png",
       "away_name": "Boston Celtics",
       "away_img": "https://sta.vnres.co/file/common/20251231/365b1b5f1e0fffcf16f532c5916d52b6.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767325830-0-0-9886a87f850cfdd93a77f8a439f2cc43"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767325830-0-0-7f3a8fcad8f505df2e3c7bfd69dc502d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=b3c893b991f7c4cafd931aed29253169&txTime=695786dd"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=2f2dfaadeb2ea535a848ebab065d761a&txTime=695786dd"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767325830-0-0-76a618c1063e7deff3378abb6da47363"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767325830-0-0-9ca03c8915bdc80c37eb0c0c4e2fcdd7"
+        }
+      ]
     },
     {
       "id": "305486",
