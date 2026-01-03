@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1767411930-0-0-01c396f9a8317ab04bed1af03df1ceea"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1767412230-0-0-fef78c8fada2f9de036332275c6d5583"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767411930-0-0-e39a5af6e7dc80c4eb3bc0f93bbfd19a"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767412230-0-0-8a22c13e132945537deb532452cd039d"
         }
       ]
     },
@@ -32,32 +32,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767411930-0-0-18e3c664d7992b4f0f9742acd39995fa"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767412230-0-0-46494b1993851d09da6fc1df544ae060"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767411930-0-0-dd4ff26e3ad3cd82a45d36cc94e83a46"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767412230-0-0-4d1f6f144833fa174c1f958f0da1c6dc"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767411930-0-0-2d412e321166be9e0db080553d7d4a0a"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767412230-0-0-6d3668c45f7e70f6bb5c3fce3462ea65"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767411930-0-0-30126665fbafa4d608db681fa25e2916"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767412230-0-0-7a626247368db63883a54de680b2ff9e"
         }
       ]
     },
     {
       "id": "305568",
       "match_time": "1767409200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Golden State Warriors",
       "home_img": "https://sta.vnres.co/file/common/20260102/a0268f51101ec926a42338be19fe3b35.png",
       "away_name": "Oklahoma City Thunder",
       "away_img": "https://sta.vnres.co/file/common/20260102/4af76da8a75390f01b7976052ff14de0.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767412230-0-0-46494b1993851d09da6fc1df544ae060"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767412230-0-0-4d1f6f144833fa174c1f958f0da1c6dc"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1767412230-0-0-fef78c8fada2f9de036332275c6d5583"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767412230-0-0-8a22c13e132945537deb532452cd039d"
+        }
+      ]
     },
     {
       "id": "305569",
