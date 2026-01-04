@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1767568530-0-0-80dd0fa30dde346743c9cefddb425439"
+          "url": "https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1767568830-0-0-e52c6ab1fccc645b18cf6eb55878edb1"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1767568530-0-0-67ed584a83c6af84ecb1504e64dbb635"
+          "url": "https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1767568830-0-0-2dc87f8b278f8153839859119b2f03e1"
         }
       ]
     },
@@ -32,40 +32,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1767568530-0-0-37df6524a811b3bfe9c8665c4b84e62e"
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1767568830-0-0-6fe95b7bcf36a36804db0ef1fcba290f"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1767568530-0-0-2951d62747d762c0b0c257294b0a11f4"
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1767568830-0-0-fbba3df368117d78f990705dd9e24521"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=b52c1e701a3e08e198e00d60920e3b10&txTime=695b3ae2"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=a98bac72b1b2ef0b346a8cab0021c138&txTime=695b3c0e"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=0dca1077eba49dfc027f5f221b96b5ce&txTime=695b3ae2"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=69fe55824896016524cb2324d10331a8&txTime=695b3c0e"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=c1522d2fcd5cc539eb8ca881ac767c36&txTime=695b3ae2"
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=43f309249cd057f649f8b1e8f9ac178c&txTime=695b3c0e"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=7bffd1b02e3c4aaa45a3bab7700d550b&txTime=695b3ae2"
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=d187872ce00a541ab8b6ba3b99cdbf65&txTime=695b3c0e"
         }
       ]
     },
     {
       "id": "305601",
       "match_time": "1767565800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Marathon",
       "home_img": "https://sta.vnres.co/file/common/20260103/a5aa1a8f17817d0ac22da496c0c02082.png",
       "away_name": "CD Olimpia",
       "away_img": "https://sta.vnres.co/file/common/20260103/283a95b07dc493647a7ab6a61dbf45ff.png",
       "league": "HON D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1767568830-0-0-f2b24e97ebf3d59958cf851d6aae2104"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1767568830-0-0-d336a99a8f2e24fe7e03f53606f346ac"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-564597_lhd.m3u8?auth_key=1767553893-0-0-ccaee573f6778bbd31df1d06b24bfc5a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-564597_lsd.m3u8?auth_key=1767553893-0-0-89e8a530957300abd074af9a1a8b67a1"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1767568830-0-0-367ba157933cdbfee2bd335cd85e301f"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1767568830-0-0-af43b6c4e16e339dc6540084164296c5"
+        }
+      ]
     },
     {
       "id": "305590",
