@@ -12,54 +12,113 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=0a2825f41f5b917ad5e1d71af3d282dc&txTime=695bf8ba"
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=1890cdbbeb3a479a5098db305314e1c8&txTime=695bf9e6"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=eedab9fe0477117b26a25a1e81e55f7c&txTime=695bf8ba"
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=99764c1c32c3c2b47b1d9e380d6ce642&txTime=695bf9e6"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767617130-0-0-c35b5751f1f3a13152d094498d75f9a4"
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767617430-0-0-9b7ac6c0d66f2797cc9fa810687a33e7"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1767617130-0-0-ebe8e42958af7fc165c3159019ab9c0e"
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1767617430-0-0-4ebc51199d6124e4084fb42c1e27e2da"
         }
       ]
     },
     {
       "id": "305555",
       "match_time": "1767614400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Persatuan sepak bola Indonesia Kediri",
       "home_img": "https://sta.vnres.co/file/common/20260102/57208b272013a6cb81d36bac97f963c2.png",
       "away_name": "Persib Bandung",
       "away_img": "https://sta.vnres.co/file/common/20260102/cecd61726ae7b51a92a6ae311e88aecc.png",
       "league": "IDN D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=40b0afa8e77f7deb314097d9ab2865ac&txTime=695b152a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=771c0b3be073f9c543357c5b7edaed1a&txTime=695b152a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1767617430-0-0-625673e0b1074c5f2df5399e4e4422a6"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912101_lsd.m3u8?auth_key=1767617430-0-0-93d3e67d8582ecd9c52713588ec5fc2a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1767617430-0-0-7b45103e2605efc54128a7f5953b5b59"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1767617430-0-0-26918b4c01d0b51b5382ef24a2a3b305"
+        }
+      ]
     },
     {
       "id": "305556",
       "match_time": "1767614400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Kendal Tornado FC",
       "home_img": "https://sta.vnres.co/file/common/20260102/551910d773ad799e285ffcc4c35accce.png",
       "away_name": "PSS Sleman",
       "away_img": "https://sta.vnres.co/file/common/20260102/7598b24d92021c063b3e9fa504288596.png",
       "league": "IDN D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1767617430-0-0-8b1a809d7381108872e1d29c9106e008"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1767617430-0-0-c7ca6db809ab09e0c9aba19fa7ede5d9"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1767617430-0-0-d0d9ea48fb8fafd34f1908d3aee85fe6"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1767617430-0-0-edb4b033c4a2da0f6501f384f8063f58"
+        }
+      ]
     },
     {
       "id": "305598",
       "match_time": "1767614400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Shanghai",
       "home_img": "https://sta.vnres.co/file/common/20260103/b2ade8dae524ea9bbe105956e8947462.png",
       "away_name": "Zhejiang Guangsha",
       "away_img": "https://sta.vnres.co/file/common/20260103/98cfcea6ae84482face83444b7231387.png",
       "league": "CBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767617430-0-0-16f14eb7cae56d2fce84076f2bb4c9df"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767617430-0-0-72597135589eac23ffbb6c5b35067b9f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767617430-0-0-9b7ac6c0d66f2797cc9fa810687a33e7"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1767617430-0-0-4ebc51199d6124e4084fb42c1e27e2da"
+        }
+      ]
     },
     {
       "id": "305557",
