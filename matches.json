@@ -3,24 +3,58 @@
     {
       "id": "305709",
       "match_time": "1767740400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Independente Sao Joseense PR",
       "home_img": "https://sta.vnres.co/file/common/20260105/75b504c97886cb235a775820ad3b380a.png",
       "away_name": "Galo Maringa",
       "away_img": "https://sta.vnres.co/file/common/20260105/0884975a1741f272544c9dc1c2bf87a8.png",
       "league": "BRA PR",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=8dabc92638e30a791216c28c448da226&txTime=695de617"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=dd70b521ca8d7af474cfe20f9a756585&txTime=695de617"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1767743431-0-0-f9096b4eed5a8bc82876e92b62040f02"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1767743431-0-0-75f6964f315ef5f503071cd3d26bc133"
+        }
+      ]
     },
     {
       "id": "305710",
       "match_time": "1767740400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "CEC Santa Catarina",
       "home_img": "https://sta.vnres.co/file/common/20260105/3164c1736c5a6781f964922ddc46562b.png",
       "away_name": "Camboriu SC",
       "away_img": "https://sta.vnres.co/file/common/20260105/43c296cf058ea8dc6ec6b37e4fcd72d9.jpg",
       "league": "Giải Vô địch Catarinense",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1767743431-0-0-01a48b9c0938681cee23e6c144eb4b92"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1767743431-0-0-7bbdfba398de8cd7ef0f912511a8c5a5"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-564597_lhd.m3u8?auth_key=1767743431-0-0-2ba1bd1d7a859b96bb8386f77e7b83ee"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-564597_lsd.m3u8?auth_key=1767743431-0-0-97f67cc06ab8031aca124615cc992a53"
+        }
+      ]
     },
     {
       "id": "305719",
