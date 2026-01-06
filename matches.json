@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=2a58d6b1e49d21e942a8332bf52ed474&txTime=695ccbaa"
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=e0e8465860191d77e077df87498bc080&txTime=695cccd6"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=44e95eba6ef960d322c6f79142c2b184&txTime=695ccbaa"
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=e9c1495a42d2555d0e21c24d8294ef14&txTime=695cccd6"
         }
       ]
     },
@@ -32,51 +32,93 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1767671130-0-0-117fa46708f570acc95ab3b016f7334b"
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1767671430-0-0-6ce96959b6fba3643d56cb41a4eb46b6"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1767671130-0-0-1ed8361857cb99510f43ddca915a0c07"
+          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1767671430-0-0-3a210506e573920c827de89178e62147"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1767671130-0-0-f0dc32631c8975740969f10fb2faaf45"
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1767671430-0-0-cba44554f8a903d266e745ecde376ef4"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1767671130-0-0-4d6e580354d880ce4cfd10e72b4d5bf8"
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1767671430-0-0-8eafe4512fdacea9de3af45d92dcb859"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1767671130-0-0-b9e25b62ea8cf70c50b933ea801d7552"
+          "url": "https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1767671430-0-0-9d9cc91ccfd3866163b499e9e7eda534"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1767671130-0-0-89ac02306daddb38749d8d7283514809"
+          "url": "https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1767671430-0-0-a584de3250261a2f71606283e6d5fc93"
         }
       ]
     },
     {
       "id": "305672",
       "match_time": "1767668400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Los Angeles Clippers",
       "home_img": "https://sta.vnres.co/file/common/20260104/c76999b3183bf2bf701d616ad6663e1b.png",
       "away_name": "Golden State Warriors",
       "away_img": "https://sta.vnres.co/file/common/20260104/09ecd2e9e4f8b7484ed0ff551c2d52f4.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767671133-0-0-f8e5c8cf23184f4ae3925bdca01e6d38"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767671133-0-0-664ddb775f13cadda795bd9d936b4321"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1767671430-0-0-91c5b438c80a389dbae5dc343022ff8a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767671430-0-0-557da2013690402140ffda9f605b6254"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767671430-0-0-b981b7453471911bed5de41198934efd"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1767671430-0-0-997845d24c96f2f394fa9fca88e5ca30"
+        }
+      ]
     },
     {
       "id": "305673",
       "match_time": "1767668400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Portland Trail Blazers",
       "home_img": "https://sta.vnres.co/file/common/20260104/ee6029f866a8dd0ca7ce0322805a3da0.png",
       "away_name": "Utah Jazz",
       "away_img": "https://sta.vnres.co/file/common/20260104/d12cf737121282f2a07369c0f19cd1d7.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767671430-0-0-e7d33c5ea246c7fda3acd0f0510226f8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767671430-0-0-36ca1d480532749246ca39e44aa51bdd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767671430-0-0-f08ad38fae0c4dc68d713bc079a25fa6"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767671430-0-0-7a98e07a95a95c5b32cb7817e4ab6e87"
+        }
+      ]
     },
     {
       "id": "305616",
