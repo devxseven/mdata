@@ -12,32 +12,41 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=af3f19a6fb6d5dd051b1b86069c32474&txTime=695df2fb"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=359647c200127f2116c9e6728d241823&txTime=695df427"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=740234412c3f814697b7ecad29d5b69b&txTime=695df2fb"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=1c83d054c69ad400d3287bd68e477228&txTime=695df427"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1767746731-0-0-ee5957edb9cea089d33e983006ba9f29"
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1767747031-0-0-b326ba7b026286a3be2a830844a24717"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1767746731-0-0-c988008cb0234e4967f62169dc12214b"
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1767747031-0-0-34752ace74f619b3d91ec3ce0c68ba47"
         }
       ]
     },
     {
       "id": "305719",
       "match_time": "1767744000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Washington Wizards",
       "home_img": "https://sta.vnres.co/file/common/20260105/b69ecba51f2573368e1fd6148a5b7043.png",
       "away_name": "Orlando Magic",
       "away_img": "https://sta.vnres.co/file/common/20260105/62b031795d207a9414d842f399e57ff6.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767747031-0-0-746ecf6ef30b10ff38225d4cae51516f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767747031-0-0-d38b1668ad5cda49ddb512c687105b6b"
+        }
+      ]
     },
     {
       "id": "305650",
