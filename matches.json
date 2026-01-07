@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=73cd8092e222368724a93351ef6e72fa&txTime=695e010b"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=bcb109e6a5ea50d650697e026e13ef2b&txTime=695e0237"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=64c856ee5bb49714f737b8adfdb4e5c3&txTime=695e010b"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=8ac045d986e1e898ce13977556745351&txTime=695e0237"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1767750331-0-0-bbbff5a27d4d543b1d0d73efeca44bfb"
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1767750631-0-0-e091c9fa86426b5cc7ec0e8b44035631"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1767750331-0-0-76ee64ff73067d95fce2da87e2aa89fa"
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1767750631-0-0-97012b1e7ead462a8cedc5064d252637"
         }
       ]
     },
@@ -40,57 +40,117 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767750331-0-0-9498096d828de2f43a77887e5a37f09d"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767750631-0-0-c974152a636853a9fdc805ed0129156e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767750331-0-0-50702f61f2f41e5b39008bea15fdf002"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767750631-0-0-9ee5002ccedab2a8b7dbffed2712a3aa"
         }
       ]
     },
     {
       "id": "305650",
       "match_time": "1767747600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Atlas Women",
       "home_img": "https://sta.vnres.co/file/common/20260104/0bc2a37aa12db3299c67e7176883701d.png",
       "away_name": "Pachuca Women",
       "away_img": "https://sta.vnres.co/file/common/20260104/32a9a5adc5c5f7b464d6f2e94b00dd4d.png",
       "league": "MEX WD1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1767750631-0-0-4863512237b313b438ff4b7366b31005"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1767750631-0-0-2e64b5592ffd089d8b0f29a5146e3678"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1767750631-0-0-ec6488176124ed743e9696591abf8ebe"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1767750631-0-0-b2a2bd5e5ac15e8dd2afd71a86512bdb"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1767750631-0-0-7f845ccfe6d73a06f42b0fb3848e3a46"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1767750631-0-0-e3c5fbd155cba953887accb3b7119c75"
+        }
+      ]
     },
     {
       "id": "305720",
       "match_time": "1767747600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Memphis Grizzlies",
       "home_img": "https://sta.vnres.co/file/common/20260105/b7a96d2935388ec30e8f2630167d66bc.png",
       "away_name": "San Antonio Spurs",
       "away_img": "https://sta.vnres.co/file/common/20260105/05fc6fbef8729aacec65eed4ab72fc00.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1767750631-0-0-f1e804a50c029b419233dabcf2add2a8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767750631-0-0-5abd2bbaf2b8e6d06f9c4cf53fdcd975"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767750631-0-0-42ba0b05125b289fa02302c853e5e8f3"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767750631-0-0-13d18f870f73953629261fb7f2b338b2"
+        }
+      ]
     },
     {
       "id": "305721",
       "match_time": "1767747600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Minnesota Timberwolves",
       "home_img": "https://sta.vnres.co/file/common/20260105/803ffde5adac5c626f1d0dc3fd2675c3.png",
       "away_name": "Miami Heat",
       "away_img": "https://sta.vnres.co/file/common/20260105/0ecebf8cbbee49c301e9a30f303bbd5f.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767750631-0-0-3c4d8bb4ea98a29ad1298d2ab69b3ad6"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767750631-0-0-fc3aed54985ee2f281571d575efc94b1"
+        }
+      ]
     },
     {
       "id": "305722",
       "match_time": "1767747600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "New Orleans Pelicans",
       "home_img": "https://sta.vnres.co/file/common/20260105/858bff7e140a08939fc96882c4e74187.png",
       "away_name": "Los Angeles Lakers",
       "away_img": "https://sta.vnres.co/file/common/20260105/75230e9cc99f0d70f995da716622bc79.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=f54f29de00fa6c89072c4b252af504a8&txTime=695e0237"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=73021d55380a9199558a6f7fd7b2e837&txTime=695e0237"
+        }
+      ]
     },
     {
       "id": "305651",
