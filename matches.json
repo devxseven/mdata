@@ -12,40 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1767914131-0-0-0ff3628f71c32b1cb36eae0b58b5a480"
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1767914431-0-0-60ac64b0230c390c7f293bf01470b0a1"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1767914131-0-0-4df0e3f8c10145e52a454fa081070653"
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1767914431-0-0-cc59aca3bcbc5c0bc53d40dd3b734b9b"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1767914131-0-0-1f64cd0e95ab0f0e3e85145907d02c69"
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1767914431-0-0-b6018dea431d71fa1b8931df6241170c"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1767914131-0-0-9892022e63273901fdcb498e24cbe41d"
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1767914431-0-0-561efc811a2f480b0e35db0d22f8cfe0"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1767914131-0-0-dba2adc26dba29fd4822eff1d34a0ee4"
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1767914431-0-0-15f50b82e4a827c657268a0b8beebf90"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1767914131-0-0-eb8ee6dff89ff3027362f5fc7d9e6fa8"
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1767914431-0-0-05d9089e6d9b1b9b73d76508f45eab58"
         }
       ]
     },
     {
       "id": "305833",
       "match_time": "1767911400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Palmeiras Youth",
       "home_img": "https://sta.vnres.co/file/common/20260107/b9ef61614c01f2929f042bcce1399ba2.png",
       "away_name": "Batalhao TO Youth",
       "away_img": "https://sta.vnres.co/file/common/20260107/4145f55c5132af743764639eb162abe3.jpg",
       "league": "BRA SPYC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=cce1b68e4964a2f3e9ab60059c044e21&txTime=6960820f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=c8fe74f32d002cb6468eb4e1ed6d2fae&txTime=6960820f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=71e3b6d7fc3042098169f12cfc1c9c57&txTime=6960820f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-519740_lsd.m3u8?txSecret=9d6e3b76aa46c7ff3284bce5d801d013&txTime=6960820f"
+        }
+      ]
     },
     {
       "id": "305835",
