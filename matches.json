@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767960931-0-0-9e5d4abad81daa9d31f621cdcdcfd934"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767961231-0-0-40201e637480765b706916bbff92482d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767960931-0-0-d3d90f2a02eb5ffbc7f577decad8ec56"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767961231-0-0-4ae7bacea18932d3f88a8d17744128f3"
         }
       ]
     },
@@ -32,40 +32,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=5b0cc08a9925adea1f74c05373c2ac64&txTime=696137b3"
+          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=c7c54bb49785176020b6436b7e08148e&txTime=696138df"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=d0697a22c60c781d0437ec8abfd76cb7&txTime=696137b3"
+          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=b7f1e486228410fd35040b5a1aa0fe80&txTime=696138df"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1767960931-0-0-982f3fa1a894849138a276da261d596d"
+          "url": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1767961231-0-0-303e8c3a0d970a2def3c7dc6dc135db5"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1767960931-0-0-59605769ac9feef00532287536e55de0"
+          "url": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1767961231-0-0-f063dd4527194698e2b3bc08b6b53463"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1767960931-0-0-740b85523a589f6f1eed397f7260f295"
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1767961231-0-0-e869f6e43ea2389646f1ecccb3f88ed7"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1767960931-0-0-1a803125c79305072a122d858cabeb23"
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1767961231-0-0-889eb8f5b41fb3bf595a8fb289cc1017"
         }
       ]
     },
     {
       "id": "305748",
       "match_time": "1767958200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Belediye Vanspor",
       "home_img": "https://sta.vnres.co/file/common/20260106/3778db39246608c7b3c2015aa1d84ffa.png",
       "away_name": "Boluspor",
       "away_img": "https://sta.vnres.co/file/common/20260106/9c130cd01be8eedabfac0a606281208a.png",
       "league": "TFF 1. Lig",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1767961231-0-0-7243ab83f9cd608b90660bd8c7328fee"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1767961231-0-0-e6684f8f8220a26e27aee104a7e560b2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=4b0dcc7ee4c1e3d4370865d729c706b8&txTime=696138df"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=90fdab7e37d82a20855527fca16d23da&txTime=696138df"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1767961231-0-0-b3a7db1027d4e6383fe5e903f1ef6ace"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1767961231-0-0-df5ba2c3ad03652a7e7c1ccb70bcd924"
+        }
+      ]
     },
     {
       "id": "305750",
