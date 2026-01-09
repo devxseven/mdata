@@ -3,13 +3,38 @@
     {
       "id": "305838",
       "match_time": "1767926100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Utah Jazz",
       "home_img": "https://sta.vnres.co/file/common/20260107/6e96cb0164b0782ec2b1e9d503df1359.png",
       "away_name": "Dallas Mavericks",
       "away_img": "https://sta.vnres.co/file/common/20260107/0448c1f4c33e40a168633b2928cb8cc1.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767929131-0-0-e4389cafce16ed9b13626d5136e24942"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767929131-0-0-397eef3e60f2b17dfa778e2a1f926098"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767929131-0-0-7b37d430518749657d10867f5498fd14"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767929131-0-0-f037d62dd8b1da454ea0b5e4b02f290e"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767929131-0-0-60707b86cbe68cdc15a8b9f640b064d9"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767929131-0-0-43d218c803472056ff938e096bd15e37"
+        }
+      ]
     },
     {
       "id": "305839",
