@@ -3,24 +3,50 @@
     {
       "id": "305907",
       "match_time": "1768004700",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Boston Celtics",
       "home_img": "https://sta.vnres.co/file/common/20260108/00b7d61ad66780f93c54bde650a8cb6b.png",
       "away_name": "Toronto Raptors",
       "away_img": "https://sta.vnres.co/file/common/20260108/c80e36dee5b4bccf3c5de76e0b0cbff6.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768007731-0-0-f1a387493014867c83b552ea21d874ca"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768007731-0-0-585ef91f1dcc85b9ff23866dc71e73b1"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=205df42bcd0e1a953ab4a1da792a8091&txTime=6961ee83"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=fac9283b6c884ce2e29e1b549f0a16a6&txTime=6961ee83"
+        }
+      ]
     },
     {
       "id": "305908",
       "match_time": "1768004700",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Orlando Magic",
       "home_img": "https://sta.vnres.co/file/common/20260108/7466fdd83ba90f7d12039be679cf0cff.png",
       "away_name": "Philadelphia 76ers",
       "away_img": "https://sta.vnres.co/file/common/20260108/517f9da90919bfc7d73eedafc3b78b45.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768007731-0-0-d3e49c86e790755bb9960ddb6b27fae7"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768007731-0-0-abe1aa7cd5707068343be3d92406f53f"
+        }
+      ]
     },
     {
       "id": "305787",
