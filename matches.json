@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768112131-0-0-6452642b712a1a34890e6bbab7df5243"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768112731-0-0-fb33b76ac44a72084faf159a1eebaf36"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768112131-0-0-72a16a95d3bbe90ef85b7a44902469e0"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768112731-0-0-e7bc703cfa55e23834c84874cdb3cb99"
         }
       ]
     },
@@ -32,11 +32,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1768112131-0-0-4060753d56477260edf720ee28778fab"
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1768112731-0-0-125d997831758f82e4dbf10313d62551"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1768112131-0-0-a5fcb0e94383b511605801c91db58ed5"
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1768112731-0-0-2694551c66500d3672d2f817f608e865"
         }
       ]
     },
@@ -52,24 +52,41 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768112131-0-0-09e9e7e446bed8cc70a7672ca9b913d2"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768112731-0-0-9c7ff2123f34cb35d1ff0813b521551c"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768112131-0-0-9b3f11fdbcc43b9eb471d5f6a14bb546"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768112731-0-0-170fc9af912b79364c898377e033e20a"
         }
       ]
     },
     {
       "id": "305993",
       "match_time": "1768109400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Sydney",
       "home_img": "https://sta.vnres.co/file/common/20260110/f5df7970b93fa6b73cfc12ca76a5140a.png",
       "away_name": "Melbourne United",
       "away_img": "https://sta.vnres.co/file/common/20260110/59537e5716ca31b5aee6b3cf7165cd99.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768112731-0-0-b367230e3292007b1fcd144ea9846f31"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768112731-0-0-9a0cba3c148c0e802dcf5ca4dcfeded2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1768112731-0-0-12f1dd971b01bf7693e99c1e4bcd68c2"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1768112731-0-0-4a2fc965d5958e30a37f952430d08938"
+        }
+      ]
     },
     {
       "id": "305873",
