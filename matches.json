@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1768319131-0-0-1be4b4fcf87b97993c22276e4b7ed19f"
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1768319431-0-0-064f7d85573b0d703793cf3a75ee8cd4"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1768319131-0-0-f9a80e709d11430c7731cc39f722f86f"
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1768319431-0-0-549078196fe110bc1de3bd0a551644b8"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1768319131-0-0-f6bacdf4ef7306c0b6f009509c1e32c9"
+          "url": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1768319431-0-0-65aac1f7220b900cdb9868110c69fa28"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1768319131-0-0-bdd2fe5e801fadfe29bbef018730c015"
+          "url": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1768319431-0-0-81c0323d538b26dcc9c1ebba74a7738a"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=eec2405bd2b9c9dd238dfe5858656670&txTime=6966aeeb"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=c488b000cc6af9fa4a19fb7f9ed97a8c&txTime=6966b017"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=bb32aba5949d73bc6550c1dd84ccb756&txTime=6966aeeb"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=32c04af9d6c32b1e8ccbc4ea3e9db0e8&txTime=6966b017"
         }
       ]
     },
@@ -48,51 +48,101 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1768319131-0-0-dfee456b71ce718c6a897fccfd1c3093"
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1768319431-0-0-345602a971aba367f12d52a81e33b837"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1768319131-0-0-e624791c82277fa4ab95fa5a9e313857"
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1768319431-0-0-82aad30338098f5899eac5d7958967e2"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1768319131-0-0-6c5a8c0335fcd6f3b5461ee75e14f341"
+          "url": "https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1768319431-0-0-1bb22a57abad64f800f2c56d2dd5617d"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1768319131-0-0-1db564e70e7986c2d2ac5c874cfc7f93"
+          "url": "https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1768319431-0-0-3ba317715bb877a56a8eae518185945c"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-563268_lhd.m3u8?auth_key=1768319131-0-0-01490f66f20b53556011f79980aec87c"
+          "url": "https://pull.niues.live/live/stream-563268_lhd.m3u8?auth_key=1768319431-0-0-3212b7d97c584a9bda04e38bd157fe57"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-563268_lsd.m3u8?auth_key=1768319131-0-0-315f62be5bde0d5e6243cb13c6b09699"
+          "url": "https://pull.niues.live/live/stream-563268_lsd.m3u8?auth_key=1768319431-0-0-5db700384985075e258c7df3955b24a7"
         }
       ]
     },
     {
       "id": "305979",
       "match_time": "1768316400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Gazisehir Gaziantep",
       "home_img": "https://sta.vnres.co/file/common/20260110/06f7c182086162654386f7dd641472f9.png",
       "away_name": "Kocaelispor",
       "away_img": "https://sta.vnres.co/file/common/20260110/ebb46926c0e39f7115b972f668647850.png",
       "league": "TUR Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=fee4c7fad2b5b4dff5c1944eb13def81&txTime=6966b017"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=6bb25b8c8acfdd27568b00a7dec56d15&txTime=6966b017"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1768319431-0-0-2d96bc23f9ace060c3670d9da18f53a0"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1768319431-0-0-f7e890a046a9c5f07ad219158cb9bfed"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=2fd04e23ca7f60e669d52006b039893c&txTime=6966b017"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=732b2258616500db258f16cc2d6c8a94&txTime=6966b017"
+        }
+      ]
     },
     {
       "id": "305981",
       "match_time": "1768316400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Torreense U23",
       "home_img": "https://sta.vnres.co/file/common/20260110/1e0009f8002429cf7da8fbfde6a4c8c7.png",
       "away_name": "Benfica U23",
       "away_img": "https://sta.vnres.co/file/common/20260110/bc35e199b677702ba4384589885f89e6.png",
       "league": "POR LRU23",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1768319431-0-0-994ed2cd2253ecb5d6eb173f520b5a36"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1768319431-0-0-f0a472d7d994cf1e7b4637bd3829490b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1768319431-0-0-dc3f2d2935a6e96bc069e50137d60dcb"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1768319431-0-0-faf78771ddec43beb4aa965d0a34485c"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1768319431-0-0-7c7dad963a8efb6a41e8c598489c8699"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1768319431-0-0-b0bb31466b5ebd0daa9a40061647d025"
+        }
+      ]
     },
     {
       "id": "305983",
@@ -256,17 +306,6 @@
       "home_img": "https://sta.vnres.co/file/common/20260111/52c63b2b098d5a8081a1b0b4ee058775.png",
       "away_name": "Atletico Madrid",
       "away_img": "https://sta.vnres.co/file/common/20260111/4dde15e035b3a4714a646311600c9293.png",
-      "league": "SPA Cup",
-      "links": []
-    },
-    {
-      "id": "306007",
-      "match_time": "1768334400",
-      "match_status": false,
-      "home_name": "Real Sociedad",
-      "home_img": "https://sta.vnres.co/file/common/20260111/d7e3908c47fc91601a3893264c7953ad.png",
-      "away_name": "CA Osasuna",
-      "away_img": "https://sta.vnres.co/file/common/20260111/abf08e589c7cf409e5880f0767036d14.png",
       "league": "SPA Cup",
       "links": []
     },
