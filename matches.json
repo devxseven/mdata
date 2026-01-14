@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=30f3c4811300c0753c6b7636ff721617&txTime=69676def"
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=23d265b73d93c4321752a5f1b16eb0de&txTime=69676f1b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=a8c9e44008e121518cf9e42eb19c7630&txTime=69676def"
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=76d92f03cf897025368b9a3ce1d21b9d&txTime=69676f1b"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1768368031-0-0-ff50073505722ffaf2824c14d7131602"
+          "url": "https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1768368331-0-0-78054b36f97d3be90cfa4b526d974685"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912101_lsd.m3u8?auth_key=1768368031-0-0-a155249f6720e0926966cbde22c2a2e4"
+          "url": "https://pull.niues.live/live/stream-9912101_lsd.m3u8?auth_key=1768368331-0-0-e2f78f9331219267bfb6447c71b50e66"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1768368031-0-0-96ba20f2782be4cc541c1e649274e693"
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1768368331-0-0-69dd240384e866cd49da82266d6446a3"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1768368031-0-0-00393800b62a925f55d0526384f86baf"
+          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1768368331-0-0-1aa0e9a01194e36ac86c3e4ef3a21318"
         }
       ]
     },
@@ -48,40 +48,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1768368031-0-0-b0405b92b34b48750bd24287cfa0e2e1"
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1768368331-0-0-8d7e1d90b5ce41e6a82a39c3fe3d94e8"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1768368031-0-0-1cec7079c7789f38f69373f831e43f83"
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1768368331-0-0-95e764d7bae98e07ab2f37c68a0f2cef"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768368031-0-0-9a4b20ec4e2a262e219148bb9a611c95"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768368331-0-0-a5cee37a54d50471fae3adc1289db0da"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768368031-0-0-e06106a1ffec7c27ba1a5bd2812d35f0"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768368331-0-0-d1d55e75525d0e1e8e4ff9b9c0342759"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768368031-0-0-4d72a23177093f1900f475020ff78a63"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768368331-0-0-6844d7685dcee25e57381a224d28a74c"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768368031-0-0-58d48a4f0ecdb53ecd974d3831fc63b5"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768368331-0-0-2da866b328b4788f79cdc1c016102acf"
         }
       ]
     },
     {
       "id": "306114",
       "match_time": "1768365300",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Golden State Warriors",
       "home_img": "https://sta.vnres.co/file/common/20260112/9e17e11add8a082c58b10d795098df07.png",
       "away_name": "Portland Trail Blazers",
       "away_img": "https://sta.vnres.co/file/common/20260112/fb1e20b6e1f44aed628b6b5cc3f101cc.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768368331-0-0-e9352512eeba69b5bed4ec90e399bd50"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768368331-0-0-7df71bced36be53bceaa91a5bf0f3a64"
+        }
+      ]
     },
     {
       "id": "306115",
