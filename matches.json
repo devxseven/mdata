@@ -3,13 +3,22 @@
     {
       "id": "306115",
       "match_time": "1768382100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Meralco Bolts",
       "home_img": "https://sta.vnres.co/file/common/20260112/23221da7f03db734bd6c71174b70f554.jpg",
       "away_name": "TNT Tropang Giga",
       "away_img": "https://sta.vnres.co/file/common/20260112/507bb85ef44b96f82b6f654ecd56a687.png",
       "league": "PBC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1768385131-0-0-815a793d920398f19bb1c96ec2c0587e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1768385131-0-0-151faaf80cad443d7f2bd3799efa3f55"
+        }
+      ]
     },
     {
       "id": "306021",
