@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1768522532-0-0-d93e722bb970f516dea8846f32d402e6"
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1768522832-0-0-067b9ef43a82804bdef1ecbe91028a8b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1768522532-0-0-43f0300ca709ca2a22edebfe3543525e"
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1768522832-0-0-0738b5206e90cf21918c80b8be30d773"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=d62e7a87558090863fd2602049e1273f&txTime=6969c974"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=63df7dc94deef5bb1b570fed8d9f4745&txTime=6969caa0"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=07c2c74de75289ea7a1b9f3669d8e8b3&txTime=6969c974"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=7292474cbf22247e98cd9e9d8722b8fe&txTime=6969caa0"
         }
       ]
     },
@@ -40,19 +40,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=dce63cdde94ea79c4db59d8d05f99e8d&txTime=6969c974"
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=6598da7901029c6fcc0b1c47e4f8ff75&txTime=6969caa0"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=6fce5075befead44e545925f86d6fcad&txTime=6969c974"
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=938718a0c27ec5ca56340fa689121f25&txTime=6969caa0"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-564597_lhd.m3u8?auth_key=1768522532-0-0-54a8fe1e96929e06b39279151b67a695"
+          "url": "https://pull.niues.live/live/stream-564597_lhd.m3u8?auth_key=1768522832-0-0-1132bb6bbee4e66a9a7db5041829233c"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-564597_lsd.m3u8?auth_key=1768522532-0-0-3c581dbca52dc8f8527974a5ef367dd3"
+          "url": "https://pull.niues.live/live/stream-564597_lsd.m3u8?auth_key=1768522832-0-0-ebe673f01078702bcc82a21e46612128"
         },
         {
           "name": "VN HD 3",
@@ -67,13 +67,38 @@
     {
       "id": "306132",
       "match_time": "1768519800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Fortaleza",
       "home_img": "https://sta.vnres.co/file/common/20260113/ba4659170590093efb1adcc1566c5b71.png",
       "away_name": "Quixada CE",
       "away_img": "https://sta.vnres.co/file/common/20260113/2f8a382590e151b291345117ba1a37a8.png",
       "league": "BRA CE",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1768522832-0-0-7db03a2a2bbb28657a92b9f2bb2ba486"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1768522832-0-0-5692dd80e5fea6c76b1c0f22cea6ea7f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1768522832-0-0-a6dd491bdedcd9c5ae8e506c1711eda2"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1768522832-0-0-165c1140197c1b44bdf48161aad1e7e1"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=70620b602ae4f9ddf26b8fa9b7e2a3c8&txTime=6969caa0"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=af5265bd29be991d77183b0582081524&txTime=6969caa0"
+        }
+      ]
     },
     {
       "id": "306296",
@@ -348,17 +373,6 @@
       "away_name": "Parma U20",
       "away_img": "https://sta.vnres.co/file/common/20260113/aa6411231f58470cc7d310bb43df24bd.png",
       "league": "ITA YTHL",
-      "links": []
-    },
-    {
-      "id": "306150",
-      "match_time": "1768569600",
-      "match_status": false,
-      "home_name": "Al-Ttadamon(KUW)",
-      "home_img": "https://sta.vnres.co/file/common/20260113/d00e8bda7827546539f420ab0081930f.png",
-      "away_name": "Kazma",
-      "away_img": "https://sta.vnres.co/file/common/20260113/a97dfce65e2dbb909dc2c30b2bf0e3f7.png",
-      "league": "KUW D1",
       "links": []
     },
     {
