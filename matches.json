@@ -12,24 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768482931-0-0-09c664f6f1beca210343a267dd9c802c"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768483231-0-0-2e734c8dea985e10cad1a680d97247a5"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768482931-0-0-d9830c7b05ef3f3ae740dc19b31e12ed"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768483231-0-0-ceda2caf10c301bf58d038ee6014409c"
         }
       ]
     },
     {
       "id": "306084",
       "match_time": "1768480200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Eyupspor",
       "home_img": "https://sta.vnres.co/file/common/20260111/ae28aa41846fc6be8dc86c61c287a780.png",
       "away_name": "Iğdır FK",
       "away_img": "https://sta.vnres.co/file/common/20260111/e8b6fbbef73242bd38ae04dd948a4fd2.png",
       "league": "TUR Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1768483231-0-0-10f7b1ca1e3936843eadfd0513ffa85f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1768483231-0-0-80ece4affde462c0736b953f9d9af8fd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d3f7ffc32c890ad495fbcb24d9879d06&txTime=69692fef"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=5fd411015ab1c9140733594562599605&txTime=69692fef"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=05512daa0ed0994fcaf8fea2a77ccf92&txTime=69692fef"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=2b3f171a4fc598c4d6c13181d0869181&txTime=69692fef"
+        }
+      ]
     },
     {
       "id": "306085",
