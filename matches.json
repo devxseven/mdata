@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=2f55b49561da1f4b723f946dd606f16e&txTime=696b189c"
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=ddf19056e5faa0b1f6414475b05f0c46&txTime=696b19c8"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=9bdad80247b3ad913619fade73361408&txTime=696b189c"
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=0352eba07a2de84b0b48d4d8e5c9ad76&txTime=696b19c8"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1768608332-0-0-c61785bff4a664bf730fcfd01c223e2d"
+          "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1768608632-0-0-42c873f1da323921538fc8bf3671256f"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1768608332-0-0-cc1d0e395a093ba2f365ad5512ee9921"
+          "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1768608632-0-0-8c5b5130baa6233aca2a2eb08e92dd19"
         }
       ]
     },
@@ -48,24 +48,41 @@
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=670ab798147626181b85667b82bfb9fc&txTime=696b189c"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=e1b5cf52495a9bbed212c90bf5e7b81c&txTime=696b19c8"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=1c6e9f243c8e5f92db8d93e22bfa1dac&txTime=696b189c"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=04e3f3201b4ad367f6db55e3b01d59e4&txTime=696b19c8"
         }
       ]
     },
     {
       "id": "306174",
       "match_time": "1768605600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Deportivo Pereira",
       "home_img": "https://sta.vnres.co/file/common/20260114/a28483b749fdf1f4e65c66244a2bd5fe.png",
       "away_name": "Llaneros FC",
       "away_img": "https://sta.vnres.co/file/common/20260114/2ab8fbaf829c8305000f3a42c0ff7b4b.png",
       "league": "COL D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=3d2962878cba1b8a53f88c2817f974c9&txTime=696b19c8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=9dc7c99ec551fa16edb4d04dbac90f52&txTime=696b19c8"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1768586294-0-0-660ab71653e542b5d66fcc761b977bfc"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1768586294-0-0-756856646eb8997c1ae74cccf837037d"
+        }
+      ]
     },
     {
       "id": "306175",
