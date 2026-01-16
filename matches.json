@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=504685699cb99bbec719af2431487029&txTime=6969d784"
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=0434d87b11043d481c9e86beed5ba4d4&txTime=6969d8b0"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=8e18a4c9b63226466f909a2fe4ce8206&txTime=6969d784"
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=2cbe7e9410eabace537e0085242aa2e7&txTime=6969d8b0"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-564597_lhd.m3u8?auth_key=1768526132-0-0-66b8a7de766107b3033d9602f044d856"
+          "url": "https://pull.niues.live/live/stream-564597_lhd.m3u8?auth_key=1768526432-0-0-524f8c6fbcecdb7593e13937bfc5f027"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-564597_lsd.m3u8?auth_key=1768526132-0-0-89de9eac6f9485c9aa79feb449eaaa86"
+          "url": "https://pull.niues.live/live/stream-564597_lsd.m3u8?auth_key=1768526432-0-0-7fdbfc538fd471bd482f953967f0662a"
         },
         {
           "name": "VN HD 3",
@@ -48,27 +48,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1768526132-0-0-3b462b34ad6896dc6357d32c1e37786a"
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1768526432-0-0-5d301850a090e85d1a04596fd645c101"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1768526132-0-0-4a64999b164d90a2dc14bb104be01d5d"
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1768526432-0-0-0830ec8f494ac2f68fa2ca4e11fb2775"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1768526132-0-0-c18abe10ae8e7f9900e809ca7f9df06d"
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1768526432-0-0-4d420281777c2df3f9be9ae88be675e3"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1768526132-0-0-9d094d8d3e6c8ceb73f4ce23d6130787"
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1768526432-0-0-141c20e92f9581466aba320a5477ad37"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=cad9d88348b6c12c271a27663d18a5f3&txTime=6969d784"
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=726b8d9f09cdaab359aa122045af2e09&txTime=6969d8b0"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=85261bd4af4e10f77872f8e89a0a277b&txTime=6969d784"
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=e93233952be03acfa4cafaf8aa94efec&txTime=6969d8b0"
         }
       ]
     },
@@ -84,57 +84,141 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768526132-0-0-c62ccafb58362d0826fac17b7b068a72"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768526432-0-0-3f3c6b35d67ab035c0e6a3d4483a9167"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768526132-0-0-6004423bde52189ce270590148b5de22"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768526432-0-0-6799ebf5396274a7743ec1a11d76c71c"
         }
       ]
     },
     {
       "id": "306133",
       "match_time": "1768523400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Clube de Regatas Vasco da Gama",
       "home_img": "https://sta.vnres.co/file/common/20260113/2ca1c84bd87106b2522fc4509ba1f24f.png",
       "away_name": "CFRJ Marica RJ",
       "away_img": "https://sta.vnres.co/file/common/20260113/fe10d91c1375cc1460486aa393fd321d.png",
       "league": "BRA RJ",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=ceda8dff27f9989d45e7ea44c0c6c1e8&txTime=6969d8b0"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=9c7670e1b01d02b7eab6b524b67d4170&txTime=6969d8b0"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1768526432-0-0-750172a16ca3baa458f9fc457e463440"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1768526432-0-0-604fdb444999cac2f3623abff44d6b57"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=8cd84c98d119549bdc93e92da14e0c72&txTime=6969d8b0"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-519740_lsd.m3u8?txSecret=cdbbc22698c8ad94045f55ce836df47b&txTime=6969d8b0"
+        }
+      ]
     },
     {
       "id": "306134",
       "match_time": "1768523400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Atletico Junior Barranquilla",
       "home_img": "https://sta.vnres.co/file/common/20260113/240fabbbba6da09021c5f4da2df1fd02.png",
       "away_name": "Independiente Santa Fe",
       "away_img": "https://sta.vnres.co/file/common/20260113/f54ff055a25c65b7b1dc47020f2777c4.png",
       "league": "COL SC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1768526432-0-0-0ab949dfaaef9d00ca989886a81d5bee"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1768526432-0-0-4fb2e92dc346a2b0111ed86d133bff3c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=0434d87b11043d481c9e86beed5ba4d4&txTime=6969d8b0"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=2cbe7e9410eabace537e0085242aa2e7&txTime=6969d8b0"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-564597_lhd.m3u8?auth_key=1768526432-0-0-524f8c6fbcecdb7593e13937bfc5f027"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-564597_lsd.m3u8?auth_key=1768526432-0-0-7fdbfc538fd471bd482f953967f0662a"
+        }
+      ]
     },
     {
       "id": "306297",
       "match_time": "1768523400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Houston Rockets",
       "home_img": "https://sta.vnres.co/file/common/20260115/cf3317fbca6eda15c01cff2c4c8cf663.png",
       "away_name": "Oklahoma City Thunder",
       "away_img": "https://sta.vnres.co/file/common/20260115/f6538bcd716d4f50d51db424528d1a44.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1768526432-0-0-15b646023d832a4f6dde5412f4bc31e6"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1768526432-0-0-39f9c3a743cbdc514b9788730e5ec93b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768526432-0-0-4e8ea1a1b400ee3a24be45c5000d80c8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768526432-0-0-d3cf1259e4e4ab444f0bfcfafb26f0e6"
+        }
+      ]
     },
     {
       "id": "306298",
       "match_time": "1768523400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Miami Heat",
       "home_img": "https://sta.vnres.co/file/common/20260115/fb5c70c1c21e9e4b81c514a0da2f6c7e.png",
       "away_name": "Boston Celtics",
       "away_img": "https://sta.vnres.co/file/common/20260115/8179cd94cd65b1ba38814b5fcbeeead4.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768526432-0-0-4270cf28211a0bd90352949e09adc457"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768526432-0-0-42e0258f86d90722a29305c8a304852c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1768526432-0-0-5d905ba84057d304f4f412bd18c9fc05"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1768526432-0-0-4e1877773825dab1952a6f9c952dd968"
+        }
+      ]
     },
     {
       "id": "306135",
