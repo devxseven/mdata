@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768729532-0-0-012ae216b0ef03475b27a6d81cc13199"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768729832-0-0-25740de3bc5d2dbb4d3ca141f7812837"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768729532-0-0-f15af01b50e25d37bc4a607e34810298"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768729832-0-0-0f65033e8bbdd73b313a98247b9d04c0"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768729532-0-0-d84f5c47d2e50b815aeb247248f969cf"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768729832-0-0-be466694aa6a29fab0a44cf33f3dbf49"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768729532-0-0-9c0aabbc8f2a67d8aaea94250432dfc0"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768729832-0-0-3aa1cabbdda82ef3e8961bf46c1aaa33"
         }
       ]
     },
@@ -40,19 +40,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=d86ecd5913bb43abfdf9e844a168b7bd&txTime=696cf20c"
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=f60ebbe9f944087108d068ab56a6564b&txTime=696cf338"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=54e1ce857fedde6a15f251bc33c444e5&txTime=696cf20c"
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=351d389f2e92bf609761cf117294b53c&txTime=696cf338"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1768729532-0-0-40b07cba43efd27d24ce6ed507d6cc46"
+          "url": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1768729832-0-0-d2945d2a7180bf37c445ea3128d21fcd"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1768729532-0-0-11dda05f727f3ccabe2216c4f7c11800"
+          "url": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1768729832-0-0-b861e65a955211562b8343c41ea7caba"
         }
       ]
     },
@@ -68,43 +68,77 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1768729532-0-0-8c72a03c2916acbb4e2c87944e563e01"
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1768729832-0-0-729f2a481e842a4ca6ad647b70cc8120"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1768729532-0-0-421710d40f96e498bc2cdd5f5191f783"
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1768729832-0-0-c20fd6d4eb2de0d8054cf7885335f7ab"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1768729532-0-0-5d87d9bea340c51843caa657bad03c37"
+          "url": "https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1768729832-0-0-6aac36f2515819ca190d6ec9066cb869"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1768729532-0-0-ec30040af2b82166b2783af6f2ac081d"
+          "url": "https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1768729832-0-0-73d6f85eddb4c879882d9dd8a555bc80"
         }
       ]
     },
     {
       "id": "306269",
       "match_time": "1768726800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Penang FC",
       "home_img": "https://sta.vnres.co/file/common/20260115/cc410ec93be079d2ac58d44554e58625.png",
       "away_name": "Kuching City FC",
       "away_img": "https://sta.vnres.co/file/common/20260115/da047ed3f4c3f0faf0b9a0770ed44055.png",
       "league": "MAS Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1768729832-0-0-42671364b693fe680e52d3ec750032d4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1768729832-0-0-fe900d45f69c81ad7288b20e2aa5baa4"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1768729832-0-0-ef601ba198914ac4f502b7a837f06e9f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1768729832-0-0-b37813469a1df64fc2414b422ad4fca6"
+        }
+      ]
     },
     {
       "id": "306328",
       "match_time": "1768726800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Taiwan Beer",
       "home_img": "https://sta.vnres.co/file/common/20260116/55c7bc57a8045443c1f8d7b9af6a5030.png",
       "away_name": "Changhua",
       "away_img": "https://sta.vnres.co/file/common/20260116/6d654a8301cd4e562e7e17e19d6f6ecb.png",
       "league": "SBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768729832-0-0-25740de3bc5d2dbb4d3ca141f7812837"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768729832-0-0-0f65033e8bbdd73b313a98247b9d04c0"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768729832-0-0-be466694aa6a29fab0a44cf33f3dbf49"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768729832-0-0-3aa1cabbdda82ef3e8961bf46c1aaa33"
+        }
+      ]
     },
     {
       "id": "306270",
