@@ -3,13 +3,38 @@
     {
       "id": "306513",
       "match_time": "1768880100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Golden State Warriors",
       "home_img": "https://sta.vnres.co/file/common/20260119/9cbf13524fb56fc94c446348c8fea12b.png",
       "away_name": "Miami Heat",
       "away_img": "https://sta.vnres.co/file/common/20260119/0efffa001ffeb6b05f962076d657f10b.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768883132-0-0-d42fb6604e4d3068ab60454f59f02c71"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768883132-0-0-613e665a4464c36ed12c43ab478d7b4c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768883132-0-0-324609a01df92c4cdca5e88cc631ad7f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768883132-0-0-5f5e8b868dde40d85c0f6a7d45d5b7d0"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768883132-0-0-fafdd490bf7d4c3f6f04423694de3d11"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768883132-0-0-75a0f93ac1ece37dde3a7fd367e41eb2"
+        }
+      ]
     },
     {
       "id": "306514",
