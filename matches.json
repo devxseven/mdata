@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1768992332-0-0-82594e6d12a8c5b201002f0b0b895fec"
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1768992632-0-0-4afee2a685472f63ce2110b296be172e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1768992332-0-0-e6f1466ff44e0bda78a5b7d747b5bec9"
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1768992632-0-0-c900889b7041d99db7e553fa1c6805d4"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1768992332-0-0-487cf6e11633817b3e950effae53a2ac"
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1768992632-0-0-717a3e5407364886854605ae72a5eab9"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1768992332-0-0-01b46126c6567ba709aaefb8e52dea5e"
+          "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1768992632-0-0-932d0efdc8f1f74b1492e4005b385946"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=9f3fbd5ab821841037e60fedf46b1e9c&txTime=6970f49c"
+          "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=26d813696b9b38d67b0b50c65ea8d282&txTime=6970f5c8"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=df64db3638f8395fd904e26955af48ae&txTime=6970f49c"
+          "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=f2f00d15ebaad9315b644ebf6e0719cc&txTime=6970f5c8"
         }
       ]
     },
@@ -48,24 +48,33 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768992332-0-0-5943b111b04c53610ecade79b46acacf"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768992632-0-0-e6fccfeda03c3695f76ad23cd1e54767"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768992332-0-0-199c924843dc84f4cf7b1f389b1a52bb"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768992632-0-0-375eb805176951fa620f439cdbf31fff"
         }
       ]
     },
     {
       "id": "306529",
       "match_time": "1768989600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Busan BNK Sum W",
       "home_img": "https://sta.vnres.co/file/common/20260119/fa2a607fc9b48f64a575b8639d527fe7.png",
       "away_name": "Woori WON W",
       "away_img": "https://sta.vnres.co/file/common/20260119/ac0ceb8af0f3705d64803dcca5291dce.png",
       "league": "WKBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=d99b3c131151b8d37e00df734299cb2c&txTime=6970f5c8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=e64c21fa2d53eef4c4185a18e579b484&txTime=6970f5c8"
+        }
+      ]
     },
     {
       "id": "306530",
