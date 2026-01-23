@@ -3,13 +3,38 @@
     {
       "id": "306603",
       "match_time": "1769149800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "New Zealand Breakers",
       "home_img": "https://sta.vnres.co/file/common/20260121/681a306457f8975981b11daf6a49fb61.png",
       "away_name": "Adelaide",
       "away_img": "https://sta.vnres.co/file/common/20260121/728118c44af46b35cff5fe1da4fda997.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1769152832-0-0-acef122873ef52e7da0b9a59d6ee5739"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1769152832-0-0-22f569b8d6c3e6c77d71ea82ea1d9f52"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1769152832-0-0-5f8a2b3a7d29404e2abd634709dc27e9"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1769152832-0-0-a632caeef49c9c292c0378b5d13ddd2a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1769152832-0-0-09611b8828de70f0114a733a079be442"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1769152832-0-0-ca5359ec7a83a544269933f677dcc8ea"
+        }
+      ]
     },
     {
       "id": "306564",
