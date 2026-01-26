@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1769429733-0-0-021e5c93fd65bfdcc94fb594a73f2029"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1769430033-0-0-dcdac682bba8da94ff7578b1182cfb59"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1769429733-0-0-7f2d4a4c6c3ea0e257b6fd52d568d422"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1769430033-0-0-594ed7796d6fb6dea2ddb106e8881d11"
         }
       ]
     },
@@ -32,40 +32,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1769429733-0-0-347b5c310e569f7ee30859725a9ca740"
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1769430033-0-0-e7a86f6bf944fd904693f3e6301e0e33"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1769429733-0-0-2c09da42e7833b07d34c133a904c7784"
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1769430033-0-0-76caf6b522d1199573b174ac35f02b1d"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1769429733-0-0-ccee6bf57b3879529ffea8b4266c0a29"
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1769430033-0-0-17409c8bb7b08552222fab0e41b07def"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1769429733-0-0-49d4788e54543bc828528435f6e57de0"
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1769430033-0-0-6922c3dfe360b87272b2d27a69eb9afe"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1769429733-0-0-4d08de4fcf897812d42a068ce9926975"
+          "url": "https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1769430033-0-0-e4be2e5cf8ab74a96aee53e77e57cf70"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1769429733-0-0-b06026c38465d0e59da449e962a4eddd"
+          "url": "https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1769430033-0-0-e0bbbe32828fa1ece3f532122c309575"
         }
       ]
     },
     {
       "id": "306786",
       "match_time": "1769427000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Young Lions",
       "home_img": "https://sta.vnres.co/file/common/20260123/70988cb161a62f060700c9a0ffad583a.png",
       "away_name": "Tanjong Pagar Utd",
       "away_img": "https://sta.vnres.co/file/common/20260123/d9bf565c2b69194bcf9d3c59288fe7c1.jpg",
       "league": "SIN D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=c62f99d185cf8c8e6d59f9c383dd8746&txTime=6977a261"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=ce072e3ef242240ce1b358cd560b4b89&txTime=6977a261"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/9912100-720p.m3u8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://stream-flv.dfsfe.top/lives/9912100-480p.m3u8"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=86f4139d2a6c04cd54ae417d6d088f98&txTime=6977a261"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=b599b906a8b4f4beb384180f6939236f&txTime=6977a261"
+        }
+      ]
     },
     {
       "id": "306807",
