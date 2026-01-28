@@ -3,13 +3,38 @@
     {
       "id": "306902",
       "match_time": "1769589000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Brisbane Bullets",
       "home_img": "https://sta.vnres.co/file/common/20260126/c168f460dd217d4b2a448efbdd8ec6fd.png",
       "away_name": "Adelaide",
       "away_img": "https://sta.vnres.co/file/common/20260126/7dc0cb94866fd9933fae1d69194a4014.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1769592033-0-0-58ed8964224e3ee1166f4d55806bff74"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1769592033-0-0-16fc2ac35ae003a1ff49590e314ad860"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1769592033-0-0-d0a156de7e420b6a0f2b92d9058306ff"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1769592033-0-0-4165d37619275effaa484f738667f5f4"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1769581882-0-0-270dd559c742e938b917b9ea51798540"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1769581882-0-0-8c936cd39f40d4fe76474bc4d2664987"
+        }
+      ]
     },
     {
       "id": "306864",
