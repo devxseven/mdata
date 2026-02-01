@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1769986833-0-0-845a87c7659fb63e06711b9120385ef1"
+          "url": "https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1769987133-0-0-5b543671f0959771d1de73a77b609408"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1769986833-0-0-efea8d665cc182b8a43048e414a77917"
+          "url": "https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1769987133-0-0-6dd76522f1d73a53d8fcfe865a063136"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1769986833-0-0-696fc1efe6c124b20a5bebe68a3e33b9"
+          "url": "https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1769987133-0-0-b75095f2264b65ead144eb5a04f65b30"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1769986833-0-0-1fd89a8789ac53dbe98768ced917514a"
+          "url": "https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1769987133-0-0-333983d224bc2dd6c063de8bf8939937"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1769986833-0-0-b68f37af36bc806dc7c6fde3dd0c3f27"
+          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1769987133-0-0-f0401def5092085444ec1657d2787c50"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1769986833-0-0-9cceb5843b83eb41a172d6039ff2d196"
+          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1769987133-0-0-524d2304740ea3512022469b94184746"
         }
       ]
     },
     {
       "id": "307222",
       "match_time": "1769984100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Boca Juniors",
       "home_img": "https://sta.vnres.co/file/common/20260131/c53476da3255ac4f8b748b4ee8070196.png",
       "away_name": "Club Atlético Newell's Old Boys",
       "away_img": "https://sta.vnres.co/file/common/20260131/40a0813478fa01f1655099a88eee4570.png",
       "league": "ARG D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=441c50aa5d15dbd5ce9af3c4920d11b0&txTime=6980228d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=c3ed49bd28c35e432e6e745cd689c7ff&txTime=6980228d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1769987133-0-0-d7b753bee12a4855540bc75a83eac77d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1769987133-0-0-9f896e30c2245ea5a2c22336a91eea19"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=06e7e70d8d27f8a1015e683a54465923&txTime=6980228d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=a975faee3142187e65cba2874500de50&txTime=6980228d"
+        }
+      ]
     },
     {
       "id": "307223",
