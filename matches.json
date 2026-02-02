@@ -56,19 +56,19 @@
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=3bfd6f670b4396f2029f02833f8d9df5&txTime=6981290e"
+          "url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=045b0171cdee58b98703de9505f008ed&txTime=69812a3a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=a0863f98c5dc97ba4054458dfb688c06&txTime=6981290e"
+          "url": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=79e4f38682911a96c5234b5608a8bf06&txTime=69812a3a"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=e7cc6b0be631521e9bc390a12d0b034f&txTime=6981290e"
+          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=81999ae3360bb0f770b419112122a746&txTime=69812a3a"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=d09bb5dd4fe34847e34e6a37b3fc21e4&txTime=6981290e"
+          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=adda780ff08f24ad269aed933eddf3c4&txTime=69812a3a"
         }
       ]
     },
@@ -84,51 +84,93 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1770054334-0-0-7e66bce830d75ecfe1dcff18b94b73af"
+          "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1770054634-0-0-cc43b8ad4024a02955a3d89421952eb1"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1770054334-0-0-73f7e883ad3c531c896ae73209fc7588"
+          "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1770054634-0-0-a1bea72ddaf5cf5dce9ff619be94bf70"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1770054334-0-0-5a90021c207ac6ed72a9bd387e5b003e"
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1770054634-0-0-ba829ea55b0c665b8599758ce6703bce"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1770054334-0-0-0fc55f74e45494b741f27bc52a5bf8c8"
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1770054634-0-0-84f9b59daf479621cf88c1c7803d5c7f"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1770054334-0-0-fe5686f4eda43745127d6a9d544b96e7"
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1770054634-0-0-de6c891f62b3a6f49dc0b015c90894c0"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1770054334-0-0-962ac45fd474a42d7d707f67dd9074e2"
+          "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1770054634-0-0-4d43367d620c9fef834c6c564cb27a6f"
         }
       ]
     },
     {
       "id": "307242",
       "match_time": "1770051600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Kocaelispor",
       "home_img": "https://sta.vnres.co/file/common/20260201/0bee6a0caa8d22fb649b087938f81aed.png",
       "away_name": "Fenerbahce",
       "away_img": "https://sta.vnres.co/file/common/20260201/5bbc588790c3f1e00ae774e577978d7a.png",
       "league": "TUR D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=81999ae3360bb0f770b419112122a746&txTime=69812a3a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=adda780ff08f24ad269aed933eddf3c4&txTime=69812a3a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=85169943e76f903075c4881147aba2ba&txTime=69812a3a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=84a1c1113296ada6bdea294918c1638a&txTime=69812a3a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=91502fb4b05459d8399e49227ac3ecf7&txTime=69812a3a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=d3d495b1594802f3889b70968a0efe72&txTime=69812a3a"
+        }
+      ]
     },
     {
       "id": "307243",
       "match_time": "1770051600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Dinamo Zagreb",
       "home_img": "https://sta.vnres.co/file/common/20260201/ee34700672792781385597f92b7b49f5.png",
       "away_name": "HNK Vukovar 1991",
       "away_img": "https://sta.vnres.co/file/common/20260201/4cbf3e7d3a09d205eba3c92ea307f41f.png",
       "league": "CRO D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1770054634-0-0-90bad9c085effb530307554476dfaa1e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1770054634-0-0-1d0cb251f5eb7962aff9fda7182c9615"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1770054634-0-0-95dde90352dd10e35978210269d64742"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1770054634-0-0-74b14ee2b35747ee43c99033743cd5ce"
+        }
+      ]
     },
     {
       "id": "307244",
