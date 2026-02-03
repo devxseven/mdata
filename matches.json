@@ -12,43 +12,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1770115534-0-0-9cec376b647ad4b327ae148415eda390"
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1770115834-0-0-2257160b22b79a8882f8a4b9e06ab5b9"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1770115534-0-0-9ce7b98e640215330f91fdaf7f099cea"
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1770115834-0-0-f29d554e1e612876a9fe36411bbdfad9"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770115534-0-0-fef7bac12a42bf4911e94f8cb06bd74f"
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770115834-0-0-1958206d5b272729aae57d9da1bd5ec3"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1770115534-0-0-2ff430cede05aea58e1adb0cfc76a523"
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1770115834-0-0-c80a75bc77747f2d36fbf0748d84440c"
         }
       ]
     },
     {
       "id": "307264",
       "match_time": "1770112800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Iğdır FK",
       "home_img": "https://sta.vnres.co/file/common/20260201/8ad48d6a87811aab32c4eaa51be7968e.png",
       "away_name": "Antalyaspor",
       "away_img": "https://sta.vnres.co/file/common/20260201/ffc3903c2d49cbf6faac0fb7e8136c95.png",
       "league": "TUR Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1770115834-0-0-1a7ed86a064a937b75bd5dae978fd740"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1770115834-0-0-b2b5bd26b61f3616492e06c824a8b4c5"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1770115834-0-0-4a4d0e3b3b5a74990f66f08191fe2169"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1770115834-0-0-756aff748ec39d636f36243ce46afab1"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=77f2719f6f9c548c52a1f5cc10950582&txTime=6982194a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=e684eedecd40aa5e27f76eba08aed37b&txTime=6982194a"
+        }
+      ]
     },
     {
       "id": "307342",
       "match_time": "1770112800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "LG Sakers",
       "home_img": "https://sta.vnres.co/file/common/20260201/b7f5e57fa4bfa41f6958224ae84d2937.png",
       "away_name": "Suwon KT",
       "away_img": "https://sta.vnres.co/file/common/20260201/c5dcd88c2a8ef5d681651ed5347481ea.png",
       "league": "KBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1770115834-0-0-fb17b221e1af18bc95506cc86736141f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1770115834-0-0-a379efbe52c26ffe3fad4b235ab3eda8"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1770115834-0-0-5fd95422a475d09a7dd8b8f067576b62"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1770115834-0-0-faa555e3afa80a257d4bfa7909489779"
+        }
+      ]
     },
     {
       "id": "307265",
