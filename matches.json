@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1770324334-0-0-aa9dc52af382fe76d07e43446a8b711f"
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1770324634-0-0-5b887696ce88a4d14140d6b7caee7fa5"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1770324334-0-0-51d2fd8e0b6c93d0548a7e2a0e342517"
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1770324634-0-0-7b5fb22dacba1305298d22fa5ceafdf3"
         }
       ]
     },
@@ -32,11 +32,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1770324334-0-0-7c8684580e3bd661c1be2d96c66d9166"
+          "url": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1770324634-0-0-de71fed0859b29e77e526a6ccf4043be"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1770324334-0-0-cb8e63ab3415f269cc105599875d0338"
+          "url": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1770324634-0-0-365164fa13e774cf04921f5f32df78e3"
         }
       ]
     },
@@ -52,11 +52,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1770324334-0-0-bdafc8983edf210eb8470c2b6a836918"
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1770324634-0-0-6251d75a85fd413d53eb870a437893ba"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1770324334-0-0-76efe5a0e5996cd6b93d89ec1bd4a330"
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1770324634-0-0-50aa5aae5793251a6e70cfb9b35d3829"
         }
       ]
     },
@@ -72,46 +72,121 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=063852dc0d508626b96bda8fc9275cb8&txTime=698547be"
+          "url": "https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=39bea8728c78eab270d220f76ac62dc0&txTime=698548ea"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=92c282d1e70d22eee7d65fb67d376504&txTime=698547be"
+          "url": "https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=9ff0b70be49a44b6d891d8b5d482ba2d&txTime=698548ea"
         }
       ]
     },
     {
       "id": "307420",
       "match_time": "1770321600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Real Betis",
       "home_img": "https://sta.vnres.co/file/common/20260203/7ec15d51943d070b56a3fd756c418209.png",
       "away_name": "Atletico Madrid",
       "away_img": "https://sta.vnres.co/file/common/20260203/c6cdec1f2cc8ad3e6f4b14e2d4024fff.png",
       "league": "SPA Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=b4267eab329167162a550187385f92af&txTime=698548ea"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=b5c2f0638c062df8fc84534aa2f43793&txTime=698548ea"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=288bc8b7363b4fe61e4656f5db907a7d&txTime=698548ea"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=111ced64b10bc65e635a9dd41fc5ab99&txTime=698548ea"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=71f0646d4c6543ef1fe74f004365210a&txTime=698548ea"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=0a4a2e095cf6084b0a2c7337bfcef5f1&txTime=698548ea"
+        }
+      ]
     },
     {
       "id": "307421",
       "match_time": "1770321600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "RC Strasbourg Alsace",
       "home_img": "https://sta.vnres.co/file/common/20260203/62e72fd4c3a541d79b60384a9c1c3cdf.png",
       "away_name": "AS Monaco",
       "away_img": "https://sta.vnres.co/file/common/20260203/7dc269d4cb796ad191cd9ba61052b0d8.png",
       "league": "FRA Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1770324634-0-0-220da94dc9e1dc4ab4e9bb2bb51bae77"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1770324634-0-0-7e85b96aae48cfa8110689e4a9ae5ee3"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=13268e34c377692d5b96a65d626ec9ae&txTime=698548ea"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=987615065a16a717805a13207990e6f5&txTime=698548ea"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1770324634-0-0-75a7c0ee54470570b196eaaa6486906b"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1770324634-0-0-fbecd1b77df7c4edc5e529f189485185"
+        }
+      ]
     },
     {
       "id": "307422",
       "match_time": "1770321600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Atalanta",
       "home_img": "https://sta.vnres.co/file/common/20260203/15015acee980c72236b608e76e7bcf18.png",
       "away_name": "Juventus",
       "away_img": "https://sta.vnres.co/file/common/20260203/6e2e4b74590468fe0cf314eaaa25bed0.png",
       "league": "Coppa Italia",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1770324634-0-0-a6979479b2146f49cf2f000f5a07c214"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1770324634-0-0-3d6254511444550f77057f908e2f7aad"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1770324634-0-0-847e66d552d34476a873ecb9d3471eb3"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1770324634-0-0-d3cd0f580f0cf74f2d6fc98a2a14a9f2"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=13cfbf527d98d0a75c6d6b6c406f8a87&txTime=698548ea"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=18e1de88745572172a5a70b5a18b8f04&txTime=698548ea"
+        }
+      ]
     },
     {
       "id": "307423",
