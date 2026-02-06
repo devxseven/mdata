@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=e2e71c757033cf4ed716aa2a41fcc409&txTime=6986c81e"
+          "url": "https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=55d2359cc23108abf99eead051533442&txTime=6986c94a"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=365da0508f7320fb7b2518b359456903&txTime=6986c81e"
+          "url": "https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=5d824ddbc3058d52f4da4ef2ff47cec9&txTime=6986c94a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=aa929f639653b88733f7a887d45ec7ce&txTime=6986c81e"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=eadef1170c0ce241752791777877ca60&txTime=6986c94a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=ba42d38c2bb15dcf8331d28d68605628&txTime=6986c81e"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=c26a4bc9469e744a82d7f1a5390e1c20&txTime=6986c94a"
         }
       ]
     },
@@ -40,32 +40,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1770422734-0-0-d32a9a8656bdd1f1f90764bb268d2ca3"
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1770423034-0-0-43225b8cf4f93b8c41f2d2bc88cf6b71"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1770422734-0-0-0b65be7281c01b83dfe1596433007aef"
+          "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1770423034-0-0-c07a325725e60347e6711e23172ad0ad"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=3ce6021b107b386eb6068ef8bc6eeefb&txTime=6986c81e"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=c41f4fa23bd5b868e2384e3517c2d199&txTime=6986c94a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=9a24cec78987ff8d8a7cac0d0f33f0f7&txTime=6986c81e"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=7cd7febc026cb45248a6eae074343a82&txTime=6986c94a"
         }
       ]
     },
     {
       "id": "307486",
       "match_time": "1770420000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Deportivo Pasto",
       "home_img": "https://sta.vnres.co/file/common/20260204/19384f17a50e0641a57f8d0949eb1984.png",
       "away_name": "Atletico Bucaramanga",
       "away_img": "https://sta.vnres.co/file/common/20260204/1ceb441e6cc3367bd73cc0e6304383be.png",
       "league": "COL D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1770423034-0-0-a647da9b721776b704697014f565117d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1770423034-0-0-0597f0c76a509e310007b37f9f0cc208"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-579055_lhd.m3u8?auth_key=1770423034-0-0-1351d9eade437700dc5fcd6391e1ffc0"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-579055_lsd.m3u8?auth_key=1770423034-0-0-8c485c61dd7a1baea6340c0e46e15825"
+        }
+      ]
     },
     {
       "id": "307487",
