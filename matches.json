@@ -12,40 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d1dfb458daeabd0b2ac345dabf9a4fcb&txTime=6985e26e"
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=3a9679df142260893e001ff6a0c7b9d5&txTime=6985e39a"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=c15f84c73f60fea5a6bc55b16540bafe&txTime=6985e26e"
+          "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=43e454fe19ca65a731b52bcbedebf199&txTime=6985e39a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1770363934-0-0-124fc04bdd674587fa3d5be1e899a708"
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1770364234-0-0-d930f51242a68989d3a91f3dc9833760"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1770363934-0-0-c7819de63919766ea8f94ac02a160d4c"
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1770364234-0-0-a5775fa62f31085af43cbcab49acdf31"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=a2d74ca2cf32ba34c65de2fbd834d8e1&txTime=6985e26e"
+          "url": "https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=3b899b1188e8ed98e45403914d62d7f7&txTime=6985e39a"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=29beb3845208fcf5905f0866343955ae&txTime=6985e26e"
+          "url": "https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=9805544c04a03743bf8e1514dbd38924&txTime=6985e39a"
         }
       ]
     },
     {
       "id": "307550",
       "match_time": "1770361200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Chunghua Telecom W",
       "home_img": "https://sta.vnres.co/file/common/20260204/e12077b29a84d3536330c61939a01a18.png",
       "away_name": "Cathay Life W",
       "away_img": "https://sta.vnres.co/file/common/20260204/865a35272de0e625e135d9baa4dd373c.png",
       "league": "WSBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770364234-0-0-116538549a1033bc81aba4e917a728f7"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1770364234-0-0-80c9ceab2c829b146f98e3db9b7ef964"
+        }
+      ]
     },
     {
       "id": "307440",
