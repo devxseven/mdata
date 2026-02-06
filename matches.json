@@ -12,32 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=d5435cb9e034ccd72da6c4aa8c06d244&txTime=6986c36e"
+          "url": "https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=25b149b56b27dc3a812c18c1b409d0ed&txTime=6986c49a"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=9bcd9d20e1dc76b86b186b5d558c9dff&txTime=6986c36e"
+          "url": "https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=dc83ce3cf5e84eee031107c4cf973330&txTime=6986c49a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f59bc2256f989e31546010145cadeef3&txTime=6986c36e"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=4105f2e542993a703c2c2ef94b0fa614&txTime=6986c49a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=efd911182864a78e393aeb05d09d9f02&txTime=6986c36e"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=d536e6989d7ed5d47b861ec46c3b3b31&txTime=6986c49a"
         }
       ]
     },
     {
       "id": "307485",
       "match_time": "1770418800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Audax Italiano",
       "home_img": "https://sta.vnres.co/file/common/20260204/ae004669a8a916cb01139ad48f10f8d3.png",
       "away_name": "Universidad de Concepcion",
       "away_img": "https://sta.vnres.co/file/common/20260204/e36604b0f9292943b5c35243bc5dea02.png",
       "league": "CHI D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1770421834-0-0-7e41a3395c34541c806d5895d7e9e428"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1770421834-0-0-d2d03855651d092d3c795f39049abce8"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=254cb9058a66074d4bc8dfc705e08cea&txTime=6986c49a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=1ac0bfad72afefd4c7c4e1680794de4f&txTime=6986c49a"
+        }
+      ]
     },
     {
       "id": "307486",
