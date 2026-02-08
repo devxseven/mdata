@@ -12,32 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1770551134-0-0-8a07e22d11336b39b995ceb4252ebc79"
+          "url": "https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1770551434-0-0-ea2010ce6f5a2237cee07830a9fbe233"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1770551134-0-0-ea506cbaa8017dd4e74016aa5867eb0c"
+          "url": "https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1770551434-0-0-cd3ae65b7347cd37c2287f42bde56328"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1770551134-0-0-1937d00a7fc3a70c97c52e3e09c8ae49"
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1770551434-0-0-8af349d8eaafc327bce08d6b6e880d62"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1770551134-0-0-b313a5983fa9a9b1a3df4b96ac3be6be"
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1770551434-0-0-df76c7c36436b00449abb599e429b638"
         }
       ]
     },
     {
       "id": "307601",
       "match_time": "1770548400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "PVF-CAND B",
       "home_img": "https://sta.vnres.co/file/common/20260205/6d1351451369caf0b481fea2ae320031.png",
       "away_name": "Truong Tuoi Dong Nai",
       "away_img": "https://sta.vnres.co/file/common/20260205/74e3157efb32049592e66e7174abbc0f.png",
       "league": "VIE D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1770551434-0-0-533e73e3755472f6a03a1017950f8e4a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1770551434-0-0-249d721fcf2f5dddaeb522cc88f56c1a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=a71e60220b433f625588ece43dcab81a&txTime=6988beda"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=11ee9d9d4d885e1d65268f0099b3eea4&txTime=6988beda"
+        }
+      ]
     },
     {
       "id": "307602",
