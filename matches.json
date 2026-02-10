@@ -12,40 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1770770734-0-0-0c86da5c5a8e99c97168771a57203451"
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1770771034-0-0-40b29ad4a2b095ad6faa2f135a8dbb7b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1770770734-0-0-ace3c084247a580b6f5e8360486f5773"
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1770771034-0-0-2ce0521b9c3ca230eb1cdf246bc17621"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=6ffa11c7592be163caa48715025e4f37&txTime=698c177e"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=ea5536a048e6137f60f8bf8c88a8e4ef&txTime=698c18aa"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=9c2ad47518f4da1ea41efe1cdaf3ec9b&txTime=698c177e"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=0ae8287787cc799c01a0b420d2d890c6&txTime=698c18aa"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1770770734-0-0-6d2258c5d7920a475c74e930994ba9a9"
+          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1770771034-0-0-a4dc26d5e6a8465c5c9f3af8d87bb9d5"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1770770734-0-0-edf1028f297c83cd6cc4d9fe930f52c2"
+          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1770771034-0-0-a8b75ffc8e014758aa39d42c3cf341eb"
         }
       ]
     },
     {
       "id": "307741",
       "match_time": "1770768000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "AD Municipal Liberia",
       "home_img": "https://sta.vnres.co/file/common/20260207/d3ef3b92eb7f4013883ed2950076d1ba.png",
       "away_name": "LD Alajuelense",
       "away_img": "https://sta.vnres.co/file/common/20260207/61fcbf34ccf5431bae13933a48c6e4b1.png",
       "league": "CRC CUP",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=fbc6a042a4a3df4ef6891bfcf18482b2&txTime=698c18aa"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=54f7ed6e2e5a7cd441dcdea1d04961ef&txTime=698c18aa"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1770771034-0-0-26168e9b3357aafdee725b3f21cffdd4"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1770771034-0-0-13b86d5cf4a2385308847d565d130895"
+        }
+      ]
     },
     {
       "id": "307742",
