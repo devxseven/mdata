@@ -12,24 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1770768334-0-0-a7c76c67daf5b1a9c1f7782d12f3e587"
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1770768634-0-0-14ae4040a9eca4dddf2475cd7f4917aa"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1770768334-0-0-d9f7ca1c3b940ccbd09a67f0fab41eb2"
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1770768634-0-0-2369c2d7e066732eb7739c80ae01f270"
         }
       ]
     },
     {
       "id": "307740",
       "match_time": "1770765600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Llaneros FC",
       "home_img": "https://sta.vnres.co/file/common/20260207/29cb9ed5a767be6a5b7820952fe4e061.png",
       "away_name": "Deportivo Pasto",
       "away_img": "https://sta.vnres.co/file/common/20260207/7b5d34035838a6cd165da35637444934.png",
       "league": "COL D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1770768634-0-0-c4d2859cac638954c0376044d60b2a8d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1770768634-0-0-4f6d1990b31a3ab885c3ed7aacda65d0"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=ae42c835b93d21c54e6ff02ca709f4fc&txTime=698c0f4a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=222073e60e05e49fd23fa97a06f565c6&txTime=698c0f4a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1770768634-0-0-384872a58dedd69770db2c157fd703cb"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1770768634-0-0-abe04010fa7d5c19449c0f05d441f9e4"
+        }
+      ]
     },
     {
       "id": "307741",
