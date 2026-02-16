@@ -3,13 +3,38 @@
     {
       "id": "308142",
       "match_time": "1771218000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "LG Sakers",
       "home_img": "https://sta.vnres.co/file/common/20260215/cff3a03a8dfd569c7635da53a985603a.png",
       "away_name": "Goyang Sono",
       "away_img": "https://sta.vnres.co/file/common/20260215/7f8487ed894664e39e467d2434bc218a.png",
       "league": "KBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1771221035-0-0-a56ac10cb119e9a78542c3dff64bec2c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1771221035-0-0-c0c679dac123c02e65375f773b22938e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1771221035-0-0-139afda177d573662e65f804c4930abf"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1771221035-0-0-8dd177438c609e3deb646b5231fadb35"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1771221035-0-0-0b44c724da5732dbfbb84ee423cf669d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1771221035-0-0-c284c9716b694f012edfc775bd1b7426"
+        }
+      ]
     },
     {
       "id": "308143",
