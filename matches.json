@@ -3,13 +3,38 @@
     {
       "id": "308146",
       "match_time": "1771313400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Seoul Thunders",
       "home_img": "https://sta.vnres.co/file/common/20260215/ecd5ca3531e6cb6be1d1292b42b53a1e.png",
       "away_name": "Seoul Knights",
       "away_img": "https://sta.vnres.co/file/common/20260215/1e07187540d958b49fd7710bb6554854.png",
       "league": "KBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1771316435-0-0-066b54f037e8d58c46afc68d523a5c12"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1771316435-0-0-d83319d8b9d96397673249532cdce256"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1771316435-0-0-1860a7f98304ad043c2e004ab6098006"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1771316435-0-0-55d2fb63ecbf9b6bf87222f3976fa4a3"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1771316435-0-0-f7537c596a893a3d53ca5aa6758436b2"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1771316435-0-0-e57592767ad6bc114da8c7f42c220318"
+        }
+      ]
     },
     {
       "id": "305172",
