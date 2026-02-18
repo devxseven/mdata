@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1771386335-0-0-de250bb4449b57b213acf92725085296"
+          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1771386635-0-0-63e91d35707ddae824f519ddf9df9d77"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1771386335-0-0-646044df6e75dfd4fbe7383c7b5a1061"
+          "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1771386635-0-0-9a39034b9a6a8ddb19b43034b54a0b8a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1771386335-0-0-01cf7e5e27899fe75e5b946e128dad60"
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1771386635-0-0-6ed4ae4913920796f9e6adc51fe2a805"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1771386335-0-0-3bb7256e24c802f2e3569e45215e6237"
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1771386635-0-0-9a2202cf54c4f50c7e0a81a91525e603"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1771386335-0-0-7c68bfa26efc5500db14a0e7160871ed"
+          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1771386635-0-0-cdcdd1ec018267bf1aac1ea864507a51"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1771386335-0-0-e9f03091a8a4e6b066cb7a278a922a14"
+          "url": "https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1771386635-0-0-1dd4f4744d237452680baeb7744bffc1"
         }
       ]
     },
@@ -48,24 +48,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1771386335-0-0-99320cd058c2a8e4f5a052a8ccd7f9f7"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1771386635-0-0-20be5f24bcdfa2f7a9affa393daa726e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1771386335-0-0-2635a6350fc97bba30ea2083b7ea0d30"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1771386635-0-0-247e59ff18c795a61863a151b2f13991"
         }
       ]
     },
     {
       "id": "308123",
       "match_time": "1771383600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Real Espana",
       "home_img": "https://sta.vnres.co/file/common/20260215/984495fa26261a903322225016ca7a5a.png",
       "away_name": "Los Angeles FC",
       "away_img": "https://sta.vnres.co/file/common/20260215/36ebe740352510a55bc0caea37f8a687.png",
       "league": "Concacaf Champions Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1771386635-0-0-6ed4ae4913920796f9e6adc51fe2a805"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1771386635-0-0-9a2202cf54c4f50c7e0a81a91525e603"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=b2fd67bab146ccb6cd474052a2cdbc17&txTime=69957d5b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=06dc66db41d8dd0007219077117ad323&txTime=69957d5b"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1771386635-0-0-c9dbd1b3ad76603144a5b3aad6f0509c"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1771386635-0-0-732c54fd521d207d7d0b3dcc8cbbf257"
+        }
+      ]
     },
     {
       "id": "308188",
