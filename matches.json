@@ -56,11 +56,11 @@
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-586938_lhd.m3u8?auth_key=1771525835-0-0-2d24fc1b6e28ef8bc90219743bb1803c"
+          "url": "https://pull.niues.live/live/stream-586938_lhd.m3u8?auth_key=1771526135-0-0-5aeff03214ff7e560157bced7fe8cb89"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-586938_lsd.m3u8?auth_key=1771525835-0-0-438b84b3cf9be40e7e87b5644fc66583"
+          "url": "https://pull.niues.live/live/stream-586938_lsd.m3u8?auth_key=1771526135-0-0-59edc9e83bd17886dea40c360a83cc20"
         },
         {
           "name": "VN HD 3",
@@ -84,11 +84,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1771524003-0-0-5deed180a2c196e42d084cd426049ef7"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1771526147-0-0-48071ee3295a9886b21954fd6544852a"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1771524003-0-0-55a4dc4b1f5391122046db852ed9661f"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1771526147-0-0-db46458962e59c6960cd92bf617d91df"
         }
       ]
     },
@@ -104,76 +104,185 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1771525835-0-0-f62a0d9872be0e9cd3c8f46093c499ef"
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1771526135-0-0-eb7bf000fa590dc13362a63e1f1e5229"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1771525835-0-0-2d4d0b66da499a623bb9c7bfb4fd37c8"
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1771526135-0-0-7e90271ccbc432dc3f7a6d58dbedeebb"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1771525835-0-0-f290583f02cd5878a69d266883cdaebd"
+          "url": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1771526135-0-0-68733de98b9aca34fb6fbf23d0b3e203"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1771525835-0-0-98f461ff7bc2df621e742814e2913cef"
+          "url": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1771526135-0-0-0d9fdbac28fa525a323dc46c029b5b88"
         }
       ]
     },
     {
       "id": "308195",
       "match_time": "1771523100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Brann",
       "home_img": "https://sta.vnres.co/file/common/20260217/35477050dcaf00aa11244204dc3449ae.png",
       "away_name": "Bologna",
       "away_img": "https://sta.vnres.co/file/common/20260217/99f24b75d455f0102528fd33f1480ede.png",
       "league": "UEFA Europa League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=819f50466478f85e5ff372b22a14fdc6&txTime=69979e47"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=0873aa4f4f34500d26caa7e8c5a4095e&txTime=69979e47"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1771526135-0-0-674b388c27bd5066963874fd000f597b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1771526135-0-0-c9fc5768a2b7de4899dc1686cb9b222b"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1771526135-0-0-5af4e96fccaacc76ff92058efbc270ba"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1771526135-0-0-e5c85b3c80e559db9c0b8985cb60e8e0"
+        }
+      ]
     },
     {
       "id": "308196",
       "match_time": "1771523100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Dinamo Zagreb",
       "home_img": "https://sta.vnres.co/file/common/20260217/be4671e5273e12902ee3729e9663c09e.png",
       "away_name": "Racing Genk",
       "away_img": "https://sta.vnres.co/file/common/20260217/8e3ddb6db15c2f51746cc5e17b3411ad.png",
       "league": "UEFA Europa League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-586938_lhd.m3u8?auth_key=1771526135-0-0-5aeff03214ff7e560157bced7fe8cb89"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-586938_lsd.m3u8?auth_key=1771526135-0-0-59edc9e83bd17886dea40c360a83cc20"
+        }
+      ]
     },
     {
       "id": "308197",
       "match_time": "1771523100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Fenerbahce",
       "home_img": "https://sta.vnres.co/file/common/20260217/17ad8ab902b475b73244e109f32272a0.png",
       "away_name": "Nottingham Forest",
       "away_img": "https://sta.vnres.co/file/common/20260217/6c11cac10b3ec979cad316574d77cbce.png",
       "league": "UEFA Europa League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1771526135-0-0-0a9ce4594c9059a1e78853106cb61bd4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1771526135-0-0-1f87b3a2e80a6ca56d4cb0367ddb8557"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=8e81e6cf2c3d15eb476efdef664a353f&txTime=69979e47"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=cded98267ee3a7efe460f2f4ecddf5c8&txTime=69979e47"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1771526135-0-0-e171eca0bf280bd73afc14e7e028a8d0"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1771526135-0-0-8c5470ee469f0bd6cd61147b81fd9ac4"
+        }
+      ]
     },
     {
       "id": "308198",
       "match_time": "1771523100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "PAOK Saloniki",
       "home_img": "https://sta.vnres.co/file/common/20260217/2cf67e9436a94eb84a8d251a016770f1.png",
       "away_name": "RC Celta",
       "away_img": "https://sta.vnres.co/file/common/20260217/3a77155e43d47f38237062e262313137.png",
       "league": "UEFA Europa League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1771526135-0-0-01a0037cf0eff5debef79734e7339e26"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1771526135-0-0-7471c0eec741342daf35926405a46e7d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771526135-0-0-f3ca2e60034e28f3985e41fadbc11e5b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771526135-0-0-0570183ece8ba2a3fcbeeea98d3e854f"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1771526135-0-0-604213d0128d97ef07c9468945e438d2"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1771526135-0-0-d6700fde0cdea7d8005577242d689262"
+        }
+      ]
     },
     {
       "id": "308200",
       "match_time": "1771523100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "HSK Zrinjski Mostar",
       "home_img": "https://sta.vnres.co/file/common/20260217/c328159bedd44fb3e87b81139df131c1.png",
       "away_name": "Crystal Palace",
       "away_img": "https://sta.vnres.co/file/common/20260217/0564d67e3fe67499c6b0cad6fb0f8621.png",
       "league": "UEFA Conference League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1771526135-0-0-76f85bc7b696864a1b341dee4810cf91"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1771526135-0-0-a4f96859f2bdbf046d78d3a3c2e3e1bb"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1771526135-0-0-de367eebd263d2bf2c6b838878ba2f78"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1771526135-0-0-3dbb2bfb26a5a68f97c2ca341d7c795c"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1771526135-0-0-4933068011b462919e9c158dac02d231"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1771526135-0-0-f784e95d1ae67e50dcf01fc30e93da18"
+        }
+      ]
     },
     {
       "id": "308314",
