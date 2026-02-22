@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=aa7575c913f9662e8b2aa0003b17a593&txTime=699bcd60"
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=9a30fe523219ab16870644b68378f26c&txTime=699bce8c"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=3c40de666f78a72114eeb855fe825ec2&txTime=699bcd60"
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=2057fcd5ebb50406f46bdefc8332babf&txTime=699bce8c"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1771800336-0-0-f78e31642c4ffd3bceb4eb8386b7242e"
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1771800636-0-0-4f3538af6d7e4dfd8491c476be81cfac"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1771800336-0-0-c9e32f269c7507389b57fccfa1ab83ee"
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1771800636-0-0-a2bd75b7e9e89b3d8778b7741f54b0ec"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=06abc7f8b9cfa01a187203ed225f8feb&txTime=699bcd60"
+          "url": "https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=be5b434cffaa5ba4da4966737eedb1b1&txTime=699bce8c"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=fea32c13402227ed2656979c11789b39&txTime=699bcd60"
+          "url": "https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=e4a90c378cb6a04a4f0c090ded59cbd5&txTime=699bce8c"
         }
       ]
     },
@@ -48,40 +48,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=86460239f4efccb13c782e9d071c514f&txTime=699bcd60"
+          "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=158935732af2d67b55d5021ca58c8c7d&txTime=699bce8c"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=688322d5d5085bd164274536d4fc616c&txTime=699bcd60"
+          "url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=9c2066857020d9c03b574668d5019b8c&txTime=699bce8c"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1771800336-0-0-83e71201a7033e4304df3204888d2708"
+          "url": "https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1771800636-0-0-2acae4b12720870c269983fc536b3c22"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1771800336-0-0-29dc490e01097fbb4c58d84d31f7a7c0"
+          "url": "https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1771800636-0-0-efe03d3808e86823d68cbe420d8bc02c"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1771800336-0-0-33c7598855d7aec77dd7d10781de4e03"
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1771800636-0-0-ea2860a81cb3dc02ed066941fede23b5"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1771800336-0-0-725ce590e7a7dd514c4670ae5255498f"
+          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1771800636-0-0-dc0ef2e8174dbef0d400e1b5c7ff1078"
         }
       ]
     },
     {
       "id": "308443",
       "match_time": "1771797600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Indiana Pacers",
       "home_img": "https://sta.vnres.co/file/common/20260221/3d8a7b744a89112274bbf3831cb4cdab.png",
       "away_name": "Dallas Mavericks",
       "away_img": "https://sta.vnres.co/file/common/20260221/327ad03895339e83c803dc9ad35d859d.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1771800636-0-0-4f4db8f93e36050dedbe2f9acc04fc2d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1771800636-0-0-25647ad8e2615efe64f47afaa15764ca"
+        }
+      ]
     },
     {
       "id": "308406",
