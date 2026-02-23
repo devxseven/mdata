@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1771892136-0-0-1298c51c21adebb1bca0610922c8acb1"
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1771892436-0-0-ca668ee0f66f3c32a7a3b66d21aa8841"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1771892136-0-0-1d9eeea2f5edd0a2c314412d69e27526"
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1771892436-0-0-ea7995ad05ae4f153b73a6fd19c7458f"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1771892136-0-0-9aadb012c04a2569c31ba2c90eb20856"
+          "url": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1771892436-0-0-52371cb37160d8d17300cdceca30d7e7"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1771892136-0-0-e4e3e9c83f29448e81c037a22a1a7c98"
+          "url": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1771892436-0-0-0e039fdc4e5730dd80b6248f8f9e269a"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1771892136-0-0-4c6562bb8354ce6ca41c72efd51e1dcc"
+          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1771892436-0-0-348de9a5273f965182bb46fe127b331a"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1771892136-0-0-a46890aa10fe7c15ab7ac5d63aa0d06b"
+          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1771892436-0-0-acf7570ea5c718d34434ec06f7725344"
         }
       ]
     },
@@ -48,40 +48,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=7007df12c93c13049156da9ac8116840&txTime=699d33f8"
+          "url": "https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=33ca46e9c7d502d4b2955056d94740cc&txTime=699d3524"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=77ed3528c6731887ea229e200d62b2f2&txTime=699d33f8"
+          "url": "https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=c8644f0d25de668bf32f1259943b9d7b&txTime=699d3524"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-579055_lhd.m3u8?auth_key=1771892136-0-0-4b5c54cb0718bbc77f99253eecca5227"
+          "url": "https://pull.niues.live/live/stream-579055_lhd.m3u8?auth_key=1771892436-0-0-457fce04224f902c3d54ef31dd765b19"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-579055_lsd.m3u8?auth_key=1771892136-0-0-308d4a6e27e09054e1e142cb278dce95"
+          "url": "https://pull.niues.live/live/stream-579055_lsd.m3u8?auth_key=1771892436-0-0-2cf6de2110f0fc36a6cad96ff75d2e7c"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1771892136-0-0-93ae0e6fcc21151d71c298b68cc42e78"
+          "url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1771892436-0-0-dc554cebb563f0c7d46b80fb181277aa"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1771892136-0-0-5a48cccf873d927f2a5d995c8c2d1007"
+          "url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1771892436-0-0-b7800f49f79d6f914ca2e362c2f0efb1"
         }
       ]
     },
     {
       "id": "308469",
       "match_time": "1771889400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Curico Unido",
       "home_img": "https://sta.vnres.co/file/common/20260221/cf8ef607dd37fe0d4ce1607089c09ff6.png",
       "away_name": "CD Magallanes",
       "away_img": "https://sta.vnres.co/file/common/20260221/724d686b03084a65ee6ffb02e03c2ceb.png",
       "league": "CHI D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=a629d6abccd8712908328a17fb23f3df&txTime=699d3524"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=146b87988d8d510ca447ba7633b6815e&txTime=699d3524"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1771892436-0-0-4c783c5d93f4444d2644c1b03c87915a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1771892436-0-0-9f302b93c5af86549098af8bfcc6ee08"
+        }
+      ]
     },
     {
       "id": "308470",
