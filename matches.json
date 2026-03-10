@@ -3,13 +3,38 @@
     {
       "id": "309387",
       "match_time": "1773131400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Adelaide",
       "home_img": "https://sta.vnres.co/file/common/20260308/3e62e5e7cef7674aa1d476654ebfcbc7.png",
       "away_name": "South East Melbourne",
       "away_img": "https://sta.vnres.co/file/common/20260308/d98a902bd13e1a150800196b98f9ceea.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1773134437-0-0-abb50d62e8b8a30e2b8542e968b91bc6"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1773134437-0-0-d63a466882645b5d391a3733f339b886"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773134437-0-0-0dcbbbd97a7d38f8325dbc5eb8d1efbc"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773134437-0-0-aed9c371563de1e0ef9b13587728e213"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1773134437-0-0-9d1d228e9465a5d5ce104b9c4d2bc923"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1773134437-0-0-a64a017af86a4c39998e2343eaab0735"
+        }
+      ]
     },
     {
       "id": "309321",
