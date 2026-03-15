@@ -12,24 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1773575138-0-0-cf75793a3eb525ede09f46c7b6da4813"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1773575438-0-0-8f398d6a984a9386ad1a1b6ef43d1931"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1773575138-0-0-36fd08d6ee48f7de3b69daedaffc69cc"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1773575438-0-0-ed73c3c17c9e0bfbcb3ea90f7df06fc6"
         }
       ]
     },
     {
       "id": "309633",
       "match_time": "1773572400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Shanghai Port",
       "home_img": "https://sta.vnres.co/file/common/20260312/05b350eeb17c12c11bf3b92d6cbb5f41.png",
       "away_name": "Qingdao West Coast",
       "away_img": "https://sta.vnres.co/file/common/20260312/8e37ffe754d340a40a66167787098bc0.png",
       "league": "CHA SL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1773575438-0-0-086b04f114d7745e657233ce12aa5c68"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1773575438-0-0-5a95f820bf24a09723a72c69f4f1f626"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=d1cce697092d105d9a78bd4d06519059&txTime=69b6e35e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=ab8722b6cbb7a4dd7aee71364a8306b2&txTime=69b6e35e"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=4de2642a21848a6d25503d4706909532&txTime=69b6e35e"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=3b83ed99866d4366f18f570629749620&txTime=69b6e35e"
+        }
+      ]
     },
     {
       "id": "309635",
