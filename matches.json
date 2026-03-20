@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=da65768bf8ec3a111617e6db07e09de8&txTime=69bd57b6"
+          "url": "https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=3333f680933566fb7e9c14257bf90b46&txTime=69bd58e2"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=e80b74a286bbd8968787044df2bf7818&txTime=69bd57b6"
+          "url": "https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=9c2e2c2228208b67b31238f214444fc5&txTime=69bd58e2"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1773998438-0-0-fd9cea33c531f8c688a4de8c9ef53756"
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1773998738-0-0-3acb5ce6bca6c3b7f22988fede4236ad"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1773998438-0-0-da632518f4798f4baf1c0fa6ce3abbd5"
+          "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1773998738-0-0-6761a0608711a0309af0ea191e329ff7"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1773998438-0-0-4970fecc3cd635d60de7d89862993ed7"
+          "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1773998738-0-0-09f73a3eb8e90a5553a62ad777d39618"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1773998438-0-0-70bd6e2a798703dab96f2d6d87ffec61"
+          "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1773998738-0-0-8b1f39f832894ea210b31a4c4ccdb8a2"
         }
       ]
     },
     {
       "id": "309944",
       "match_time": "1773995700",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Western Sydney",
       "home_img": "https://sta.vnres.co/file/common/20260317/9db80bbc6b46c6707cb7727d51b48785.png",
       "away_name": "Adelaide United",
       "away_img": "https://sta.vnres.co/file/common/20260317/2de79863a5460d79b29ea6f8d4f292d8.png",
       "league": "AUS D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1773998738-0-0-60124210cd3cfaf19937ffe14d22e338"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1773998738-0-0-37242a51420143c8afe0407dcc39acb1"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1773998738-0-0-34dac5da58bf253856a53288d0d01d4c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1773998738-0-0-e57981df5c029edfaf7affb7513c4b64"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1773998738-0-0-81b0321be7f269102f5a2ae870812540"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1773998738-0-0-a0bf92272dcc78e420fad2ef16781dee"
+        }
+      ]
     },
     {
       "id": "309945",
@@ -771,17 +796,6 @@
       "away_name": "Central Coast Mariners",
       "away_img": "https://sta.vnres.co/file/common/20260317/54ef3f0d8d5450ee363d16b141d76030.png",
       "league": "AUS D1",
-      "links": []
-    },
-    {
-      "id": "310015",
-      "match_time": "1774076400",
-      "match_status": false,
-      "home_name": "Shaanxi Union",
-      "home_img": "https://sta.vnres.co/file/common/20260317/ffa54f980791fa3438c6e7ba7c921987.png",
-      "away_name": "Dalian K'un City",
-      "away_img": "https://sta.vnres.co/file/common/20260317/cb63bcd3a85733a99f1c4254f7eb6cfa.png",
-      "league": "CHA D1",
       "links": []
     },
     {
