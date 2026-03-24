@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1774367139-0-0-885fbe1ff473f71d9ef000295b0745e3"
+          "url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1774367439-0-0-ae2202a3e89346e7c7831433e3c6c8a7"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1774367139-0-0-7a850fcfa3e0bb2b023f27cfd46b3bfb"
+          "url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1774367439-0-0-4e150a411acbc0b3cfb0d851287239b8"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1774367139-0-0-991f3d686f17ac702c4f6b35bcff34a0"
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1774367439-0-0-5218bade6c4bb16b27ce6bf3a7acaf0f"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1774367139-0-0-d50dd71e40d8eb9545ea93893a1ecf8f"
+          "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1774367439-0-0-a8ec93986c5860d571cf8087b854ba22"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1774367139-0-0-4d7a858d4b516af65a5040e9c69ce0d4"
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1774367439-0-0-7009926b4305baca2f8c301404beab11"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1774367139-0-0-3a193383fb87a10b0f12fdc63030c389"
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1774367439-0-0-73ec85701d9fb252c08b25e3f85cbaa4"
         }
       ]
     },
     {
       "id": "305630",
       "match_time": "1774364400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Uniao Leiria U23",
       "home_img": "https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png",
       "away_name": "Farense U23",
       "away_img": "https://sta.vnres.co/file/common/20260103/20ca62312a3d88671946fe97691925d3.png",
       "league": "POR LRU23",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=f79b971c935ae974428cb3f8cd682971&txTime=69c2f91f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=13892594c17021d7b4a9d6a5ae5f9740&txTime=69c2f91f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1774367439-0-0-d1ba7c7785badc5c7325272f4cdbe20e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1774367439-0-0-babbe4c4795e7315abe18aef0019815c"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=5966556468c9a81c0601cd72dc6d0a01&txTime=69c2f91f"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=4b048643d3d74a428bb817c77db25f07&txTime=69c2f91f"
+        }
+      ]
     },
     {
       "id": "310263",
