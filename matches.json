@@ -3,13 +3,38 @@
     {
       "id": "310232",
       "match_time": "1774422000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Vietnam U23",
       "home_img": "https://sta.vnres.co/file/common/20260322/ea5e24a0739efb8295ed078572cb42e8.png",
       "away_name": "North Korea U23",
       "away_img": "https://sta.vnres.co/file/common/20260322/9a5c9749e7439902bdc2031ac1c96dae.png",
       "league": "INTERF",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1774425039-0-0-ea45424d1297bb1b2107c97d907708d3"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1774425039-0-0-db781d6bdfb38c1ae0538deafac3f352"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1774425039-0-0-88dc97d0778b452d15171657531b9511"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1774425039-0-0-08fba8e82e1d934502d4a3ebf1c5c49c"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1774425039-0-0-c965345c5707e93d98895320568503ea"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1774425039-0-0-810909da3569e3c41b5b8b983ea81cfd"
+        }
+      ]
     },
     {
       "id": "310233",
