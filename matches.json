@@ -3,13 +3,38 @@
     {
       "id": "310398",
       "match_time": "1774653300",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Argentina",
       "home_img": "https://sta.vnres.co/file/common/20260324/00455397277555a6d3ad69ec3842ec6a.png",
       "away_name": "Mauritania",
       "away_img": "https://sta.vnres.co/file/common/20260324/107eb43274058fe051d4943368623123.png",
       "league": "INTERF",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=1e0d4737813cf02785921ec23d06c9d7&txTime=69c761a3"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=954095c85c8b08f8a85d8d7e36b3ead5&txTime=69c761a3"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1774656339-0-0-f07a6f587662ecdd3d7c917bdb89b42a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1774656339-0-0-a661d19ab11a5f93e49476315dafa4fb"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1774656339-0-0-f6711b8840504ff97a56f48eed39cacc"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1774656339-0-0-97aeba42b68fef38f7371cebd4f0aec2"
+        }
+      ]
     },
     {
       "id": "310539",
