@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1774772139-0-0-26af1158c7cd46a4bba3584c1d7347eb"
+          "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1774772439-0-0-61a6b1630fef15cf901a5550593123c2"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1774772139-0-0-3e1777f1139da64ad493494b20b8f9f2"
+          "url": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1774772439-0-0-913c59b771c0dcac98ee3123b46c575a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=466b1b99cdee78880cf85e2065478bce&txTime=69c925fb"
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=6d8c4bd0c9d325aa7eb9c26987a6e742&txTime=69c92727"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=b6e5dedbb3c96065e71867945315aeeb&txTime=69c925fb"
+          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=1d69d7facab318a7dd87db6c72cb5e1e&txTime=69c92727"
         }
       ]
     },
@@ -40,11 +40,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1774772139-0-0-0d3f933d7504d165377a31f53e363349"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1774772439-0-0-c0ffb2203235be2363ec784c1e874bec"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1774772139-0-0-b9c565520a5b73cfff0144432be322cf"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1774772439-0-0-26d0a70a8e5fee446e33e4632218c67a"
         }
       ]
     },
@@ -60,35 +60,77 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1774772139-0-0-7d2520c1b81a244e39a6b1ad6af40509"
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1774772439-0-0-48d43091dec71aac247c59a2a22513fb"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1774772139-0-0-2c2fee9a69eb1154a2613dac9139d5ce"
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1774772439-0-0-fcc1964783bc365443d6aab60cc1eb7c"
         }
       ]
     },
     {
       "id": "310511",
       "match_time": "1774769400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Daegu FC",
       "home_img": "https://sta.vnres.co/file/common/20260326/529d503d8fdf90daf4a923143117527c.png",
       "away_name": "Seoul E-Land FC",
       "away_img": "https://sta.vnres.co/file/common/20260326/8a372c76f8185b63803e0df0eed729ba.png",
       "league": "KOR D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=b71b304793f7b1b5c06fb9d2da35367b&txTime=69c92727"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=59b08597f94fe890405bf79ecf9d58e3&txTime=69c92727"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1774772439-0-0-4c6e42d21e41caed2420940a0f71301d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1774772439-0-0-43cd3d1a5962adb3d92392ad99222fcf"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1774772439-0-0-c45ade2bf0433b5825b8155a73e0abfa"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1774772439-0-0-f17f00df1af45874aee9e1feced4042b"
+        }
+      ]
     },
     {
       "id": "310566",
       "match_time": "1774769400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Seoul Thunders",
       "home_img": "https://sta.vnres.co/file/common/20260327/827cda57b52451d9026f203062d7786a.png",
       "away_name": "Suwon KT",
       "away_img": "https://sta.vnres.co/file/common/20260327/8e91c9972503d79c0e9fa0898c011c0b.png",
       "league": "KBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1774772439-0-0-6517c9379b012f138c76a64615b72309"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1774772439-0-0-1253d4d20143a452e0c286e5b9729194"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1774772439-0-0-97611fc82d84ef173c534bc9cf5583af"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1774772439-0-0-a859f92da486ea6380998fbc42cdf833"
+        }
+      ]
     },
     {
       "id": "310512",
