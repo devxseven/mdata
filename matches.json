@@ -3,13 +3,30 @@
     {
       "id": "310704",
       "match_time": "1774911600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Miami Heat",
       "home_img": "https://sta.vnres.co/file/common/20260329/76f42606e848ebb0c53148fea322c6c1.png",
       "away_name": "Philadelphia 76ers",
       "away_img": "https://sta.vnres.co/file/common/20260329/1e3a25ae4bf769b29727e8e4ba28e1af.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1774876122-0-0-e79fb8b6d2eac5c62de09e3675a01ebf"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1774876122-0-0-b80871c56cb81600e1453b04698f7f08"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1774893979-0-0-bfff238a085fff7bc027098e354254b9"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1774893979-0-0-5c9e2a2ff2399654643b2ce07f625bdd"
+        }
+      ]
     },
     {
       "id": "310614",
