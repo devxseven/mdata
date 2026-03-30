@@ -3,13 +3,38 @@
     {
       "id": "310598",
       "match_time": "1774850400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "New Zealand",
       "home_img": "https://sta.vnres.co/file/common/20260327/a46ce1c7364ce701312025c567e784a3.png",
       "away_name": "Chile",
       "away_img": "https://sta.vnres.co/file/common/20260327/1b96ee6cae299c31e1ec4886bd996782.png",
       "league": "FIFA FS",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1774853439-0-0-940a4a77c815967b2f9c2f662cb4ba1e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1774853439-0-0-f7fdad29b09b3cb9977998aa846390ba"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1774853440-0-0-789c4a7bc98c8d8a7455613fd9dece27"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1774853440-0-0-3bd42918dd3ca0da7adf2217f99743cd"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=43a0e3d9b1d8575a5f253d138f5b2433&txTime=69ca638f"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=ab4cc8c0649c86b99be57e0c8121e0ea&txTime=69ca638f"
+        }
+      ]
     },
     {
       "id": "310659",
