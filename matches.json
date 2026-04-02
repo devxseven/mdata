@@ -12,24 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1775121640-0-0-d2381f1d719b08790c2c9905389b73ba"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1775121940-0-0-0992817a0323e9c08b40d7cab849da66"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1775121640-0-0-65be6686de0162588c2a019fec1d1358"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1775121940-0-0-c40f80f3c68e358ba54514c0586501eb"
         }
       ]
     },
     {
       "id": "310747",
       "match_time": "1775118900",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Macarthur FC",
       "home_img": "https://sta.vnres.co/file/common/20260330/e9f7226a5abf2612c39173f3185369aa.png",
       "away_name": "Newcastle Jets",
       "away_img": "https://sta.vnres.co/file/common/20260330/3d6f11d0e47db8ab797c281e877881eb.png",
       "league": "AUS D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1775121940-0-0-94a5d09adfa3f4177fadbb61f725503b"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1775121940-0-0-bba0fc7865d803485e8f4c6fafa82bcc"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1775121940-0-0-48629f7592e6e4949d67506b97327b1b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1775121940-0-0-f8ef6dec17686ccf4b10d4a06083b98e"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1775121940-0-0-d321045a9bcf1d3af7e8d85e159cdc04"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1775121940-0-0-bf521b359dd3bacdab33946594772fd3"
+        }
+      ]
     },
     {
       "id": "310748",
