@@ -3,13 +3,38 @@
     {
       "id": "311325",
       "match_time": "1775718000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Manawatu Jets",
       "home_img": "https://sta.vnres.co/file/common/20260407/b77a34601ba6013d7f800f7feaee3530.png",
       "away_name": "Taranaki Airs",
       "away_img": "https://sta.vnres.co/file/common/20260407/8b5a0756e3653294fc085bb5b70fca45.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1775693435-0-0-76cccb813ebc1ff5809976dbef72add8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1775693435-0-0-bddc124c323c86c843ddfaf3d589ffd3"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1775721041-0-0-587814ef6315c5b608dd58d79f85bc92"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1775721041-0-0-1fa553c7575fb705f6b7b3c99238b914"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=0e54d223452eb95bc957afa8d7738877&txTime=69d7a0a1"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=0fdf4e94ba40e06848c8328a96e3cdaa&txTime=69d7a0a1"
+        }
+      ]
     },
     {
       "id": "311326",
