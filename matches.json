@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1776077141-0-0-ee6eda385bdf0c13e729cbc2f42d948b"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1776077248-0-0-6cb60439823d7ddea89bcb3adae722d8"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1776077141-0-0-0d6d4d79a21630494b4c7a0f4412aa44"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1776077248-0-0-cc17e0bbe075dd8fe5cb2c4dacf184c6"
         },
         {
           "name": "VN HD 2",
@@ -40,62 +40,113 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1776077141-0-0-d3886a831df7b399fe011e3df941b3cf"
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1776077441-0-0-ac9e3e7a5a6fc027131a5a30e0382807"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1776077141-0-0-a742f946b2b447e226504be738f4246f"
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1776077441-0-0-6d10515b865fc79c984ef67233227781"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1776077141-0-0-71810fdee6e826eb4056be700a2df580"
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1776077441-0-0-93763ba03fc3ea4f47be60ac5d45041a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1776077141-0-0-a10d57ca951ad965fbccdd8815b486a7"
+          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1776077441-0-0-79815523aed20065b783d95faa39bb04"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1776077141-0-0-ddae30da6b23d3ceac1013898facab4b"
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1776077441-0-0-d49b0e88e009bfeae7a402cbece1ca56"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1776077141-0-0-8fa345f88f6813ade40d79dab113f827"
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1776077441-0-0-f734580624efec4295fcb4970fb7c881"
         }
       ]
     },
     {
       "id": "311533",
       "match_time": "1776074400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "LNZ Cherkasy",
       "home_img": "https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png",
       "away_name": "FC Shakhtar Donetsk",
       "away_img": "https://sta.vnres.co/file/common/20260410/b35fd190ffe9432fbd0a0b619d91627f.png",
       "league": "UKR D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=ef83b26ace15962199af16a272d68020&txTime=69dd10d1"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=7451af5f98213563a2c8f88ce69d2270&txTime=69dd10d1"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1776077441-0-0-88c50e1c383f1c7e6e71315afc68c093"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1776077441-0-0-22fbdfc6a0fcac62c2031da30578526d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=a574c69578c6f079e147defe54411f32&txTime=69dd10d1"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=1bcf58963dc832056dd5ce3bb35f4adb&txTime=69dd10d1"
+        }
+      ]
     },
     {
       "id": "311613",
       "match_time": "1776074400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Basilan Steel",
       "home_img": "https://sta.vnres.co/file/common/20260411/85ad3e9ba2a31b51ad5e9a5c7306e52d.png",
       "away_name": "Valenzuela City Darkhorse",
       "away_img": "https://sta.vnres.co/file/common/20260411/b86949c2aa9a97eb560d6622581c360f.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=4a5a7aaff0d54d1d07e63dbe0efd6d4d&txTime=69dd10d1"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=ee55894d3054ea3ae435ab97483e3017&txTime=69dd10d1"
+        }
+      ]
     },
     {
       "id": "311614",
       "match_time": "1776074400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Wonju DB",
       "home_img": "https://sta.vnres.co/file/common/20260411/f096f2d5044fcdffc2702683e55ee14d.png",
       "away_name": "KCC Egis",
       "away_img": "https://sta.vnres.co/file/common/20260411/1dbfc71ab561fda2ce497c825e3826d1.png",
       "league": "KBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1776077441-0-0-258ae441d0d4a99612a34c10a4da731d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1776077441-0-0-dbd5ef757062c784228be417950fc362"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1776077441-0-0-24c6e78a85758dcb312b4b1467c5ce27"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1776077441-0-0-1ea8a22d94594fd0836e98ac7bd058a1"
+        }
+      ]
     },
     {
       "id": "311534",
