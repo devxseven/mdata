@@ -3,13 +3,38 @@
     {
       "id": "311786",
       "match_time": "1776322800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Franklin Bulls",
       "home_img": "https://sta.vnres.co/file/common/20260414/03dc4cf51dec8c07f1a194a2e4028177.png",
       "away_name": "Southland Sharks",
       "away_img": "https://sta.vnres.co/file/common/20260414/e9a2712dc48f4a94f8143c9cdefcf61f.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1776325841-0-0-82decea3e3aa7d6e860902b9a98bd133"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1776325841-0-0-f8132e3b0351f79590509b5000609209"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=84ccf5a015415d38cf1d6c7e839cca78&txTime=69e0db21"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=984265f7dfb41b009688c2631ca1bdc6&txTime=69e0db21"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1776325841-0-0-e12c3148da37327a629eaf63729cdc9d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1776325841-0-0-ca86c3551bf4912774ba2cc5c1c17ab4"
+        }
+      ]
     },
     {
       "id": "311702",
