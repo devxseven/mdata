@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1776339941-0-0-ed5a3727fdd34b192d4dc7ff929f3409"
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1776340220-0-0-1b6cae32eb32a5b33eb3c1ef8c137081"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1776339941-0-0-ffc4680393aa95f8ab821e1e227944f5"
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1776340220-0-0-d444d78b4f8875b0e76603a4fc32b836"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1776339941-0-0-c2984e0c2f35ab3fa358088c8f10e545"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1776340241-0-0-aec097bdf61e956d6e5cce1532c9df49"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1776339941-0-0-ee53b934f6505a6377e24eb097b25503"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1776340241-0-0-37c88338001ac97797a11d41b08d6e10"
         }
       ]
     },
@@ -40,19 +40,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1776339941-0-0-850b33a0c5144ab00af68051f369ddb5"
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1776340241-0-0-ece158c2c927356a0725f3250011d20d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1776339941-0-0-8590182b59d07fe3ee256e4396d6ef6b"
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1776340241-0-0-126f87ef4a705c5035d5b107f0f2d93b"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=04a233f909faff67898bd51b10758055&txTime=69e11235"
+          "url": "https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=1ddf1f06086d8b10cf7c3adc8fa24508&txTime=69e11361"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=217516173f8c6703fc053672fdd0d476&txTime=69e11235"
+          "url": "https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=02cc382943f60d97f8bb65012b1f899d&txTime=69e11361"
         }
       ]
     },
@@ -68,24 +68,33 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1776339941-0-0-3cb993cdb16f27ccef97149ce1c13f22"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1776340241-0-0-4402b399f9eba50c829a13ee3838260f"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1776339941-0-0-7ebea322dc652b6fddb81138c914443a"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1776340241-0-0-eea3d268c5b14ab950315df2642ab926"
         }
       ]
     },
     {
       "id": "311790",
       "match_time": "1776337200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Yulon Luxgen Dinos",
       "home_img": "https://sta.vnres.co/file/common/20260414/8311d3258da9efadb690f3d86d835504.png",
       "away_name": "Taiwan Beer",
       "away_img": "https://sta.vnres.co/file/common/20260414/950095163c4eee24d869d7aa7adabb77.png",
       "league": "SBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1776340241-0-0-c97c8cf21461d80abb32769870ae8832"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1776340241-0-0-a8b91844446e3f98d7805b7f04ae85e6"
+        }
+      ]
     },
     {
       "id": "311705",
