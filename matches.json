@@ -3,13 +3,38 @@
     {
       "id": "312052",
       "match_time": "1776672000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Bacolod Masskara",
       "home_img": "https://sta.vnres.co/file/common/20260418/7e4fd0f5a57ee592d396b226a720aca9.png",
       "away_name": "Sarangani Marlins",
       "away_img": "https://sta.vnres.co/file/common/20260418/86aa87e1b242a9c1ac358af97dd0463d.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1776675024-0-0-9fbec216c9ca61c6c837e9dd27399280"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1776675024-0-0-c42ddd28fad244ee3aefe8a66d21ad57"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=0a44e12698400aad55dd4d5c946dbe7b&txTime=69e62f20"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=ef9501d99e5c5b768ab01cb40a481faa&txTime=69e62f20"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1776675024-0-0-009668a8e120339ae519711429bb24e9"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1776675024-0-0-e402f2b262f3217d4def3532bb95f1e6"
+        }
+      ]
     },
     {
       "id": "311983",
