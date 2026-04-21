@@ -3,13 +3,30 @@
     {
       "id": "312066",
       "match_time": "1776808800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "GV San Jose",
       "home_img": "https://sta.vnres.co/file/common/20260419/ae4b2a4e8e878d012c3d2f7527f12654.png",
       "away_name": "Aurora",
       "away_img": "https://sta.vnres.co/file/common/20260419/1e9dcc1e85bf1906adb4759e4cb8df5d.png",
       "league": "BOL D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1776811824-0-0-de62f147b65202d6f72b4003970a8b38"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1776811824-0-0-5181835be65b23c2f235cc4a0a867221"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-598119_lhd.m3u8?auth_key=1776811824-0-0-68e29fb541d8064d168924979e077ed3"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-598119_lsd.m3u8?auth_key=1776811824-0-0-17066d2a65646ffa37c74d9b981ebd55"
+        }
+      ]
     },
     {
       "id": "312067",
