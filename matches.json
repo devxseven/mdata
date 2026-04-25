@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1777159224-0-0-252925ac498d96db003dbecc301a53df"
+          "url": "https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1777159524-0-0-1ba39e3d48db2960f0cf77925b28eabf"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1777159224-0-0-9c6c668b20e8987bf2f29b1406b613eb"
+          "url": "https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1777159524-0-0-286839daa3876a60f9563f65b6803d86"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-598119_lhd.m3u8?auth_key=1777159224-0-0-9ccae550c502d9a85adc656a85216706"
+          "url": "https://pull.niues.live/live/stream-598119_lhd.m3u8?auth_key=1777159524-0-0-2b1525391af1ef29a98ec6f0c308192a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-598119_lsd.m3u8?auth_key=1777159224-0-0-017539bca233c789b4624c82af5a6d97"
+          "url": "https://pull.niues.live/live/stream-598119_lsd.m3u8?auth_key=1777159524-0-0-7007d4157b12aa187f17525e50fa515f"
         }
       ]
     },
@@ -40,19 +40,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1777159224-0-0-41332e7e52afcaa0905483aecb65545f"
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1777159524-0-0-875207f6ad1c1cb30faac57f438efc64"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1777159224-0-0-7b673d6ee8754d7fc51f532ebedce8d8"
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1777159524-0-0-14efb9be7e7014dc31de56ddc844316a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1777159224-0-0-e61a0b05c2a784fb733880bf26261b1c"
+          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1777159524-0-0-9f41b283712daa8b8b063631391e5543"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1777159224-0-0-7d9b52518f2a4f3e0ca8c834d8b8d57f"
+          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1777159524-0-0-2d1a0c53e5d6a0e03ef9960f840e0544"
         }
       ]
     },
@@ -68,11 +68,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1777159224-0-0-355767ef4df350ff8054400396f4ee6b"
+          "url": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1777159524-0-0-58db5128bd6a19d1ac845f78a039d892"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1777159224-0-0-1c61056cc74dd643f046d4650ecd45b9"
+          "url": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1777159524-0-0-424a2ce9d2334cf319d6badca0fb4063"
         }
       ]
     },
@@ -88,24 +88,33 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1777159224-0-0-68aaf37ee7e4e2496ad465c257e1599f"
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1777159524-0-0-667c644a284b84cc38fcd278f1ef9cad"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1777159224-0-0-c4ddb48d545424c4a978042e8a04893a"
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1777159524-0-0-438189f11c68e416216b10148c67d0bb"
         }
       ]
     },
     {
       "id": "312438",
       "match_time": "1777156500",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Atlanta Hawks",
       "home_img": "https://sta.vnres.co/file/common/20260424/1d70ca5da89dfd321cd44a91ff1a3d71.png",
       "away_name": "New York Knicks",
       "away_img": "https://sta.vnres.co/file/common/20260424/a4232d350f5c7df79b44340cdb10731b.png",
       "league": "NBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=233118d665ab324c77a98c923a66eb96&txTime=69ed93b4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=14ad78376037ebe7f6519e093e4e1f15&txTime=69ed93b4"
+        }
+      ]
     },
     {
       "id": "312337",
