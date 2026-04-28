@@ -3,13 +3,38 @@
     {
       "id": "312467",
       "match_time": "1777365000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Arema FC",
       "home_img": "https://sta.vnres.co/file/common/20260425/e86c4953fe03dc46487618f67412cf87.png",
       "away_name": "Persebaya Surabaya",
       "away_img": "https://sta.vnres.co/file/common/20260425/4ce4384a80bcc91c1c1110c58177abd5.png",
       "league": "IDN D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1777368025-0-0-8bd9bde14c5c48aa4b45516abbfc1478"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1777368025-0-0-2a7e0151d0059a1c0e8aac99856043dc"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1777368025-0-0-c00254bc6b8f254a9df22a33ad94f28e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1777368025-0-0-bade6b0ee7d8c3efc893d9ad3329e74d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1777368025-0-0-12452342212886e381183442d3ce9671"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1777368025-0-0-f01f14f0a04e125049cdf6ae605d05f1"
+        }
+      ]
     },
     {
       "id": "312549",
