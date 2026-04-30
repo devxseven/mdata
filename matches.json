@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1777551325-0-0-c18649548f625f704cb2e6726fd94fb9"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1777551625-0-0-d9412701ba1fc474ecc8d2d36795a63b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1777551325-0-0-f14831046f4629c881e76e82cbe07e04"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1777551625-0-0-f45535822bebe18e7c1dde1f0e3c71e4"
         }
       ]
     },
@@ -32,54 +32,105 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=40ad7824861959684c0256c6febf1d5d&txTime=69f38e2d"
+          "url": "https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=d4af5edc8896cc11a0d7b1fd06a7f62c&txTime=69f38f59"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=a41fcebf8c4678a997e9826e6c574684&txTime=69f38e2d"
+          "url": "https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=9bc553a9a1720fad76b5ea39db52a05a&txTime=69f38f59"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1777551325-0-0-187698ec92cf9f139c21f25a28ca7848"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1777551625-0-0-2d925c2a6124845861aeb0c1bdf277a1"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1777551325-0-0-fea548e6de6e90e05d838538c632e82b"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1777551625-0-0-cbda7d38d436485923fbdfe6d02f5c3f"
         }
       ]
     },
     {
       "id": "312577",
       "match_time": "1777548600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Albirex Niigata FC",
       "home_img": "https://sta.vnres.co/file/common/20260426/efc263b770845e324fc7d759bdf277d9.png",
       "away_name": "Tampines Rovers FC",
       "away_img": "https://sta.vnres.co/file/common/20260426/5f2fa660145d946c40ae85fcee01faad.png",
       "league": "SIN D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1777551625-0-0-c2c5efd05e445317d0b5844fb527a625"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1777551625-0-0-cd3b907342f1a3b82674f6d44642e950"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1777551625-0-0-55933ef6ed45209472fe8f7044074be8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1777551625-0-0-8f493beb4437034ad47dbdc86a072df3"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1777551625-0-0-7bf7063cfe23332e96d38463bcae90e2"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1777551625-0-0-390b513353c11e3ee0f0a59d2c61eeaf"
+        }
+      ]
     },
     {
       "id": "312578",
       "match_time": "1777548600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Lanzhou Longyuan Athletic",
       "home_img": "https://sta.vnres.co/file/common/20260426/8c7f9c36c1e71e95436036d7a706431f.png",
       "away_name": "Haimen Codion",
       "away_img": "https://sta.vnres.co/file/common/20260426/9933d086f175b9e7cda3af662c58e3b6.png",
       "league": "CHA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=b6f7f5a10a70c8578b41c51e0cec0df1&txTime=69f38f59"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=608713f43fd7295c08186f07a9dce419&txTime=69f38f59"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1777551625-0-0-207aa7b6a4c1bd0f8a412d087a99fa38"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1777551625-0-0-7c617192d66f150ca18c6646a6e02e37"
+        }
+      ]
     },
     {
       "id": "312579",
       "match_time": "1777548600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Guangdong Mingtu",
       "home_img": "https://sta.vnres.co/file/common/20260426/68caea483a5b3c36bd5e9578a05ee17d.png",
       "away_name": "Jiangxi Lushan",
       "away_img": "https://sta.vnres.co/file/common/20260426/cbeec1ec8e9465a2b480ca145dca118d.png",
       "league": "CHA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1777551625-0-0-ac955e1dd347b32d9be2d44a7978adef"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1777551625-0-0-55ed27db5f5d60b52e535e4b4dda357e"
+        }
+      ]
     },
     {
       "id": "312580",
