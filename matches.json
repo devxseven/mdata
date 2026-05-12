@@ -3,13 +3,38 @@
     {
       "id": "313298",
       "match_time": "1778569200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Auckland FC Reserves",
       "home_img": "https://sta.vnres.co/file/common/20260508/63fc67b37ad5770480cc127824b08d66.png",
       "away_name": "South Island United FC",
       "away_img": "https://sta.vnres.co/file/common/20260508/3d49d974cd8e9c9cca124ab1f447253e.png",
       "league": "OFC OPL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1778572194-0-0-ca24548e5512dd1aa4a1858ac34bf4f5"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1778572194-0-0-8f5fe2ebc981385081b70fa16370ad89"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1778572194-0-0-2d281b73fb15a759ee5466d6120780ab"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1778572194-0-0-b04febac409a8f0de97e882d7ffd537b"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1778572194-0-0-968515f85c37b2ad88985516d292b0d7"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1778572194-0-0-807d47fc6e49cf4d6bcb6a9937e0acbd"
+        }
+      ]
     },
     {
       "id": "313382",
