@@ -12,32 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=3d9960eab709b7847f0a81e924ee5c86&txTime=6a054536"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=91b56ec670237a998a4a583df53472ad&txTime=6a054662"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=44979ee51944f68d10bee1c25bec24e7&txTime=6a054536"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=066ee39b82cb6aaac1e635984508303f&txTime=6a054662"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1778712294-0-0-cbb4bcbb2aa2cd553ce1b66b487e8e8b"
+          "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1778712594-0-0-02dd585e074446355ac2e76f329c1317"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1778712294-0-0-6b409ef5b890a4c07fc1e45b939a09a2"
+          "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1778712594-0-0-8e324b2b10b44b53246c8e0fcee2e381"
         }
       ]
     },
     {
       "id": "313395",
       "match_time": "1778709600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Juventude",
       "home_img": "https://sta.vnres.co/file/common/20260511/8602dfa3fcadf1573f01f18f0577b4b5.png",
       "away_name": "São Paulo - SP",
       "away_img": "https://sta.vnres.co/file/common/20260511/7b262d0f6af9250bd3cce79c69fa15a6.png",
       "league": "BRA Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1778712594-0-0-393919dde720d111e07fa5925d9c204d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1778712594-0-0-a10d283cb51586ed77750a073ed800d9"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1778712594-0-0-10a949402dff3f77dfdeb69dc66d830c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1778712594-0-0-361f1562c0bc0ef3f65cf9552325e671"
+        }
+      ]
     },
     {
       "id": "313396",
