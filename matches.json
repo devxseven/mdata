@@ -3,13 +3,38 @@
     {
       "id": "313553",
       "match_time": "1778830200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Tauranga Whai",
       "home_img": "https://sta.vnres.co/file/common/20260513/809ca823de617a89d63697f9e9ddd393.png",
       "away_name": "Manawatu Jets",
       "away_img": "https://sta.vnres.co/file/common/20260513/872969a5558dcd7682c0e95a60695f6f.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1778833194-0-0-c3c33bea582e2f4221868eccf47ce49a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1778833194-0-0-2e12303e826d5441dc1a66fbb6b8ab46"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1778833194-0-0-5b604bcd98612e370333cc276a6b35d1"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1778833194-0-0-bac7f1439f98c267fe1c9f28767c7fc5"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1778833194-0-0-7244ea67fcc735224a053c64dfe2903a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1778833194-0-0-48a8fe770e792c83a133e29f3b38828e"
+        }
+      ]
     },
     {
       "id": "313443",
