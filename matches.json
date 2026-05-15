@@ -3,13 +3,38 @@
     {
       "id": "313492",
       "match_time": "1778880600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Liga Dep Universitaria Quito",
       "home_img": "https://sta.vnres.co/file/common/20260513/c49db23d3da8de3c0e803b289d62cfc9.png",
       "away_name": "Tecnico Universitario",
       "away_img": "https://sta.vnres.co/file/common/20260513/6fa495ea21b8844e28816d2bad771d36.png",
       "league": "ECU D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1778883594-0-0-d5cb064b5cffe221ebfbe844a386db5c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1778883594-0-0-37fdcf9fb18c0dc3257507e312a2b61c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1778883594-0-0-192a6870f4c0bdeec1667302a862a6f1"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1778883594-0-0-d9fa0634f0d41b307247380cca6f2f3d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1778883594-0-0-7434a1f6f66dfa246a1c5e3bdd3f25ff"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1778883594-0-0-785af3b36e78104aa06d0e0c32d722c9"
+        }
+      ]
     },
     {
       "id": "313498",
