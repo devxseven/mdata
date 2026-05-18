@@ -3,13 +3,30 @@
     {
       "id": "313712",
       "match_time": "1779139800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Deportivo Maldonado",
       "home_img": "https://sta.vnres.co/file/common/20260516/07bacce284c3ec578d1a49eca4c67967.png",
       "away_name": "Danubio FC",
       "away_img": "https://sta.vnres.co/file/common/20260516/7185174353f1fe72d91deed8e5d3fa0b.png",
       "league": "URU D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1779142795-0-0-f756b6ec595619c5e1623402168597a2"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1779142795-0-0-1c7da11273236c7baff51442789a1be5"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779142795-0-0-8c153287ee2212aacba2dffca476e692"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1779142795-0-0-1c8e468bf51227ecbaba210efe511a56"
+        }
+      ]
     },
     {
       "id": "313713",
