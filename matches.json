@@ -3,13 +3,38 @@
     {
       "id": "313720",
       "match_time": "1779175800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Turkmenistan U20",
       "home_img": "https://sta.vnres.co/file/common/20260516/3b5a82800def790cd2e3e7814c8b03ba.png",
       "away_name": "Uzbekistan U20",
       "away_img": "https://sta.vnres.co/file/common/20260516/2dcb9c1d8094f38bc28b40b4c5f82211.png",
       "league": "CAFA U20",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779178795-0-0-b87d9deb173918df15d4c2bdd5a70bc5"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1779178795-0-0-3fbc8a9d38cf9ad709936d0258a3d303"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=22d6accd7fae125c1d62ac0667afcf8b&txTime=6a0c637b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=61f0d2f8c562a5979472689bfc39d058&txTime=6a0c637b"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779178795-0-0-cbd61de0e76245fc6187b05858c60c99"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779178795-0-0-38203ff44974016315cf14aa20db2920"
+        }
+      ]
     },
     {
       "id": "313791",
