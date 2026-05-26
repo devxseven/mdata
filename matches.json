@@ -3,13 +3,38 @@
     {
       "id": "314152",
       "match_time": "1779780600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Tai'an Tiankuang",
       "home_img": "https://sta.vnres.co/file/common/20260523/72771fca44dec48d0a229e6d43286cfd.png",
       "away_name": "Dalian Kewei",
       "away_img": "https://sta.vnres.co/file/common/20260523/b4211dbf7cdafcbf21e5b20134c2f32e.png",
       "league": "CHA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779783595-0-0-2f76558471730728e572089d8653f86f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1779783595-0-0-c958aeae738e5b8d853a07f6ffd7c306"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=dcd2b4df389f62d6027cf3b28fff7eb1&txTime=6a159dfb"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=5414677cedfbbc8f69f0df12b142eb6f&txTime=6a159dfb"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779783595-0-0-a303216188fff7295d8a62333df3da24"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1779783595-0-0-050c2a51d9d7b57f42392a21a2f87442"
+        }
+      ]
     },
     {
       "id": "314153",
