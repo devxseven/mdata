@@ -3,13 +3,38 @@
     {
       "id": "314310",
       "match_time": "1780038000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Shaanxi Union",
       "home_img": "https://sta.vnres.co/file/common/20260525/fe1ca1cb1937e92fa57689317e35d8c2.png",
       "away_name": "Nanjing City",
       "away_img": "https://sta.vnres.co/file/common/20260525/3b42a8eca17e48c71bdde5ca4697b61f.png",
       "league": "CHA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780040996-0-0-b1cf7784a16013e4a604cb5e179a07b8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780040996-0-0-a6ed0413722a744749855f65c6abaab5"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780040996-0-0-e0076f17e1971c980885f6a9507b4644"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780040996-0-0-b2b5ea8ed8e71c18590588b262b8121d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780040996-0-0-5a3dda00c13c257a3ddc0e1a4a25ea21"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780040996-0-0-b1177eb4cdbf1782953ce0a650bbf09f"
+        }
+      ]
     },
     {
       "id": "314416",
