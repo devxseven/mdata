@@ -3,13 +3,38 @@
     {
       "id": "314582",
       "match_time": "1780282800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Manawatu Jets",
       "home_img": "https://sta.vnres.co/file/common/20260530/9124e55f136e9fdb6ae167abe2fedfea.png",
       "away_name": "Wellington Saints",
       "away_img": "https://sta.vnres.co/file/common/20260530/7e4ab510d210090c9257fe13426750fb.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780285796-0-0-0161ec55c2c80c66983ca8d652a759f1"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780285796-0-0-ce60ab21600633bae3dba41d2e83fdb3"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780285796-0-0-179561d24cba233b29af025c974a4528"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780285796-0-0-10abe48e21277092f13f134de1800a2f"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780285796-0-0-e2655cb36084a1067e1545277d4306e0"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780285796-0-0-2520e299d656ad698a250f056bf09f18"
+        }
+      ]
     },
     {
       "id": "314583",
