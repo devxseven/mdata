@@ -3,13 +3,38 @@
     {
       "id": "314642",
       "match_time": "1780470000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Auckland Tuatara",
       "home_img": "https://sta.vnres.co/file/common/20260601/20d7dfffc98ad3e16e1e2d0c0996a6d4.png",
       "away_name": "Canterbury Rams",
       "away_img": "https://sta.vnres.co/file/common/20260601/4f934a309641d806e7b02cb9e183d077.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780473019-0-0-952d4d5217c9f0993051939780df2d97"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780473019-0-0-0e6d354b6d8a50a4207bdd27b46ca69d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780473019-0-0-8ee3815b5dd45e2864f5cf5f1611fab8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780473019-0-0-ab94aac5465e4417b8064b22face0947"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780473019-0-0-85e7a5944fc88e1d4da7c3fa790792db"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780473019-0-0-2dfd6d0b24871b469a503940091d376c"
+        }
+      ]
     },
     {
       "id": "314599",
