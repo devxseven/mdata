@@ -48,27 +48,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=f1f8130c240f121050cd5251652a6c65&txTime=6a20a777"
+          "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=99518ad10c7ef1a360acefc54ddbdc38&txTime=6a20a8a3"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=72f4a6d90b65c735a5dcc9120f46ccd7&txTime=6a20a777"
+          "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=12afa763cf18bffb14400916d44aa259&txTime=6a20a8a3"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780506919-0-0-3f4f4786be7c7b3149c786b351ea8627"
+          "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780507219-0-0-e48ee417edd2b6f8dd2b1d3be8fa564e"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780506919-0-0-991c7abe75f87b979c185f721443ed88"
+          "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780507219-0-0-a39a973ed1027595b81ba0361ab64074"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780506919-0-0-95904bfdda09bae319d148bd8ed67312"
+          "url": "https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780507219-0-0-3296e007bba4dc1e8c83e00a8b455d92"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1780506919-0-0-a5b48969f81177bf541fc8c65e426aae"
+          "url": "https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1780507219-0-0-1e389cb57727aaf8da694bfb892d9110"
         }
       ]
     },
@@ -84,19 +84,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6af769e9a983f14a527edaa550beddff&txTime=6a20a777"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=db5a227fdd85c2418e31e98c60e90705&txTime=6a20a8a3"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=c35da4a5f1a2bb3f3d95d08225bdbf69&txTime=6a20a777"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=41e00a3b8cc4a3608193e96ccaf35443&txTime=6a20a8a3"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=6b2bf02aac7e5a4acc34f80c031b7406&txTime=6a20a777"
+          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=e0fe8586d97675f9b31773c5b20e422d&txTime=6a20a8a3"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=47d437bed2e8dc5e588b2c1da5e5895a&txTime=6a20a777"
+          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=24597f4520ed37bf9f893b51b80d84ac&txTime=6a20a8a3"
         }
       ]
     },
@@ -112,24 +112,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780506919-0-0-03788009900c43637c7d92740d5f12d9"
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780507219-0-0-f7f7e2804a0468acac98cb0ba8a4ef13"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780506919-0-0-447e675e8c6bc4e124faadfd13a4119f"
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780507219-0-0-19810b3a7b873f3a97ea6f7bb7e72ef7"
         }
       ]
     },
     {
       "id": "314615",
       "match_time": "1780504200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Cote d'Ivoire U23",
       "home_img": "https://sta.vnres.co/file/common/20260531/21f785bca958b4dbd10de4a64ed018f8.png",
       "away_name": "Venezuela U20",
       "away_img": "https://sta.vnres.co/file/common/20260531/fc113efe382e3dd62959deacd201d162.png",
       "league": "TOUT",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780507219-0-0-e9aec9fbcf7acc0a9f93b7ba4c0bd488"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780507219-0-0-5d4c05ed612cc3441a1c3e739f8db00e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780507219-0-0-e38ce615b017890827ed19b6d8ebbe74"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780507219-0-0-caf6178d3ff1cbad4494f7c5036a617a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780507219-0-0-e8f88b89d175a9eed4c9397af2844d62"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780507219-0-0-03013f3dd2eeec38baf4378474d81747"
+        }
+      ]
     },
     {
       "id": "314692",
