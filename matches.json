@@ -12,32 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780533919-0-0-35776a399c87c5c11abde12cb5507859"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780534219-0-0-954d772cd4946f27aa5492f94c144ee7"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780533919-0-0-80d42ff3c7a3f3b5b730f238d15b89de"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780534219-0-0-3ec57a194c7749730b00caf2298b969d"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780533919-0-0-cac468767a1a9c6e27b4e042daced428"
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780534219-0-0-fddc55421fc8c3b6070d3cad37211e2a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780533919-0-0-16a936f22a8435625cc855e0adc6947e"
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780534219-0-0-405db31f9efa1baa224be7220879adf3"
         }
       ]
     },
     {
       "id": "314629",
       "match_time": "1780531200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Birmingham Legion",
       "home_img": "https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png",
       "away_name": "Louisville City FC",
       "away_img": "https://sta.vnres.co/file/common/20260531/e527762bdacd433f9d9a0248e1f11198.png",
       "league": "USLC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780534219-0-0-f48c03d63fb4d4a997a7dfd264ffff9b"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780534219-0-0-1e13ec68ceaa2c21a83fc2116d869b6c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=60ae18d6e81edbf408e54c1d57a07a6a&txTime=6a21121b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=912ee83402267551e4738a7a5bc8654e&txTime=6a21121b"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780534219-0-0-30b9ac1b270be5b5ba57226e17f1de85"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780534219-0-0-84a9b86370a39ead1ecbb0f37b63504b"
+        }
+      ]
     },
     {
       "id": "314685",
