@@ -3,13 +3,38 @@
     {
       "id": "314687",
       "match_time": "1780556400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Bay Hawks",
       "home_img": "https://sta.vnres.co/file/common/20260602/2b22985a32c15b86343e54a5b2468ccc.png",
       "away_name": "Nelson Giants",
       "away_img": "https://sta.vnres.co/file/common/20260602/43deacc7434cbf5da053e0b6dd8f7446.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780559419-0-0-4c457e4e038de3adac5667f28bd0592c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780559419-0-0-99ce7e184720b989831d8370c2447990"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780559419-0-0-19fd8548c366540b4d580c79bdafee21"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780559419-0-0-c1126a5874760568d96377210e9af2f4"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780559419-0-0-5951f51bca3983adac349fa02d616f40"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780559419-0-0-c7dc3c9b8015cd594af32e08854f3235"
+        }
+      ]
     },
     {
       "id": "314633",
