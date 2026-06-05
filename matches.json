@@ -3,13 +3,38 @@
     {
       "id": "314758",
       "match_time": "1780644600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Otago Nuggets",
       "home_img": "https://sta.vnres.co/file/common/20260603/316c5b22f5274cd26b8a29f38ab10266.png",
       "away_name": "Franklin Bulls",
       "away_img": "https://sta.vnres.co/file/common/20260603/d8cf0efb27d254e4f9c2f3aba6e81297.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780647619-0-0-d487ea66e7d9b516ef4d4f9fffe36613"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780647619-0-0-b6897a231e4d8e8a7e413e28f5e97bfb"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780647619-0-0-8300670fb2502b71c14164dc71ac2b7e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780647619-0-0-a7e565d2fa8cfbd363835314b1d9abeb"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780647619-0-0-17edb6a982c8c479695bb0630547088e"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780647619-0-0-f47b3ff9e4ebac13f55fb288b0233c93"
+        }
+      ]
     },
     {
       "id": "314653",
