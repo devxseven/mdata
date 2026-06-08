@@ -3,13 +3,38 @@
     {
       "id": "314862",
       "match_time": "1780894800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Kingborough Lions",
       "home_img": "https://sta.vnres.co/file/common/20260605/73c1ddbd8b36b6c3264deb0f70170a02.png",
       "away_name": "Devonport City",
       "away_img": "https://sta.vnres.co/file/common/20260605/466355e7db23ce03dc0478e5e9e4ff5b.png",
       "league": "AUS CupQ",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780897820-0-0-45ed7390e71aa1fa9e1cc5a8b1678594"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780897820-0-0-4cf144d71fbd15713a6758b8a8b896eb"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=945a691cd04ff5ed1272d2672ae3be8a&txTime=6a269e6c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=05d43f57bcebd43f399bef07f2e8c01c&txTime=6a269e6c"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1780897820-0-0-4174fcc06c3d3f6e4b59d7fa8a663d7a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1780897820-0-0-de2bd79490a9e26d0c90884c0004ac9f"
+        }
+      ]
     },
     {
       "id": "314902",
