@@ -12,54 +12,129 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780926320-0-0-8fb5595321c884c0819f022bf621a4c2"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780926620-0-0-1577ba80709940570f13543af29cff50"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780926320-0-0-0430279c539e8d4ba82ac59f28b092f1"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780926620-0-0-dc46e17275386afe387b1325f3c95569"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780926320-0-0-618b0c84603e4023e5c9da1a2dd96767"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780926620-0-0-b2fa1978679504e446d3a3e4bdc80024"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780926320-0-0-7d59aafb9896f6a4c8ea89faa103c73e"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780926620-0-0-1c056b5c3d3b4273a276d95066a16059"
         }
       ]
     },
     {
       "id": "314863",
       "match_time": "1780923600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Cote d'Ivoire U23",
       "home_img": "https://sta.vnres.co/file/common/20260605/fda5d4d560ce35323f6edc771f368bc4.png",
       "away_name": "Canada U20",
       "away_img": "https://sta.vnres.co/file/common/20260605/c42686f8287bcf5c97c966714b87bac7.png",
       "league": "TOUT",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=e2605ee2fd95ff1b9f49c59365dd059e&txTime=6a270eec"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=b9230cdecb1ba8187c4a52677ac603ba&txTime=6a270eec"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=fb4ad14fe701846b1f9ddd25a46ffa84&txTime=6a270eec"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=521683bc96a99dd3fc479280eb93c86c&txTime=6a270eec"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780926620-0-0-710c3d2c3192e833d6d66965fd06933b"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780926620-0-0-0bfa3b8a99e00c9e55353c6f6a98bd8a"
+        }
+      ]
     },
     {
       "id": "314864",
       "match_time": "1780923600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Singapore U19",
       "home_img": "https://sta.vnres.co/file/common/20260605/a742774185cb1da7cdad6527dfbae179.png",
       "away_name": "Brunei Darussalam U19",
       "away_img": "https://sta.vnres.co/file/common/20260605/da9514d1d71a62978322e8c8f5b47d95.png",
       "league": "AFF U19",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780926620-0-0-79db8b1df1bbd9ecd3d3be44d976539e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1780926620-0-0-0af426a0a42a1400a6bdae6aee4c99c4"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780926620-0-0-cb87094e7c8b7f6381dc4cd3113b424f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780926620-0-0-16935d12a36c26749ca2259e5c360f75"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=1a5a726cf24d68eec69c0b7879700b07&txTime=6a270eec"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=aa8c5b6817b692f8157c96899795877d&txTime=6a270eec"
+        }
+      ]
     },
     {
       "id": "314865",
       "match_time": "1780923600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Thailand U19",
       "home_img": "https://sta.vnres.co/file/common/20260605/7b6d1314faaab8b1b0f4a1b4a52bdbfe.png",
       "away_name": "Malaysia U19",
       "away_img": "https://sta.vnres.co/file/common/20260605/dcea85afdb24c9d8af84d4ed628439ad.png",
       "league": "AFF U19",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780926620-0-0-d14d5edf3ab38f65841f6b4458a651c4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780926620-0-0-c850a5bae24a7f6d5087928748e9396c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780926620-0-0-63e5061b42445b7bb3fca95df6173cd7"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780926620-0-0-fe33cf6523cd6bcf88af25da4780f0d3"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780926620-0-0-a47a12a2c9ecfb0af90a695df186e2b2"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780926620-0-0-d36302a79089ff9647bccc4d88468f4b"
+        }
+      ]
     },
     {
       "id": "314866",
