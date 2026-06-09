@@ -3,13 +3,38 @@
     {
       "id": "314978",
       "match_time": "1780986600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Japan W",
       "home_img": "https://sta.vnres.co/file/common/20260608/b2fd710d99c7884e4ed29e4abd93a050.png",
       "away_name": "South Africa W",
       "away_img": "https://sta.vnres.co/file/common/20260608/a36c76b9d9e03b7280c6020105e5e74f.png",
       "league": "INTERF",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780989620-0-0-86078aa0e569278a7cb2fe312d359737"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780989620-0-0-66e548240dab5fc555d1a9042c4dc4bd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=613bef598e00979d1db767ed3306dd73&txTime=6a280504"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=497da9d33008cd6319a6cfc1b75ccf85&txTime=6a280504"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780989620-0-0-82d7eb738488dcca58315f222032e477"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780989620-0-0-4601d217717af4c65c60f4c54e27f9b7"
+        }
+      ]
     },
     {
       "id": "315005",
