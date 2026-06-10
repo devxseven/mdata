@@ -3,13 +3,38 @@
     {
       "id": "314987",
       "match_time": "1781078400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Cebu Greats",
       "home_img": "https://sta.vnres.co/file/common/20260608/83cb0dd8da5ef6a92e0be4eeb5e82024.png",
       "away_name": "Paranaque Patriots",
       "away_img": "https://sta.vnres.co/file/common/20260608/2fd08db8cf9c82676e517f8189b50c8d.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781081420-0-0-7bdac42c9f4f360361a3a39c1ea45bd3"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781081420-0-0-8d82c5a3670ed939ddb80a60b05c464f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781081420-0-0-c38e3dcd22e1a5c39602c857deacd341"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781081420-0-0-f8c61466a7eabd7bd80fcfcf0cad4774"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781081435-0-0-c7205a5b64f152f2b8b9cf816552a776"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781081435-0-0-0e446f9f8eea50f381290c026c063274"
+        }
+      ]
     },
     {
       "id": "313448",
