@@ -12,24 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781102720-0-0-57eba3c13e447ea5a120942b7f76fe59"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781103020-0-0-5576c368c14119df0ef1a1402c925b38"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781102720-0-0-767c0f152586688e76a50a0de2aeaf33"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781103020-0-0-1b1713ff75d67b2e99897546d581e176"
         }
       ]
     },
     {
       "id": "314944",
       "match_time": "1781100000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "KuPs",
       "home_img": "https://sta.vnres.co/file/common/20260607/1a10269dced5642d95fc30d323354765.png",
       "away_name": "Vaasa VPS",
       "away_img": "https://sta.vnres.co/file/common/20260607/6f992e8afb4eea76386b1991ee5596cc.png",
       "league": "FIN Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=a91492c99bd820580ff2fe8a00816462&txTime=6a29bffc"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=58529c99970be0468816b95deffb2d06&txTime=6a29bffc"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781103020-0-0-406ffc34107126e9716823a7fa44737a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781103020-0-0-4a2295ec7cdd59776750c20781716c14"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781103020-0-0-bc2f1eefcf554d90c7c16b841d66a46a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781103020-0-0-06b7ab6c47c2dd83fbc4383e943516fc"
+        }
+      ]
     },
     {
       "id": "314945",
