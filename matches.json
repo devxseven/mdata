@@ -3,13 +3,38 @@
     {
       "id": "315036",
       "match_time": "1781301600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Atletico Clube Goianiense",
       "home_img": "https://sta.vnres.co/file/common/20260609/cab80c2ec63317f3ee5f6d3fb750cec3.png",
       "away_name": "CRB AL",
       "away_img": "https://sta.vnres.co/file/common/20260609/04812ed7498a0550bd7607c3c6f0b1dd.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781304620-0-0-9792b56bca1e0994c278f05e300fdd6f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781304620-0-0-d17476f96ca5b87e298b1b06e0095175"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781304620-0-0-0f4997fd943c5e2c04b6d12140e995f0"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781304620-0-0-5eb1b07467a6c6be8b4b24f4b5e1dcd9"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=6d0bcecedb377bf0c5dbb4f8f88250d8&txTime=6a2cd37c"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=c5727ec9d2b5dae02c6e9b9f3cdd90b5&txTime=6a2cd37c"
+        }
+      ]
     },
     {
       "id": "315158",
