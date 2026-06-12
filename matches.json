@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781257520-0-0-e77e70e047c07bd1ddf6e921e55a3503"
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781257820-0-0-a626833079d4142aede6e7a160c9961c"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781257520-0-0-58b6f207371d5382b41fbb2d13776c70"
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781257820-0-0-0da87d02f5a462d3b7c02cd83dd65222"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781257520-0-0-3adbf6dce66cc6c776d4ab3e504ff774"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781257820-0-0-2f539147ea83c1d64a9e8b10de6ea33a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781257520-0-0-cf3c995d7f38ffb25d26aabd0a584acd"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781257820-0-0-5efdd446948497d5608083abd3eab788"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781257520-0-0-9b406a6205333bbc5df7a1faa9bfd6d3"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781257820-0-0-c4d21afef01753f4caf822e5ced3b822"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781257520-0-0-af9661c756c8b358f9bc91f36dd4a244"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781257820-0-0-94bdb1f0384f3234ae527843562769e7"
         }
       ]
     },
@@ -48,24 +48,41 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781257520-0-0-6749097e47cddb18b6e28b2515421a21"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781257820-0-0-de0e02235a38b46e09c1f5e531e78685"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781257520-0-0-2731b56928613d16bd1245ca70d3aed0"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781257820-0-0-4628d28e5591bf690936ca05397ac8c3"
         }
       ]
     },
     {
       "id": "315165",
       "match_time": "1781254800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "North Star",
       "home_img": "https://sta.vnres.co/file/common/20260611/43f8c28e86f83598d88777a8b9d4949c.png",
       "away_name": "Peninsula Power",
       "away_img": "https://sta.vnres.co/file/common/20260611/5593c4883f298c076e74988fe3dc9b0e.png",
       "league": "AUS CupQ",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=30fde55c84bb72944b959509d99b3ed0&txTime=6a2c1cac"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=a79ba0fe2abf0dbbb10aa7ad24e87b99&txTime=6a2c1cac"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781257820-0-0-272b236a59de37252e949bf93ddd2c2a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1781257820-0-0-8a3c228bbed09d68651aaeacbedaa25e"
+        }
+      ]
     },
     {
       "id": "315008",
@@ -76,17 +93,6 @@
       "away_name": "Sydney United 58 FC",
       "away_img": "https://sta.vnres.co/file/common/20260608/4e173354d8d4f20f81d13bb56cc8e80e.png",
       "league": "AUS NSW",
-      "links": []
-    },
-    {
-      "id": "315153",
-      "match_time": "1781256600",
-      "match_status": false,
-      "home_name": "Gold Coast Knights W",
-      "home_img": "https://sta.vnres.co/file/common/20260611/6a6dfc078a3b8169f98c6f7d3c1bb1c3.png",
-      "away_name": "Brisbane City W",
-      "away_img": "https://sta.vnres.co/file/common/20260611/df106db0fe2c4d7c8c638a1586582d95.png",
-      "league": "AUS WQSL",
       "links": []
     },
     {
