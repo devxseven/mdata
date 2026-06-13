@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781327720-0-0-426097e59de9ef7e991f1779a39ef982"
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781328020-0-0-9765348434e03610c21a85ab1e306328"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781327720-0-0-b6efc92dc37abc9eb955e77129508167"
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781328020-0-0-0bcb44012540961f7611e7a5bc71c502"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781327720-0-0-1f1042c31473fbb3639145f7a2a33b79"
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781328020-0-0-66d50585e624affbc28b3289629841ee"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781327720-0-0-647aa7616d4cac8576e750b19c354446"
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781328020-0-0-05ff4391fb67f425f389c765de52a920"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781327720-0-0-9f0cd08f09f2ce9540be77c9108d983c"
+          "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781328020-0-0-494adb855b42c309fd2e457bad845db5"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781327720-0-0-a532013f50aa37e25fc9909a09f2f5e4"
+          "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781328020-0-0-4d120d81549ba1cde1ef1f0f9cd9f8c0"
         }
       ]
     },
@@ -48,40 +48,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781327720-0-0-f080ead56f31426552eedbaf92a50779"
+          "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781328020-0-0-25c66e2924f7239c95dcfbbf129d42e3"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781327720-0-0-7741f013b75c16868a8e7e74d9f7f497"
+          "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781328020-0-0-49c7831af5e307488654e5861e55cc8a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=481bdb77ae5e800327739afa4b28a789&txTime=6a2d2db8"
+          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=62ac7359957a856edf40b1a193c23db4&txTime=6a2d2ee4"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=64bd45085a8f3ff15c1ffb67f29bce95&txTime=6a2d2db8"
+          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=9a2fb36908d224baede3f3b4514e6bf1&txTime=6a2d2ee4"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781327720-0-0-9afa871782cfa653247b16267e777bff"
+          "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781328020-0-0-2767024c0aafee360fca3ba37b69be4a"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781327720-0-0-631b9096059246b21fe8618989808bfa"
+          "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781328020-0-0-5b8dc757a8ac3c08bf5bcf341bbe4173"
         }
       ]
     },
     {
       "id": "315161",
       "match_time": "1781325000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Bay Hawks",
       "home_img": "https://sta.vnres.co/file/common/20260611/bbf41e6c7228f6e2709c0eb36a8583d6.png",
       "away_name": "Franklin Bulls",
       "away_img": "https://sta.vnres.co/file/common/20260611/66482ce6cc8de91fab70c425f89bbf41.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781328020-0-0-6f0e731c04163c2ace16e49c7b1bec1f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781328020-0-0-42c1ea796d33bb08616598c38bb7b772"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781328020-0-0-4ef8e0858809bc16c158061bf2d3aff8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781328020-0-0-1bffdf80e201827abbe1da228af356a1"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781328020-0-0-c9c66c47271d06c85ce13018feb425af"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781328020-0-0-e44dafe183a82e8bb369c7d59e6d17a5"
+        }
+      ]
     },
     {
       "id": "315041",
