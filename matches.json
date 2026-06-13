@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781329520-0-0-71906f5ce1f6df7af3f8b05cb0e616b5"
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781329820-0-0-0733063d256724b06a61d8c4920652c6"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781329520-0-0-50f88996f0baef75dd1634124b91ab58"
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781329820-0-0-f3faccd131ff71472493f99a51446177"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781329520-0-0-0d1df8d381c04df20f69e71244e32d69"
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781329820-0-0-eca26a76a843298126d31fc32063a395"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781329520-0-0-12bcaa50a5e041bee574f57fb597b4e4"
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781329820-0-0-9b7e2ecdd4f5c9e39615cf24280c8b3c"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781329520-0-0-625c41234d5d1f2dce8afd7e73385867"
+          "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781329820-0-0-a394d2f7653c2f263c11f6ceaa992ec3"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781329520-0-0-e5a370ef1d570d0ba3ae3b7e644075f5"
+          "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781329820-0-0-5067b74f91772007897cdebb0ec747db"
         }
       ]
     },
@@ -48,117 +48,261 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781329520-0-0-be615fcbe82401bca9f710e1d71784e9"
+          "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781329820-0-0-7c600aa6a506097ece6e931504f73965"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781329520-0-0-eb5efc2c2ee81e03cac152908153309c"
+          "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781329820-0-0-9fadff29863a0a7064265edcfb128823"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=7b59aa898818b8389c240a216856e188&txTime=6a2d34c0"
+          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=2d28c963cae71d09925adcb0581569fb&txTime=6a2d35ec"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=6edb507122b14a6c52cf95740801db40&txTime=6a2d34c0"
+          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=fd019f7f0fdbbfcd230e9f767b51d09a&txTime=6a2d35ec"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781329520-0-0-a4db5a71d76b4ac6ae538724c2ae5af8"
+          "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781329820-0-0-20b346c45cacdcbd15bdf36aa083ac5a"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781329520-0-0-8ccb0e7918c484cd9e65598ccaf48fdc"
+          "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781329820-0-0-8678f3cc159a88441474aa20b03c68ab"
         }
       ]
     },
     {
       "id": "315041",
       "match_time": "1781326800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Western Sydney Wanderers Youth",
       "home_img": "https://sta.vnres.co/file/common/20260609/af393321f1517d58c7c1f9896fe305f7.png",
       "away_name": "St George City FA",
       "away_img": "https://sta.vnres.co/file/common/20260609/ffe648dca3aa6b0f2ced86de94883d9b.png",
       "league": "AUS NSW",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781329820-0-0-b89f18b5eecb4b1e9dbdb1dd41e86a1d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781329820-0-0-58aec97ff0105336b94c7276942b11ad"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781329820-0-0-0f2f57b7b43a5f8a134ddb0a6e747ee3"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1781329820-0-0-c647179b9c713379b0e9bf41c7e33c94"
+        }
+      ]
     },
     {
       "id": "315042",
       "match_time": "1781326800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "University NSW",
       "home_img": "https://sta.vnres.co/file/common/20260609/f327d09df76167b113f9bac5d398a56a.png",
       "away_name": "St George Saints",
       "away_img": "https://sta.vnres.co/file/common/20260609/0b4727c39f6063c21b19667ff685c7ff.png",
       "league": "AUS NSW",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=25d83104563ae097a0ff5ee5d3d441c4&txTime=6a2d35ec"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=579e2108ead7b412295e59806667f5a0&txTime=6a2d35ec"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d7ff6907e742802225ad12c3b49ce026&txTime=6a2d35ec"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=c7c0de7a63b75e437158aef4d0eca6c8&txTime=6a2d35ec"
+        }
+      ]
     },
     {
       "id": "315043",
       "match_time": "1781326800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Croydon Kings",
       "home_img": "https://sta.vnres.co/file/common/20260609/33555f7308edd950d3b013a3a501036f.png",
       "away_name": "Playford City",
       "away_img": "https://sta.vnres.co/file/common/20260609/469c07bf5fca2b6f1e470e398f5cbe53.png",
       "league": "FFSA SL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1781329820-0-0-1ae179b245e84a4d8ac7169b8d4d3de3"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1781329820-0-0-816d1c997c756b58398685d5a8bb8be2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781329820-0-0-8cbcc4c4ecf30f7987a709d385ba4a4b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781329820-0-0-6f838632aa1e852e238ec1a600f536ad"
+        }
+      ]
     },
     {
       "id": "315044",
       "match_time": "1781326800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Gold Coast United",
       "home_img": "https://sta.vnres.co/file/common/20260609/1b6409bbcbee8e19ec9d4dc3781dff74.png",
       "away_name": "Brisbane City",
       "away_img": "https://sta.vnres.co/file/common/20260609/72a8a4fcb5d8ac1e94afa3e52fb299c9.png",
       "league": "AUS NPLQ",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a893dfe2e9b1fe526203d9ce06338b07&txTime=6a2d35ec"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=a624fec4ee3469a66ab27eba650ac8ec&txTime=6a2d35ec"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781329820-0-0-39d754104bd2a58f1966280eb7d812fe"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781329820-0-0-44f99c9782e1aff730cc7abb465c33d6"
+        }
+      ]
     },
     {
       "id": "315045",
       "match_time": "1781326800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Canberra White Eagles",
       "home_img": "https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",
       "away_name": "Canberra FC",
       "away_img": "https://sta.vnres.co/file/common/20260609/708bad2744423af61850d1a2d8ec6bb0.png",
       "league": "AUS CGP",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781329820-0-0-e9c63fc94bcd74130d719588cc84d140"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781329820-0-0-a1d204e877bc6995236df3c3680ab620"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781329820-0-0-cf3f228ce8345cd502af657418e030fd"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781329820-0-0-3a43c1ef0ca290f6f696b8c1b542d757"
+        }
+      ]
     },
     {
       "id": "315046",
       "match_time": "1781326800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "OConnor Knights",
       "home_img": "https://sta.vnres.co/file/common/20260609/1a3cac07c9d81032986f989260c5a0f3.png",
       "away_name": "Tuggeranong United",
       "away_img": "https://sta.vnres.co/file/common/20260609/4462b61618d5f84420e116bc7773dcb9.png",
       "league": "AUS CGP",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781329820-0-0-03886a5d2a97794a073e22e2dbaadf6c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781329820-0-0-647b3cad7a91a2825ab090a44dcddafc"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781329820-0-0-bad64f488c423f78b2f5f79832e69550"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781329820-0-0-983c64e7e6913187bf8f4e5a1d23f2bd"
+        }
+      ]
     },
     {
       "id": "315047",
       "match_time": "1781326800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Queanbeyan City",
       "home_img": "https://sta.vnres.co/file/common/20260609/952b5a9be6c04196d2b2fb9c8df838bf.png",
       "away_name": "Monaro Panthers",
       "away_img": "https://sta.vnres.co/file/common/20260609/ab8eef670b1a65919118fccba0ec2cd9.png",
       "league": "AUS CGP",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781329820-0-0-10a5ebd539cfa8a1f506fe0cc7af4846"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781329820-0-0-cce58d6f74ef8f5b433052a8f644d0cc"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781329820-0-0-fd45c53aed3e65a3c98d3f7b8015d738"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781329820-0-0-237c0b54988722c9914b5a3dae77a07c"
+        }
+      ]
     },
     {
       "id": "315161",
       "match_time": "1781326800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Bay Hawks",
       "home_img": "https://sta.vnres.co/file/common/20260611/bbf41e6c7228f6e2709c0eb36a8583d6.png",
       "away_name": "Franklin Bulls",
       "away_img": "https://sta.vnres.co/file/common/20260611/66482ce6cc8de91fab70c425f89bbf41.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781329820-0-0-2a240618aaba0e7fb50bf68520c7ceab"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781329820-0-0-70248203012f1e74bf901761783ee2ab"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781329820-0-0-a49af305697e2b4f0b0ab4c8ff660955"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781329820-0-0-cee9cadae3106c128b3c5fe0859be308"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781329820-0-0-d7a2450c9e4ba1e9d11948f63a048773"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781329820-0-0-7cdf358fd4cc1023b4794c3dcef990b8"
+        }
+      ]
     },
     {
       "id": "315048",
