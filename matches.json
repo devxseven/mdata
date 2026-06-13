@@ -12,32 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781388920-0-0-7ab076ee7d47d2c38d4fbfa0a5edb997"
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781389220-0-0-9e2a771877598c52746d66195de25b07"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781388920-0-0-780a91b89ba803858379ee43a024d317"
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781389220-0-0-a10cf2d9fafbef22f89db7e5798520fe"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781388920-0-0-c87bf27a079aa1de94019d64144648a0"
+          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781389220-0-0-39121dc2492aff60975794f10ca75ea0"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781388920-0-0-3acbd287cceabd9632d68229119e5b82"
+          "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781389220-0-0-1bd00124144226cb61b3f187f7f5ee41"
         }
       ]
     },
     {
       "id": "315106",
       "match_time": "1781386200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Colo Colo",
       "home_img": "https://sta.vnres.co/file/common/20260610/11bfdef3f4f65829627db84c80ed1630.png",
       "away_name": "Cobresal",
       "away_img": "https://sta.vnres.co/file/common/20260610/9ab943dcf122e3780ee3d297708f7a67.png",
       "league": "CHI D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c78303a80efc56325b24cb83b6e0adb9&txTime=6a2e1df4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=2d2a3f76189c5ab4f63d052084518ccc&txTime=6a2e1df4"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781389220-0-0-54c4c9fd6b33c97b1121ce8b3333649f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781389220-0-0-348a36006bdc8a9ccd8d4ba01c0cff04"
+        }
+      ]
     },
     {
       "id": "314997",
