@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781315120-0-0-20cbba62e1c8bf0391ed5587d386590e"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781315420-0-0-67204f7ad4e6ec2748aafa59452c25c4"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781315120-0-0-5606789f6b33fd9ea9f8dfc6a429291c"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781315420-0-0-1a4002aeef240821a60b51c6daf3115d"
         }
       ]
     },
@@ -32,40 +32,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781315120-0-0-d73a35e472fac381675a05f069923ccf"
+          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781315420-0-0-71a3881fa7c7e463d2cab310dae83bb5"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781315120-0-0-7ca60b9f6de5029e5402718b497571d7"
+          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781315420-0-0-044f9df6eeb6d6bd63f3e78cd2df53bd"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8b3a68bc950e73d85cfe1d8fb111fcbf&txTime=6a2cfc80"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=2f386b85cf85f2152943f0b535b17eeb&txTime=6a2cfdac"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=288b8d173939cfd1fdd40ac77f5b1326&txTime=6a2cfc80"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=baf3ccf6e0751bb963f3e5146535024f&txTime=6a2cfdac"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=bb0730bb78239990677cedd418287d78&txTime=6a2cfc80"
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=835de63b276ebd06b4dfc2e00a7b3a3a&txTime=6a2cfdac"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=11c7736930e334ae307d0caedf1ed762&txTime=6a2cfc80"
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=64223069c728d9edb000c028d398e4cc&txTime=6a2cfdac"
         }
       ]
     },
     {
       "id": "314995",
       "match_time": "1781312400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "USA",
       "home_img": "https://sta.vnres.co/file/common/20260608/c3f08912a43c473b8849fb7236ea1511.png",
       "away_name": "Paraguay",
       "away_img": "https://sta.vnres.co/file/common/20260608/d0198372a55a0a0a79838198c91b6f72.png",
       "league": "World Cup 2026",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=b7a9ad1d9e3ef90e97692ed0960a4dc2&txTime=6a2cfdac"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=6d51f9b7e4510cc2509e25988b2bb784&txTime=6a2cfdac"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=9db26d014526eef4c67f45226d5486de&txTime=6a2cfdac"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=4c56e8215a2eb1d198011454d1347e8e&txTime=6a2cfdac"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=18ac5562ada6c8b0851d180511559414&txTime=6a2cfdac"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=611abb53767adcec7132c2a73f98a539&txTime=6a2cfdac"
+        }
+      ]
     },
     {
       "id": "315159",
