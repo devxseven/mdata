@@ -3,13 +3,38 @@
     {
       "id": "315098",
       "match_time": "1781560800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Saudi Arabia",
       "home_img": "https://sta.vnres.co/file/common/20260610/615f5cc6bf4c04182fe00ba60ed65beb.png",
       "away_name": "Uruguay",
       "away_img": "https://sta.vnres.co/file/common/20260610/8621bdedfa1e5ecedcca430d6f7a9adf.png",
       "league": "World Cup 2026",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781563821-0-0-00945b74fb5d07cfa944dff9e1cfb914"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781563821-0-0-52ef03570cd1d1ce40823c48ea8ea58a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781563821-0-0-9d870fb915f2b37b1668e2c6893b105c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781563821-0-0-2311c706ea14c0519340c29a29c0c04c"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781563821-0-0-dcf93bc757f88b4a62fa1b807c832139"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781563821-0-0-19b6e3a79f5b145b642ffdf067789a84"
+        }
+      ]
     },
     {
       "id": "315285",
