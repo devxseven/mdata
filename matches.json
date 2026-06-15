@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=4905f4470ae7baabf4d4f5c30f8b9aa1&txTime=6a307271"
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=657f845558e188521adde8127d3f9ea5&txTime=6a30739d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=0800ed9c56dd276781738a6b5a9bfab4&txTime=6a307271"
+          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=2322173c635f0cc95c843df40a551b40&txTime=6a30739d"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781541921-0-0-a92453483737a502eee3c6c05af1a450"
+          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781542221-0-0-ee44fa66490102a8b7f5f7153880cf2a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781541921-0-0-551458769f5f4d3339f29d874ea1eb81"
+          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781542221-0-0-06139df0d8e3210a1c90dc200627f4f8"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781541921-0-0-0dae4fe8a9455f097c055c83033caaa2"
+          "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781542221-0-0-7cdbb0d6feaaedae07af6030ecb666e5"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781541921-0-0-d72851e369453b9f787abeeaac79cc63"
+          "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781542221-0-0-37550cc937cd72d198a49e78769303b9"
         }
       ]
     },
     {
       "id": "315004",
       "match_time": "1781539200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Spain",
       "home_img": "https://sta.vnres.co/file/common/20260608/58574cfda8794462efcd359c9993dd56.png",
       "away_name": "Cabo Verde",
       "away_img": "https://sta.vnres.co/file/common/20260610/b5b560b3a280831c8202e06182df369c.png",
       "league": "World Cup 2026",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=894465dff4c2179d7facc73405a7a3a9&txTime=6a30739d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=9a765783fa935d76d6e02e93c4603e0d&txTime=6a30739d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781542221-0-0-ccdf9ed904a7caae271feededf58b5c6"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781542221-0-0-68dba6cbad3707a918f9a59d7acb64db"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781542221-0-0-b61685a5171190f7a3bae5c4ea18ebb2"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781542221-0-0-30f567e32c7d9cf7dfed39ae6f833a2a"
+        }
+      ]
     },
     {
       "id": "315220",
