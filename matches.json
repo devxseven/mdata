@@ -3,13 +3,38 @@
     {
       "id": "315230",
       "match_time": "1781622000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "BFC Daugavpils",
       "home_img": "https://sta.vnres.co/file/common/20260613/f083964291812ef047cbcbc736abf71c.png",
       "away_name": "Super Nova",
       "away_img": "https://sta.vnres.co/file/common/20260613/d721783e2c489bb4fdbbbabdf64a39de.png",
       "league": "LAT D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781625021-0-0-07d3842d3a0eea43f1a72f1c28f499f9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781625021-0-0-e50f1bc415ec907d83eb3debae2b5177"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781625021-0-0-7afbe4aecb94a009ed9dc6f5f47ae3c2"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781625021-0-0-b32d75509cdaae5c17ddce3872037860"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781625021-0-0-2d08d632e0cb2433677f4aae6fadde7e"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781625021-0-0-b4f8d47efd74f85d12b831cdb88b7596"
+        }
+      ]
     },
     {
       "id": "315232",
