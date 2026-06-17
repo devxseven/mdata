@@ -3,13 +3,38 @@
     {
       "id": "315169",
       "match_time": "1781668800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Austria",
       "home_img": "https://sta.vnres.co/file/common/20260611/d54e1a31d2b3785375a943dad449c2b4.png",
       "away_name": "Jordan",
       "away_img": "https://sta.vnres.co/file/common/20260611/c78f53f91df67ca4a10fe4d49d631a25.png",
       "league": "World Cup 2026",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=db099c389a2b0c783ecde5ad124bf87d&txTime=6a326ddd"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=1b4e66a3ad5832e11961bf30ead2f4ac&txTime=6a326ddd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781671821-0-0-f41b9b676661841464bf97f3754e12d4"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781671821-0-0-73f82abcca77e4ae3e6ba0d395577c65"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781671821-0-0-04a0aebdcd9ec037706ecac1b75e1cc4"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781671821-0-0-5c4bc5dbd1d67bbc1e0db45cbd9ca23e"
+        }
+      ]
     },
     {
       "id": "315244",
