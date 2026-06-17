@@ -3,13 +3,38 @@
     {
       "id": "315045",
       "match_time": "1781688600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Canberra White Eagles",
       "home_img": "https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",
       "away_name": "Canberra FC",
       "away_img": "https://sta.vnres.co/file/common/20260609/708bad2744423af61850d1a2d8ec6bb0.png",
       "league": "AUS CGP",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781691621-0-0-dd7bdde337c89440a306fe1a7ec16109"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781691621-0-0-245d2951d7aa620706e360fa4993469a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781691621-0-0-e9058327c269d08944474c8ddc24ab8c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1781691621-0-0-d1b73ce409a5ab25c6a3784560de4269"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781691621-0-0-da929c65514128b3d94aa61f32e8ea33"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781691621-0-0-f1b3413b27f0428106fe7b3158c53374"
+        }
+      ]
     },
     {
       "id": "315245",
