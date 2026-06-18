@@ -3,13 +3,38 @@
     {
       "id": "315205",
       "match_time": "1781820000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Canada",
       "home_img": "https://sta.vnres.co/file/common/20260613/f3465caa70fc6873d0e3bc302424174a.png",
       "away_name": "Qatar",
       "away_img": "https://sta.vnres.co/file/common/20260613/1db665bf6411425be7dcfec980434e8f.png",
       "league": "World Cup 2026",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781823021-0-0-12a92a5ab2d115b33ea3efb7d0c21a1b"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781823021-0-0-b0214bcbf10734b42c409dee1fc034a8"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781823021-0-0-6f6baa59b76b735e952d0cb28de0e52c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781823021-0-0-ecf0a761d6f6dae28e51bfc938cbed1a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781823021-0-0-d037aecd0722c7bd104477e814f95531"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781823021-0-0-c473725d854931ab03fe116e4e0022bf"
+        }
+      ]
     },
     {
       "id": "315322",
