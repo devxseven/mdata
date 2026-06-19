@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781898321-0-0-ed3e126e99696bc327e0ee4f089d4b7c"
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781898621-0-0-9c99188851f48775547b6aa670d2f099"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781898321-0-0-beb85522e2f04e345ce94b7143874b9f"
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781898621-0-0-33466aedf6c6a57d4e9a2ae87e0fc9d3"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781898321-0-0-b55c77d7b0aa006dfe7b28b73558552c"
+          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781898621-0-0-4a32059ccd46302f37bc28e7c30b243c"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781898321-0-0-e3dc59676dd052d23088d46a86e949dc"
+          "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781898621-0-0-e9f8a40824e52a7535f8c6dd8f4c6e34"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781898321-0-0-c869df15c7e5668bf2a7c979cfea0c5d"
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781898621-0-0-f1622015617452bfab618aecdab470db"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781898321-0-0-7bc26b8634e4a3e8b072100260401674"
+          "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781898621-0-0-6d455256045cceb50e9f4247dbc8ea39"
         }
       ]
     },
     {
       "id": "315276",
       "match_time": "1781895600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "USA",
       "home_img": "https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",
       "away_name": "Australia",
       "away_img": "https://sta.vnres.co/file/common/20260614/51b03caa9879a354735ac05ec5088668.png",
       "league": "World Cup 2026",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=c2b3e8223aae7a8fbd4aca96fb0e95cc&txTime=6a35e3cd"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=15dc8f1b70d9c2e2fa9291e3cd6dbb26&txTime=6a35e3cd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=45699d44d07bae8a9396843089488199&txTime=6a35e3cd"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=d73dd0c31cd210b16a20bc09e8507f57&txTime=6a35e3cd"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=dab720c0f82b7aa4c1234e1972f9b0c7&txTime=6a35e3cd"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=9ad12ae58d400d864372d81c805c9853&txTime=6a35e3cd"
+        }
+      ]
     },
     {
       "id": "315277",
