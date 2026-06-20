@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781988321-0-0-d56135406f2968a1069dcd9df88f6437"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781988621-0-0-4360cf369798cf90e0929907cbb00c79"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781988321-0-0-194975dad80c5f03378445176fdd4456"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781988621-0-0-4f508d716e15242d8d7b88bc1aaa01ea"
         }
       ]
     },
@@ -32,32 +32,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781988321-0-0-f7b9dea996c50487b32cb8e712a26bfb"
+          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781988621-0-0-4d601a5aa9709a2e426a297bfc82e93e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781988321-0-0-3e3833e72240d39a08338d6cd0173129"
-        },
-        {
-          "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781976959-0-0-23fc71eff18b4720dcc95c960a546f16"
-        },
-        {
-          "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781976959-0-0-7c3b95fb1bd9deec6120b63a43078682"
+          "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781988621-0-0-add511617fbbf2e809eaf2c98c2f9119"
         }
       ]
     },
     {
       "id": "315281",
       "match_time": "1781985600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Germany",
       "home_img": "https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",
       "away_name": "Cote d'Ivoire",
       "away_img": "https://sta.vnres.co/file/common/20260614/79c6c479c084c6227ca68a98dabdb8ab.png",
       "league": "World Cup 2026",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=2d0d64d38f37b0bfcca2967742412cd1&txTime=6a37435d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=fa609c9637e8971f472b9fecb8e8989f&txTime=6a37435d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=5802ea6523fd0cc6bc34cc25687c3cc0&txTime=6a37435d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=dd0b34e7cee59d5bd3a523b78e768c74&txTime=6a37435d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=185f0865409f16ad64feca5b0635da1b&txTime=6a37435d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=1415a5e99d647ec6c54ca5a854805a96&txTime=6a37435d"
+        }
+      ]
     },
     {
       "id": "315434",
