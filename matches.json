@@ -1,170 +1,6 @@
 {
   "context": [
     {
-      "id": "315408",
-      "match_time": "1781955000",
-      "match_status": true,
-      "home_name": "Guangxi Hengchen",
-      "home_img": "https://sta.vnres.co/file/common/20260616/8df6a7bb22ab9e281e7443ccf911bb95.png",
-      "away_name": "Shandong Taishan",
-      "away_img": "https://sta.vnres.co/file/common/20260616/0bbafcf04515c60153222353ead735a6.png",
-      "league": "CHA FACup",
-      "links": [
-        {
-          "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=3b9b50d5906eaff36633de522b003c10&txTime=6a36e921"
-        },
-        {
-          "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=2a0c36df2b2818124c39c44fdac6bd67&txTime=6a36e921"
-        },
-        {
-          "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=47761a026b3e7a32bd72d9c6d5918476&txTime=6a36e81b"
-        },
-        {
-          "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=941255c8f01b95e16e9c0dd3c358d024&txTime=6a36e81b"
-        },
-        {
-          "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781965521-0-0-13077485a3ef050ea077766478f2dfde"
-        },
-        {
-          "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781965521-0-0-d5257b96d42f7f966d9176143de91ddd"
-        }
-      ]
-    },
-    {
-      "id": "315409",
-      "match_time": "1781955000",
-      "match_status": true,
-      "home_name": "Shanghai Zetian",
-      "home_img": "https://sta.vnres.co/file/common/20260616/e122c8946cebe071c22905b645c84c40.png",
-      "away_name": "Chengdu Rongcheng",
-      "away_img": "https://sta.vnres.co/file/common/20260616/7e74981c498f0de50d5dfc2c18b69063.png",
-      "league": "CHA FACup",
-      "links": [
-        {
-          "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781965521-0-0-92522b5f927b6321e5c34639c1d903f7"
-        },
-        {
-          "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781965521-0-0-1e5afa8233bcf5e849905f5c4213ba6f"
-        },
-        {
-          "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781965521-0-0-72d1787534427a1d92d691f958ff8865"
-        },
-        {
-          "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781965521-0-0-da5cafebf94b90219ab1322b63ef94f9"
-        },
-        {
-          "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781965521-0-0-2c9dd51232ecc24815beee037e0dd542"
-        },
-        {
-          "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781965521-0-0-dcbeceb6469ed6581a079d241be043ab"
-        }
-      ]
-    },
-    {
-      "id": "315410",
-      "match_time": "1781955000",
-      "match_status": true,
-      "home_name": "Shijiazhuang Gongfu",
-      "home_img": "https://sta.vnres.co/file/common/20260616/dadf7e2b1e9e1cff7d904c5aa603e8cf.png",
-      "away_name": "Shanghai Shenhua",
-      "away_img": "https://sta.vnres.co/file/common/20260616/07d567536884e126b972605d0f1fdea8.png",
-      "league": "CHA FACup",
-      "links": [
-        {
-          "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=10347e994b69a58920d2a22dfacb2e12&txTime=6a36e921"
-        },
-        {
-          "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=ddd802989c2a8e8ef5d4a289ef3a952f&txTime=6a36e921"
-        },
-        {
-          "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781965521-0-0-121ad230efbeb08f4aad38fe7a41e813"
-        },
-        {
-          "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781965521-0-0-770f054ad13a9ff7d5c0cbabbe39dfcc"
-        },
-        {
-          "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781965503-0-0-c8fde285683f59059f886807ecaa374b"
-        },
-        {
-          "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781965503-0-0-647ade8957fd125e5e5eee88cdcc94fb"
-        }
-      ]
-    },
-    {
-      "id": "315411",
-      "match_time": "1781955000",
-      "match_status": true,
-      "home_name": "FC Belshina Babruisk",
-      "home_img": "https://sta.vnres.co/file/common/20260616/cbb32cdff5cec2d35fc909daf917d826.png",
-      "away_name": "FC Torpedo Zhodino",
-      "away_img": "https://sta.vnres.co/file/common/20260616/40468d1bd57b778dd0a59e1d29e4d65c.png",
-      "league": "BLR PL",
-      "links": [
-        {
-          "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1781965527-0-0-947c39cfdc55fcded6532ef1a1d7638f"
-        },
-        {
-          "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1781965527-0-0-330f5dfcd402c125613f917d073c104a"
-        },
-        {
-          "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=b01f6bebcb331e809a6966391d40a5f9&txTime=6a36e921"
-        },
-        {
-          "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=691845c0cd908c909a3bb494f81428e1&txTime=6a36e921"
-        }
-      ]
-    },
-    {
-      "id": "315412",
-      "match_time": "1781955000",
-      "match_status": true,
-      "home_name": "Harju JK Laagri",
-      "home_img": "https://sta.vnres.co/file/common/20260616/f6ee2cdcfd5f39274714d15851c92943.png",
-      "away_name": "FC Nomme United",
-      "away_img": "https://sta.vnres.co/file/common/20260616/9fae53cb744ae8069d5bdf540cfaf76a.png",
-      "league": "EST D1",
-      "links": [
-        {
-          "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781965521-0-0-3b46bd4a48a1b27389af6586b149b488"
-        },
-        {
-          "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781965521-0-0-af32baaf0717ecd114aed756f516794f"
-        },
-        {
-          "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781965521-0-0-90b1b75d9ab401db24746ab9fe8e40c1"
-        },
-        {
-          "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1781965521-0-0-710439bbda57759404e10df2e3fdc0ae"
-        }
-      ]
-    },
-    {
       "id": "315489",
       "match_time": "1781956800",
       "match_status": true,
@@ -196,11 +32,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781965521-0-0-60565bad75e37769aa85abe0bddd3b5d"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781965821-0-0-971ef3d83d737a0f43e8dba6eb1a6464"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781965521-0-0-605a88a239fdf9dc9b5d79691d1a03ba"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781965821-0-0-fb0384b1cbb22337ff38e03eb242d014"
         }
       ]
     },
@@ -216,27 +52,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781965521-0-0-22b1db612e780c7b068b050a838b93a6"
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781965821-0-0-f297e57138a86d7a17f4aa4e96bb9f60"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781965521-0-0-421b74f59f357762524896faec942205"
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781965821-0-0-cd44412b13d03f49419d3285ccdbc73a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=5a69153d754b7f3df7cffd67fc2321eb&txTime=6a36e921"
+          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=676d039f37d345913c49c263d4af2e84&txTime=6a36ea4d"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=9a71db47e63d1b4a0674c2ae7f624c2e&txTime=6a36e921"
+          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=45c935bfa941494f7571ce94910ddcd5&txTime=6a36ea4d"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781965521-0-0-57e61b99fbe86e8823d27ec5efae64cc"
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781965821-0-0-da4a2d035b0930dd96340e0c17d748fd"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781965521-0-0-7c83ba84b1c0da61c8bcfd75615b33b7"
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781965821-0-0-464934d1f050da99af3cf193102818e3"
         }
       ]
     },
@@ -252,27 +88,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781965521-0-0-cc257e71decbbeb3ab718c57c56726d6"
+          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781965821-0-0-3145d7cc5ac8aabc752e3542e414956e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781965521-0-0-c06911913eb310bb127083a37fa5865a"
+          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781965821-0-0-d90d4150eacaa04cfcc49fcca3a930f5"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781965521-0-0-7c7c3756875897603508270116a86200"
+          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781965821-0-0-2b96ae535a8adf9fe7d7f65135fc3eaa"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781965521-0-0-e6575f278fb14a1132b32827bccb8661"
+          "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781965821-0-0-37027e99adc1667bf22bc57166d97180"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781965521-0-0-d579b6bfe98836525ce11fc2ff8dc69d"
+          "url": "https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781965821-0-0-a180ac330172a18d42a4223257c54368"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781965521-0-0-55dada90658c224c0e4a9e0d8d8f1f7b"
+          "url": "https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781965821-0-0-9ee7289c4b42c98eb4b39ee0eecf9208"
         }
       ]
     },
@@ -288,27 +124,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=d288768e6f47c4550022dd29f13bd79d&txTime=6a36e921"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=c01e3c25b840913c70c6a49fdfc7d26a&txTime=6a36ea4d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=c2c6ac1e89e552885a5456a85a32f003&txTime=6a36e921"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=ef1a1e1a6cb3d51ba7784c6674993450&txTime=6a36ea4d"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781965521-0-0-84601ce3885d8270e4ba512200700acd"
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781965821-0-0-a92184e81493339b3f93a58624184140"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781965521-0-0-63bab9db433d8c76064c182f4e2e8ce6"
+          "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781965821-0-0-2d7f0355c2f2196080261e5148e93bea"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=b7eab38044899444a055bfdb309db27f&txTime=6a36e921"
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=59d578aaefe6d31ca7d2ba06639d7abf&txTime=6a36ea4d"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=5b2ea6e2ee3c33f798fecc3de791a663&txTime=6a36e921"
+          "url": "https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=9ea5cbe55ea081c9f6a74fb7ac5d36eb&txTime=6a36ea4d"
         }
       ]
     },
@@ -324,27 +160,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781965521-0-0-554bbaf4fee0aaf2a33025086fed742b"
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781965821-0-0-e579b9e9a817f802bafca2a98ab1728c"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781965521-0-0-8716255897ece76acfb18a7e9a58a834"
+          "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781965821-0-0-9850d2d6286d5122f53f9d7aba84f63c"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=f97157872cdfa4529c044f74f7046db3&txTime=6a36e921"
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=75eec0f180f2e41e5950657b0195ec43&txTime=6a36ea4d"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=b58a2708cd7e22fa86319e16b1f5f34f&txTime=6a36e921"
+          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=560178609b88972b6d4528b32b6849e0&txTime=6a36ea4d"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781965521-0-0-70bd16d5f59085416f668d9b7d318e8f"
+          "url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781965821-0-0-f66dca2386b4124dd76713bf8e8b11f0"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781965521-0-0-977b1c8dd6b0463b25f6770a779f64d4"
+          "url": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781965821-0-0-8261926cb0cb22a7ff66db01ecd1905b"
         }
       ]
     },
