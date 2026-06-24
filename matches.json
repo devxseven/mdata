@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-527384_lhd.m3u8?txSecret=2dcb368054fa2156393a248d818eae2d&txTime=6a3cb262"
+          "url": "https://pull.niur.live/live/stream-527384_lhd.m3u8?txSecret=210237666dac14419c2f92b39e6ff7d3&txTime=6a3cb38e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-527384_lsd.m3u8?txSecret=802dd5b962a04fe1752b8970d0b3f00b&txTime=6a3cb262"
+          "url": "https://pull.niur.live/live/stream-527384_lsd.m3u8?txSecret=d3960b9468b3b0bcd85478143eb848a1&txTime=6a3cb38e"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=8d61e4c94905500fb288d6adc47a1701&txTime=6a3cb262"
+          "url": "https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=bf631f92581846d7fc9b63aed8c808df&txTime=6a3cb38e"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=58a9eefa2b91af4b0d1e2920e91cdf67&txTime=6a3cb262"
+          "url": "https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=99a737c140376366b9d678f3257951f2&txTime=6a3cb38e"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=d0fa78f0bb197cba18d1ff15494ae3c0&txTime=6a3cb262"
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=5daefceb7b32ff6aa7bcce2856a20f16&txTime=6a3cb38e"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=b8ec5e10f63e4a23c535ab2a9c5b3800&txTime=6a3cb262"
+          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=8f20fa6428b085ba70e52283918dcc6a&txTime=6a3cb38e"
         }
       ]
     },
@@ -48,51 +48,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=800f411abf68474d5e71566d2740482e&txTime=6a3cb262"
+          "url": "https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=6405e80d2ebb3efa5d857d2034b96054&txTime=6a3cb38e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=c77577fcbac16df70caf29be0f4dbffe&txTime=6a3cb262"
+          "url": "https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=6ec6ef7a522748118ba4907404d165c2&txTime=6a3cb38e"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782344722-0-0-0ea942f447b0615cb414a654b545ab63"
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782345022-0-0-39a142c779372ab1896728d080398b67"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782344722-0-0-62a4365fed553657eff2270da7d14045"
+          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782345022-0-0-2fcb883166f462f16497091e62199e58"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=bcd5ce89137a2cdd88a176eb3bc9d5a6&txTime=6a3cb262"
+          "url": "https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=a7976168380c4b6ec64b882080a9da4c&txTime=6a3cb38e"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=a9494eb04fda272beeea962ec1fd3f0d&txTime=6a3cb262"
+          "url": "https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=85c6b49569a8f688b869dfd1be595052&txTime=6a3cb38e"
         }
       ]
     },
     {
       "id": "315606",
       "match_time": "1782342000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Charleston Battery",
       "home_img": "https://sta.vnres.co/file/common/20260621/e8c2bd1f0b1286be80355185e4c2928c.png",
       "away_name": "Loudoun United",
       "away_img": "https://sta.vnres.co/file/common/20260621/10d0aa0083bd901cb164a28d29e95637.png",
       "league": "USLC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=b1d594e62ea1356ba2cfdff99cae5692&txTime=6a3cb38e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=130cc0f4e43c173abfe764e6851ae46f&txTime=6a3cb38e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=d38acfef7a398caf53759fe7ca9727a9&txTime=6a3cb38e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=308fcae89dab78b16fc143d00911c951&txTime=6a3cb38e"
+        }
+      ]
     },
     {
       "id": "315607",
       "match_time": "1782342000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Miami FC",
       "home_img": "https://sta.vnres.co/file/common/20260621/9720f4cc425016204b5ac75e2ca0392f.png",
       "away_name": "Orange County SC",
       "away_img": "https://sta.vnres.co/file/common/20260621/bd221975f8175936e726e031a18ce608.png",
       "league": "USLC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782345022-0-0-43fa4b454466454b62daa5c37ae601ca"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782345022-0-0-dc6773c18b7b35811321c076a88be5c4"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782345022-0-0-ead0738793c64156941191b388b19be5"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782345022-0-0-e3e33f70a6aabe7dcd2d309c32e36689"
+        }
+      ]
     },
     {
       "id": "315643",
