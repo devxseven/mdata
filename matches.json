@@ -3,13 +3,38 @@
     {
       "id": "315681",
       "match_time": "1782509400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "HFX Wanderers FC",
       "home_img": "https://sta.vnres.co/file/common/20260623/a879052b56465cf8f61db50ba6385964.jpg",
       "away_name": "Pacific FC",
       "away_img": "https://sta.vnres.co/file/common/20260623/ca5790fabd5f5c8fd504afe605f49740.jpg",
       "league": "CAN CPL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=71447c429d41c4810fdae49f558535f4&txTime=6a3f4176"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=566bae6f670e08bd4e7abb38272dd192&txTime=6a3f4176"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=60ab31ebbaafe41d1c7c4fef1e02588d&txTime=6a3f4176"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=1bc905cf6a5b43d68b129a63dbfb7cb1&txTime=6a3f4176"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782512422-0-0-cadf078e1014181132e7feb3b24befba"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782512422-0-0-88a38df970bc1054bc147201719d4fd8"
+        }
+      ]
     },
     {
       "id": "315682",
