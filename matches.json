@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782614722-0-0-c1313763013428070b2b4be3fe25c720"
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782615022-0-0-55525533cc75428cbd4a66669f0d10b8"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782614722-0-0-4182acd43d162cc736ed64f37f387e1b"
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782615022-0-0-e75a4c7ef8515c492403901ab4422cca"
         }
       ]
     },
@@ -32,35 +32,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782614722-0-0-6635b06093e58741d291f5064e4e68cc"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782615022-0-0-8468f33647982b445c656a978f8297e7"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782614722-0-0-54d1dbc84f3d8f36f126134518929fcd"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782615022-0-0-c3c43a8549d7f182ea3350ee3cb5dd71"
         }
       ]
     },
     {
       "id": "315599",
       "match_time": "1782612000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Algeria",
       "home_img": "https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",
       "away_name": "Austria",
       "away_img": "https://sta.vnres.co/file/common/20260621/66277f1c58cbe86e313e2ace7ee595ac.png",
       "league": "World Cup 2026",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782615022-0-0-443886d9df2e30220838187c366c3aaa"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782615022-0-0-9885c8741b7af3515870fce0893634da"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782615022-0-0-a0edf08a8dc99b1d3e816965a89210f1"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782615022-0-0-6e359117ed1289c2ba6b9fbdd2c87961"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=b2696e45a2c66b0b8bf96fb7758786ec&txTime=6a40d23e"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=ea8d63835b0e4789ea1fcfbc9baf4c1f&txTime=6a40d23e"
+        }
+      ]
     },
     {
       "id": "315600",
       "match_time": "1782612000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Jordan",
       "home_img": "https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",
       "away_name": "Argentina",
       "away_img": "https://sta.vnres.co/file/common/20260621/4a3e67799bc357dd556252666538fa19.png",
       "league": "World Cup 2026",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782615022-0-0-0438ce671f8022018720cc59663f37b3"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782615022-0-0-44dc5be1548fa8e8b37c3963a1062e91"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782615022-0-0-223c55c10d80e561558252f14af65d05"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782615022-0-0-82cdf4405e2316ee192a565a0e3903b5"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=fb716d3c7ae8811f9d5ced66a97afad7&txTime=6a40d243"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=cc213c55adf1bc22ddb1e80498e281f5&txTime=6a40d243"
+        }
+      ]
     },
     {
       "id": "315827",
