@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=dbd8e468aec59a508b49ce3683f74f47&txTime=6a4311a2"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=c2e67287b5af12ebeb68eadf85195644&txTime=6a4312ce"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=f39a3a231ac76259b13d48db9755938d&txTime=6a4311a2"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=1680f2823da66573c28ecf7344cb89ca&txTime=6a4312ce"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=38ef01530b3bc2a158b54fb076dcb86c&txTime=6a4311a2"
+          "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=717925860729e6a66d60e389c39f6a05&txTime=6a4312ce"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=3b87bd054a10e4d23317de88e6e02571&txTime=6a4311a2"
+          "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=7feec281f5ec88fa717fd2d2449b6cf8&txTime=6a4312ce"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=99c81fd71c7da78104981a8993de367b&txTime=6a4311a2"
+          "url": "https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=d7b4a50a7ca4ff6ed27d85d68e416c6f&txTime=6a4312ce"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=9e6869061d4bf91caafbb34dde3e4ba4&txTime=6a4311a2"
+          "url": "https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=aeacc831c09bc9a5c19631fd9572b34c&txTime=6a4312ce"
         }
       ]
     },
@@ -48,40 +48,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=af3ff9eeff353ed08f94987e25bedd4c&txTime=6a4311a2"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=dde7ea6ea5872e2165346f0f1ee46654&txTime=6a4312ce"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=f75203a034d85b5b618f7da0cf1b6787&txTime=6a4311a2"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=59acc21d4aad2aa7b49b0c93f304dc75&txTime=6a4312ce"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1782762322-0-0-f20dabd7ca46c492d3bdc7293dc5dadb"
+          "url": "https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1782762622-0-0-ca2cc8d7cc5902d800dc39d00e9b28ac"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1782762322-0-0-969ea763e83445f9f5e1428d0cc608f7"
+          "url": "https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1782762622-0-0-e5db0453c47f212b1ef70269ba23141a"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1782762322-0-0-eb03df0a9d48f356bf04fff738713a60"
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1782762622-0-0-d9de84dfc7761c40d915d6c4b1e21fbb"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782762322-0-0-218d3b4070cf321a58ceb241c12d3402"
+          "url": "https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782762622-0-0-62151349661436cf98a6a1ef74185970"
         }
       ]
     },
     {
       "id": "315842",
       "match_time": "1782759600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Croatia U19",
       "home_img": "https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png",
       "away_name": "Ukraine U19",
       "away_img": "https://sta.vnres.co/file/common/20260626/5cc59f00ab98c0cf6a9a36073a7e2f4e.png",
       "league": "UEFA U19",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782762622-0-0-478f93e4eb5bfef32f1a4fb3a196e098"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782762622-0-0-0d66fe493ff507ac715a150ef08dfa9b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782762622-0-0-cc151278fa9dc9eed8393169a2821d09"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782762622-0-0-ecc35733e35894cb63fa2c8884575f28"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1782762622-0-0-d3f72b83d7d774202dea38e89ef2c628"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782762622-0-0-93ef7faea8756ff06ea07cf9d6cc7f54"
+        }
+      ]
     },
     {
       "id": "315843",
