@@ -3,13 +3,22 @@
     {
       "id": "315891",
       "match_time": "1782829800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Venezuela U17",
       "home_img": "https://sta.vnres.co/file/common/20260628/ff55863c92d1372aa87dcec165e3191a.png",
       "away_name": "Australia U17",
       "away_img": "https://sta.vnres.co/file/common/20260628/d9a8ebc69673415fd35f0e0cc950b017.png",
       "league": "FIBA U17",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782832822-0-0-db7afa8400e0d49e4e7f95335197babc"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782832822-0-0-e104b1e394dce42e88d9486af97de7b3"
+        }
+      ]
     },
     {
       "id": "315851",
