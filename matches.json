@@ -3,13 +3,38 @@
     {
       "id": "315739",
       "match_time": "1782853200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "France",
       "home_img": "https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",
       "away_name": "Sweden",
       "away_img": "https://sta.vnres.co/file/common/20260627/e5efa9e5ac29e61e7f3ce0f3951d2d7e.png",
       "league": "World Cup 2026",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782856222-0-0-cde82dbd0735bd1dfa1be99d981e5eba"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782856222-0-0-b931df6d0e3f0e0a74c80569b9b0dd80"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782856222-0-0-f0f837529607a7e868ef39d98f9b9f6d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782856222-0-0-2e25aee5a999368e11e2306bdde0ef46"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=fd2690888f342471858686f9d25c520a&txTime=6a44806e"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=c3ac5301b9f83ec8819f54ea67111576&txTime=6a44806e"
+        }
+      ]
     },
     {
       "id": "315869",
