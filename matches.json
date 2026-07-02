@@ -3,13 +3,38 @@
     {
       "id": "315928",
       "match_time": "1783029600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Huachipato",
       "home_img": "https://sta.vnres.co/file/common/20260629/6db76d1095cf01f0f7047e0b7b8a6bac.png",
       "away_name": "D. Concepcion",
       "away_img": "https://sta.vnres.co/file/common/20260629/cf9f936a0bd3e21678f80df6b883afef.png",
       "league": "CHI Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=a7cb107fa7f520f5ef97985deea01105&txTime=6a47317f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-606448_lsd.m3u8?txSecret=ccee93aa75f97b04fc2528891eb30161&txTime=6a47317f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1783032623-0-0-3d02fd5b1084314b832186b16cb984e4"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1783032623-0-0-a1a2ec082877f53f35c0c8f231a4094a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1783032623-0-0-d8161b6617a7c179d27792ea406765db"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1783032623-0-0-be6b4a9485e928b4ce4bab72dfda08ce"
+        }
+      ]
     },
     {
       "id": "315837",
