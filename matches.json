@@ -12,65 +12,133 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782996323-0-0-7248c9422dee75fdedc7118d9f9d3fc7"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782996623-0-0-f0658677caf478471c27342202c238c8"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782996323-0-0-5222392f4dec74138207950afe61cf0a"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782996623-0-0-a4b0696858839c3d6c36f43ccbfbc85f"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782996323-0-0-fbb616a2d28a6d1f29b21beddd998561"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782996623-0-0-a2d8e3d6450d5266638a69355884c214"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782996323-0-0-11a3a71b955d566d4f38b804d6e9357d"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782996623-0-0-0b4df8dd96bb86d651c8ca1894721576"
         }
       ]
     },
     {
       "id": "315904",
       "match_time": "1782993600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Akademiya Ontustik",
       "home_img": "https://sta.vnres.co/file/common/20260628/400313e56fa789c9516ceaae2b9e627d.png",
       "away_name": "FC Shakhtyor Karagandy",
       "away_img": "https://sta.vnres.co/file/common/20260628/c3bb6a533093d3a4c3e16c9497c1c1e4.png",
       "league": "KAZ D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=beb52ff1156a9cdf10b07d529f839cbb&txTime=6a46a4df"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=863807469303365e1a8ab7df566a7939&txTime=6a46a4df"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782996623-0-0-07567b7637e6d39ebd33b265a99056b9"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1782996623-0-0-6412f08de68c3dc63b12be41b0b6c841"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782996623-0-0-49f5d69f45b7ed3b49462d21b1463007"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782996623-0-0-119cb2d9460f7c813a3339ef9898133a"
+        }
+      ]
     },
     {
       "id": "315905",
       "match_time": "1782993600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Transport United FC",
       "home_img": "https://sta.vnres.co/file/common/20260628/7ecd13a378c0fbbbf89cc67bc49c18ba.png",
       "away_name": "Drukpa FC",
       "away_img": "https://sta.vnres.co/file/common/20260628/949214416f3d6475e1e792b0041b3ffd.png",
       "league": "BTN PL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782996623-0-0-f54e2a751cedda9c93fc05aba4952e49"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782996623-0-0-66015fedde72ce1df77b8bf1f4a492b5"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=a7dde102b027f878dc785f26dfbdef3a&txTime=6a46a4df"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=cd8825792559ad05ebffc206d7420e83&txTime=6a46a4df"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782996623-0-0-73988d3f5bd8318c4e844d1f48a22bd0"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782996623-0-0-7f2ae65acc29be1c23359ee6a1f4fdb2"
+        }
+      ]
     },
     {
       "id": "315958",
       "match_time": "1782993600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Tunisia",
       "home_img": "https://sta.vnres.co/file/common/20260630/fc922d230cc5507f56e1913602bc9a8c.png",
       "away_name": "Nigeria",
       "away_img": "https://sta.vnres.co/file/common/20260630/23735fd509507f72719d4bfc58c21230.png",
       "league": "World Cup qualification (CAF)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782996623-0-0-da9c34bfd0d50589d161cd25e5d87856"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782996623-0-0-bc139e51e6bf02d4174a98239dc28d66"
+        }
+      ]
     },
     {
       "id": "315959",
       "match_time": "1782993600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Batangas City",
       "home_img": "https://sta.vnres.co/file/common/20260630/0673e492aa1543cf7f96f67b08fc3787.png",
       "away_name": "Meycauayan",
       "away_img": "https://sta.vnres.co/file/common/20260630/b388d9de4a93c806cbbb34911a7fb91c.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782996623-0-0-f0658677caf478471c27342202c238c8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782996623-0-0-a4b0696858839c3d6c36f43ccbfbc85f"
+        }
+      ]
     },
     {
       "id": "315906",
