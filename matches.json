@@ -3,13 +3,38 @@
     {
       "id": "316037",
       "match_time": "1783062000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "New Zealand",
       "home_img": "https://sta.vnres.co/file/common/20260701/2ce3e3b63bc86893a777426568f9d9d9.jpg",
       "away_name": "Philippines",
       "away_img": "https://sta.vnres.co/file/common/20260701/bb31239a765c0ffa1913e45d405d7686.png",
       "league": "FIBA WCQL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1783065023-0-0-58b3aaef0b3f7a948220dfedaf80df8a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1783065023-0-0-2b1f13b74e91165f8f883979c0a356ef"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783065023-0-0-7284fc2aee9eaf274c382492b99e134e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1783065023-0-0-79872f96c1d1ef8a24a0aa90fe76eb30"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783065023-0-0-ecb0cde6383befa54d19acb33596960a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1783065023-0-0-877e90297f216cc8c6806494633e2b1a"
+        }
+      ]
     },
     {
       "id": "316038",
