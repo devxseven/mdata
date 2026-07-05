@@ -3,24 +3,66 @@
     {
       "id": "316091",
       "match_time": "1783242000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Ha Noi Women",
       "home_img": "https://sta.vnres.co/file/common/20260702/5eac2b5762e11375ba666ce375108e8d.png",
       "away_name": "Phong Phu Ha Nam Women",
       "away_img": "https://sta.vnres.co/file/common/20260702/9d29584d3d7ed2102fdc643b6fc362e1.png",
       "league": "VIE WD1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1783245023-0-0-31edefef7e88e2373d530c1ef31cb469"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1783245023-0-0-9188f840600f66de0016d4969f4e5cd2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=4f00eeaf5f317830c48de7b37e34a6f6&txTime=6a4a6f2f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=7d81f26d4e8c55ca662eb2986ad9efec&txTime=6a4a6f2f"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1783245023-0-0-5c10cb9ea988547f3854667f0a6335bf"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1783245023-0-0-ce69b4086f447eb79f7860dbac222c8a"
+        }
+      ]
     },
     {
       "id": "316146",
       "match_time": "1783242000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Rwanda",
       "home_img": "https://sta.vnres.co/file/common/20260703/4e603c28da1c2377ca4845c261d8bc7e.jpg",
       "away_name": "Nigeria",
       "away_img": "https://sta.vnres.co/file/common/20260703/887128605e08838d608042153bca46ae.png",
       "league": "World Cup qualification (CAF)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783245023-0-0-e35320508e3f2f6616c71456334bd2d6"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1783245023-0-0-c4cdaa8ccf9cf40fd4462a0ecd8faf3e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783245023-0-0-d840a1b0f1b7c5e9d40eb65bda3b1162"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1783245023-0-0-e7710272dff0ee72e06cb6b87d43b301"
+        }
+      ]
     },
     {
       "id": "316093",
