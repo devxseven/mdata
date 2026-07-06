@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783302323-0-0-53f84014997481fd2ce77f4ddb9bbb6f"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783302533-0-0-571f6f299cb5e6b66b16be6bb9f18768"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1783302323-0-0-a07a0d9b5be89ea655370d94a9b20560"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1783302533-0-0-a541e3d650eb6dd71fcc445c2cf9fe17"
         }
       ]
     },
@@ -32,11 +32,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1783302323-0-0-576488ba3d18575ba24f7908a52b03b8"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1783302623-0-0-016cd68a75cbad67daac0b89655f474d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1783302323-0-0-b280b0c3bcbc837ead21ba0304b0fe96"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1783302623-0-0-6192599a96f2de42a9c02b3e2b3d5eff"
         }
       ]
     },
@@ -52,32 +52,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1783302323-0-0-0c2388a8153609091577c61e0e4a676c"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1783302623-0-0-84f1e1e66a0258676c91fed1bb7a1729"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1783302323-0-0-e9a246670b5b4ef840ae58ba61ff9362"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1783302623-0-0-f5854f8d17e22105ef1e34aebc0d8b27"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783302323-0-0-696b43d87d545b5247d4e57406e28038"
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783302623-0-0-3ff2eedf194e9a40158579d68edb9853"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1783302323-0-0-8c1c5785f32031255335b4e32bf3050e"
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1783302623-0-0-aea9e0a8a406e7926966e9f39c647616"
         }
       ]
     },
     {
       "id": "315965",
       "match_time": "1783299600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Mexico",
       "home_img": "https://sta.vnres.co/file/common/20260702/1b74c8e3508dfcd8fb51b1fa0e66a0d6.png",
       "away_name": "England",
       "away_img": "https://sta.vnres.co/file/common/20260702/2d83682a4b799111a5e79582b1446b27.png",
       "league": "World Cup 2026",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=924665e79339fb43a93add9471614c2d&txTime=6a4b502f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=f120d033180b0d527b924367b8081900&txTime=6a4b502f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783302623-0-0-67ba3e49e98a6c8d3659577eb915b040"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1783302623-0-0-cb212dce6378884dd361003f3ed8439e"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1783302623-0-0-ef08049e9435c7c7937d8a68970be38d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1783302623-0-0-52e21f43461d7f7ae7247e0bc4a96bff"
+        }
+      ]
     },
     {
       "id": "316136",
