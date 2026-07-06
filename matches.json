@@ -3,13 +3,30 @@
     {
       "id": "316179",
       "match_time": "1783350000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Czech Republic",
       "home_img": "https://sta.vnres.co/file/common/20260704/fb9dd1dfa702756eb033559206657e8d.png",
       "away_name": "Estonia",
       "away_img": "https://sta.vnres.co/file/common/20260704/7a7f9770b1718842cfe3f3c7f34144bf.png",
       "league": "World Cup qualification (UEFA)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1783353023-0-0-05852929fee0544976de4434e08bef2e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1783353023-0-0-607297710e86e77f71c58b0705f0d077"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1783353023-0-0-599a73b2aed780cbd3a462933a312071"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1783353023-0-0-8e34771501191376c1e33a93978773a3"
+        }
+      ]
     },
     {
       "id": "316140",
