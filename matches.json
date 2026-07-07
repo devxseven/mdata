@@ -3,13 +3,38 @@
     {
       "id": "316216",
       "match_time": "1783411200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Basilan Steel",
       "home_img": "https://sta.vnres.co/file/common/20260705/08eacb3202a2738ad27847f2562288fc.png",
       "away_name": "Marikina Shoemasters",
       "away_img": "https://sta.vnres.co/file/common/20260705/5905ae814a7f9d0d60b5b4ccb9724978.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1783414223-0-0-e8ef8adf59e550d974eb8735160e827e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1783414223-0-0-958fa2173718c4cdb57e53ca2c41c773"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783414223-0-0-21ea5ac9468e030d31c46c76cc3a47d0"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1783414223-0-0-82d5919a9d4ebdf759f42c31cd908512"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783414223-0-0-1ebc042cf8dbfa3c3b3bccf6092c002b"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1783414223-0-0-d52b42bcfbbd213948e5981493c9d425"
+        }
+      ]
     },
     {
       "id": "311580",
