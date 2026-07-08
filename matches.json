@@ -3,13 +3,38 @@
     {
       "id": "316227",
       "match_time": "1783549800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Dep. Santo Domingo",
       "home_img": "https://sta.vnres.co/file/common/20260705/58651124c7a3d21c51b20500b8e03169.png",
       "away_name": "Independiente del Valle",
       "away_img": "https://sta.vnres.co/file/common/20260705/e0794b88f56ad36ed24273054690a2cd.png",
       "league": "ECU Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=f9a71feed673c5e5b032fe49280195e1&txTime=6a4f2187"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=e7e5e690e7d98f9ce0582bc09f33e428&txTime=6a4f2187"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1783552823-0-0-299f04c569d038f6c4de3cbb00923018"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1783552823-0-0-8dd8ded8394967b15e762cee16c9c244"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=0fce9aa4712933480f1624be49e92f74&txTime=6a4f2187"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=431e4d11d60d3b06046e812d7d7527b5&txTime=6a4f2187"
+        }
+      ]
     },
     {
       "id": "316228",
