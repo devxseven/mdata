@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1783518323-0-0-86931fe9200af00256c5a114dc4233e6"
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1783518623-0-0-0dfc39c83be393078d790be9e334bd63"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1783518323-0-0-760c92273635f24f77a89d3d435e0ce6"
+          "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1783518623-0-0-921b3d642f035543583c920842814751"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=0e8f0826c7136f95691f4cdd4a3322cb&txTime=6a4e9ac3"
+          "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=457a47cfe4491af5fecb4154ccc41f1d&txTime=6a4e9bef"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=fd8899ff16630c2a9d31830ea1b0ce07&txTime=6a4e9ac3"
+          "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=23710f32b9fdce3827eca4b3e5228237&txTime=6a4e9bef"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=e38b37b8c3ff3baedf3bb712c9b78b3e&txTime=6a4e9ac3"
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=91fd22477abcbb05e1a22c015f85bb10&txTime=6a4e9bef"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=88cc4bf4bd30cb83770e3b099641a6e9&txTime=6a4e9ac3"
+          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=b4614b6303aadfce2a38c7b70213d1c1&txTime=6a4e9bef"
         }
       ]
     },
     {
       "id": "316257",
       "match_time": "1783515600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Denmark U19",
       "home_img": "https://sta.vnres.co/file/common/20260706/87ac337ec18bdac90f47c7adaab11948.png",
       "away_name": "Italy U19",
       "away_img": "https://sta.vnres.co/file/common/20260706/388bfc1ab9c794972eeccc11ae790a40.png",
       "league": "UEFA U19",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1783518623-0-0-6d009b233210d76e356989d5d0b9e741"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1783518623-0-0-3d9b439089a3f153f3a31ef187b370bd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1783443508-0-0-d1a2202942fd9ff6f4a283442e15ef89"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1783443508-0-0-bb81dde263a3867bfb89a16d60e82ffe"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1783518623-0-0-1afc9a1f228c4c97564995587b4d7db7"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1783518623-0-0-8a8b57d98c43c68551a213cd159779f8"
+        }
+      ]
     },
     {
       "id": "316206",
