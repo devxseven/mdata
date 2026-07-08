@@ -3,13 +3,38 @@
     {
       "id": "316225",
       "match_time": "1783548000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Real Oruro",
       "home_img": "https://sta.vnres.co/file/common/20260705/270ca001eb1ad13659497b4b77d72f6d.png",
       "away_name": "Universitario De Vinto",
       "away_img": "https://sta.vnres.co/file/common/20260705/49b5ddf2194638bbe77920b6c3fb7c99.png",
       "league": "BOL D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1783551023-0-0-aa42f890620bf9cb3c0ab37af3e91be1"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1783551023-0-0-a8e65394da3cc0350fb38e0c5b007f48"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1783551023-0-0-d9d78a83875724aabe06119e21099412"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1783551023-0-0-e3ed2ca0488d1e7a43e2ee0f79133ef6"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=e2abe45dd8b8f52b0079e61f030c61f3&txTime=6a4f1a7f"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=ae542f9066cbfa1fb711695176703d43&txTime=6a4f1a7f"
+        }
+      ]
     },
     {
       "id": "316227",
