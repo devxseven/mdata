@@ -3,13 +3,38 @@
     {
       "id": "316312",
       "match_time": "1783580400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Canterbury Rams",
       "home_img": "https://sta.vnres.co/file/common/20260707/f20887bef48721c3f39592aba6fae1b8.png",
       "away_name": "Taranaki Airs",
       "away_img": "https://sta.vnres.co/file/common/20260707/adfd1fc5351aabfbb3b11f8e13607681.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1783583423-0-0-4032ffc7fa5f810d8a4d70530e18afcb"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1783583423-0-0-9807c27e0e16b5d2a228b01fcbc6d21e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1783583423-0-0-b6e68847d890499f625598dd4a0936b2"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1783583423-0-0-ef3321b8176adfb7ba3e812f3c1693b2"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783583423-0-0-a553a5ea7c31eb29214c2980db16bcac"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1783583423-0-0-898d88f727dac4f5fa459988e903e299"
+        }
+      ]
     },
     {
       "id": "316259",
