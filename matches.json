@@ -3,13 +3,38 @@
     {
       "id": "316640",
       "match_time": "1784064600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Macara",
       "home_img": "https://sta.vnres.co/file/common/20260713/887130986028d1f74566f9693f1f68e2.png",
       "away_name": "Mushuc Runa",
       "away_img": "https://sta.vnres.co/file/common/20260713/4ac292820dbc761c1cf0b8c8acdf06b9.png",
       "league": "ECU D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1784067624-0-0-1e36b137f2da94b6553b5feb1a5f4a01"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1784067624-0-0-c673d3490b2c3f9166c6b981f712c418"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1784067624-0-0-8549448050cae89d31ebdd4781b31d8d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1784067624-0-0-e66c4e6432d641126039355243c8ce05"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1784067624-0-0-8212dd2fe75ea89a9e4850546bd3aeaf"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1784067624-0-0-3ff3b8acc250add6f6b59676ca10d71d"
+        }
+      ]
     },
     {
       "id": "316545",
