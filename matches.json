@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1784047524-0-0-df81085c848e95088d2de3c56bc94785"
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1784047824-0-0-f949064ff196d42c3971c43bb5aea320"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1784047524-0-0-ce77c25e1c50d9a1e167ebaa39d1edde"
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1784047824-0-0-d9ee7b53e8dc7c618d558ff83f2530cf"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784047524-0-0-af3c9eac82ebc7f23b1633de8ac9db05"
+          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784047824-0-0-b3815c5e95d38fce3c31966d94452a23"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1784047524-0-0-1b9c38a0da3564c25a2686fa728e0559"
+          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1784047824-0-0-318b99e16b42fb8cba10359e8a0f6097"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1784047524-0-0-03f64b9a66833c147dd80e9499dab63b"
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1784047824-0-0-a4e477fd82a908dd97c8b9ec66f8439b"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1784047524-0-0-1a1e522cefa00e05ba5a1e05d1197bab"
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1784047824-0-0-fb037e3353fe1cf98377038f249b746e"
         }
       ]
     },
@@ -48,35 +48,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784047524-0-0-e8d79b0a4ad92db19a4f7ec9ee0476fc"
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784047824-0-0-4370f740de8dd6e5d1368ac6c4c496d1"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1784047524-0-0-997fd820ebc491db6d46a93912edbcb9"
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1784047824-0-0-8d280a92baa75df891e136cf3f168483"
         }
       ]
     },
     {
       "id": "316533",
       "match_time": "1784044800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC Iberia 1999 Tbilisi",
       "home_img": "https://sta.vnres.co/file/common/20260711/1352ea1122a456e33bd82a977844ae40.png",
       "away_name": "FC Flora Tallinn",
       "away_img": "https://sta.vnres.co/file/common/20260711/1dd973f3803b8a0bdb617c6124c05bae.png",
       "league": "UEFA Champions League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1784047824-0-0-0dea3892999f9bd4c68b4b32e6aaf3f4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-620003_lsd.m3u8?auth_key=1784047824-0-0-e03a894e5cd336bdd0b8dc3ff00ccd59"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1784047824-0-0-da9726bff3d269541de9602fa0fa30ad"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1784047824-0-0-4501a7d50e67e0ca903e6faf2a5fc197"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=7df4a16c3e7418ce8ee5911da5871d8c&txTime=6a56af20"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=2615237a42bf53b057ece20d3747d60b&txTime=6a56af20"
+        }
+      ]
     },
     {
       "id": "316534",
       "match_time": "1784044800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Inter Club Escaldes",
       "home_img": "https://sta.vnres.co/file/common/20260711/d7e33a843ad053e3c642d12e2084d32f.png",
       "away_name": "Lincoln Red Imps FC",
       "away_img": "https://sta.vnres.co/file/common/20260711/28783d6f0d5fc5a43341f37e673eb645.png",
       "league": "UEFA Champions League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1784047824-0-0-46ebff25f0c81c5a6705cda07e8b1a57"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-622093_lsd.m3u8?auth_key=1784047824-0-0-bf2e589f18667731b52f6761b142a5fc"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1784047824-0-0-cf1a522685e3ce3f0283c1b13157e1fb"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1784047824-0-0-d3531613ebb3f34058c73be446abb40a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1784047824-0-0-4ae34dfc3e06d8912c4fd7351ef14e4c"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1784047824-0-0-e5cf774c145f90fb45d673ec3229f16f"
+        }
+      ]
     },
     {
       "id": "316535",
