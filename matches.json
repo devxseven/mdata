@@ -3,13 +3,38 @@
     {
       "id": "316626",
       "match_time": "1784098800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Taranaki Airs",
       "home_img": "https://sta.vnres.co/file/common/20260713/53b99d7e60b56262b9140c317c8c84d8.png",
       "away_name": "Nelson Giants",
       "away_img": "https://sta.vnres.co/file/common/20260713/1c79148d79afd66b8e3e018513c88e13.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1784101824-0-0-6643c1a6cc15fb71f947e6ccf3937358"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1784101824-0-0-a3fe58545a294ace95f0072ba269fb90"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1784101824-0-0-7b7997fe2eba4c17d77655781186bbee"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1784101824-0-0-39ceb3079b00e8d9e669186d1a31a876"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1784101824-0-0-2e5c22caed1889383e22243bdf1d6df5"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1784101824-0-0-71e7560dd19371573ca8bf4c29725b0e"
+        }
+      ]
     },
     {
       "id": "316638",
