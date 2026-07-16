@@ -3,13 +3,38 @@
     {
       "id": "316699",
       "match_time": "1784185200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Otago Nuggets",
       "home_img": "https://sta.vnres.co/file/common/20260714/65b5f959f7657afcfa215367c3a094c1.png",
       "away_name": "Bay Hawks",
       "away_img": "https://sta.vnres.co/file/common/20260714/f59ad1e125972214eb47cdc95f275637.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1784188224-0-0-8f647a6979fe55dccde0eebbc5d87d73"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1784188224-0-0-c27edcc2a4977900cc7a59f614034097"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1784188224-0-0-65bbe09a2b5a03263017cde9e3c0d390"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1784188224-0-0-8faf8277fa9be1ffb7ffbf705210fce6"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1784188224-0-0-54a4d79ff3a1391f4e48993d66f3c2b4"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1784188224-0-0-4f9bb4696b610e9fa46735d27b5a666f"
+        }
+      ]
     },
     {
       "id": "316642",
@@ -56,6 +81,17 @@
       "links": []
     },
     {
+      "id": "316864",
+      "match_time": "1784192400",
+      "match_status": false,
+      "home_name": "Batangas City",
+      "home_img": "https://sta.vnres.co/file/common/20260716/16c7bc5d9657c0cf0ff0db39f11a0ae4.png",
+      "away_name": "Basilan Steel",
+      "away_img": "https://sta.vnres.co/file/common/20260716/484ea64135ddeb1b89461b04bd0d6934.png",
+      "league": "MPBL",
+      "links": []
+    },
+    {
       "id": "316601",
       "match_time": "1784195100",
       "match_status": false,
@@ -64,17 +100,6 @@
       "away_name": "Cumberland United FC",
       "away_img": "https://sta.vnres.co/file/common/20260713/5eae5c18b75ffd40a8742f6576c61cb4.png",
       "league": "NPL SAL1",
-      "links": []
-    },
-    {
-      "id": "316700",
-      "match_time": "1784196000",
-      "match_status": false,
-      "home_name": "Cebu Greats",
-      "home_img": "https://sta.vnres.co/file/common/20260714/79204ca70922a894e8f8e4e21f335ad5.png",
-      "away_name": "Binan Tatak Gel",
-      "away_img": "https://sta.vnres.co/file/common/20260714/5565c7418cb066f1c006d7507c7bda94.png",
-      "league": "MPBL",
       "links": []
     },
     {
