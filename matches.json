@@ -3,13 +3,30 @@
     {
       "id": "314630",
       "match_time": "1784324700",
-      "match_status": false,
+      "match_status": true,
       "home_name": "San Lorenzo",
       "home_img": "https://sta.vnres.co/file/common/20260531/ffe4935c3a716ad72e6859091682b52a.png",
       "away_name": "Deportivo Riestra",
       "away_img": "https://sta.vnres.co/file/common/20260531/f9d4dd1cc93e66e6900eb71cea235fda.png",
       "league": "ARG Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8ad8040c64968cbcc726497ac338f706&txTime=6a5af47c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=5cd97fbb2a6fcb09cd37890ec0cba3f2&txTime=6a5af47c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1784327724-0-0-02647d4ca76803f115283580be05df5f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1784327724-0-0-c478843c3b06a93a645269ea7d44e6c4"
+        }
+      ]
     },
     {
       "id": "316709",
