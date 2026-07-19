@@ -3,13 +3,38 @@
     {
       "id": "316816",
       "match_time": "1784449800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "White City Woodville",
       "home_img": "https://sta.vnres.co/file/common/20260715/d1f87040927097523561e4ac92292cc7.png",
       "away_name": "Adelaide United FC Youth",
       "away_img": "https://sta.vnres.co/file/common/20260715/e2726982012fb2fade97b3d477db24e0.png",
       "league": "FFSA SL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1784452825-0-0-555b4306dceb63872e50d92d559cbfee"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1784452825-0-0-e1f3916118d3b07718bf664139551437"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1784452825-0-0-111200c74a3af6f27effb298942459b8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1784452825-0-0-1cfd546d37de6476ed0c2c32ee6a0367"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=5631751c6667c38a0f6f380b4eee843d&txTime=6a5cdd29"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=527c74103865db6c0364ab84f84c6192&txTime=6a5cdd29"
+        }
+      ]
     },
     {
       "id": "316818",
