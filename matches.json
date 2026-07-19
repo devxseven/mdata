@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=c2b66f3c5979099af870ebc1f1b3b984&txTime=6a5db5f5"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=7bb009669380fedb7a4b3df5b4f885d3&txTime=6a5db721"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=0edd4cb2bcaf265768f6a4daff616c11&txTime=6a5db5f5"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=85dc55ea62ed9415863e5714ecb7a8f9&txTime=6a5db721"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1784508325-0-0-28e734829a873fd1c17c66d7c499a64b"
+          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1784508625-0-0-23fa18041cc8d221056a38398f2709d4"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1784508325-0-0-34f8942165371868675420d03699fda7"
+          "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1784508625-0-0-445a3b21f8a286327aee07da6b1fbf59"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1784508325-0-0-d503eb72eab41d63b175dc661e5b1f41"
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1784508625-0-0-05f108df2dc478b46e7efda975776a57"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1784508325-0-0-951a2d8e6a061d71efb3dcf3fba0e5c5"
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1784508625-0-0-9eda0ed90030ed9ac623f3540bfca1b0"
         }
       ]
     },
@@ -48,11 +48,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1784508325-0-0-64c57a378d7cdee9f4d5b8f17b946dcc"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1784508625-0-0-f2072cb4857ba0ca7a0f0d8dac165056"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1784508325-0-0-8a7cb90bb98199362c2f9b34703b96c6"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1784508625-0-0-82d8c11d18565ff18d5b6f17f654d5d9"
         }
       ]
     },
@@ -68,54 +68,121 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1784508325-0-0-cc6689e51c49a0dc7ffa4f9510ebf426"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1784508625-0-0-c7611e480504b0bd1b794d98da9e2bd4"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1784508325-0-0-9a55db7903ea9694f916880b2fe2a965"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1784508625-0-0-47388ab525e804bf0df47b6b902890ae"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1784508325-0-0-bc42d75f0ca6bdc3229c24b7487fd967"
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1784508625-0-0-5ea5358a94c908b9a7649dafc73ce77c"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1784508325-0-0-a3f41444268175d0a6b326b540d5a201"
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1784508625-0-0-78be70a43f1bc057d6c5251c9470d8bc"
         }
       ]
     },
     {
       "id": "316882",
       "match_time": "1784505600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Alianza Lima",
       "home_img": "https://sta.vnres.co/file/common/20260717/74e7aa0f487bdb5bcf53c0cc10b12fb1.png",
       "away_name": "Sport Huancayo",
       "away_img": "https://sta.vnres.co/file/common/20260717/3c6eda0a015fee538f089af39a335885.png",
       "league": "PER D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=7bb009669380fedb7a4b3df5b4f885d3&txTime=6a5db721"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=85dc55ea62ed9415863e5714ecb7a8f9&txTime=6a5db721"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1784508625-0-0-cf8c2294ce9a2c396d76e083567e8b65"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1784508625-0-0-8e66f6f702207a7ef9060098a3a8c574"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1784508625-0-0-735d7086459bf8088b6b6bdcfa7eb13a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1784508625-0-0-6eeb04b0608a70da10efa6b762123c08"
+        }
+      ]
     },
     {
       "id": "316883",
       "match_time": "1784505600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Sporting Kansas City Reserves",
       "home_img": "https://sta.vnres.co/file/common/20260717/845f64730efcdbb790d776e988fa0237.png",
       "away_name": "MINNESOTA United B",
       "away_img": "https://sta.vnres.co/file/common/20260717/b3a45022e3b1dafdc46d0c5e9633e548.png",
       "league": "USA MLSRv",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1784508625-0-0-6954731a18c129b7e3a216aa5e395441"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1784508625-0-0-546a31f7e6a3a97cd79f55e8ee93f74f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=a358a2a2165b38dca770878ace53cc6f&txTime=6a5db721"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=dd41e897fabfe53ac9e59799e9b1d8d4&txTime=6a5db721"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1784508625-0-0-8de6852293f8b88c0c7360f195ce65c0"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1784508625-0-0-13bc5265e6a26329a49262349ee3fd35"
+        }
+      ]
     },
     {
       "id": "316939",
       "match_time": "1784505600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Aguada Santeros",
       "home_img": "https://sta.vnres.co/file/common/20260718/26da7f25b1cce6b8d937210f65606c2c.png",
       "away_name": "Capitanes de Arecibo",
       "away_img": "https://sta.vnres.co/file/common/20260718/aea2c861bb742d50013cb311cd3a7d9d.png",
       "league": "BSN",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1784508625-0-0-af4729722d0715b2f04f5a3f89ed6ea8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1784508625-0-0-637ad7e5d19011062c4691bc3054566e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784508625-0-0-4ad23d7e779ca28d7c86864eb7791a20"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1784508625-0-0-275d2d7975a12a6b6bde7a4d0574ba25"
+        }
+      ]
     },
     {
       "id": "316884",
