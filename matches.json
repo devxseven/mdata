@@ -3,13 +3,38 @@
     {
       "id": "316940",
       "match_time": "1784534400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Imus Braderhood",
       "home_img": "https://sta.vnres.co/file/common/20260718/5e9f3115b4b5faa5440bdc286a259e37.png",
       "away_name": "Valenzuela City Darkhorse",
       "away_img": "https://sta.vnres.co/file/common/20260718/a21760f2ab142d1aa70b5f2f34f7f844.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1784537395-0-0-0527f8e61f1c0e003269a04b44a42b1d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1784537395-0-0-434746b301103d17d430483168f3d761"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1784537395-0-0-4c46b66c43e96a95faae23c6102e874f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1784537395-0-0-d48b139c96f6987c6c69003a22fb8f9e"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1784537395-0-0-216c3918ea76f59caca6c80c9a658522"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1784537395-0-0-bdbf10e913709b04e878f328810eb1ae"
+        }
+      ]
     },
     {
       "id": "316977",
@@ -17,7 +42,7 @@
       "match_status": false,
       "home_name": "Ha Noi U21",
       "home_img": "https://sta.vnres.co/file/common/20260719/29ccc3d06c5301bc881915af4d0eec59.png",
-      "away_name": "SHB Da Nang U21",
+      "away_name": "Cong An Ha Noi U21",
       "away_img": "https://sta.vnres.co/file/common/20260719/378900ca8656f99a2eda749bc1d1ad2d.png",
       "league": "VIE U21",
       "links": []
