@@ -3,13 +3,38 @@
     {
       "id": "317032",
       "match_time": "1784703600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Tauranga Whai",
       "home_img": "https://sta.vnres.co/file/common/20260720/4c72457ca4cad09c4f872538fc497d73.png",
       "away_name": "Otago Nuggets",
       "away_img": "https://sta.vnres.co/file/common/20260720/279f2a4a845c5866c6efa639760226cb.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1784706595-0-0-8a8b2f30e888a3e81309fd1d576417e6"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1784706595-0-0-36896709eea7a3953256c9450d1ddcff"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784706595-0-0-2bd6c29cffba74dd749e9dba8424f4d4"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1784706595-0-0-8420f6d27c29d11104f4915e738fd553"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1784706595-0-0-0835139cde7007ea88a184c56f7db70b"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1784706595-0-0-4f9fb891aef07c61f2305e497b60321b"
+        }
+      ]
     },
     {
       "id": "316964",
