@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=92f08a9419dea13f456b284f63309075&txTime=6a61953f"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a4010bce1796ed9bd94a595e8c505314&txTime=6a61966b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=246a8a5935915189fb08a8fb95ded93f&txTime=6a61953f"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=3d59817de7945885f3b358c2ab6e0ca4&txTime=6a61966b"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=661f192603423ed6bdbaf1975dbc844f&txTime=6a61953f"
+          "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=1e2a388ecb448dae94dfa6b47fbba158&txTime=6a61966b"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=f0310df99ad3fbb8b65951afef658d1b&txTime=6a61953f"
+          "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=35b330b4e0ce03537c94423f7d62ca69&txTime=6a61966b"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1784762095-0-0-66038e14a1a060fd4183f8eee7e414fd"
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1784762395-0-0-cb662c64a190555eab7256aff3d31089"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1784762095-0-0-0b719b6331671020118027546cdc6d92"
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1784762395-0-0-61447234e24679757f7b35d3cbcbefa6"
         }
       ]
     },
     {
       "id": "316998",
       "match_time": "1784759400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Coritiba SAF - PR",
       "home_img": "https://sta.vnres.co/file/common/20260720/e1c732f883327c07d2dcb145cdcc44b3.png",
       "away_name": "Palmeiras - SP",
       "away_img": "https://sta.vnres.co/file/common/20260720/8d53d853d8df121931edbc19d1b31364.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1784762395-0-0-629de3bba98ba85b18e0bdb629580a80"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-619108_lsd.m3u8?auth_key=1784762395-0-0-bb0c1d4c844a75060766a12eb9e36199"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=832181c31615b2dfecfbc2c208e60bbd&txTime=6a61966b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=672b911d86711db94d496c46bbfc9d8b&txTime=6a61966b"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1784762395-0-0-0ffe5f7bb4b4f7bf59e36cdc3c62b25f"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1784762395-0-0-d8ba70c7cb537cf911045710df0a842f"
+        }
+      ]
     },
     {
       "id": "317098",
