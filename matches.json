@@ -3,13 +3,38 @@
     {
       "id": "317062",
       "match_time": "1784844000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Bolivar",
       "home_img": "https://sta.vnres.co/file/common/20260720/74f9f6f0ba78f93a3505205c0c22a52c.png",
       "away_name": "Grêmio - RS",
       "away_img": "https://sta.vnres.co/file/common/20260720/d469cf150be06c78e4e5e896df673df9.png",
       "league": "CON CSA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=c9a020466ff43436cd9d42b4dbff1448&txTime=6a542952"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-606448_lsd.m3u8?txSecret=220768dd06d5dd3059ff7636c45700b7&txTime=6a542952"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1784846995-0-0-5387d005de6e3e5ddc88fd2a34c1110f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1784846995-0-0-de5dbfa0651df4f35c3eb768aedec716"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1784846999-0-0-5427b6c78902aa01b6b36787ee47733a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1784846999-0-0-35eb973d08827c2942f6f62693d38435"
+        }
+      ]
     },
     {
       "id": "317063",
