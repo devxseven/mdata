@@ -3,13 +3,38 @@
     {
       "id": "317345",
       "match_time": "1785135600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Binan Tatak Gel",
       "home_img": "https://sta.vnres.co/file/common/20260725/3821584a8550e6db6f0e27d87a68b03d.png",
       "away_name": "Valenzuela City Darkhorse",
       "away_img": "https://sta.vnres.co/file/common/20260725/d9917331cdde03896f963232bedd5983.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=f56b78a431db29b41db43480180bd52f&txTime=6a6753f3"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=eab1efd82bd915fc2906a45ae577500a&txTime=6a6753f3"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=0fd6b8c0633c701523511ab80b84c7e8&txTime=6a6753f3"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=4b126058bad723e7da4a8cf7c2d34153&txTime=6a6753f3"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1785138595-0-0-e822a39cd8478aeb4de9c65706652aa8"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1785138595-0-0-cc2e2630e9823ad591d40a90e5b4eddf"
+        }
+      ]
     },
     {
       "id": "317340",
