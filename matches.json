@@ -3,13 +3,38 @@
     {
       "id": "317292",
       "match_time": "1785159000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Indonesia",
       "home_img": "https://sta.vnres.co/file/common/20260724/42db9da83fc238c2b35bc1b170e5aab1.png",
       "away_name": "Cambodia",
       "away_img": "https://sta.vnres.co/file/common/20260724/3d9b76708bdee0857bf64ff95707b6cd.png",
       "league": "AFF SC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1785161995-0-0-0784332da22b9b4dabf0995f4e94bcfd"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1785161995-0-0-e7aa9d8cc57b751e593d90f9ff93992c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=d220da388ab4e3adc5ff6af14c5549eb&txTime=6a67af5b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=cc8747dff24058402795dca8f9e3c577&txTime=6a67af5b"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1785161995-0-0-60f9fc00322556570f90a65636597fb5"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1785161995-0-0-4805a0490afed52ef445941be876120f"
+        }
+      ]
     },
     {
       "id": "317293",
