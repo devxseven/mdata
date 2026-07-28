@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912106_lhd.m3u8?txSecret=441d8e72c5bf9495db23ac4b81dbc551&txTime=6a685df7"
+          "url": "https://pull.niur.live/live/stream-9912106_lhd.m3u8?txSecret=b5f86e75a425a734f1b965067814b509&txTime=6a685f23"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912106_lsd.m3u8?txSecret=99bd466d8d96c653d639106ec93e1899&txTime=6a685df7"
+          "url": "https://pull.niur.live/live/stream-9912106_lsd.m3u8?txSecret=c6c856eafc7e394c6b188f7b01c63d0a&txTime=6a685f23"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1785206695-0-0-66630418a5a390a39f1fa846a0443fb0"
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1785206995-0-0-f058cf46cfc3ff8d916f4312de814a69"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1785206695-0-0-028d8affe0716f32edf28ea890edcb47"
+          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1785206995-0-0-e085a8f144a1ef1af069f4c635d05144"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912112_lhd.m3u8?txSecret=a4bfe16b735bddfc221beb0ae30bf803&txTime=6a685df7"
+          "url": "https://pull.niur.live/live/stream-9912112_lhd.m3u8?txSecret=fd275f268ba6a73403733bfbad871e28&txTime=6a685f23"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912112_lsd.m3u8?txSecret=fd7c30182e322740e6a870341dec6cb1&txTime=6a685df7"
+          "url": "https://pull.niur.live/live/stream-9912112_lsd.m3u8?txSecret=437a07555d99f11538d893b6aa8fcdc0&txTime=6a685f23"
         }
       ]
     },
     {
       "id": "317326",
       "match_time": "1785204000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Costa Rica U20",
       "home_img": "https://sta.vnres.co/file/common/20260724/e73cd65a5cea5041af1aad27a947db64.png",
       "away_name": "Mexico U20",
       "away_img": "https://sta.vnres.co/file/common/20260724/2e2a539aa28ab3551dcbaefdae72b6db.png",
       "league": "CONCACAF U20",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912114_lhd.m3u8?txSecret=2147c46042d6baf2eb57814f007899c1&txTime=6a685f24"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912114_lsd.m3u8?txSecret=29dd79e966b1f5a2e47e5bf9bf788a3b&txTime=6a685f24"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=2064d2bca0923d845d75aa57af8a1164&txTime=6a685f23"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=53783b295d443b126e214fb6898ed9b0&txTime=6a685f23"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=12c371ec07d82aefd139ec2576553715&txTime=6a685f23"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=ebbff605e6c2526519200fd65fc7650b&txTime=6a685f23"
+        }
+      ]
     },
     {
       "id": "317402",
