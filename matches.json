@@ -12,24 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c7860abf673cdd2533694c51c9f3d513&txTime=6a68f1a0"
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=d85cdb4a7b57b4456380439401a1c283&txTime=6a68f2cc"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=d639b1a0f645f8967e88dae38caf41fb&txTime=6a68f1a0"
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=def51455db7d582834c23a27db89b132&txTime=6a68f2cc"
         }
       ]
     },
     {
       "id": "317330",
       "match_time": "1785241800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "DPMM FC",
       "home_img": "https://sta.vnres.co/file/common/20260724/b02c0c7ba7a1f283524181e67000f6cb.png",
       "away_name": "Persib Bandung",
       "away_img": "https://sta.vnres.co/file/common/20260724/ec083c41d906ae3af2e187c5d3b56574.png",
       "league": "IDN PCUP",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1785244795-0-0-8dad6857fc08a9337bda7639e78db855"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1785244795-0-0-23d7445f88f4be8d5e529d7ffb134907"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=226f34a38bab9d0bbe91922c8627dfc7&txTime=6a68f2cb"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=5e309b9e496dc3c845d8b4d0f6631a8d&txTime=6a68f2cb"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-273736_lhd.m3u8?txSecret=8ea04664e6216fbb9a08db87c338f22c&txTime=6a68f2cb"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-273736_lsd.m3u8?txSecret=ef6f602081221f62c9ee38faa99e4a0e&txTime=6a68f2cb"
+        }
+      ]
     },
     {
       "id": "317331",
