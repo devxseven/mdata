@@ -3,13 +3,38 @@
     {
       "id": "317453",
       "match_time": "1785308400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Southland Sharks",
       "home_img": "https://sta.vnres.co/file/common/20260727/6c84aa21aaa3736a5f30928ead0743df.png",
       "away_name": "Tauranga Whai",
       "away_img": "https://sta.vnres.co/file/common/20260727/440ab2663f3d517e0592bf68fb0f7f75.png",
       "league": "NZBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912112_lhd.m3u8?txSecret=919eb5fe01a80543dff36f462c86486f&txTime=6a69f6f4"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912112_lsd.m3u8?txSecret=1572ed71b1b7152896a68ef676907108&txTime=6a69f6f4"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=880f52fa163acbaa99f0489fa1f68cdc&txTime=6a69f6f4"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=42f954ce6fb5f21b559c27548f6018d3&txTime=6a69f6f4"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912106_lhd.m3u8?txSecret=01744e55c0ad271d503daea699c6dbcb&txTime=6a69f6f3"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912106_lsd.m3u8?txSecret=23de9cd9ea16ef71d8ee3a667899953c&txTime=6a69f6f3"
+        }
+      ]
     },
     {
       "id": "317377",
