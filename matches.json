@@ -12,40 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912112_lhd.m3u8?txSecret=42902f6f4a0931406e6ce505153f5dab&txTime=6a6b6368"
+          "url": "https://pull.niur.live/live/stream-9912112_lhd.m3u8?txSecret=e2eac17296f9b72e4d9d4938b24f29a7&txTime=6a6b6494"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912112_lsd.m3u8?txSecret=32529f96dff0219712145ea77e549a85&txTime=6a6b6368"
+          "url": "https://pull.niur.live/live/stream-9912112_lsd.m3u8?txSecret=6127dc2b7cffff22c237186042e9fc84&txTime=6a6b6494"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912106_lhd.m3u8?txSecret=f32c6d28e08627db1d9d8b9b4b536f39&txTime=6a6b6368"
+          "url": "https://pull.niur.live/live/stream-9912106_lhd.m3u8?txSecret=142335a2ed38cfc2f736edfd94a071e9&txTime=6a6b6494"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912106_lsd.m3u8?txSecret=d53fb567371ceb7845d2f560dfdea74d&txTime=6a6b6368"
+          "url": "https://pull.niur.live/live/stream-9912106_lsd.m3u8?txSecret=7fe575a3c05b66616eaaf2e760af21e6&txTime=6a6b6494"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=704129440f0281b74c743dd2b3b8b6c1&txTime=6a6b6368"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=0eb1f34f4cdd90f03b1f7f0ffdc67c1d&txTime=6a6b6494"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=1d7d48735b054908909a6721af9c6b12&txTime=6a6b6368"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=4b967af8034cf6a67bf6f194d1d53561&txTime=6a6b6494"
         }
       ]
     },
     {
       "id": "317507",
       "match_time": "1785402000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Marikina Shoemasters",
       "home_img": "https://sta.vnres.co/file/common/20260728/a0babad64bfc3c8553bf6dde4c71fa88.png",
       "away_name": "Cebu Greats",
       "away_img": "https://sta.vnres.co/file/common/20260728/df800881b7e0262e29f7c99b30ed1a65.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912106_lhd.m3u8?txSecret=142335a2ed38cfc2f736edfd94a071e9&txTime=6a6b6494"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912106_lsd.m3u8?txSecret=7fe575a3c05b66616eaaf2e760af21e6&txTime=6a6b6494"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=0eb1f34f4cdd90f03b1f7f0ffdc67c1d&txTime=6a6b6494"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=4b967af8034cf6a67bf6f194d1d53561&txTime=6a6b6494"
+        }
+      ]
     },
     {
       "id": "317431",
