@@ -39,13 +39,38 @@
     {
       "id": "317481",
       "match_time": "1785486600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Arema FC",
       "home_img": "https://sta.vnres.co/file/common/20260727/e3a6e72a0069e489450d4635584755c5.png",
       "away_name": "DPMM FC",
       "away_img": "https://sta.vnres.co/file/common/20260727/fe06798252e9fbf25914a9d0d5beeb6e.png",
       "league": "IDN PCUP",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-380460_lhd.m3u8?txSecret=6e48ae98c80669a882c9d8fbc20666e8&txTime=6a6caf2d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-380460_lsd.m3u8?txSecret=295861787d0fd664daab1464d0b7391e&txTime=6a6caf2d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=bb39b7ee63ed8f99980d4176e8cad459&txTime=6a6caf2d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=447460631e7d6f7981978f57f76c16f9&txTime=6a6caf2d"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=c63eb3810912a5c17aeaf172c9f1b913&txTime=6a6caf2d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=b291cf4fe2013e36d4a177213975ea75&txTime=6a6caf2d"
+        }
+      ]
     },
     {
       "id": "317598",
