@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1785627898-0-0-5cd9776bfffc18d4747688b522ff4630"
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1785628198-0-0-db89445917479e6d1ed608aa0c6813af"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1785627898-0-0-7cfae0cf989db8d15d4d23ce55a2080d"
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1785628198-0-0-c23446cfcc5d2542a697d3f14e260e74"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1785627898-0-0-29d7ca946e44cd160e4b98df25a553e7"
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1785628198-0-0-eb8e0535fee37558d5e69aa8ec6f27dc"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1785627898-0-0-6c139f560da9a088c5e52f3f3a7bfb9f"
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1785628198-0-0-b05e937097c42e921a688ba85a1e6d4d"
         }
       ]
     },
@@ -40,32 +40,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=3b88cb95d6e3387fa376037a6fdfd13d&txTime=6a6ecb4a"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=8fb7b975018d15fc3e2620fb43ba2d94&txTime=6a6ecc76"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=bd4ad4ca8ae7ed1241ffc53d63d5ef65&txTime=6a6ecb4a"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=2512594568e4c211239a72cdc9513a65&txTime=6a6ecc76"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1785627898-0-0-1dbf1e63731948daf39cbba5580d6d36"
+          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1785628198-0-0-bad3692e7768cd4c5b0f492e20c44246"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1785627898-0-0-0e9399a4fec0dd8605fc16ec181011c7"
+          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1785628198-0-0-047516e8a4fd199e4e1fa019026d9f8e"
         }
       ]
     },
     {
       "id": "317614",
       "match_time": "1785625200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Queretaro FC",
       "home_img": "https://sta.vnres.co/file/common/20260730/7e10b556865501b0370f8eaeafa3af77.png",
       "away_name": "Tigres UANL",
       "away_img": "https://sta.vnres.co/file/common/20260730/0c68c03bdb5f651efc9d9ae00f82dfb7.png",
       "league": "MEX D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ece79d0b03f942abf8c51efe0f07bb80&txTime=6a6ecc76"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=8fc32c857133e5efdfce0bbbdead6bbd&txTime=6a6ecc76"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=458227c3a939907e94bd72384f8cfa23&txTime=6a6ecc76"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=b9a4ecbc7b17103b02bccad167bad34b&txTime=6a6ecc76"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1785628198-0-0-8733adddcd5dbfad6550fe349835e3ea"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1785628198-0-0-f5700ed4f51f86dc94a3eb894e0bab0e"
+        }
+      ]
     },
     {
       "id": "317615",
