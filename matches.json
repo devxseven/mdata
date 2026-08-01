@@ -12,106 +12,185 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ac917d0383306fbe1dc281ae9bdbfaee&txTime=6a6ed252"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=bf59ed01d96ad5a7e15bc004661743ba&txTime=6a6ed37e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=d7157f94c514de8eb4c40db6b11c6ff1&txTime=6a6ed252"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=8572718b9da5508fa6c9edeb0f15beba&txTime=6a6ed37e"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=0116737fd9d52dabd3d291070d559b85&txTime=6a6ed252"
+          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=5ee19758f9382ab39f897824ea179f39&txTime=6a6ed37e"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=e13bcdd0aacdb607edcea21334d217fe&txTime=6a6ed252"
+          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=c2b106b19dc1749ebd77fcb72ce78567&txTime=6a6ed37e"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1785629698-0-0-76e87e44342e44371f677e2b3b0ffebc"
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1785629998-0-0-775a4b19f8bd399785c609866c7a5e45"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1785629698-0-0-04442a166942f38f39b070f7e562b054"
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1785629998-0-0-32470d861a2d0be29a417f0dd6879e16"
         }
       ]
     },
     {
       "id": "317615",
       "match_time": "1785627000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Montreal Impact",
       "home_img": "https://sta.vnres.co/file/common/20260730/6962d8949d315ce56eb7973cb1a38ecd.png",
       "away_name": "New England Revolution",
       "away_img": "https://sta.vnres.co/file/common/20260730/907346797963615e50e16f8cba31845b.png",
       "league": "Major League Soccer (MLS)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1785629998-0-0-772fb2fce82db5f973d1e04b0bce231d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1785629998-0-0-945124c481414489f57b831b47b5e083"
+        }
+      ]
     },
     {
       "id": "317616",
       "match_time": "1785627000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "DC United",
       "home_img": "https://sta.vnres.co/file/common/20260730/95cd81365ab2a8a0ee1f49f1ddbe58b9.png",
       "away_name": "Nashville",
       "away_img": "https://sta.vnres.co/file/common/20260730/7368367231594eb4de985b0c7d67f1ef.png",
       "league": "Major League Soccer (MLS)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1785629998-0-0-092e0410bfa811ad6cff4457f8140943"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-619108_lsd.m3u8?auth_key=1785629998-0-0-0b8770ed173c4d86323a5b869930b51a"
+        }
+      ]
     },
     {
       "id": "317617",
       "match_time": "1785627000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC Cincinnati",
       "home_img": "https://sta.vnres.co/file/common/20260730/0165a17ae487bba9e714bf9545b3d47c.png",
       "away_name": "San Jose Earthquakes",
       "away_img": "https://sta.vnres.co/file/common/20260730/1aca3b75240f837d446deb68fe614276.png",
       "league": "Major League Soccer (MLS)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-612098_lhd.m3u8?txSecret=be75a79abb6d37b581cc817c4d2222d0&txTime=6a6ed37e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-612098_lsd.m3u8?txSecret=988ec947948ca59b8bbe3e89273f5310&txTime=6a6ed37e"
+        }
+      ]
     },
     {
       "id": "317618",
       "match_time": "1785627000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Inter Miami CF",
       "home_img": "https://sta.vnres.co/file/common/20260730/38f5e7e1b5314686c4d6d034fe58fb45.png",
       "away_name": "Columbus Crew",
       "away_img": "https://sta.vnres.co/file/common/20260730/952fa9fa45718ffd127d160e7207bf14.png",
       "league": "Major League Soccer (MLS)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1785629998-0-0-f5dcc7baef8c3ed9256b27a8dbf3e743"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1785629998-0-0-5a41c89f0fcebf9e065ba55663afd202"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=460314bff87d18ce8be680fddddf3e18&txTime=6a6ed37e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=dbc11c0756ef97ecc3d16ee7fb34f502&txTime=6a6ed37e"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1785629998-0-0-3e1de10330ff9edbb37054f6a01a721c"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1785629998-0-0-d2a4c5be51d8387a99c6876bbdfae024"
+        }
+      ]
     },
     {
       "id": "317619",
       "match_time": "1785627000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "New York Red Bulls",
       "home_img": "https://sta.vnres.co/file/common/20260730/040286b0dca7d43c08fc6b2d6a0fb2b4.png",
       "away_name": "Orlando City",
       "away_img": "https://sta.vnres.co/file/common/20260730/b9b436e26cc606aa09b4560252dcba26.png",
       "league": "Major League Soccer (MLS)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=9fc387c3aef3b015ea3c19238efa52e2&txTime=6a6ed37e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=fe0718bef07191f78307601a40451593&txTime=6a6ed37e"
+        }
+      ]
     },
     {
       "id": "317620",
       "match_time": "1785627000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Philadelphia Union",
       "home_img": "https://sta.vnres.co/file/common/20260730/7e3a379e2c8d8c24f032d0ad2a1fb198.png",
       "away_name": "Atlanta United",
       "away_img": "https://sta.vnres.co/file/common/20260730/fc58d426cb92de081b00713d74e89317.png",
       "league": "Major League Soccer (MLS)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1785629998-0-0-9fd3f604a1e51e57095368284a25fd81"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1785629998-0-0-52c6fd6b963f7cc0dd508971fc9e73cd"
+        }
+      ]
     },
     {
       "id": "317621",
       "match_time": "1785627000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Vancouver Whitecaps",
       "home_img": "https://sta.vnres.co/file/common/20260730/5d6625b9e57e862554def84dc16ac84a.png",
       "away_name": "Los Angeles FC",
       "away_img": "https://sta.vnres.co/file/common/20260730/44426ae7160f732d2d479dc195d2334d.png",
       "league": "Major League Soccer (MLS)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1785629998-0-0-976dfa41093ef04d147b2749b0497458"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1785629998-0-0-329a0632cc8a201bf272000e0ff0ca49"
+        }
+      ]
     },
     {
       "id": "317728",
