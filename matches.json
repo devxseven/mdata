@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1785662098-0-0-bbe5e96247b024e7eebaa3d1f0348714"
+          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1785662398-0-0-1c0feadf8b3ce0ffa7ae03a891f38575"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1785662098-0-0-9c5a9bbb7c0492e1d7d7ee5c14b1fb92"
+          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1785662398-0-0-67ed88ee46ce09296ffd648bccbbc84a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1785662098-0-0-1fb9e468fe209f5d5f01853404e9ee06"
+          "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1785662398-0-0-d37c6dff403c846a24f95d2ad15cc733"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1785662098-0-0-12abafbb341f8da028481ba6782b30e2"
+          "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1785662398-0-0-f383775fdc20807018be4c990e55eb2f"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1785662098-0-0-36b63ea8d1207d03fa2baea4c96dc4ca"
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1785662398-0-0-c802d0a6feb35c92e679cbeaab008ce3"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1785662098-0-0-b0108f94c428c6cecef91aceb1cb4791"
+          "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1785662398-0-0-fb1c49c883d3c52a077b632d4334f54d"
         }
       ]
     },
@@ -48,40 +48,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=e636ffeb64f159d9f29d1db511db7137&txTime=6a6f50e2"
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=41af836056b6af23ea1953ca65a2f20b&txTime=6a6f520e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f5dfefb1b347af902fae4181f1e7ada7&txTime=6a6f50e2"
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=1fa45519f122f5ddb292410c962b17a8&txTime=6a6f520e"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1785662098-0-0-47ec08724750e0747d750fd71c49b159"
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1785662398-0-0-2a324507a75dd324f8314b5814bf9d8d"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1785662098-0-0-9263aa514fb0092efa73a5bd997f4273"
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1785662398-0-0-017f28917d29a71dd20d2e9bf817fab9"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1785662098-0-0-421d25b7d2d06e74e83834682ec775b4"
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1785662398-0-0-12ebabb50a902c5382818564e657b436"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1785662098-0-0-65165c4db2c6b8690618c350257c2258"
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1785662398-0-0-ab9fbc2ef550dae15ef552184598a99d"
         }
       ]
     },
     {
       "id": "317644",
       "match_time": "1785659400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC HOGO Hertha Wels",
       "home_img": "https://sta.vnres.co/file/common/20260730/d9b3d69a1dd661ab5905c42458c60042.png",
       "away_name": "SV Austria Salzburg",
       "away_img": "https://sta.vnres.co/file/common/20260730/763e0b536e23dcdc18d37871a9210c43.png",
       "league": "AUT D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1785662398-0-0-9f63059b60aae613579b57e9dbf77828"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1785662398-0-0-4821985682a2cc3fcafdd2d4c907764a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1785662398-0-0-4005bdc6ff7717feb4e40722ad0971fe"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1785662398-0-0-ee462101a8168bbe84db0e77bf104436"
+        }
+      ]
     },
     {
       "id": "317732",
