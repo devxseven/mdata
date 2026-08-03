@@ -3,13 +3,38 @@
     {
       "id": "317766",
       "match_time": "1785740400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Bulacan Kuyas",
       "home_img": "https://sta.vnres.co/file/common/20260801/5c3c74f897b62fd054be232ad49d5849.png",
       "away_name": "Mindoro Tamaraws",
       "away_img": "https://sta.vnres.co/file/common/20260801/ac5225f180dcf0d167d0dd98bdc88dad.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912112_lhd.m3u8?txSecret=a1609839b570b42d34c39124a80b17a2&txTime=6a708e76"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912112_lsd.m3u8?txSecret=92b794d9beef914ba5701638b32699ee&txTime=6a708e76"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1785743398-0-0-fadcd564ec47c3ea9d8eaf9f7bfe75fe"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1785743398-0-0-3241a4fab2a9d3df9b5c2e79b2dde442"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=fcce36bab273cc793e928c2936fb6381&txTime=6a708e76"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=a31efd764c581af06b674796839ca525&txTime=6a708e76"
+        }
+      ]
     },
     {
       "id": "317707",
