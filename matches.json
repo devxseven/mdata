@@ -12,43 +12,93 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=27f7e86d96505ea92ee76e48d7da6d9c&txTime=6a71603b"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2c106c9dc5626e2052c6fe0a13dbc0c7&txTime=6a716167"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=dbf15880f94db966c9ee28716b98de38&txTime=6a71603b"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=10d8b6646444279f8f4fe1266a5835ee&txTime=6a716167"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=9a842fb61fae5779704298e29485fa39&txTime=6a71603b"
+          "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=d4c2177031a7ca8c1309fc522563cb62&txTime=6a716167"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=9e7930e5c6825d4d015e99018bf2694d&txTime=6a71603b"
+          "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=ab776c979c925af2be1b6c5901b42f8a&txTime=6a716167"
         }
       ]
     },
     {
       "id": "317744",
       "match_time": "1785794400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "CA Platense",
       "home_img": "https://sta.vnres.co/file/common/20260801/16144d260999eae4cada82ce7f31f03f.png",
       "away_name": "Talleres Cordoba",
       "away_img": "https://sta.vnres.co/file/common/20260801/0283c5cdfa21e16c1dd3ebe476a4dd3d.png",
       "league": "ARG D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9f31c2ea43d7555554b42a58c04da221&txTime=6a716167"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=1538397dc6ac99e60625f13f3cc87a05&txTime=6a716167"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=0a6b5bff89682174be89e0a5ad6ff39c&txTime=6a716167"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=c3cb2c6e4f68abcc3cd97434098caf60&txTime=6a716167"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1785797399-0-0-e42988f34051f2c76616218b1d1f9215"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1785797399-0-0-0be186d3b52be69390c4fef87813bc20"
+        }
+      ]
     },
     {
       "id": "317745",
       "match_time": "1785794400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Velez Sarsfield",
       "home_img": "https://sta.vnres.co/file/common/20260801/cc557ad3da1f5595e387ae24b63d99be.png",
       "away_name": "CA Independiente",
       "away_img": "https://sta.vnres.co/file/common/20260801/103fce0625b4e1c9284522bb9a29f800.png",
       "league": "ARG D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1785797399-0-0-7df40a96a558b2f728eec5a63fc30ba0"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1785797399-0-0-db4d70215c4692cad78992588329225d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1785797399-0-0-5af34ff9cd30af4dac1713a937fe4731"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1785797399-0-0-f33c922ef49073e301bbe2639c00dbe4"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=690f87b7c4456eb9efded188ab7e9fb3&txTime=6a716167"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=ce8cd7a532824bd68918906bb42ef48f&txTime=6a716167"
+        }
+      ]
     },
     {
       "id": "317808",
