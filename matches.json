@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6bb28713dfab10d6c0bd9a590921293f&txTime=6a72ca57"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2a73ad098df35c09d527cb184d618295&txTime=6a72cb83"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=1cbdfc5ddc8b4e201285f35c4eab4a59&txTime=6a72ca57"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=88cc9dda4b5a99728d045a24907c768d&txTime=6a72cb83"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=47e1d2620b5fd9ed4a4bf55126030db2&txTime=6a72ca57"
+          "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=e7c799d04c330f82f5fcad34ea3cd47b&txTime=6a72cb83"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=68dd16d1563a8ee7435513c0948fb584&txTime=6a72ca57"
+          "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=bfdae4bd9812e5424ef81d14d18a28d4&txTime=6a72cb83"
         }
       ]
     },
@@ -40,43 +40,93 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=0296a6e1e5c8a8ad4530b3bf150a1c1e&txTime=6a72ca57"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=33da50c5e9094c7b8d00bbcb1e9e5c76&txTime=6a72cb83"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=56f26cff57d2ce0e023c54de55337d5a&txTime=6a72ca57"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=b84d91ad0e1752a6232707cd0fede02e&txTime=6a72cb83"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=9e72be1fe6156d2568753b411e3090a5&txTime=6a72ca57"
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=07ebc4dd1a9cd1070fdebc3b7e9f333a&txTime=6a72cb83"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=bdb85939c581ba24c66624c0c0d51d38&txTime=6a72ca57"
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=c2580d428a33a3e17779d2d434f93ace&txTime=6a72cb83"
         }
       ]
     },
     {
       "id": "317784",
       "match_time": "1785887100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Columbus Crew",
       "home_img": "https://sta.vnres.co/file/common/20260802/40ac3292d7803e1e8ea4887ed47006cb.png",
       "away_name": "Atlas",
       "away_img": "https://sta.vnres.co/file/common/20260802/f780a925ce91a7c3d5ee78822f8f8c2c.png",
       "league": "CNCF LC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1785890099-0-0-a635c9de31074dad5f96e2d7a0ba2d62"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1785890099-0-0-98d825e8bc2e0f73665c15c36374de7b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=20e467e8b8c1a26487895c84bd2eed4c&txTime=6a72cb83"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=1bf4ef87bb6885792b4614ab16ef40c5&txTime=6a72cb83"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1785890099-0-0-5a9a13e516848d9142cc3299e87a746e"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1785890099-0-0-0e9998fdfb290efb025c38bcd7e5a741"
+        }
+      ]
     },
     {
       "id": "317785",
       "match_time": "1785887100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC Cincinnati",
       "home_img": "https://sta.vnres.co/file/common/20260802/9a071387c3ab19b856efee69673d4c55.png",
       "away_name": "Pachuca",
       "away_img": "https://sta.vnres.co/file/common/20260802/a6ad089a0bc73607d6b9d8cdec2d9780.png",
       "league": "CNCF LC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1785890099-0-0-d865c852615ccc189bc3b2cad5a8b9d9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1785890099-0-0-13366595061c800d7d5403f7dfc8886e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1785890099-0-0-ca1c0b58b77f95e6af46d1713d235c3c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1785890099-0-0-696bc6b0a82fe5d2df7b5d35fb9d82f4"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1785890099-0-0-e57362b62524c45525f42f74af036c88"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1785890099-0-0-a22d7d318e356ae567c68bb18290d585"
+        }
+      ]
     },
     {
       "id": "317786",
@@ -223,7 +273,7 @@
     },
     {
       "id": "317795",
-      "match_time": "1785924000",
+      "match_time": "1785927600",
       "match_status": false,
       "home_name": "AC Milan",
       "home_img": "https://sta.vnres.co/file/common/20260802/7a2caff8d53f04d33daf26e26a8dbb01.png",
