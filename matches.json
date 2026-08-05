@@ -3,13 +3,38 @@
     {
       "id": "317800",
       "match_time": "1785938400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Niva Dolbizno",
       "home_img": "https://sta.vnres.co/file/common/20260802/714fc10a40e5f53cf9965ad804c4a39e.png",
       "away_name": "Slutsksakhar Slutsk",
       "away_img": "https://sta.vnres.co/file/common/20260802/2ab6ccbe34001879899e26f5883497fa.png",
       "league": "BLR D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-400722_lhd.m3u8?txSecret=2ea49b7be2d7402b43bbdbc80a7c6bde&txTime=6a7393e7"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-400722_lsd.m3u8?txSecret=293f40dd64111f4fea63f744897fcbc8&txTime=6a7393e7"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=fc2db4ae86d215c62af7eff2cd3f5e73&txTime=6a7393e7"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=395b59ca2f090bc08853eb4c3f824708&txTime=6a7393e7"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1785941399-0-0-cc8c4e0eea0c406f68f5f096076ceb34"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1785941399-0-0-8b174cc615a93a0df8ac44e55c81d277"
+        }
+      ]
     },
     {
       "id": "317801",
