@@ -12,40 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-400722_lhd.m3u8?txSecret=a892bd13640f0f74f75c21cf2487346c&txTime=6a734fef"
+          "url": "https://pull.niur.live/live/stream-400722_lhd.m3u8?txSecret=37b5d1a39de8b6da5c419e9c8c2d6abf&txTime=6a73511b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-400722_lsd.m3u8?txSecret=d503f7d0ad8128566e1d31d6b310a839&txTime=6a734fef"
+          "url": "https://pull.niur.live/live/stream-400722_lsd.m3u8?txSecret=9dd52326d31cb9fced67c420db344fd3&txTime=6a73511b"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=92cf248d706ad653e284d1f4d320994e&txTime=6a734fef"
+          "url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=9a59f4ee9dceb7fe638a3c80bf9afcec&txTime=6a73511b"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=3d14381ecc03b802e7d9c82847bbcc53&txTime=6a734fef"
+          "url": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=9f27dc947b350fa6512b16bdc5c3a708&txTime=6a73511b"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1785923999-0-0-53b7791554725302b658e6a10baf13aa"
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1785924299-0-0-11f78a3e7917ec48f96162e7df7fb77b"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1785923999-0-0-dafce8d64f46420173eb50bc82d033df"
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1785924299-0-0-e6db9fe55c7c2548ad307e22b2df58d7"
         }
       ]
     },
     {
       "id": "317859",
       "match_time": "1785921300",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Blackwater Bossing",
       "home_img": "https://sta.vnres.co/file/common/20260803/78748e327bc420fcedaf2e76956ea68d.png",
       "away_name": "Phoenix Fuelmasters",
       "away_img": "https://sta.vnres.co/file/common/20260803/b689cc3c976126f48f51e663a8751514.png",
       "league": "PBGC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1785924299-0-0-2cb0cc6b632e440db2eb0a49ecc7d5e8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1785924299-0-0-a0bc4b76b1772303e15e4ce285e52a58"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1785924299-0-0-6d223b0b901d7840079614a37a073b8b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1785924299-0-0-14cc72db480e9d86377f713f3e846218"
+        }
+      ]
     },
     {
       "id": "315989",
