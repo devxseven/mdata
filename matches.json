@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786009499-0-0-19ebde262adbcd54e58b5558836b4445"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786009799-0-0-113dca0fdf5873c324490c0e9041a11d"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786009499-0-0-65d7e155fd59b172b10fcee449f37abd"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786009799-0-0-0d69c5bc2b2fed0a2b8f8d9a3ccc9e79"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=5289656a9a022f93fb66d49edd95246b&txTime=6a749deb"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=01bdd0e54298a742b457274beda4f602&txTime=6a749f17"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=62123666f8c3dc10931f61fa845d7b78&txTime=6a749deb"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=662cace1a3055999365d414d00f612e9&txTime=6a749f17"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786009499-0-0-f03f6a53eebbda5f3c8140d4ac4069d7"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786009799-0-0-5946b0574337e9a71e23778710756b25"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786009499-0-0-0e2780e49caf43897f615a6922cd3e84"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786009799-0-0-28e5a939e0b50954dd078c9b9a243121"
         }
       ]
     },
@@ -48,40 +48,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=ba903026385fbd8d8a16c9ac7d3a1f1a&txTime=6a749deb"
+          "url": "https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=47a1dbc024f7a4fd7ed02dc9dcc6e0e0&txTime=6a749f17"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=1d64dc909d94125bfc37a20fb4eab5b5&txTime=6a749deb"
+          "url": "https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=bb103b0679563f73f30ddef4c7cd442e&txTime=6a749f17"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=0c015414414169ae84e8240c84dded0a&txTime=6a749deb"
+          "url": "https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=9ee8f4789e236e7a607fba36ce3bf35d&txTime=6a749f17"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912015_lsd.m3u8?txSecret=909ae7c5710d3a31eb8aea9c4ecdad1d&txTime=6a749deb"
+          "url": "https://pull.niur.live/live/stream-9912015_lsd.m3u8?txSecret=387a9785912e36a6200e7da13cb27483&txTime=6a749f17"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1786009499-0-0-e88697beef45dc76a7e6bae6fb932eb0"
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1786009799-0-0-bef2e9f469d79ff988f4415782a652a1"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1786009499-0-0-aceb2931711e8196948c6e46970195cc"
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1786009799-0-0-0d8890ed3858fdfc36b29cf43383afb8"
         }
       ]
     },
     {
       "id": "317920",
       "match_time": "1786006800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Abra Weavers",
       "home_img": "https://sta.vnres.co/file/common/20260804/556ed6f1e76b5b62f3653ac17f26611d.png",
       "away_name": "Bataan Risers",
       "away_img": "https://sta.vnres.co/file/common/20260804/300278e77ecca3d0cf651ac3466fe949.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1786009799-0-0-e4c6f356ac734397b256c8f1aaf21461"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1786009799-0-0-eb5f3896804f3874b9e4b8b64dd49e2a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786009799-0-0-113dca0fdf5873c324490c0e9041a11d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786009799-0-0-0d69c5bc2b2fed0a2b8f8d9a3ccc9e79"
+        }
+      ]
     },
     {
       "id": "318004",
