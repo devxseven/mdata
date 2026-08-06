@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786007699-0-0-6c5affed020331d429d35499b973b8b7"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786007999-0-0-0b6d30bb0dfb4bc47a804e49d331fb4f"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786007699-0-0-f2a50f0a37a2cdaceb4c33fa37dba903"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786007999-0-0-a3facfa71b0f0f4041e0c4328f6d36d1"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=7b8c2cc13c1df24034e498742ce6d662&txTime=6a7496e3"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=f2f7989d79cc2d94e86969f0551f4ea1&txTime=6a74980f"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=a148e394cb3fdbc7b8b1e8912a5f554b&txTime=6a7496e3"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=da941b34f37deb660f008d98b47dce2b&txTime=6a74980f"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786007699-0-0-0f281ab8a86a660cedc4457011af0ee9"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786007999-0-0-c94d1e7e5d76428b9e1873a20c6d142e"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786007699-0-0-2e59899020eb78d8826c344a2ab04d5f"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786007999-0-0-aea4addccdef125882ceec6f941a0eed"
         }
       ]
     },
     {
       "id": "318020",
       "match_time": "1786005000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Persija Jakarta",
       "home_img": "https://sta.vnres.co/file/common/20260805/ad3c59b18a058d78d1642733bab66fb3.png",
       "away_name": "Arema FC",
       "away_img": "https://sta.vnres.co/file/common/20260805/bac06feb526850ea0b51164adcd8e0a4.png",
       "league": "IDN PCUP",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=ad6cd3cc5d4e61669380794c6b6a4d50&txTime=6a74980f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=3994497d72139852d812602cc7c02820&txTime=6a74980f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=7cca4ded6ae3f4d01656f231df91ddf4&txTime=6a74980f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912015_lsd.m3u8?txSecret=b78505071fee6d01f8b34fdf920ab6c1&txTime=6a74980f"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1786007999-0-0-e4f599dbf98c17fc5de8d378092ebf00"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1786007999-0-0-26926d8b47fa2fd43dc2099efa996821"
+        }
+      ]
     },
     {
       "id": "317920",
