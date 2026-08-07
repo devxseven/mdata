@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=702615760b0f7ea5bd5aa398536ab619&txTime=6a764ad3"
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=2c67ca68c2ce56f6c70f6f515b223106&txTime=6a764bff"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=2ade7ee2ee49ca7ef7081a4afe09c5d2&txTime=6a764ad3"
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=1786861292c4b5191c2af1db1f3bedc2&txTime=6a764bff"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-400722_lhd.m3u8?txSecret=5b9209e32e40ea6053a5c793b66ccbbd&txTime=6a764ad3"
+          "url": "https://pull.niur.live/live/stream-400722_lhd.m3u8?txSecret=3c32dd245d3c973a5875369304d1c211&txTime=6a764bff"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-400722_lsd.m3u8?txSecret=fd15ff1a57dc3402d22780a6c614e518&txTime=6a764ad3"
+          "url": "https://pull.niur.live/live/stream-400722_lsd.m3u8?txSecret=67774331814f048c8c379944dba7e64a&txTime=6a764bff"
         }
       ]
     },
@@ -40,32 +40,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=1f70f40279db60216d823f641b03aab2&txTime=6a764ad3"
+          "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=6258fd789c365e753d975f88fe6bd3b8&txTime=6a764bff"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=c0428365132f4361fb45e329677440c3&txTime=6a764ad3"
+          "url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=c2128a69c7b20a15949a063fc948c3da&txTime=6a764bff"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=7e7bfe8cc2686eb58aaff78b9c9e1f2f&txTime=6a764ad3"
+          "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=36e9ed70e7aa6e58b990684d66df4d1e&txTime=6a764bff"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=66d2fc9dc512cac040a6729254b0d0b1&txTime=6a764ad3"
+          "url": "https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=7031293692415b420ef6e6a8af00fa59&txTime=6a764bff"
         }
       ]
     },
     {
       "id": "317902",
       "match_time": "1786116600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "JaPS",
       "home_img": "https://sta.vnres.co/file/common/20260804/228ff483c2bfe7141f7de685b5a681d2.png",
       "away_name": "Mikkelin Palloilijat",
       "away_img": "https://sta.vnres.co/file/common/20260804/c99b0cbc23cf00814cc7c66c586bb805.png",
       "league": "FIN D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-612098_lhd.m3u8?txSecret=dd87ba6323570a86ed2df68cb0d7d6cc&txTime=6a764bff"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-612098_lsd.m3u8?txSecret=a5fd05611e3f692649160492d23548ee&txTime=6a764bff"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1786119599-0-0-821c09260abd4901906424a3a6cce4d1"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1786119599-0-0-ccbe7b7eeee18ef61682f40d2e11763e"
+        }
+      ]
     },
     {
       "id": "317903",
