@@ -12,40 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=177775b750e895d322ed863bc2532f97&txTime=6a75f2ef"
+          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=3f1135fd5e0cc0c175dc1c9ef21bdef7&txTime=6a75f41b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=0972811f4c278cf8b7ffddbe05b2c138&txTime=6a75f2ef"
+          "url": "https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=ee42cbacef5d4218653b9fb87ba3ae19&txTime=6a75f41b"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1786096799-0-0-f714f4db398d199cc7e03693f1a789a9"
+          "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1786097099-0-0-31ce0ebaf25a663701dde6c26fb544bb"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1786096799-0-0-74e1d53d3b3024a5d16b92f5210a99ea"
+          "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1786097099-0-0-2c8d2176cb0c5399c2371c00e598bac2"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1786096799-0-0-c1d88906b7f9f3b0020132a459fa6484"
+          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1786097099-0-0-076d33fec4312996851f84dc857b7447"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1786096799-0-0-015f32d4327bf5f362486d01b265cef7"
+          "url": "https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1786097099-0-0-7468862d8c4b8b47c1279c4205ed40af"
         }
       ]
     },
     {
       "id": "318013",
       "match_time": "1786094100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Terrafirma Dyip",
       "home_img": "https://sta.vnres.co/file/common/20260805/47841f54cb50d0222be9801158603871.png",
       "away_name": "NLEX Road Warriors",
       "away_img": "https://sta.vnres.co/file/common/20260805/999066cf9eb81fd8eb28d3b6e07d9d7b.png",
       "league": "PBGC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786097099-0-0-5a581f0e52ac5b25b436324088fa1fc8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786097099-0-0-816507b817634c4f9452a9dda8e040c6"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786097099-0-0-15b62874567744cf78f51bb34ca8e292"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786097099-0-0-ac329cad9325992514240ba47f8adc83"
+        }
+      ]
     },
     {
       "id": "317886",
