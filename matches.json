@@ -12,40 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=ca34cfa51dda757e13c45125553ddd78&txTime=6a788b63"
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=ddefa0c53cce7e7103a8ea59c1ac4b9e&txTime=6a788c8f"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=54417fce5fbaaee419fe868971126705&txTime=6a788b63"
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=eb5957ac4ddcdc8e4a7c9c871672a606&txTime=6a788c8f"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1786266899-0-0-3d7022417a38d3e3926beec3225cb4d4"
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1786267199-0-0-4b5c74013333dbaa920e5d787ffdb6d2"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1786266899-0-0-e5eae9578a719f77a2cd7ce3716b3c5e"
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1786267199-0-0-2c28fb269398ff681cd0a24fb78e63a6"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=efc2da55fa960119da05057faa09d281&txTime=6a788b63"
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=431feaa7a7f9ff9096484d2b81abd02a&txTime=6a788c8f"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=5f6d97f04d2e6fc3c3effe5dd527a410&txTime=6a788b63"
+          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=db9fe98a3c95c26ac36a3e367f7f63d5&txTime=6a788c8f"
         }
       ]
     },
     {
       "id": "318060",
       "match_time": "1786264200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "SKU Ertl Glas Amstetten",
       "home_img": "https://sta.vnres.co/file/common/20260806/c241e3eefdc0631b7006b97b15c7096b.png",
       "away_name": "Admira Wacker",
       "away_img": "https://sta.vnres.co/file/common/20260806/999ff2813d33d237308aa4e6905fcf41.png",
       "league": "AUT D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=192883da762084e454a607cc81b8ab9a&txTime=6a788c8f"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=0ec2d19417ed44ead81416d1a5714684&txTime=6a788c8f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1786267199-0-0-9cd4f9450f1ab256cd82b080fe288992"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1786267199-0-0-4d0fbd133767642cca26eb273ace8150"
+        }
+      ]
     },
     {
       "id": "318061",
