@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=bba9f4d4ece35cdf7353900722b4c467&txTime=6a78926b"
+          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=627d380fbe6135c2fd2d2fda61b709d2&txTime=6a789397"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=9d6994673e766f7a11d8dfcf3337b40e&txTime=6a78926b"
+          "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=bf690fbc0c63e6893b2a0f5c6778de10&txTime=6a789397"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1786268699-0-0-80b51c7bbbf4a785d12905b6d563ea17"
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1786268999-0-0-08f62fe67cc2bf69d2364ad44b190ea6"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1786268699-0-0-c10c1d7924262e5649cf9a6bb85293e7"
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1786268999-0-0-90656e980834dffb1662352c8385cfc1"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f0201eb8cdf99fb0aa8a06d8a40590b4&txTime=6a78926b"
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=621901080c45e2475f208f2c683cb1b9&txTime=6a789397"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=3cd7087ac542970ff24237a468ebd8ce&txTime=6a78926b"
+          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=f3c44fe7f472bdacec4f1d8ec621bee6&txTime=6a789397"
         }
       ]
     },
@@ -48,43 +48,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=633b43fc574ec4d949e2a4195b8feb87&txTime=6a78926b"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=4980f00a80f012212611d74358aba640&txTime=6a789397"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=506d972cba5326edeb1c02412cf3ebe1&txTime=6a78926b"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=b36ba30ff412da1d8bfe815c57e1fadc&txTime=6a789397"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1786268699-0-0-548b4812c6e61ec57a48ef8fc4bfabf0"
+          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1786268999-0-0-6c518698ee7c7029c3c7bab374a26fef"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1786268699-0-0-3aa180dfd13145640ad0a64b6133f642"
+          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1786268999-0-0-e3005b802375cafa87e2646f2c9db71e"
         }
       ]
     },
     {
       "id": "318061",
       "match_time": "1786266000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Tokyo Verdy",
       "home_img": "https://sta.vnres.co/file/common/20260806/0ce4a86ef58ec3437835129cce80cbe2.png",
       "away_name": "Kawasaki Frontale",
       "away_img": "https://sta.vnres.co/file/common/20260806/c6e364566c0f62d2f8f54d98ad0f39de.png",
       "league": "JPN D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1786268999-0-0-34b8907cf6946dadece6a3c963ff1849"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1786268999-0-0-e73cb54641d215ec50578db0aa9a5c30"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1786268999-0-0-bec9f1166b6722e2d3dd7f7e7e5dae63"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1786268999-0-0-49915923031149c59d15d516bd110edd"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=268d9e79800bd2e7e920d7af028f8eac&txTime=6a789397"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=1da2d24b5e74cce2a3fabdde14cfcec6&txTime=6a789397"
+        }
+      ]
     },
     {
       "id": "318062",
       "match_time": "1786266000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Iwaki FC",
       "home_img": "https://sta.vnres.co/file/common/20260806/afd95f5e1009c0d4555cb07b1b5c37f2.png",
       "away_name": "FC Imabari",
       "away_img": "https://sta.vnres.co/file/common/20260806/4b6364eeb7912d6623c557f6db421ab2.png",
       "league": "JPN D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=ac24ba0def5aa5919736de0233a237b0&txTime=6a789397"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=654e3f9b1ed811a0e2b37191987bb4ff&txTime=6a789397"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-620003_lhd.m3u8?txSecret=976c165ce18bea79596ef892c2f451b6&txTime=6a789397"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-620003_lsd.m3u8?txSecret=d18e29693c0adcdf4029892636446951&txTime=6a789397"
+        }
+      ]
     },
     {
       "id": "318139",
