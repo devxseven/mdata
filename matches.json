@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786254299-0-0-2225c29edd741d9e49bc623753b651bb"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786254599-0-0-a9f883f6f17dad3a5ee452213f465f0a"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786254299-0-0-408327f172924c2b7119f80dfd11080d"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786254599-0-0-b2ab137438f7e888fdbcf6a1450038fb"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1786254299-0-0-c079c7bf14e562213b28daf5902751fa"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1786254599-0-0-b99ad57bcfff79ce7683d1b6e77d57c6"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1786254299-0-0-361781d70d6d51d5bfa3562f0e5df8d4"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1786254599-0-0-9392a4b43c45f6479f4ba52c735f027d"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a419af16d8a8453296f7864ea9bd7c73&txTime=6a785a2b"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=1ef8058bfdb799105979ae169bd23bf9&txTime=6a785b57"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=b9702fd9cbaae619118d69276358584f&txTime=6a785a2b"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=bec2255dc4e689936ea56a428e52accc&txTime=6a785b57"
         }
       ]
     },
@@ -48,73 +48,173 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=6899f0a9bbe5f6b9591a6667e47f1a64&txTime=6a785a2b"
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=eca600e61eeae48277dafb83f78e65e1&txTime=6a785b57"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=5fc20aa3821f04948b33b74323047cb2&txTime=6a785a2b"
+          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=06b34d51272b1bca2d0bef387618ebb1&txTime=6a785b57"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a88702b8a25909398f113c5660180bf7&txTime=6a785a2b"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e0265a5cebccda11f23b81da4a485f83&txTime=6a785b57"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=74142b586b4eb9d1f385db8b521384a7&txTime=6a785a2b"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=aa1d22dfb9bb4eacb59c94b9c48fa731&txTime=6a785b57"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=2f667dea547311eae3cd8ca568ed8046&txTime=6a785a2b"
+          "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=cd66c903a0f02ee3f89057dd084b77ff&txTime=6a785b57"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=d8fc335c838c8abd7c9d21523a185092&txTime=6a785a2b"
+          "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=1a7f2de965e7be3ee4695dd592fd6264&txTime=6a785b57"
         }
       ]
     },
     {
       "id": "318055",
       "match_time": "1786251600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "SKA Khabarovsk",
       "home_img": "https://sta.vnres.co/file/common/20260806/e106433ec3ac0329e1d9c1ecb5b0d424.png",
       "away_name": "Spartak Kostroma",
       "away_img": "https://sta.vnres.co/file/common/20260806/74bce2de505d4447df0ced344b42c907.png",
       "league": "RUS D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=644de3e1bcb5d8acfa7cd206206b0d35&txTime=6a785b57"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-619672_lsd.m3u8?txSecret=702afa3997b4ce76a55b1a32b1f0eee6&txTime=6a785b57"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1786254599-0-0-8f20e68dd9be3951e8a71e6641efb45e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1786254599-0-0-87b1d182b695a0d52b6acbcab39f37d2"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-400722_lhd.m3u8?txSecret=b7b43b55ce20b2f0f16d9c91ea137fdc&txTime=6a785b57"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-400722_lsd.m3u8?txSecret=f8addd0ee43a35459ce827ec9512383a&txTime=6a785b57"
+        }
+      ]
     },
     {
       "id": "318056",
       "match_time": "1786251600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Wollongong Wolves",
       "home_img": "https://sta.vnres.co/file/common/20260806/3abf49020c32ef09c9e8ee7c68358f5c.png",
       "away_name": "Sydney United 58 FC",
       "away_img": "https://sta.vnres.co/file/common/20260806/8e561a43c3cd3c940ff741a96857b96e.png",
       "league": "AUS NSW",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=5c06126afc22f3ac1b34448a36044146&txTime=6a785b57"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=9a1ee14951b975640f297cdcf0ee9cd5&txTime=6a785b57"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=5b4ef72073e8d009c6cfd07da5d4b07c&txTime=6a785b57"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=5867a84ee3b9cbcf18b3b82de96bf3bb&txTime=6a785b57"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=2e143b903143223ae1ec2c4cf845220e&txTime=6a785b57"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=fbee2229224d7dc909c6d5b1fd81749c&txTime=6a785b57"
+        }
+      ]
     },
     {
       "id": "318057",
       "match_time": "1786251600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Canberra Juventus",
       "home_img": "https://sta.vnres.co/file/common/20260806/dc026a0d6f5e543b37e09a5faf87cb97.png",
       "away_name": "Canberra White Eagles",
       "away_img": "https://sta.vnres.co/file/common/20260806/09b1946d6e66dc1ba278998199c4f804.png",
       "league": "AUS CGP",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-620003_lhd.m3u8?txSecret=a91b97357736f515fb860b568a48d793&txTime=6a785b57"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-620003_lsd.m3u8?txSecret=e679f2c6d5a17c90b69de8367066a547&txTime=6a785b57"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=02fa984a5bcc8aa4db594c2c83f40b83&txTime=6a785b57"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=eecbfb308692bd77773a070a59b14e8d&txTime=6a785b57"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1786254599-0-0-10a1f8fae401a9195814a21bc276041d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1786254599-0-0-8761cd076c9be650976ba53d8b78325f"
+        }
+      ]
     },
     {
       "id": "318058",
       "match_time": "1786251600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Charleston City Blues",
       "home_img": "https://sta.vnres.co/file/common/20260806/94ff8d867864dfd24403c0c06e09cac0.png",
       "away_name": "Maitland",
       "away_img": "https://sta.vnres.co/file/common/20260806/889d6727ecb1b8572bc9a30639b39cfd.png",
       "league": "AUS NNSW",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=3f97172ba59d4630cbab0c3dbf2378dd&txTime=6a785b57"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=56ac460713d82bf5c4a5de0ecc6d6f98&txTime=6a785b57"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=710c6a2f592c5366078a5ba9ded63162&txTime=6a785b57"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=d824f8ed0ddbfb19ae8f39750c19035c&txTime=6a785b57"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1786245872-0-0-c87b4e687dd856237aebd95f4f1dfb60"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1786245872-0-0-cdd9fa13b7529cefd17fd524cb9110a6"
+        }
+      ]
     },
     {
       "id": "318059",
