@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=063ffd668c7cd1b647f0b285ab9595c1&txTime=6a7a2a3b"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=65ecf2884049342f26aab1a69763d467&txTime=6a7a2b67"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=a5fece408cf2ff58f9b9c024272f88c1&txTime=6a7a2a3b"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=fa5fcc104afc587346d186352c765236&txTime=6a7a2b67"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=cf67006bf491a2ed1cbe5227938688bd&txTime=6a7a2a3b"
+          "url": "https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=7e4c5ceef0215dc70ebec3925b466ceb&txTime=6a7a2b67"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=9df597404eed5e6a110a36fe8d90773f&txTime=6a7a2a3b"
+          "url": "https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=14fcafd88ff6775e4f2097cd8b753487&txTime=6a7a2b67"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-622602_lhd.m3u8?auth_key=1786373146-0-0-0a418b2acec8b6f73ce8ea760d1b9c13"
+          "url": "https://pull.niur.live/live/stream-622602_lhd.m3u8?txSecret=bf1ca425b94ca250fe2f8e592dbbb53b&txTime=6a7a2b67"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-622602_lsd.m3u8?auth_key=1786373146-0-0-170617c16d90a1a702d04dbee8501200"
+          "url": "https://pull.niur.live/live/stream-622602_lsd.m3u8?txSecret=4fd24bcb150aa158375b3fde7585af4f&txTime=6a7a2b67"
         }
       ]
     },
     {
       "id": "318127",
       "match_time": "1786370400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC Gomel B",
       "home_img": "https://sta.vnres.co/file/common/20260807/06d019b8d16092d603e24fbe23b6f2e5.png",
       "away_name": "Shakhtyor Soligorsk",
       "away_img": "https://sta.vnres.co/file/common/20260807/79f3d7d72df603845f9d07bf06d14bb7.png",
       "league": "BLR D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=df38d738fdc52077c20b0c76ff6a9b94&txTime=6a7a2b67"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-619672_lsd.m3u8?txSecret=0323c639a55e5bef118fedf57368b8c7&txTime=6a7a2b67"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1786373399-0-0-1fcb97db54bb7ce9afd6603d849e3754"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1786373399-0-0-0f520e42fe3e14a51bb0b4d4fef4d1f3"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=fb8395f494f292bdf1394f6d3be36b60&txTime=6a7a2b67"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=22a7b005e0a5a3d26963bde5e487e7c4&txTime=6a7a2b67"
+        }
+      ]
     },
     {
       "id": "318128",
