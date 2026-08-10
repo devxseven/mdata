@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786355099-0-0-65c3a3988b01e35d03d06df6ac57792e"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786355399-0-0-cba328a8ac4fe39622a27286ffa12ad9"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786355099-0-0-bcf5a4efafe5f3775a62a67175e8b3f3"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786355399-0-0-80bfe85087167dc049ae13af50fef852"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786355099-0-0-e42442683412ea36dd2207a759259067"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786355399-0-0-a3ca943cfa4b664bf102719d0c94c130"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786355099-0-0-8857a16641c4db07a85012436945fd02"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786355399-0-0-1b00a237a464f544618b57682b1a7d32"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c8d9b09df3bbaea3c72ed42de2b536e8&txTime=6a79e3eb"
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=a1bd17748ec08410c930507d77ebe03f&txTime=6a79e517"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=6f499bf9f97aed388f151388f3cf7c80&txTime=6a79e3eb"
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=412a051d06c082b3dff1fe688baecdab&txTime=6a79e517"
         }
       ]
     },
     {
       "id": "318183",
       "match_time": "1786352400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Marikina Shoemasters",
       "home_img": "https://sta.vnres.co/file/common/20260808/7435395eb75b9f62e3bcdf3c344887d8.png",
       "away_name": "Mindoro Tamaraws",
       "away_img": "https://sta.vnres.co/file/common/20260808/4251a4f7ba8d7e0080632cfca9500505.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786355399-0-0-cba328a8ac4fe39622a27286ffa12ad9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786355399-0-0-80bfe85087167dc049ae13af50fef852"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786355399-0-0-a3ca943cfa4b664bf102719d0c94c130"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786355399-0-0-1b00a237a464f544618b57682b1a7d32"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=a1bd17748ec08410c930507d77ebe03f&txTime=6a79e517"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=412a051d06c082b3dff1fe688baecdab&txTime=6a79e517"
+        }
+      ]
     },
     {
       "id": "318184",
