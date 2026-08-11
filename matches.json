@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=3e22e1ef3594a5bc65f5d74d1dd0a454&txTime=6a7b97db"
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=d978d4aa17fc833d72e971a38fd5e621&txTime=6a7b9907"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=271f32806145dce9183fb59f67ff4e21&txTime=6a7b97db"
+          "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=68899e0b0fc0eadc6c076f9a0f23fbbc&txTime=6a7b9907"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=72038aad4c424585f9f1e011e186084c&txTime=6a7b97db"
+          "url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=844400e9e785ef86a8d93f8c12b82d97&txTime=6a7b9907"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=cbc115179c85fce10594e798fca4b884&txTime=6a7b97db"
+          "url": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=1a80291c293feea4dd20293040acf5fd&txTime=6a7b9907"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=248170f69c813a950e38f22bad7370a2&txTime=6a7b97db"
+          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=f1029c584874e679746a8138d9c9849f&txTime=6a7b9907"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=e05bf012af717f4916eaa4a70ae36453&txTime=6a7b97db"
+          "url": "https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=d84aebfca00443321c41c9791367b3b5&txTime=6a7b9907"
         }
       ]
     },
@@ -48,73 +48,173 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1786466699-0-0-ca22603f5b2ef1106dd90b18179ec733"
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1786466999-0-0-63f4af16df8645aee90d5bd5c24e4f9c"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1786466699-0-0-c5fcc5e94ac32e3a07c0c65ead17a68b"
+          "url": "https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1786466999-0-0-8e2b02c87b1d5cce76c9212ca4c55bab"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1786466699-0-0-0341ab1a2f5b939680229543b39d742a"
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1786466999-0-0-ccc0dd0765ee43af13133ef4b3ab89a2"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1786466699-0-0-fdf944a3ff623f5dbb8c4d496a1dca56"
+          "url": "https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1786466999-0-0-0b265faab46e515033c097a8e1416ca7"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=13d95683636e2de9b3efc0b1ca9806be&txTime=6a7b97db"
+          "url": "https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=d0d1290137e2b8259e01d930a58ff15c&txTime=6a7b9907"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-511367_lsd.m3u8?txSecret=c3ceb496a2d24c74c80025dad45c3e01&txTime=6a7b97db"
+          "url": "https://pull.niur.live/live/stream-511367_lsd.m3u8?txSecret=c297df44adfc48f7066b9cbe675b33ad&txTime=6a7b9907"
         }
       ]
     },
     {
       "id": "318176",
       "match_time": "1786464000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC Iberia 1999 Tbilisi",
       "home_img": "https://sta.vnres.co/file/common/20260808/fa954656b7a6881c91ac869a590c43e6.png",
       "away_name": "Larne FC",
       "away_img": "https://sta.vnres.co/file/common/20260808/c1a393bb366a6f9f88af70a14d05cf53.png",
       "league": "UEFA Europa League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1786466999-0-0-9f43c89e97e326130ad4d9bbc7783707"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1786466999-0-0-62d705057693480fb4f6e17e7dc32620"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=a50cb1d0c042a9a14e2dd0b17eacf5e0&txTime=6a7b9907"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-620504_lsd.m3u8?txSecret=45062f206e4083afa78f70577bba37df&txTime=6a7b9907"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=0ef1bafd6cfd1e62b9b2efc2fe33e173&txTime=6a7b9907"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=c74d9930510f6cb929cfad64c5deadf0&txTime=6a7b9907"
+        }
+      ]
     },
     {
       "id": "318177",
       "match_time": "1786464000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Sabah Baku",
       "home_img": "https://sta.vnres.co/file/common/20260808/5a3d4b018829970dd6fb8aa68f157a0a.png",
       "away_name": "Aarhus AGF",
       "away_img": "https://sta.vnres.co/file/common/20260808/0ac547a131920fad57a4d441dce3835e.png",
       "league": "UEFA Champions League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=89b40009782b54e958bddfdf475d5d86&txTime=6a7b9907"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=931051fdb5cf64018c10050457f86a5b&txTime=6a7b9907"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1786466999-0-0-045e870afa539abe82ecb1a2403a34fb"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1786466999-0-0-b67ea6c4333dfd92445e7375247ddc66"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1786466999-0-0-a19c05343d586a6883d870d68f427f27"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1786466999-0-0-cb594afd147c0c7982a3adec283a8d43"
+        }
+      ]
     },
     {
       "id": "318178",
       "match_time": "1786464000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Bodo Glimt",
       "home_img": "https://sta.vnres.co/file/common/20260808/356b7407d07186d3e30949d901059d0b.png",
       "away_name": "Union Saint-Gilloise",
       "away_img": "https://sta.vnres.co/file/common/20260808/69ac74fc5fff88f6f7843499f9c5cce0.png",
       "league": "UEFA Champions League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1786466999-0-0-4a77fd2f900eccb1ed22ab02c955a7ad"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1786466999-0-0-3bb64d1860b0de95479180894e3414a3"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=bd08f068254084e022f0d7025c19a9fa&txTime=6a7b9907"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=648aa98d3e08eeb448b474c14e090e65&txTime=6a7b9907"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1786466999-0-0-9e57228eaad26a28b7fd25ee1998aec9"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1786466999-0-0-1031ebde3db648bf481a57b5ba1321e1"
+        }
+      ]
     },
     {
       "id": "318179",
       "match_time": "1786464000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Al-Jazira(UAE)",
       "home_img": "https://sta.vnres.co/file/common/20260808/4889413f640d766070a02f73bdb25ab9.png",
       "away_name": "Al Ittihad",
       "away_img": "https://sta.vnres.co/file/common/20260808/868aed3a703319527781f60bf6c12ce9.png",
       "league": "AFC Champions League Elite",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1786466999-0-0-9cf41a87ced6cab49986fe5e4e4faf64"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1786466999-0-0-25ccb01fe491ee5c85f3c7145dd05f0e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0debc09258f4d8a5ef880f5e6846788e&txTime=6a7b9907"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=6c549dbe267baaae47770750c8746bf2&txTime=6a7b9907"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1786466999-0-0-6da9a7a2c747f58e055b6bc6478e46be"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1786466999-0-0-a2573ed7da0a7072de32ac37f86a591b"
+        }
+      ]
     },
     {
       "id": "318185",
