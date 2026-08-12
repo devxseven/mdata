@@ -3,35 +3,110 @@
     {
       "id": "318217",
       "match_time": "1786550400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC Copenhagen",
       "home_img": "https://sta.vnres.co/file/common/20260809/a5c2ca5819b3cc290ad0e6c725b29bff.png",
       "away_name": "Debreceni VSC",
       "away_img": "https://sta.vnres.co/file/common/20260809/798db8c714d20a693232e74882ccb19c.png",
       "league": "UEFA Conference League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=207757d16636b0eaec6c391eb697388f&txTime=6a7cea87"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912015_lsd.m3u8?txSecret=2403d5be39a7c3de2de7b73e0c481281&txTime=6a7cea87"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1786553399-0-0-07b7a02088c0a73349c461cdee6960da"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1786553399-0-0-1276f48774cfe1085abf1cb5f9945b10"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1786553399-0-0-ce9a8d0dc370b855b18351beeca8f1c7"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1786553399-0-0-e8e747da1447dc497ebb73db8be352e0"
+        }
+      ]
     },
     {
       "id": "318218",
       "match_time": "1786550400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "GKS Katowice",
       "home_img": "https://sta.vnres.co/file/common/20260809/61bc5cb2afbf52ca87e12c2f0b511aac.png",
       "away_name": "Hapoel Tel Aviv",
       "away_img": "https://sta.vnres.co/file/common/20260809/f651b724d2128a2f63fc6b047d8ed185.png",
       "league": "UEFA Conference League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1786553399-0-0-02918a331fbb23c3276059eadced884a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1786553399-0-0-3b1d4cccf04c55448e5d50a42a12b299"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-620003_lhd.m3u8?txSecret=5b36130260786aebd541259fc24f215c&txTime=6a7cea87"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-620003_lsd.m3u8?txSecret=2c494551ead7c6bb7f37185b768307d9&txTime=6a7cea87"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-620649_lhd.m3u8?auth_key=1786553399-0-0-b4bb5d48a20cc1d8f37c9ab56887353b"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-620649_lsd.m3u8?auth_key=1786553399-0-0-d38c78f9d308f2350351fd05ae1fc3f7"
+        }
+      ]
     },
     {
       "id": "318219",
       "match_time": "1786550400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "SK Rapid Wien",
       "home_img": "https://sta.vnres.co/file/common/20260809/d83ec2661946a318ba9bca67b86626ba.png",
       "away_name": "Paide Linnameeskond",
       "away_img": "https://sta.vnres.co/file/common/20260809/77cd4039d9dc27bfc6b5548a4d31cf42.png",
       "league": "UEFA Conference League",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=3411a2ff460fa46e8471189fd11478e4&txTime=6a7cea87"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-620504_lsd.m3u8?txSecret=c87a1315280cc2be294f7e0385860a2c&txTime=6a7cea87"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=747bab4f5ceae2f505a7232642e1bb0f&txTime=6a7cea87"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-622093_lsd.m3u8?txSecret=c24a5720857d82d1bc38e80774d06ee2&txTime=6a7cea87"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1786553399-0-0-f6d7ef09ed18308774fe2da1437dc95f"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1786553399-0-0-cb1ded2c99b0c9fb1b7552cb215b72f6"
+        }
+      ]
     },
     {
       "id": "318220",
