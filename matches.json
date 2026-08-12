@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=94d9c3c7bebbcfe242c2ced5c23dd206&txTime=6a7c8a6f"
+          "url": "https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=9ca27abd042ac51cc4ae4b5f5578851a&txTime=6a7c8b9b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=ebe0a3feba8e5f36a6a0233b58380770&txTime=6a7c8a6f"
+          "url": "https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=589a60bc00376eb46d241bc466e91f5a&txTime=6a7c8b9b"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=e0cda0b52149875c69c40da2419ed664&txTime=6a7c8a6f"
+          "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=ed4d13525013d9071b1af86fa03be67b&txTime=6a7c8b9b"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-620504_lsd.m3u8?txSecret=53c0f1a464764429747ca897745c5d0a&txTime=6a7c8a6f"
+          "url": "https://pull.niur.live/live/stream-620504_lsd.m3u8?txSecret=4ab42aef62bc185e5000c103f86f82a8&txTime=6a7c8b9b"
         }
       ]
     },
@@ -40,32 +40,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1786528799-0-0-dc866747fc46bc561040ade51c7134aa"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1786529099-0-0-07be90f8b202f0c3d42b5a0da6d5483b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1786528799-0-0-ed7c8340a54b456b375e4c7b0a901355"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1786529099-0-0-924d9d54bc15d228b3ce3762610b0249"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1786528799-0-0-1ff2516684631ec930cbf39b4d4f61f6"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1786529099-0-0-49e0a8ed14bab067065f0f4a6400a75e"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1786528799-0-0-4bc73ae2e2f9eac62990f74ddc524430"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1786529099-0-0-ddefdee016245eb684399040fcb322d0"
         }
       ]
     },
     {
       "id": "318267",
       "match_time": "1786526100",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Titan Ultra Giant Risers",
       "home_img": "https://sta.vnres.co/file/common/20260810/a6d6d009a150954ff35bf0a8c46ce6a7.png",
       "away_name": "San Miguel Beermen",
       "away_img": "https://sta.vnres.co/file/common/20260810/b06798945810bdca3fcb3962f511e399.png",
       "league": "PBGC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786529099-0-0-6ed2d7a2ccc96f6fd85e0a692e234f32"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786529099-0-0-02e17169753ed285502629692e2615af"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=1ce74187b8af5a0f4525aef98b381e08&txTime=6a7c8b9b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=94db0fad572e0266da07ac708bba4051&txTime=6a7c8b9b"
+        }
+      ]
     },
     {
       "id": "318211",
