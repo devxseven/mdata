@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f4e7e9144effcf90bbf599d6c80cfcf1&txTime=6a7e1ebb"
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=47a62921fc9d7ab6555ba8be65d1ae06&txTime=6a7e1fe7"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=977b760fcd9b585ce665cf5082e5c069&txTime=6a7e1ebb"
+          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=1d7d87024e7e0862c9cfd9acb21c6a34&txTime=6a7e1fe7"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1786632299-0-0-e65c29fc901a43c4270e9c80a6ab486d"
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1786632599-0-0-58f33998621ef754bf578572aea9d351"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1786632299-0-0-e69b8b1c8f35d7f65c232ef359272fc5"
+          "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1786632599-0-0-0e14f506d0763c59f537647f5b926c5c"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=bf2fdf98ed99b9c2cbdadc242b6ca1f1&txTime=6a7e1ebb"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=bea8ec6fb254aa25557d97fff688c45b&txTime=6a7e1fe7"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=7e413034c71cc4ccfd32118a496d8e3d&txTime=6a7e1ebb"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=78bbe2997758d17dd25dcaddfd00cb62&txTime=6a7e1fe7"
         }
       ]
     },
@@ -48,62 +48,129 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-620649_lhd.m3u8?auth_key=1786632299-0-0-19c91a8fb1de12d0c16522895b483fb0"
+          "url": "https://pull.niues.live/live/stream-620649_lhd.m3u8?auth_key=1786632599-0-0-ddf7b8fb2aa4ba2be3ba16b72393cd4f"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-620649_lsd.m3u8?auth_key=1786632299-0-0-ff5204c653c1e6d81b8becde2c92d409"
+          "url": "https://pull.niues.live/live/stream-620649_lsd.m3u8?auth_key=1786632599-0-0-32f3d3a0649cc245fcf7fc156938ab7a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1786632299-0-0-16eeb5bbe2fcf9f5a97399c05e738944"
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1786632599-0-0-cc729204693cede8492528f96bd56182"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1786632299-0-0-cc3ceaa6ff42b6a769fd0f346b3c4418"
+          "url": "https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1786632599-0-0-083365a84409b1d91fcc78232e41d31c"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1786632299-0-0-5f4abe213c5ecf2b3e1a2a21151e8f5e"
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1786632599-0-0-259e814648bd58beebb13e854c0ddc3a"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1786632299-0-0-6acea04247413ae071de654940756aaa"
+          "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1786632599-0-0-b7936591815bbb92c839c9bfe7f900b9"
         }
       ]
     },
     {
       "id": "318253",
       "match_time": "1786629600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FK Andijon",
       "home_img": "https://sta.vnres.co/file/common/20260810/7854d176f6d7ab50e35b743a7319f194.png",
       "away_name": "Neftchi Fergana",
       "away_img": "https://sta.vnres.co/file/common/20260810/1edb6d6ce2633c343d1948f60bc830d9.png",
       "league": "UZB PFL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1786632599-0-0-d8dd0b9a7983c0a62a0d832c8049ae11"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1786632599-0-0-7bb7f571f127ed07ebf9c8789e74bd53"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=d946d601252b39807cd529fe21cbc119&txTime=6a7e1fe7"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=8e356d300e4524213a829878ed90890a&txTime=6a7e1fe7"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1786632599-0-0-ccd98b10d91c0ba74be65f94f72a7606"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1786632599-0-0-dfa6107fa2fa925c31b60d1a79ab071a"
+        }
+      ]
     },
     {
       "id": "318254",
       "match_time": "1786629600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Termez Surkhon",
       "home_img": "https://sta.vnres.co/file/common/20260810/5667d0808578eaf2e70bafabcf37e024.png",
       "away_name": "Sogdiana Jizak",
       "away_img": "https://sta.vnres.co/file/common/20260810/fdbfb9129d4c71bd01e99d94dc885916.png",
       "league": "UZB PFL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1786632599-0-0-f31e645b3566ee5cc272add011f537cc"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1786632599-0-0-e61edcca3bfb4890ea90ac2a9767d370"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=130f1ae374a97e97520242ab0c3a2e13&txTime=6a7e1fe7"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-511367_lsd.m3u8?txSecret=406ca5accad573b3c9919b1b0f955d15&txTime=6a7e1fe7"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-618546_lhd.m3u8?txSecret=94974e9cfd0da38787241ccf3f030871&txTime=6a7e1fe7"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-618546_lsd.m3u8?txSecret=486b0553c2d8882b0ae5353f9c2fdd6d&txTime=6a7e1fe7"
+        }
+      ]
     },
     {
       "id": "318255",
       "match_time": "1786629600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Astana B",
       "home_img": "https://sta.vnres.co/file/common/20260810/0bf3cfdd63e76ab2bd3de9e810faf385.png",
       "away_name": "Tobol Kostanai B",
       "away_img": "https://sta.vnres.co/file/common/20260810/7532627ff85000dc6a6043479eb8e3a5.png",
       "league": "KAZ D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1786632599-0-0-a97f83b8696326ebe18bbc82a0f49d2e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1786632599-0-0-01af84f38cd8bad2f438a174ebe68a37"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=171a7e2c3800e5001c2f7c9884327a04&txTime=6a7e1fe7"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-620504_lsd.m3u8?txSecret=2794dd95017c116613846c26a2dacbfb&txTime=6a7e1fe7"
+        }
+      ]
     },
     {
       "id": "318256",
