@@ -40,40 +40,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=a4c0c6f8f18705954869c309739951e5&txTime=6a7e10ab"
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ba2cef304d1ebca4ceb3ea72c84597d3&txTime=6a7e11d7"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=04ac3bfb67f15914ee1f74fc1bfb8485&txTime=6a7e10ab"
+          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=d53dbb8d469a9b6bd48f13fe88ef25c7&txTime=6a7e11d7"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1786628699-0-0-faa2f9e079e41c2885aef4c8cc49645a"
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1786628999-0-0-10aef355b1fc162a5110f1bf9ac39365"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1786628699-0-0-585349fbaca6d88506926165951c4562"
+          "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1786628999-0-0-d477ced3a71ae94ffce2c221ff207cc5"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1c8cd01cc4627cd8d02affa9cff240f5&txTime=6a7e10ab"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e92b7494515fa8438bbf1a1885d3fc49&txTime=6a7e11d7"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=1857bcbaef9904bd7294beafd536fc43&txTime=6a7e10ab"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=43f9e5a971e498701bee86e875c44a45&txTime=6a7e11d7"
         }
       ]
     },
     {
       "id": "318252",
       "match_time": "1786626000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FK Aktobe II",
       "home_img": "https://sta.vnres.co/file/common/20260810/6675aa16067480370befa1ea0c288cdc.png",
       "away_name": "FC Shakhtyor Karagandy",
       "away_img": "https://sta.vnres.co/file/common/20260810/7a440d72b9017b0866588c68c43dfb41.png",
       "league": "KAZ D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-620649_lhd.m3u8?auth_key=1786628999-0-0-8d04c929039bcaa618038fd414ef6f87"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-620649_lsd.m3u8?auth_key=1786628999-0-0-6c124e9b145459c6d3fa5f6e63588698"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1786628999-0-0-f2915c75cdfc00a25b72105130b728dd"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1786628999-0-0-a2b87e7e7259f64f6516c17b42898fdf"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1786628999-0-0-9342c7306a94857c8147028ae7bfc907"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1786628999-0-0-b0080b047f380915ec3585dcb5d9185f"
+        }
+      ]
     },
     {
       "id": "318253",
