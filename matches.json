@@ -3,13 +3,38 @@
     {
       "id": "318481",
       "match_time": "1786698900",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Converge FiberXers",
       "home_img": "https://sta.vnres.co/file/common/20260812/09ef6bb7e0cdf3befa5ab2a15d2fc301.png",
       "away_name": "NLEX Road Warriors",
       "away_img": "https://sta.vnres.co/file/common/20260812/d6fa322f38a5084f8586f3db1531438a.png",
       "league": "PBGC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=7028c0924f3aef398befa279e5ce5b04&txTime=6a7f2e9b"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=49419e319ab47f20c06f81a14e336d50&txTime=6a7f2e9b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1786701899-0-0-144e20086178e272262a230d3a042c55"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1786701899-0-0-54faa7c0e8b88d9f78f98abbaf011ee6"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1786701899-0-0-071fb88e75fa870ba7349a1c3643603a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1786701899-0-0-47fe5a2fb73ec2ef48b66d1ae46d9928"
+        }
+      ]
     },
     {
       "id": "318299",
