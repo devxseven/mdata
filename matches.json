@@ -3,13 +3,30 @@
     {
       "id": "318334",
       "match_time": "1786743000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Real Monarchs",
       "home_img": "https://sta.vnres.co/file/common/20260811/4fe3547dc3528958d29d45c9e4cb484a.png",
       "away_name": "MINNESOTA United B",
       "away_img": "https://sta.vnres.co/file/common/20260811/ae6580bac2ac2645597b759c388e1958.png",
       "league": "USA MLSRv",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=778c0afe9693251d78406c55d773ec34&txTime=6a7fdadf"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=102ed832ef20acc7583cf4aeec5ca006&txTime=6a7fdadf"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=3edb140afb7746d6f726f2099cccd67c&txTime=6a7fdadf"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=08923e9e44655ce2f57510d6a0e08010&txTime=6a7fdadf"
+        }
+      ]
     },
     {
       "id": "318335",
