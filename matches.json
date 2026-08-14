@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1786751099-0-0-03cca9dc246da0ff12aa4f2bd6c32621"
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1786751399-0-0-9e59d75d320508c18a21e62641b85c2b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1786751099-0-0-33b5bc49f1796ceb88cbda973779425a"
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1786751399-0-0-e52f332b8b44c3661304d0491d05a704"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-560690_lhd.m3u8?txSecret=923f991d42af034fd5d539d7d1091114&txTime=6a7feecb"
+          "url": "https://pull.niur.live/live/stream-560690_lhd.m3u8?txSecret=59f79d025694aaf75b33aaadd213208b&txTime=6a7feff7"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-560690_lsd.m3u8?txSecret=585f4699b5a3bca125749f26d4ce6f94&txTime=6a7feecb"
+          "url": "https://pull.niur.live/live/stream-560690_lsd.m3u8?txSecret=7470ae6eaa07ad7fb045792a7f61daa0&txTime=6a7feff7"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d184c87cc615708114576772406e6993&txTime=6a7feecb"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=df6c8f7775c99935a20f0f2a718e803e&txTime=6a7feff7"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=06d88bae11c30c9f1074340935f5f974&txTime=6a7feecb"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=ace755d70e3e0d0846ea676f1e08fa59&txTime=6a7feff7"
         }
       ]
     },
@@ -48,40 +48,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=bb7e884c2e0aad05091e9d06f3b874b3&txTime=6a7feecb"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=e9c9610008223dc7fafb89503c21637b&txTime=6a7feff7"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=3ef462fb73db90e7ab2ec8c1187aa5ff&txTime=6a7feecb"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=87b845bdeab851b766383537bb185b96&txTime=6a7feff7"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1786751099-0-0-0e6bd50b4af4a1aa57738c4eddd9c84b"
+          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1786751399-0-0-5463580361e424e5368521df4b51eb2d"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1786751099-0-0-771ce53774127cbdf69dfbfa7ddcb97c"
+          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1786751399-0-0-5ab5f7504253ca1295b6863792df4718"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=f3fda3177ed6d8e60919c25cb2e79869&txTime=6a7feecb"
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=4a8ff1f6a2eabc25c67bf77123e9f502&txTime=6a7feff7"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=e0a950f02f28be32d25a49549e441176&txTime=6a7feecb"
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=b5f0f98dc9198c4b705634f251f7afcc&txTime=6a7feff7"
         }
       ]
     },
     {
       "id": "318337",
       "match_time": "1786748400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Universidad de Concepcion",
       "home_img": "https://sta.vnres.co/file/common/20260811/94fe64679cdca6ff12cc8b59a9e085e7.png",
       "away_name": "Deportes La Serena",
       "away_img": "https://sta.vnres.co/file/common/20260811/981f188bd8abdbe9a79646c7c5c55429.png",
       "league": "CHI D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1786751399-0-0-270311d4fb908052f74cb96755953e84"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1786751399-0-0-9c4769789857a8c379aac9543bf5c825"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=a9483d892b42927b2846b771b226f538&txTime=6a7feff7"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=948231fc61116d736221574bf52fc313&txTime=6a7feff7"
+        }
+      ]
     },
     {
       "id": "318339",
