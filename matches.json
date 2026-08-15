@@ -12,43 +12,77 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=1ae27fba7aac98647be7678e299697a2&txTime=6a81323c"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=1a0affa33379d395bb3da09b4a31f3ea&txTime=6a813367"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=50eb715ea460421f777561cb5ebcd0a7&txTime=6a81323c"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=042b73b7f97fd1d61783559bc8bac6ca&txTime=6a813367"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1786833900-0-0-36326992e7690d07441dd05d60bc48db"
+          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1786834200-0-0-82f4498e431a8bbce57727e42a594f56"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1786833900-0-0-0a6a6f4e330f79569d97a5544d3551af"
+          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1786834200-0-0-b7c69753d86c1debe9d8b6e54b09e787"
         }
       ]
     },
     {
       "id": "318415",
       "match_time": "1786831200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Belgrano",
       "home_img": "https://sta.vnres.co/file/common/20260812/31f8d49c37fd7c0af95e8606ee8c2c0e.png",
       "away_name": "Independiente Rivadavia",
       "away_img": "https://sta.vnres.co/file/common/20260812/b78eaffe5c4b0dad0f8f87bc643ff527.png",
       "league": "ARG D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1786834199-0-0-ecdf5dd84b44a40570bdd3a094448a20"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1786834199-0-0-74a546566544a90dcf2ef2c3c67cb6cd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-560690_lhd.m3u8?txSecret=cf4620e1097612611433eaf9c4687346&txTime=6a813367"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-560690_lsd.m3u8?txSecret=fcd3bde433798e33e4c056172583b46b&txTime=6a813367"
+        }
+      ]
     },
     {
       "id": "318416",
       "match_time": "1786831200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Club Atlético Newell's Old Boys",
       "home_img": "https://sta.vnres.co/file/common/20260812/788bedd6d7631bf2ead958ae82013c41.png",
       "away_name": "Deportivo Riestra",
       "away_img": "https://sta.vnres.co/file/common/20260812/773d9c63688f680253d5ac6661761dcc.png",
       "league": "ARG D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=3a004276afed19a87c5959d130a551ba&txTime=6a813367"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=32c2949ba93727d3db1aba36e8485162&txTime=6a813367"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=d2e4242aef7f166036ed9b8308512b4e&txTime=6a813368"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=a6fc6e1dedf986f248a9257bd2a93c59&txTime=6a813368"
+        }
+      ]
     },
     {
       "id": "318497",
