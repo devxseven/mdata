@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1786873500-0-0-54f96d9c43296995bd8a943506edb665"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1786873800-0-0-d7e25bfe44cca05a2cdba19945fd66ff"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1786873500-0-0-520faecf90fce28b23a5e57326cff6ec"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1786873800-0-0-0712ed0d53e40f9f8b9cd1d27be40698"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786873500-0-0-2d1779d494e280f952f9c5e586cd1b6e"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786873800-0-0-69de79ab27a0682822e878574d602053"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786873500-0-0-18708077b37072d29ca32fbf7aafc6d5"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786873800-0-0-6b9ae19b39146fd73a4b0e760f4582ab"
         }
       ]
     },
@@ -40,40 +40,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1786873500-0-0-25bc001e9088fc2227a6741f380623f3"
+          "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1786873800-0-0-abbd424670778a315aeeedfdb132ea52"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1786873500-0-0-36dead1113e88b519111e8717ae03e06"
+          "url": "https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1786873800-0-0-633b43b4e22f87c07740f605746e29cc"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1786873500-0-0-ebc1c74e7de1369cb79298330cca0e26"
+          "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1786873800-0-0-fdc7d175cf422dae18b3ccc8514b20cb"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1786873500-0-0-1ccf4effdfbd5bea06de28b83ece50e9"
+          "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1786873800-0-0-a9142f2603ed47a10cc6d13841a3d732"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1786873500-0-0-456d2f7e26f7ece94cb7779a90c0385b"
+          "url": "https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1786873800-0-0-90e321a34a3df020444af66e6aa0fce0"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1786873500-0-0-957bb4d53a98022441f9ad59f2056bce"
+          "url": "https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1786873800-0-0-a43d1c299c898c9ad7378b48babe8a9f"
         }
       ]
     },
     {
       "id": "318446",
       "match_time": "1786870800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Yokohama FC",
       "home_img": "https://sta.vnres.co/file/common/20260812/cb51e34a14e1f7f86597ea16ccf8a790.png",
       "away_name": "Jubilo Iwata",
       "away_img": "https://sta.vnres.co/file/common/20260812/65145a40a303c8a5b4d84fda16ebb0ae.png",
       "league": "JPN D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=b26a9c437b01cc6f622fcc1c4e8746e0&txTime=6a81ce18"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=554bb7ea8396fd230bd78df74b05b7f0&txTime=6a81ce18"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=e999deb9e547ecbd2af2167fe9b6794e&txTime=6a81ce18"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=28aee79c69f87c2a6368909790f44385&txTime=6a81ce18"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1786873800-0-0-87a261b7ffc02d29737cf35793e87a0d"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1786873800-0-0-a22d8035ced00633635c61d4f7e67d67"
+        }
+      ]
     },
     {
       "id": "318447",
@@ -513,17 +538,6 @@
       "away_name": "Mantova",
       "away_img": "https://sta.vnres.co/file/common/20260814/9916e3d580ffdb81692bd29817fcf339.png",
       "league": "Coppa Italia",
-      "links": []
-    },
-    {
-      "id": "318513",
-      "match_time": "1786908600",
-      "match_status": false,
-      "home_name": "RC Celta",
-      "home_img": "https://sta.vnres.co/file/common/20260814/b160600d8409f62c54c0599b0cd40754.png",
-      "away_name": "CA Osasuna",
-      "away_img": "https://sta.vnres.co/file/common/20260814/1215b822f81fcb77ca2a29aa43784a62.png",
-      "league": "La Liga",
       "links": []
     },
     {
