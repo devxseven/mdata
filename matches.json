@@ -12,43 +12,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8411c963b54a31e298065d4679bb278b&txTime=6a827cb4"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=fde9929c8c38a788a068fafb02f43049&txTime=6a827de0"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=4075bbcf18565ce7e758a2067d238842&txTime=6a827cb4"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=5d8b325db9ede85f78295bfb20d64d00&txTime=6a827de0"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-618546_lhd.m3u8?txSecret=c866928989d7dbb2cf474b240846053e&txTime=6a827cb4"
+          "url": "https://pull.niur.live/live/stream-618546_lhd.m3u8?txSecret=279dba9a21c7dece977ffc42133e3d36&txTime=6a827de0"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-618546_lsd.m3u8?txSecret=891391bb2e035dec99ce6c7caefb576d&txTime=6a827cb4"
+          "url": "https://pull.niur.live/live/stream-618546_lsd.m3u8?txSecret=7513acb1b23c3cba798cba9d3a783f3e&txTime=6a827de0"
         }
       ]
     },
     {
       "id": "318516",
       "match_time": "1786915800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Mirassol - SP",
       "home_img": "https://sta.vnres.co/file/common/20260814/149795854aced55318e7da588da7c425.png",
       "away_name": "Flamengo - RJ",
       "away_img": "https://sta.vnres.co/file/common/20260814/7b0db838c639c0aa6a25a1635380fe53.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=dabd25d93188a016aef6b7f30d2788f1&txTime=6a827de0"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=27a8281013863e95bf492d13cdb5b397&txTime=6a827de0"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-560690_lhd.m3u8?txSecret=407e1846a0377915215b2753db456642&txTime=6a827de0"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-560690_lsd.m3u8?txSecret=788241fa4ba14901ebd8e3c5823b6d0c&txTime=6a827de0"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1786918800-0-0-b3d0e96f7d440316804eca01a21e0c1a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1786918800-0-0-1ccde965f3fabdce8c72dfca816b03c0"
+        }
+      ]
     },
     {
       "id": "318517",
       "match_time": "1786915800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Vitória - BA",
       "home_img": "https://sta.vnres.co/file/common/20260814/05aedc26996c98327432cd7a04a7a46e.png",
       "away_name": "Botafogo - RJ",
       "away_img": "https://sta.vnres.co/file/common/20260814/13c70d66d675bdee18c2d68fcee4ecfd.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=efe6391da90888ae9cc5b221046f912c&txTime=6a827de0"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=f001d56d26050e133a2102c90027dc4f&txTime=6a827de0"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1786918800-0-0-70a3d8a03adaff048413f1ad5f39744b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1786918800-0-0-07f3b7f440bd0f1a8eeaf5f3727efe26"
+        }
+      ]
     },
     {
       "id": "318518",
