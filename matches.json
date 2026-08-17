@@ -3,13 +3,38 @@
     {
       "id": "318582",
       "match_time": "1786953600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Philippines U18",
       "home_img": "https://sta.vnres.co/file/common/20260815/4d50ca344132fc2cd8b09d95f10aad34.jpg",
       "away_name": "Thailand U18",
       "away_img": "https://sta.vnres.co/file/common/20260815/baf55c0a668f893fb5dcc39ab3e6140a.jpg",
       "league": "ACU18",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1786956600-0-0-82534102a9f83fafce0d17cea4915a00"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1786956600-0-0-21ab66507bd1d89cbbc83097e7826a50"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1786956600-0-0-36a34d8c2e9bb7f58c718d7a97e7c6d4"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1786956600-0-0-691745b1eef9ee5df4817bb644b68e51"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=008d7f1de918640bf4abe07f3ae5db02&txTime=6a831188"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=a3e2cb450132c076c06c816fba3c1b55&txTime=6a831188"
+        }
+      ]
     },
     {
       "id": "318587",
