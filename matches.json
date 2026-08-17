@@ -12,40 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-560690_lhd.m3u8?txSecret=3fda600f5c97d40a6e6f47e05d45c0a8&txTime=6a833a8c"
+          "url": "https://pull.niur.live/live/stream-560690_lhd.m3u8?txSecret=b5e1c46f210881f6e84aac55e6b0a42c&txTime=6a833bb8"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-560690_lsd.m3u8?txSecret=0873a14eac5d1e6aac4d361a33be9bd2&txTime=6a833a8c"
+          "url": "https://pull.niur.live/live/stream-560690_lsd.m3u8?txSecret=29ec9d85e4fc9b1efae4f9d42a10a2f2&txTime=6a833bb8"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=e355e9c50eb65328560d33bd5df29630&txTime=6a833a8c"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=0df25f9f61023156b0f2987920d7b745&txTime=6a833bb8"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=685f28aec8a14a82aad4671048e1f8f6&txTime=6a833a8c"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=011e7799acdc69ee1dbdce70d0d1ecd8&txTime=6a833bb8"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1786967100-0-0-0a796f977aee0556b1903ea515b9fb44"
+          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1786967400-0-0-635314c4d2a3926d52bab847f8c2db20"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1786967100-0-0-dbd897fe15f0e48d21d166b706c3ffed"
+          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1786967400-0-0-8a650c504ffdf4fb99419d45be208eb1"
         }
       ]
     },
     {
       "id": "318584",
       "match_time": "1786964400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "New Zealand U18",
       "home_img": "https://sta.vnres.co/file/common/20260815/34064b4e2078c380b7593a9d98f75f61.jpg",
       "away_name": "Lebanon U18",
       "away_img": "https://sta.vnres.co/file/common/20260815/e6bf2faafa7893a49d8c720359432faa.jpg",
       "league": "ACU18",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1786967400-0-0-6ee7d72ae6cbc0f5bfe8c531f400c927"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1786967400-0-0-f02d7ec4d6b42b52723055e641773fab"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8e3dc1fa9f2e6a655647c3e4c7f1a813&txTime=6a833bb8"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=4a03b84607b2fdc4616d614663374de8&txTime=6a833bb8"
+        }
+      ]
     },
     {
       "id": "318588",
