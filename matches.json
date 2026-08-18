@@ -3,13 +3,38 @@
     {
       "id": "318624",
       "match_time": "1787040000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Qatar U18",
       "home_img": "https://sta.vnres.co/file/common/20260816/46b974860d97c2c6cfa2e3c9dbae6ea3.png",
       "away_name": "Sri Lanka U18",
       "away_img": "https://sta.vnres.co/file/common/20260816/a8437f95e67e4f1ace3020b2e848c2c2.png",
       "league": "ACU18",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787043000-0-0-dff6e51f7c627eccc74b24eda9bd4fd0"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787043000-0-0-cbada00c50b78aec5389edbaa137204b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=10b1bfa3a25f5bdf6b46d39cf8bcd4d3&txTime=6a846308"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=46d56bd5260cc761355d99f1db974724&txTime=6a846308"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=d725a16d9139faee426f5bbee2f8198f&txTime=6a846308"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=f5115ba81b2815364461558945e51699&txTime=6a846308"
+        }
+      ]
     },
     {
       "id": "318732",
