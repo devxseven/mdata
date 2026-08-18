@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787048100-0-0-025a914f5862866f229b8c63f99665d8"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787048400-0-0-653d02e27dbbbbabd4ee935340c58243"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787048100-0-0-4a6abe99d0e0c184d837c4f3f4d17e8c"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787048400-0-0-f4061f92e661d4b9a1fe13f635cef562"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=25737e0c4189c60cdbbb36ba8e9ac27c&txTime=6a8476f4"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=4c7718c4f1a5abbd7ed6c91f0a46779a&txTime=6a847820"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=2fc59ac32eb39ccee4c553573654cbf4&txTime=6a8476f4"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=9d3705baa7d36bf7a196d4813429332f&txTime=6a847820"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ebc0d731c070878d2307e4b53d61dbc4&txTime=6a8476f4"
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=13fcc5ecd62044ab3a989d19cf1c06dc&txTime=6a847820"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=2ab08b71ea709bb550c61157c9abf5e8&txTime=6a8476f4"
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=9c569f7518a877580ca9540a4a16213f&txTime=6a847820"
         }
       ]
     },
     {
       "id": "318732",
       "match_time": "1787045400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Southern Districts Raiders",
       "home_img": "https://sta.vnres.co/file/common/20260818/146de7d841d3674b348a7e938dfe8bb9.png",
       "away_name": "Sydney FC",
       "away_img": "https://sta.vnres.co/file/common/20260818/a64297bfd2114ec62fdf1325a2417356.png",
       "league": "AUS FFA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1787048400-0-0-ed4dfde97e6416e9cf56ad55bdb513c0"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1787048400-0-0-53fb3678338067eb894984fbabdf5b2d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787048400-0-0-79481ddfcf00c81258afc9873ee57233"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1787048400-0-0-22dba4c081f465c9de499780b1415495"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=b2f77beaf351525cbc296278712cd7d7&txTime=6a847820"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=23182f3d4268f68f18376cd613569476&txTime=6a847820"
+        }
+      ]
     },
     {
       "id": "318626",
