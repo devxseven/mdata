@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787132700-0-0-ee404c98aa4c5a787a81fe75043ec007"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787133000-0-0-2db170a0d0d27398e6c375efc865a59b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1787132700-0-0-8274da434e926ee4bdc968032a68f2e4"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1787133000-0-0-2cb391d36c5a169902afd84c4310cda8"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787132700-0-0-420f655a686659e965fd42f5af70b8e3"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787133000-0-0-b713526f963f3b7260da5457150279fc"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787132700-0-0-7a5f3e5f90a4659e4c74699636fc1980"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787133000-0-0-1968f34b98fc78432d9362655dbc7273"
         }
       ]
     },
@@ -40,32 +40,41 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787132700-0-0-da4919f4f33480777d20eae9a911bc83"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787133000-0-0-edfc2cb3aed9818eb551c211bba785dc"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787132700-0-0-b74e7b125ba9f4547671c33c552cbe21"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787133000-0-0-0801ee61cbe53b4231b30da170b63b3c"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=ff489254fe1f6f358e25e83a64006bbf&txTime=6a85c16c"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=42cc31573fe87de746ab60a5ed27b904&txTime=6a85c298"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=d6703eb54b1a0129fb39c22be0a980cb&txTime=6a85c16c"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=8c8382439e1808457501a06aa026be94&txTime=6a85c298"
         }
       ]
     },
     {
       "id": "318681",
       "match_time": "1787130000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Chinese Taipei White",
       "home_img": "https://sta.vnres.co/file/common/20260818/1995c359bb8ecca513970100ca4a6ac8.jpg",
       "away_name": "Jordan",
       "away_img": "https://sta.vnres.co/file/common/20260818/0af53a3a47a84610945b94211fe4ea17.jpg",
       "league": "WJCM",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787133000-0-0-b713526f963f3b7260da5457150279fc"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787133000-0-0-1968f34b98fc78432d9362655dbc7273"
+        }
+      ]
     },
     {
       "id": "318743",
@@ -208,17 +217,6 @@
       "away_name": "Malaysia",
       "away_img": "https://sta.vnres.co/file/common/20260816/69f4aeae787f6347f4e352f80c4e52bc.png",
       "league": "AFF SC",
-      "links": []
-    },
-    {
-      "id": "318751",
-      "match_time": "1787144400",
-      "match_status": false,
-      "home_name": "Altay FK",
-      "home_img": "https://sta.vnres.co/file/common/20260818/86debba80ec59c1804bb4da7e76a283e.png",
-      "away_name": "Ordabasy",
-      "away_img": "https://sta.vnres.co/file/common/20260818/c6aec506b378133e2824dc840625167a.png",
-      "league": "KAZ Cup",
       "links": []
     },
     {
