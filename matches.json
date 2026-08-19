@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787134500-0-0-da8216f5a0ef0ee88bf7720a38d172ed"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787134800-0-0-0f42c5f137391a4229c48b4f5117c4d6"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787134500-0-0-d849bbd3c2e96af37c4ee38f1f8e451f"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787134800-0-0-c083de7302c7ee396a826ffc807ab652"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a1e1f099b601109f6208c7b0b201f0da&txTime=6a85c874"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=b33ac9a2b47c61ee6644514156320cce&txTime=6a85c9a0"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=dd928cb2f4effc3e0f040b9f8b61179f&txTime=6a85c874"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=6a0b0c4e63293a3bd77925dede679d6d&txTime=6a85c9a0"
         }
       ]
     },
@@ -40,24 +40,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787134500-0-0-341ab7e7537bbf47b3e7b7a930dbb40a"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787134800-0-0-40f02755c126019515d1f97d00bf169b"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787134500-0-0-757125e1b92f5d391c17379990b17999"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787134800-0-0-def3803e839aada755993cb5a079a2d6"
         }
       ]
     },
     {
       "id": "318743",
       "match_time": "1787131800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "APIA Leichhardt Tigers",
       "home_img": "https://sta.vnres.co/file/common/20260818/c750b717b0c40369ebac8fd435e89838.png",
       "away_name": "Melbourne Victory FC",
       "away_img": "https://sta.vnres.co/file/common/20260818/c7c0630628e4d6c80af8f7f8b8819ba5.png",
       "league": "AUS FFA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787134800-0-0-0241f3a5998b4f8107181f339dac07ca"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1787134800-0-0-f8246555605a030e3858c2cb1ff4c27a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1787134800-0-0-0139ce570e9ce24f7fcb3ed386f6f0fa"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1787134800-0-0-91da5792c25b5712e23a9607a57d1b9b"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a2286e84b0e4d115b6a1a720cfb8744f&txTime=6a85c9a0"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=1d0a80a1b21d20c1ca00ca21f6fbeeda&txTime=6a85c9a0"
+        }
+      ]
     },
     {
       "id": "318744",
