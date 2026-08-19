@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787118300-0-0-f63bfdfbe2b23392a6c831915c013466"
+          "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787118600-0-0-19bfe68ec82b5fe5a77e6a6747429599"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1787118300-0-0-e19bdde54277e1a6a9c0861912566b67"
+          "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1787118600-0-0-592d2c281e33003fdff9bf99c4642892"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=4ff66fb8475a2e61ed49aa5703e5fe04&txTime=6a85892c"
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=97c7c96c532dfe32c734c18790a22b6f&txTime=6a858a58"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=2c6488b66d37718406761ad2c26a4c6b&txTime=6a85892c"
+          "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=1f6500a481957d7a2f4fb7820501516b&txTime=6a858a58"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=dc5f2b6014b18f54e47f3d014aedee81&txTime=6a85892c"
+          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=45ad2e1739a21d80b3d6c12856d2fbf9&txTime=6a858a58"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=34443310d2cc2db18d94775b7192ba46&txTime=6a85892c"
+          "url": "https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=c71332906421e48adff66d1b1efb8023&txTime=6a858a58"
         }
       ]
     },
@@ -48,40 +48,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=b228540ea81bf803e5e379d521c863ca&txTime=6a85892c"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=dffdad8d645326bb084b7e15ade78667&txTime=6a858a58"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=30cab938431630f14ef0c4fe6066230d&txTime=6a85892c"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=8da56b9cc3eb08e4ba1528ad4998912e&txTime=6a858a58"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=1284c924486a6da65ae3911c6342e76a&txTime=6a85892c"
+          "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=be66529fe7cf64c88ecf721ed73a1cec&txTime=6a858a58"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=ad7b24cb47b5721986f068efa7f5aed9&txTime=6a85892c"
+          "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=36926eaa699722c1aab98495cd62f948&txTime=6a858a58"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=eded1f33fc55dca686f248aa30c7699d&txTime=6a85892c"
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=2ffd8c8f09ab836f967ce8e0102cd87e&txTime=6a858a58"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=b1e9ecac8395bb6417154e98f2d02f02&txTime=6a85892c"
+          "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=14eeadaa3dc816628a5949b0a68f96ed&txTime=6a858a58"
         }
       ]
     },
     {
       "id": "318679",
       "match_time": "1787115600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Malaysia",
       "home_img": "https://sta.vnres.co/file/common/20260817/5846c87cb3d0c378e766fb0710981da9.png",
       "away_name": "UC Irvine",
       "away_img": "https://sta.vnres.co/file/common/20260817/6ff3e2e07f92ab3bff997528780e7ef6.png",
       "league": "WJCM",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787118600-0-0-938fd80b4f8ef755835f5a8ed24bf8eb"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787118600-0-0-de791325a55fd929969c56ebb8194d5b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=f924c398ff9fa7ce0c0a4ff5b49fed26&txTime=6a858a58"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=712b040a9abdad08792830a32fdead2c&txTime=6a858a58"
+        }
+      ]
     },
     {
       "id": "318742",
