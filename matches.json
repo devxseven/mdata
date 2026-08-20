@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787226300-0-0-91fbd952e0d49720325d128018f16e81"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787226600-0-0-a94edbcfbdf4d248e54365071f18a7a1"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1787226300-0-0-9df5c8a26c8d209b3fe96f0b23a218b1"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1787226600-0-0-69a00aca014f3f2b2bb6af2c7d32f95e"
         }
       ]
     },
@@ -32,40 +32,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787226300-0-0-0c591cd601613906fe736986661688b6"
+          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787226600-0-0-9e346469ae8097987db92cc872f9f3cc"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1787226300-0-0-de94651f5dcad0469b5723e212b71942"
+          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1787226600-0-0-f4f7c6f9d92e0c32f09a0447cd294f7b"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=063476fe2530de1fd2282fef01c5706d&txTime=6a872f0c"
+          "url": "https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=3467d48e3b55db5cc30043144b598d9e&txTime=6a873038"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-511367_lsd.m3u8?txSecret=5696ff67ec853d4f12fad32124afeb94&txTime=6a872f0c"
+          "url": "https://pull.niur.live/live/stream-511367_lsd.m3u8?txSecret=3520a58d92d9039821bd88321ec071f0&txTime=6a873038"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787226300-0-0-36fc9859d5d68921d3867ca68b1e39ea"
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787226600-0-0-f817e7c04fececb4bbed2e5ae65318ea"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1787226300-0-0-4bd5152aae24596c3a6aca7c074c460e"
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1787226600-0-0-f8ce2dcf4d0106ad7b9510c2c8918c80"
         }
       ]
     },
     {
       "id": "318823",
       "match_time": "1787223600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Japan U18",
       "home_img": "https://sta.vnres.co/file/common/20260819/d11f08d0f7684f33e544f58a7f365ba9.jpg",
       "away_name": "Qatar U18",
       "away_img": "https://sta.vnres.co/file/common/20260819/757ce139342555ce9ebeecb961ffc673.jpg",
       "league": "FIBA U18",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787226600-0-0-8b9e6a51f5a29b71ee63655535b03168"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787226600-0-0-1b66e00c3eeef5844f1e8a9c5b5ff616"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=23220004b0dd6970411a58d499b23f02&txTime=6a873038"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=662cdb71f299f3d68e0c528d296940a3&txTime=6a873038"
+        }
+      ]
     },
     {
       "id": "318657",
