@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=931e19fe15cf6335ebe1e278336cf3f5&txTime=6a886b74"
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=a7f35cdd53156c3f731213cade40be17&txTime=6a886ca0"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=d9581bab6fd2f6f55a5b0489ae670f2a&txTime=6a886b74"
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=79426d1fa54b78a0f109ae2143f3c8d5&txTime=6a886ca0"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787307300-0-0-ea6264d94ea472cbf35f706f6e1747dd"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787307600-0-0-6b5520d99f51aec61cf87744923468f6"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787307300-0-0-a7b58da3395e591000639b568003bcb9"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787307600-0-0-4739b719b79f955b999ae759dff54539"
         }
       ]
     },
@@ -40,43 +40,93 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=c275699267a87c03bdd0ad0946a6dd0d&txTime=6a886b74"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=0469ee92e22aba07091ee0a7e33f8bc2&txTime=6a886ca0"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=1a361150db35d9a04bf80eaf1a5cba90&txTime=6a886b74"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=7757fd335f02c987b303053b05fbcbc5&txTime=6a886ca0"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787307300-0-0-4574c766b3466f8c9f74c25b0485dc96"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787307600-0-0-0a4ca0705b5e9a8c3ce6a63d8b7d078a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787307300-0-0-40a0f8a6397aaeb2f737e35c465d9798"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787307600-0-0-fc6d62018f407b4e3da2e84185bce701"
         }
       ]
     },
     {
       "id": "318709",
       "match_time": "1787304600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Green Gully Cavaliers",
       "home_img": "https://sta.vnres.co/file/common/20260818/aad8d5b8cec1a7d9b95a1d9886f2dd29.png",
       "away_name": "St Albans Saints",
       "away_img": "https://sta.vnres.co/file/common/20260818/de628491a0b6b6781c0b38d71b3731ea.png",
       "league": "Aus VPL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=8e36f5749ea7a82cbdf407bc080c758f&txTime=6a886ca0"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=a913238b2a153ded5512420e139d0116&txTime=6a886ca0"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1787307600-0-0-d1ad3141b10f4533e53dc2ae1fcbabfb"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1787307600-0-0-978b7fc305f40af4fc921a38716b1abf"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787307603-0-0-f95ec889cd611b7ad47cb4ab4b99d6f1"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1787307603-0-0-e19349c13676f2f0f8aeba47c1eb81f3"
+        }
+      ]
     },
     {
       "id": "318710",
       "match_time": "1787304600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Sydney FC Youth",
       "home_img": "https://sta.vnres.co/file/common/20260818/d4ea4f16deddb6526ea3dc85bb7ef4f5.png",
       "away_name": "Rockdale City Suns",
       "away_img": "https://sta.vnres.co/file/common/20260818/131395566bb9ce2c8373cc16ee89d94e.png",
       "league": "AUS NSW",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787307600-0-0-aee13f9cacebf096b8f21e7b7b32fe35"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1787307600-0-0-a0f543e61606e38057a8e3795446a650"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=72929b9ce8295e9aedb54829ad1c72a7&txTime=6a886ca0"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=84394ad827145b87c3e776e501023ea0&txTime=6a886ca0"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=80cdc6535cdcae535edcc5bfb81558de&txTime=6a886ca0"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=c632ed416661dbbf30880a84a3055b38&txTime=6a886ca0"
+        }
+      ]
     },
     {
       "id": "318711",
