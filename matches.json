@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=741ce411c70e321bbd9806a9d724232f&txTime=6a885680"
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=45b76c8f13deadee1472ba1d396f6fa9&txTime=6a885788"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=04cd0dadb72d8ca98b49272d67cb4b7e&txTime=6a885680"
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=526f2bd3230b78888f4e0e4f6036310c&txTime=6a885788"
         }
       ]
     },
@@ -32,32 +32,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=750e7ff42901e1f0775553af21af6de1&txTime=6a88565c"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=0778c53feaf51784816576521dcd4bad&txTime=6a885788"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=ee54a96ee9f60c2b32050c90e458fb71&txTime=6a88565c"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=51206e1c3aad4b3c36732457cb39329b&txTime=6a885788"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787301900-0-0-d4e33fd772bccf44c19fcef1b8525036"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787302200-0-0-adca06418a40c9343e3a7e351286e08c"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787301900-0-0-a9d0710efba86aa44fe5977098b1fabd"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787302200-0-0-44419f57a2067e5c937d307def823c26"
         }
       ]
     },
     {
       "id": "318972",
       "match_time": "1787299200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "South Korea U18",
       "home_img": "https://sta.vnres.co/file/common/20260821/5c5408e437a9d9d498525c5829bdf16f.png",
       "away_name": "Chinese Taipei U18",
       "away_img": "https://sta.vnres.co/file/common/20260821/4483339453dd55033776cc91490be274.png",
       "league": "FIBA U18",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=45b76c8f13deadee1472ba1d396f6fa9&txTime=6a885788"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=526f2bd3230b78888f4e0e4f6036310c&txTime=6a885788"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787302200-0-0-1f3f43bc4c3d008516aa0f97204dd806"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787302200-0-0-8558923ad783a313113ce6f43050189a"
+        }
+      ]
     },
     {
       "id": "318833",
