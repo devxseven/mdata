@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=66b494db4f54442038fe9a28bf8c0cfa&txTime=6a891b3c"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=bae98745e2b01aa7b5aa24929e6b4d52&txTime=6a891c68"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=e73fe5b821538c5d25a26ded3903b5da&txTime=6a891b3c"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=89999de330181323e1347f7e5c9b3497&txTime=6a891c68"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1787352300-0-0-8d6c6ed811f82af0942b2a1650d6325a"
+          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1787352600-0-0-f9af82ed06516807035fd23a59efc558"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1787352300-0-0-264b603d19d0439b0c330d433ba52317"
+          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1787352600-0-0-c4b767c5663d0146483aeb98b6182fa4"
         }
       ]
     },
@@ -40,24 +40,41 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=a1abaf03b1758c04f778a317a7206e9d&txTime=6a891b3c"
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=0adfd368fa7a4e39772873a19a2aa68c&txTime=6a891c68"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=e46140dc69f46caa74b65a67ca82407d&txTime=6a891b3c"
+          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=f04cf9581358bf4e609872ceae079cf4&txTime=6a891c68"
         }
       ]
     },
     {
       "id": "318846",
       "match_time": "1787349600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Deportivo Madryn",
       "home_img": "https://sta.vnres.co/file/common/20260820/b645f311b7e9e139223fd3edd49267e2.png",
       "away_name": "Atletico Mitre de Santiago del Estero",
       "away_img": "https://sta.vnres.co/file/common/20260820/d4efd0847c544e9b1baaf9d00668df5d.png",
       "league": "ARG D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=22c715051466d82ab83e03fbd6470c40&txTime=6a891c68"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=cc6b9a4245fcfee746854777e6468449&txTime=6a891c68"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=24a7f08ced112856cf40d1f4d55d8d6d&txTime=6a891c68"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=d7e7dabf9417f24421d9a5055d5449d5&txTime=6a891c68"
+        }
+      ]
     },
     {
       "id": "318767",
