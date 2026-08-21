@@ -12,32 +12,41 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=4a538fafdc8279e113966ed45a53f4f2&txTime=6a891434"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b411d6c006961f4e19548b7e42ad0a24&txTime=6a891560"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=45fd174db6f1a22d84e7d5f289c213ff&txTime=6a891434"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=6a6a2048959d44e0e469e02aaee3bdb5&txTime=6a891560"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1787350500-0-0-6e498f2c312bbf7d15f7b8bccca768f3"
+          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1787350800-0-0-a1c566502b73f058e05c6fe3d070833d"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1787350500-0-0-d2f65af1e4cf2dc4d9ec3c7dc5fe2cc0"
+          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1787350800-0-0-8061429dd770d3cb6d150a3fcf23e5b1"
         }
       ]
     },
     {
       "id": "318847",
       "match_time": "1787347800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Rubio nu",
       "home_img": "https://sta.vnres.co/file/common/20260820/7027d3e622f672c73a320ca4cb7f1ba2.png",
       "away_name": "Club Sportivo Trinidense",
       "away_img": "https://sta.vnres.co/file/common/20260820/ad4eaadeceda44c34b7185cb864a3738.png",
       "league": "PAR D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=0a151949e47567abe5f580b8eeba8f86&txTime=6a891560"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=d8529e8f2d77e70bbd9706fb8fcda9af&txTime=6a891560"
+        }
+      ]
     },
     {
       "id": "318846",
