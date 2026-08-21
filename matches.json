@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787349000-0-0-33e8e0e353fb780bf64d504b688dc72e"
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787349300-0-0-bb8136f21ba7628fea62808d3038b528"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1787349000-0-0-03d051ff6e5a3658c9c3b1e77e0bfc45"
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1787349300-0-0-aa6485567f7fc179af9e0472a7dc4aa9"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=a434ce829c4a0477a43dda4117adcac0&txTime=6a890e58"
+          "url": "https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=f0a39a941326a8f262fc7af4b46afece&txTime=6a890f84"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=ee5411dcc57e1c9a127cfe907f75a48c&txTime=6a890e58"
+          "url": "https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=1c80bdeeea4f6b8011f4682e9ad89764&txTime=6a890f84"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=aeeeff7cce50230db3427d0748a6fb1f&txTime=6a890e58"
+          "url": "https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=4e2f28e68b9144210e519db6bb615cf6&txTime=6a890f84"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=f222a193a026b0715cce0e251ecfd7a1&txTime=6a890e58"
+          "url": "https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=a828a9f4e09c447b5b3d28139a62d5cb&txTime=6a890f84"
         }
       ]
     },
@@ -48,40 +48,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=a931a78e034fd642d20d8cc13dd4816e&txTime=6a890e58"
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f8ac6e8a513cf733ee10501ff1e5e398&txTime=6a890f84"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=26dcbc852cd6e51379dde61ffa906d36&txTime=6a890e58"
+          "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=389b40027d70ad6096a783610e1dcf72&txTime=6a890f84"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=b2e7fa15bc31e857e453fae5087e1316&txTime=6a890e58"
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=caaaffe1a894c9068890710fee10c2d5&txTime=6a890f4c"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=0fb3f98b4c1eee5682f8e294ce9bed96&txTime=6a890e58"
+          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=0ed4162b673288be7d6805872a9b326e&txTime=6a890f4c"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787349000-0-0-5b7ddfd1ae03a99f759b5db32742ebfb"
+          "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787349300-0-0-7ac05c602a6a706678a402d9ea748ea3"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1787349000-0-0-7024d889dbd13df667f17dc3d14adfd1"
+          "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1787349300-0-0-a78e0c2d87981992816638ec5481545c"
         }
       ]
     },
     {
       "id": "318837",
       "match_time": "1787346300",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Jaguares de Cordoba",
       "home_img": "https://sta.vnres.co/file/common/20260819/f5239b1ff2913a8ed848272ccbbc4482.png",
       "away_name": "Boyaca Chico",
       "away_img": "https://sta.vnres.co/file/common/20260819/f935ae415e60f9b153e2021f9e1db44a.png",
       "league": "COL D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b2c477cc6a81144d03e08372c5d4ee90&txTime=6a890f84"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=68a79bed3da838f378ce0b2e6c775b64&txTime=6a890f84"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1787349300-0-0-9ef6fe12a184a2fd8e9cc96ad52d8b1b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1787349300-0-0-6f467dae069225ec152edf07f4ee7f63"
+        }
+      ]
     },
     {
       "id": "318847",
