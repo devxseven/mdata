@@ -12,32 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787476500-0-0-04717b7985ab329831b95503f3272724"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787476800-0-0-7d679d6758b159ad39d2132f0eb05342"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787476500-0-0-45c0ebdd6315407b87e55cc1f26e4f6e"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787476800-0-0-4a8e623abc434b88d058568f41c8b5a2"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787476500-0-0-5cde96701d42b1e308562ff8a144ca99"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787476800-0-0-ca0459f838873bf1a146ab9fd4a42f64"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787476500-0-0-ea5d8a3f1211cffec11ce29b640361ca"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787476800-0-0-2c9c2155342c575dc353fdaf8ea0c54e"
         }
       ]
     },
     {
       "id": "318886",
       "match_time": "1787473800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC Blau Weiss Linz",
       "home_img": "https://sta.vnres.co/file/common/20260820/ec8954fc38524ddddfe6c29c2df896d0.png",
       "away_name": "ASK Voitsberg",
       "away_img": "https://sta.vnres.co/file/common/20260820/42d9a9f17bdfef9a53ce8c611aec2d1d.png",
       "league": "AUT D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=473b156dada38e2302967997fa2ca02c&txTime=6a8b0190"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=8b1566bc8db91da12cd71f7ba0068cff&txTime=6a8b0190"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787476800-0-0-27d077bd6d7744ee775a367727c88865"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1787476800-0-0-1b5b57aad0b64cd3fcc9c739698ab179"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1f71d3b3f22955ee836ccf751fbfca33&txTime=6a8b0190"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=dbc022f8707609143526d60fc5935ffa&txTime=6a8b0190"
+        }
+      ]
     },
     {
       "id": "318887",
