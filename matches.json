@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787478300-0-0-c6d741cfffe1afcb0f04c8116e869289"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787478600-0-0-59e86949bd96c5b704d879730cec1ca4"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787478300-0-0-c16a4b2501400064f6045916b4daf74f"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787478600-0-0-cbea0e1e44b39996c337371537c0fe5f"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787478300-0-0-fdae824aaf61003f807f04d3eab0cb1e"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787478600-0-0-df4eee06316fd1e51ae463cf21cfb5b6"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787478300-0-0-64acb6046553d9ad77ad9232dc614c62"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787478600-0-0-06c76d5b6fd4aaa5125ecda7610652f5"
         }
       ]
     },
@@ -40,51 +40,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=619d48a05833a3eee735c129eb8bc724&txTime=6a8b076c"
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=41363038d6fc2d8d9e9763e889db4bb0&txTime=6a8b0898"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=336e53e7312d73e492955b348c719791&txTime=6a8b076c"
+          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=131db112785e579fe30284d2d540d4fa&txTime=6a8b0898"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787478300-0-0-5acaee11f0546a34c7122b43ecc811f6"
+          "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787478600-0-0-5a4803972218bfb4ebee7072836e17a7"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1787478300-0-0-221398ef8c522af11f04e7a14b147931"
+          "url": "https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1787478600-0-0-e4533c000515736bdc474d272942615c"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=0b25924619860dd25034376920071c34&txTime=6a8b076c"
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=6d6e7c20853792ac33edd5d1983700ad&txTime=6a8b0898"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=5c60ccd9ec97bc678bf83696c7b7d65b&txTime=6a8b076c"
+          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=9af1782031537e6349fb98e5263814c2&txTime=6a8b0898"
         }
       ]
     },
     {
       "id": "318887",
       "match_time": "1787475600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Penang FC",
       "home_img": "https://sta.vnres.co/file/common/20260820/87970aa63520fee9fb2b0a844ac8ab9f.png",
       "away_name": "DPMM FC",
       "away_img": "https://sta.vnres.co/file/common/20260820/b6145d8d22b0a33aeedba3193b259648.png",
       "league": "MAS SL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=689b4a578e98870ca1bfb1edd7003c02&txTime=6a8b0898"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=065cf787961386425b87a604e1dd5282&txTime=6a8b0898"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787478600-0-0-d7b18989dc717862fb32846329140da2"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1787478600-0-0-cabb4168c8759d1457173aa4176f96dd"
+        }
+      ]
     },
     {
       "id": "318888",
       "match_time": "1787475600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "SC Sagamihara",
       "home_img": "https://sta.vnres.co/file/common/20260820/4eb17ca214abbdc6647cbb71de8c67b5.png",
       "away_name": "Zweigen Kanazawa FC",
       "away_img": "https://sta.vnres.co/file/common/20260820/92afa82ce47e9744ea9698d7a63db788.png",
       "league": "JPN D3",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787478600-0-0-da03cef66bbc0a2e0e9c1efe96b99b2c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1787478600-0-0-d5271618fd92d1fef0bce5d1429aade1"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787478600-0-0-1caa4cb66cc52c6b77b61b6751a7b1c7"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1787478600-0-0-1ddb3609e77fced741fbfd03e715da6a"
+        }
+      ]
     },
     {
       "id": "318970",
