@@ -3,13 +3,30 @@
     {
       "id": "319080",
       "match_time": "1787472000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Iran",
       "home_img": "https://sta.vnres.co/file/common/20260823/ade045c5a913c73e7a0b9c4f673b3c5a.png",
       "away_name": "Japan",
       "away_img": "https://sta.vnres.co/file/common/20260823/5fb28b994328e16e61b0c3386b7b1763.png",
       "league": "FIBA U18",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787475000-0-0-3ecdbeef438ce911fe8112a7a8244f64"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787475000-0-0-71fdf3869a7e2c6efeb9a087dbf755f2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787475000-0-0-b2139fb618f15f340ba38fde3353be5d"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787475000-0-0-0103f8e2e3c7bf043738686037750f1c"
+        }
+      ]
     },
     {
       "id": "318886",
