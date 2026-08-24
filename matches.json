@@ -3,13 +3,38 @@
     {
       "id": "319021",
       "match_time": "1787551200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Beijing Ducks",
       "home_img": "https://sta.vnres.co/file/common/20260822/6599d73ff8635794e6a5e9f8b9c3f16f.png",
       "away_name": "Hefei Culture and Tourism",
       "away_img": "https://sta.vnres.co/file/common/20260822/28aa123b16aa0dfac55faee53ce77ef5.png",
       "league": "WCBC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787554200-0-0-a6cb6a11303d384ca1854b1a71dca30a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1787554200-0-0-2368d5cafdc81e7a76ee846d3ad53eca"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787554200-0-0-b7ea08ffba0202f24b0aa18e4f82d76e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787554200-0-0-f5219b05ab166ff727c8eae9e2cf6b72"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5d3e33962845d024822e75fee9670a7f&txTime=6a8c2ffd"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=ced39f96aa6e1a6d2177b84bc1c348c6&txTime=6a8c2ffd"
+        }
+      ]
     },
     {
       "id": "319022",
