@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787831101-0-0-0ce996c094f805f7be4cdaad971f91e6"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787831418-0-0-671ebc9c58cc1f23b66a15f4d59e52c5"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1787831101-0-0-1bce4424f15b5a446fbb01beccd951ae"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1787831418-0-0-f3577a2db8cea29eeccd8769d6e06054"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a5f34d9ec334dabb8b4b96620599c6c8&txTime=6a90698d"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=7ec9cf23d097108c0e5d34a055f2b2df&txTime=6a906a73"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=4ea0685d7200519af92bd697d24b1b98&txTime=6a90698d"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=70cac5c33bea2320a01b521f850ab26b&txTime=6a906a73"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787831101-0-0-43e79187fd82286c07cff1549a3fdbc4"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787831401-0-0-fd2165b5f2858cb7bd2919e759c104b6"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1787831101-0-0-d34f42772c64160ec3483366992526c8"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1787831401-0-0-c9edccfe8ab8815b6ac6fbe371d4aa09"
         }
       ]
     },
@@ -48,51 +48,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=0fc2ec8f753a3ff4413223d523cf8e05&txTime=6a90698d"
+          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=0b676095c64153d804ebce6af600607f&txTime=6a906ab9"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=e517a5908274edec6e3603d5718cd482&txTime=6a90698d"
+          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=33b2a90bcddd643e2a7a5874777a86c8&txTime=6a906ab9"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787831101-0-0-91c1c7a993ead9ec335f59bc25214ebf"
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787831401-0-0-331a81396b267bd07f653955d8b4f10a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1787831101-0-0-918d39d48f3e6f27f3dbc3c4a012f868"
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1787831401-0-0-75adaa4b64c000185049b51ffdadf3cc"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=7495287e93a06ff6ac1fbc7f78090172&txTime=6a90698d"
+          "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=a682a5fad5c583ea2b6b1812264b4762&txTime=6a906ab9"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-619672_lsd.m3u8?txSecret=5a39a6de9c64c9f311dc1c2c3c3b6f49&txTime=6a90698d"
+          "url": "https://pull.niur.live/live/stream-619672_lsd.m3u8?txSecret=d1cd64c208a5b16a3f568a5befbf050b&txTime=6a906ab9"
         }
       ]
     },
     {
       "id": "319112",
       "match_time": "1787828400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FK Yelimay Semey B",
       "home_img": "https://sta.vnres.co/file/common/20260823/cbe4d86e1555e1aac7120f716a0cf83a.png",
       "away_name": "FC Shakhtyor Karagandy",
       "away_img": "https://sta.vnres.co/file/common/20260823/aa9d4839f1ff455d0b6bb633189a457d.png",
       "league": "KAZ D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=db0eb7774c7bda4c65c4e29fc4989dee&txTime=6a906ab9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=b45741c1688f042b0d9e9aacfdddae2c&txTime=6a906ab9"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=f3421bfdf11cfed1f02f1bf94f002793&txTime=6a906ab9"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=6c8ceebc3677ef5b77e1dbb9d70de3ef&txTime=6a906ab9"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=237e272fe0ab170ba338b9972d33a319&txTime=6a906ab9"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=e66f2a9fca42cc4a1d94758f498ce19c&txTime=6a906ab9"
+        }
+      ]
     },
     {
       "id": "319156",
       "match_time": "1787828400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Sri Lanka",
       "home_img": "https://sta.vnres.co/file/common/20260825/81e93172d69eb556fd25962183314097.png",
       "away_name": "Palestine",
       "away_img": "https://sta.vnres.co/file/common/20260825/e5a78d8d5b1793e3865302198ba47c59.png",
       "league": "ACQ",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787831401-0-0-fd2165b5f2858cb7bd2919e759c104b6"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1787831401-0-0-c9edccfe8ab8815b6ac6fbe371d4aa09"
+        }
+      ]
     },
     {
       "id": "319111",
