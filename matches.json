@@ -3,13 +3,38 @@
     {
       "id": "319171",
       "match_time": "1787868000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Estudiantes La Plata",
       "home_img": "https://sta.vnres.co/file/common/20260825/4d20ab5480fa07bccbe6e3196b080042.png",
       "away_name": "CA Barracas Central",
       "away_img": "https://sta.vnres.co/file/common/20260825/52d270d2d1fb06887d78bc3296a8fabe.png",
       "league": "ARG Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787871001-0-0-3eb936a51fcdad2e29c3b40175d2ffae"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1787871001-0-0-15804e40923eef72c38dac5a2f6d55cb"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787871030-0-0-392e5a60714db0693f95afc0033a3bba"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-620003_lsd.m3u8?auth_key=1787871030-0-0-103f5cd7cbf4bc0c673ca5eae8eebe1c"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787871001-0-0-2a2dbeb376a7d9cfad7d10d6f1725533"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1787871001-0-0-8f8797075099ed781625f6b73c593e7d"
+        }
+      ]
     },
     {
       "id": "319172",
