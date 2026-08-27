@@ -3,13 +3,38 @@
     {
       "id": "319155",
       "match_time": "1787821200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "South East Melbourne Phoenix",
       "home_img": "https://sta.vnres.co/file/common/20260825/9a3fd1ee4ffcbada98bc434c7970f337.png",
       "away_name": "Cairns Taipans",
       "away_img": "https://sta.vnres.co/file/common/20260825/b32bf765cfe88b2bf6959f0242d6bf48.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787824201-0-0-ac73f34d7860b5bb86d12777701c9b88"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1787824201-0-0-aa1e6fb8c2bfc21cfd18482aad6e368e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=d8eb36c2c439986ce8116c8dd96d86f5&txTime=6a904e99"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=b87d0ce4e2413daa69ed7c1f6f54fbe1&txTime=6a904e99"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787824201-0-0-b12acfab83754713e482ad6b01e21625"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1787824201-0-0-c0f61a8d0477126e8aa64b3c04ebe4b2"
+        }
+      ]
     },
     {
       "id": "319110",
