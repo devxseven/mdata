@@ -3,13 +3,38 @@
     {
       "id": "319278",
       "match_time": "1787896800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Iran",
       "home_img": "https://sta.vnres.co/file/common/20260826/32e462a02b0c83d3b4dc31d1328438fe.png",
       "away_name": "New Zealand",
       "away_img": "https://sta.vnres.co/file/common/20260826/21467789561d763871bfd44cd6818019.png",
       "league": "FIBA WCQL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787899801-0-0-8898e92b38373138051cbabd47dc2b90"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1787899801-0-0-722272871e14c9c5f67bae43705d42c4"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787899801-0-0-faa22e7985b8839678bf1b78cb9c765f"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787899801-0-0-39601fa5818fbeb5e9e572d1663ee5f3"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787899801-0-0-32eac4196b5afc57e8f6851a5d0cad06"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1787899801-0-0-ffb527d6048f740906c03397b6ddb648"
+        }
+      ]
     },
     {
       "id": "319279",
