@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787962501-0-0-e3d3c182108a9e745f3364d7c4254ad9"
+          "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787962801-0-0-b3cbe4ed47047bb8cce0e5a74d19df93"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-620003_lsd.m3u8?auth_key=1787962501-0-0-de90a7ab82028ee582f9ef238b4a0b11"
+          "url": "https://pull.niues.live/live/stream-620003_lsd.m3u8?auth_key=1787962801-0-0-76db777a24350a66869eaaf89b3d14f5"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=342b75b9182672dd403260291107a43a&txTime=6a926ad5"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=bfa4e9238e0335e4f8fe42bef479457e&txTime=6a926c01"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=467d97e35b27c1fdca7854f34b899176&txTime=6a926ad5"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=245b44b7dbd1068c0a6f898add820948&txTime=6a926c01"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787962501-0-0-7a15aadf5cb0c925bec74e31a0244d2e"
+          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787962801-0-0-50a9cab8c12843ceedabeed56a0fdf94"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1787962501-0-0-7ee9aff40763b11553c05efcf0bad7cf"
+          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1787962801-0-0-189cfe5a57e185fc2e51e62fab6387cf"
         }
       ]
     },
@@ -48,11 +48,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=549b847bd4274232caf4c9ce689a8587&txTime=6a926ad5"
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=967dfecc17584ac76d9c7750a05609f1&txTime=6a926c01"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=ee919414087a9cc1f972a92df61e7ccb&txTime=6a926ad5"
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=3c7a6c51dfb33610fcb07b762754a21a&txTime=6a926c01"
         }
       ]
     },
@@ -68,65 +68,133 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787962501-0-0-5aeaca845dd541cd61f4f9d57c683b5b"
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787962801-0-0-6a1c50a07aaa5e6d64dc558bac409582"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1787962501-0-0-338060ac9b29eee97b394c20bd719c3a"
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1787962801-0-0-67e7c07a6bac10efff478389e18a7770"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=ca4c8130151942c363b8a4e5efc2aec3&txTime=6a926ad5"
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=8649c047b522ba54bdad7d39321a5649&txTime=6a926c01"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=f31d3ac549bb54874d15b86660b35c16&txTime=6a926ad5"
+          "url": "https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=77a6f2d57a2d9b5896c6e92ce6fa2211&txTime=6a926c01"
         }
       ]
     },
     {
       "id": "319220",
       "match_time": "1787959800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Nautico (PE)",
       "home_img": "https://sta.vnres.co/file/common/20260826/cdc9bcdbc6797547d39d6c73d9bef891.png",
       "away_name": "Athletic Club",
       "away_img": "https://sta.vnres.co/file/common/20260826/02166f1ef14c0abb414ea62189d13608.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787962801-0-0-bc61261527c0d4e7be3fcc2fe896da77"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1787962801-0-0-b57c9bb31200d47eaed04a40aefc92fd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787955793-0-0-28c5cb8ec07afe593ef2fbefcd51a31c"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1787955793-0-0-ad180b82d3953bd6d65006fd3fd98a74"
+        }
+      ]
     },
     {
       "id": "319221",
       "match_time": "1787959800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Gremio Novorizontino",
       "home_img": "https://sta.vnres.co/file/common/20260826/a851ed8b008ca741b14d7303cf353038.png",
       "away_name": "Sport Club do Recife",
       "away_img": "https://sta.vnres.co/file/common/20260826/7350e06b20e0f471595e8572406e0852.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787962801-0-0-b9c8cdacff533d50e045de22018abcba"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1787962801-0-0-1d644d1b403d0338fe5bf25e617275c7"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=3498931cd6100892714bad548c2103ad&txTime=6a926c01"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=ff077f8b41fbb7563604e2d2db1452c7&txTime=6a926c01"
+        }
+      ]
     },
     {
       "id": "319411",
       "match_time": "1787959800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Atlanta Dream W",
       "home_img": "https://sta.vnres.co/file/common/20260827/39ac9b7f7b133d5f05070c328699c938.png",
       "away_name": "Portland Fire W",
       "away_img": "https://sta.vnres.co/file/common/20260827/f8881e1f301c97e0bd169f8a56a56393.png",
       "league": "WNBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787962801-0-0-cd41658717f66cdf432d2408fa61ce06"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1787962801-0-0-34d5673e89d987e9b19adc39b761ffec"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a71198ca648b464806ac2e748ee1b636&txTime=6a926c01"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=396fee6764e5e25d97084bba15ad357d&txTime=6a926c01"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787962801-0-0-4650c3edeb7000cf71db3ff271455def"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1787962801-0-0-b1770edfb821883514bb20198afd0af3"
+        }
+      ]
     },
     {
       "id": "319412",
       "match_time": "1787959800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Indiana Fever W",
       "home_img": "https://sta.vnres.co/file/common/20260827/d485c7a15b4995ed9847fd928c4622a2.png",
       "away_name": "Connecticut Sun W",
       "away_img": "https://sta.vnres.co/file/common/20260827/688a78d528ee88ad3a740f8a7d233fb3.png",
       "league": "WNBA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787962801-0-0-77772481fa188a504d75f523a187adcb"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787962801-0-0-00e1b1dfe3672f4b02f61b7fbf0924d5"
+        }
+      ]
     },
     {
       "id": "319222",
