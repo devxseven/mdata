@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=35cc5e32bfdb340002ad24af56d471a7&txTime=6a93a035"
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1ae0a65f78af0c80724c12479a9f34b0&txTime=6a93a161"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=09b57dd626986f02993fdc64352f4c94&txTime=6a93a035"
+          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=1ec3dc723f9aca3c7dec3e0eaaa7d808&txTime=6a93a161"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=83dc161ccbfaab24cd09eca41de9ee32&txTime=6a93a035"
+          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=1312f2625fad302159fbcfd90117bd17&txTime=6a93a161"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=fa9ab071bcb55570e529b0719b07350d&txTime=6a93a035"
+          "url": "https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=778ebf2805dc26dd4d4bf81668a92e8c&txTime=6a93a161"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788041701-0-0-e1bdee0fd5d618225205594dcaa5102e"
+          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788042001-0-0-78014aa53ec32809aa016720542feedd"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1788041701-0-0-27bfdfb445f4024287c936ed461c1289"
+          "url": "https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1788042001-0-0-e677ba23e49e0e20bdae10dc3503c659"
         }
       ]
     },
@@ -48,24 +48,41 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=31797c08a801d73631f07066ad4725d6&txTime=6a93a035"
+          "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=96dbd5b82f9da92d951bc03d8c59c283&txTime=6a93a161"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-622093_lsd.m3u8?txSecret=a951fe25e478fd6daf46afb8a4f0f34a&txTime=6a93a035"
+          "url": "https://pull.niur.live/live/stream-622093_lsd.m3u8?txSecret=709f62724ef4d3eb186c82abebd46a4b&txTime=6a93a161"
         }
       ]
     },
     {
       "id": "319300",
       "match_time": "1788039000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Atlético Mineiro - MG",
       "home_img": "https://sta.vnres.co/file/common/20260826/5db02f61bf1696b2cb553a43ae0c5a74.png",
       "away_name": "Vitória - BA",
       "away_img": "https://sta.vnres.co/file/common/20260826/eb60c5f335c7d86c3f082a89567f38bf.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788042001-0-0-83473d1cc19aa9dd49faf330e650947c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1788042001-0-0-0406454a8d8ce9c2bdfd87bda245f47c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788042001-0-0-3ed4a2c5e654b4fb0bae568f2e6ce654"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1788042001-0-0-8e157bda57cdf0daab9986389f175a35"
+        }
+      ]
     },
     {
       "id": "319217",
