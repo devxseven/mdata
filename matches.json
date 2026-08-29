@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=ab1ba0c7353f04db3c91b72acca4ba10&txTime=6a93a73d"
+          "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=15e2c7518911d62a0cead2d3a53103e3&txTime=6a93a869"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-622093_lsd.m3u8?txSecret=b00042eefed182893ba0859939b9a04d&txTime=6a93a73d"
+          "url": "https://pull.niur.live/live/stream-622093_lsd.m3u8?txSecret=f745248b11d3788be83512cdf305726c&txTime=6a93a869"
         }
       ]
     },
@@ -32,32 +32,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788043501-0-0-a9052e77c83a99873dbf936de60d3350"
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788043801-0-0-3bbd7187ffc4a06f0e19f2ce079368d3"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1788043501-0-0-94d698ee4076e291dc12201cf8206722"
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1788043801-0-0-256dde3696d735663f94dd9ff4d90f08"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788043501-0-0-b75d53bb0ad264a05e38e088be089762"
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788043801-0-0-27fe7ec379a59a1ba0a18e0bb88cf0b5"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1788043501-0-0-1d1c331f4f31a7a710f9079df9299b81"
+          "url": "https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1788043801-0-0-e3cd2f0e0bb397c1fa6bd3ebd6831a0f"
         }
       ]
     },
     {
       "id": "319217",
       "match_time": "1788040800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "CA Huracan",
       "home_img": "https://sta.vnres.co/file/common/20260826/451ce50be86178e707dc2ef6daf41386.png",
       "away_name": "AA Estudiantes (Río Cuarto)",
       "away_img": "https://sta.vnres.co/file/common/20260826/de214624de6f0c5be8ccb5bd9b8dc4d9.png",
       "league": "ARG D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ef3f81717ca6556aa107b55094d39f98&txTime=6a93a869"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=569b0bde8c0c56745b8c156ef6952529&txTime=6a93a869"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=bb9c4722d2fbeaf90d9f890e401aed55&txTime=6a93a869"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=a81dc712314defd105b183263cbd2b68&txTime=6a93a869"
+        }
+      ]
     },
     {
       "id": "319301",
