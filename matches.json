@@ -3,24 +3,58 @@
     {
       "id": "319479",
       "match_time": "1788163200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Hong Kong",
       "home_img": "https://sta.vnres.co/file/common/20260829/eb8de6e3e568df5190c1c620f876c86d.png",
       "away_name": "Singapore",
       "away_img": "https://sta.vnres.co/file/common/20260829/ecc74aeab600f3769eee2673287c7825.jpg",
       "league": "ACQ",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788166201-0-0-80012ca4c7d3335834885f3a11ebbeb9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1788166201-0-0-bd172532af1df70d2f2c9c9d02a5723a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=b875e95c65c5c946e4a7c8524efa02be&txTime=6a952522"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=191d39a2ef1a7ca68bb8fc50f8be1285&txTime=6a952522"
+        }
+      ]
     },
     {
       "id": "319480",
       "match_time": "1788163200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Vietnam",
       "home_img": "https://sta.vnres.co/file/common/20260829/f8fc35177da185b9ab0c6ee2dc3174de.jpg",
       "away_name": "Fiji",
       "away_img": "https://sta.vnres.co/file/common/20260829/fc0a6a92d1edb67ea7f82e21dd37b0e6.png",
       "league": "ACQ",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788166201-0-0-cba52f6119f8f9cfae0d149087efd65d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1788166201-0-0-e1cd536e6c594f8f8687c2e205093f9b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788166201-0-0-263ccfbe23c5d9c7a0c74f8d0e82d667"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1788166201-0-0-1995fce4705680d418d32bf8020f4225"
+        }
+      ]
     },
     {
       "id": "319383",
