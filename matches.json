@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788217201-0-0-55e7366beb1b9ef697f902fe6496f21a"
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788217501-0-0-4608e079b314a59575e0704ae4ea8d82"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1788217201-0-0-01749bafe9ebfbf3d133b3d5f24fcc00"
+          "url": "https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1788217501-0-0-55231e50f7e7d1173a35ece0000a5431"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=52f1f240c42e560e3fb6ac2594e9095c&txTime=6a964dc1"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=e5fcbfdc72faf2e0e9d0d59f406cfad2&txTime=6a964eed"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=93775bafd896eee0970cf7998617d61b&txTime=6a964dc1"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=47beea28aa5d3292181583263c340948&txTime=6a964eed"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788217201-0-0-59ae7a9fc6eda5790bdf717058ab7ee4"
+          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788217501-0-0-16bdfeef164b2f498980be7c067e13e2"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1788217201-0-0-8603e1ac72336a44b28e0960e199eb76"
+          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1788217501-0-0-a97824dc196b907aecfe53bf1cb31329"
         }
       ]
     },
@@ -48,40 +48,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=7c101663939f105c790cae44c1bafe39&txTime=6a964dc1"
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=c06a739c3cba8a0e0836612e9e0b67d3&txTime=6a964eed"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=943134bee4401ce5034181db8acfd6ed&txTime=6a964dc1"
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=a0f6179a34a8642645fe49b56e6c313a&txTime=6a964eed"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788217201-0-0-a7e9d8f0048907805df5d34ea68dea70"
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788217501-0-0-45b58651cb30bd08d739799e82dba797"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1788217201-0-0-fa4f1675e9b565aa99f08230f092d150"
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1788217501-0-0-e67c098a14a5f9ba02380501fba40417"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=4b07584c0cf5b2ddb213e0a53244a1f1&txTime=6a964dc1"
+          "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=e722954fb74cdcc2c0892bf28c62507a&txTime=6a964eed"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912139_lsd.m3u8?txSecret=22d6569ff6a1938d5ae5f00039e05258&txTime=6a964dc1"
+          "url": "https://pull.niur.live/live/stream-9912139_lsd.m3u8?txSecret=430c1a6cd17529ad0b08811b32f92914&txTime=6a964eed"
         }
       ]
     },
     {
       "id": "319450",
       "match_time": "1788214500",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Union La Calera",
       "home_img": "https://sta.vnres.co/file/common/20260829/21cb29d6095a08479032077884179b9d.png",
       "away_name": "Deportes La Serena",
       "away_img": "https://sta.vnres.co/file/common/20260829/390fece7fc872f281ca224e59197d069.png",
       "league": "CHI D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=3b0248a4d2eb7c7aee4f2fcd70376cda&txTime=6a964eed"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-602019_lsd.m3u8?txSecret=81dca1f7fd53c0efd8382b8644aa1b23&txTime=6a964eed"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788217501-0-0-416602852b815d74b419c599768bbce6"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1788217501-0-0-812cef33d7198a42e42fdafdf872e71e"
+        }
+      ]
     },
     {
       "id": "319451",
