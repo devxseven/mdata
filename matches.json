@@ -12,11 +12,11 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=f80cd5c5c49f71de56cea31bdd90e87b&txTime=6a979bbd"
+          "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=a90f018edbd7232812f494add89288ff&txTime=6a979ce9"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912126_lsd.m3u8?txSecret=4363947d9f16dedd85f12a3914f4cdaf&txTime=6a979bbd"
+          "url": "https://pull.niur.live/live/stream-9912126_lsd.m3u8?txSecret=9812e116a8a01bdf96802cd80a51d7a6&txTime=6a979ce9"
         }
       ]
     },
@@ -32,32 +32,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788302701-0-0-6bb957821a681bb557d70cf355597bce"
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788303001-0-0-453bd35abce9750e9eb95a8b539d80d2"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1788302701-0-0-14c3ad40cc392b787125e1de76d1cf70"
+          "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1788303001-0-0-319636742084cddadc8e112258834374"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788302701-0-0-44ecce79e9c3d069ee5cad8564218089"
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788303001-0-0-65f5b47c3387c1a3128befc5125489e6"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1788302701-0-0-6a7460556ebed59a26fa7c604faad7cb"
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1788303001-0-0-b2d8597dc4f3a0424ad5227b01ea30e9"
         }
       ]
     },
     {
       "id": "319608",
       "match_time": "1788300000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Supra Du Quebec",
       "home_img": "https://sta.vnres.co/file/common/20260831/d02f15b52884f7dba6c768b0a5cad678.png",
       "away_name": "Forge FC",
       "away_img": "https://sta.vnres.co/file/common/20260831/b32377cbed1e8014adba30dc4a5d2a7b.png",
       "league": "CAN CC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=8b6eaadbe0358fb3d98fd5ab6018f9c5&txTime=6a979ce9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=e347f1b04f1552b5643ccc81e542e146&txTime=6a979ce9"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788303001-0-0-d1b69e4276f7b96b0a69964d4c689e21"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1788303001-0-0-279b7ee369a2991e6a4e08cff1d8cb9a"
+        }
+      ]
     },
     {
       "id": "319508",
