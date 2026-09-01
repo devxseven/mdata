@@ -12,24 +12,41 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=3efbdb7adb53cb89a3e5753c7a125801&txTime=6a9794b5"
+          "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=c9b35946f1f34a4824006d16fb5e1922&txTime=6a9795e1"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-9912126_lsd.m3u8?txSecret=acd2ae9235856eebaa42cf3bde35b69d&txTime=6a9794b5"
+          "url": "https://pull.niur.live/live/stream-9912126_lsd.m3u8?txSecret=4858cc84c20f9ef155e3a21a1bea2f69&txTime=6a9795e1"
         }
       ]
     },
     {
       "id": "319607",
       "match_time": "1788298200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Club Sportivo 2 de Mayo",
       "home_img": "https://sta.vnres.co/file/common/20260831/0f90435298b747015853e910d3313f06.png",
       "away_name": "Sportivo Luqueno",
       "away_img": "https://sta.vnres.co/file/common/20260831/fea0d71d160397f3008d97273d791527.png",
       "league": "PAR D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788301201-0-0-c5ea6650885c55be9dba555cfaab3edc"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1788301201-0-0-c7af768dab0a60fd0d746720e3637035"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788301201-0-0-f9aa0e978d7c6d5fda18ea6c99b4b463"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1788301201-0-0-f93d8e539d5cb15961570bfda162d962"
+        }
+      ]
     },
     {
       "id": "319608",
