@@ -3,13 +3,38 @@
     {
       "id": "319562",
       "match_time": "1788386400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Coquimbo Unido",
       "home_img": "https://sta.vnres.co/file/common/20260830/71cbff45935dc515d21e16804a698a47.png",
       "away_name": "Universidad de Concepcion",
       "away_img": "https://sta.vnres.co/file/common/20260830/d11548333558dbec3137f75da6ea573b.png",
       "league": "CHI D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=361062ea780ed10d4db2074d9b26cf9e&txTime=6a98ee69"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=e0c80a81946990e76403a9457ba74741&txTime=6a98ee69"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788389401-0-0-27680b8d81050d2d8c6efcbf4829b913"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1788389401-0-0-12d8257a5dde6368c1cc81f463fdb9c5"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=c712e0f588f6c7cac8b5294352769b55&txTime=6a98ee69"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=a47816546e026b53824b6cde6e31118e&txTime=6a98ee69"
+        }
+      ]
     },
     {
       "id": "319563",
