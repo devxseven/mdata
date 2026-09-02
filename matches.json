@@ -12,40 +12,49 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788335101-0-0-de30654b22067c06c504171b0afbc2d3"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788335401-0-0-98899b2f176eb2a0992f3c905525f49c"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1788335101-0-0-a69f5f415f6bb204978af5c00bf39ba7"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1788335401-0-0-8342aaab0663db52becc3a521645af50"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788335101-0-0-9acab5de43af1788ee0e362259e5c66e"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788335401-0-0-f4a5e9567949ed4091d3bbb95d7cf929"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1788335101-0-0-0953eda3864d0017bd806563604e710b"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1788335401-0-0-03ae98734a40321f9c064a7e473d4ec3"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=4f1ba43118b53091eecdbbf546361ce0&txTime=6a981a4d"
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=84daf8cc4ccd0b489f3ae2ce49cd5c94&txTime=6a981b79"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=38f7807d8b3f8c9561bbb8fcba7a7c87&txTime=6a981a4d"
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=a4c8fffd4b51a28d25e8947fa3b35e22&txTime=6a981b79"
         }
       ]
     },
     {
       "id": "319602",
       "match_time": "1788332400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Quezon City Galeries Taipan",
       "home_img": "https://sta.vnres.co/file/common/20260831/f7ed10670aa503a89f974c56b6b65ceb.png",
       "away_name": "Sarangani",
       "away_img": "https://sta.vnres.co/file/common/20260831/2639d0e70dfecf4594dce0ea0bb13dd5.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=2163e15a95f9c0762efaf2e50e8c806d&txTime=6a981b79"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=d188e989db456b8da63ba827c27c1790&txTime=6a981b79"
+        }
+      ]
     },
     {
       "id": "319603",
