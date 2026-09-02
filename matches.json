@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=522ff9fcc7247d9fea063391ee467e19&txTime=6a97e20d"
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=7864cc51914b3cb70191a30527054b5e&txTime=6a97e339"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=47574b7130e90cef22a8c813798b8f4d&txTime=6a97e20d"
+          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=6fe872fe71a06dbeb555b48aa5dc169e&txTime=6a97e339"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=92ab3d727ea251b6c2bac86eeea2a31e&txTime=6a97e20d"
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=8df31160a1c73cb0b470ba3c9f0f50ce&txTime=6a97e339"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=8bdb26c84e6cd5f4e67de0d225837f3e&txTime=6a97e20d"
+          "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=2c837b7e8ad5534d703ec538f0e05d99&txTime=6a97e339"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=192ea3333ef6c799da8892cd2ae0b41c&txTime=6a97e20d"
+          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=80207578756e21c96fba3b0fce9a69e9&txTime=6a97e339"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=0e4759f853a2234f169d8100e0f31306&txTime=6a97e20d"
+          "url": "https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=26f1429346bc1e4820ae8e3a8f25073c&txTime=6a97e339"
         }
       ]
     },
     {
       "id": "319600",
       "match_time": "1788318000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Liaoning Flying Leopards",
       "home_img": "https://sta.vnres.co/file/common/20260831/229ca41f562259fb13fd8241674ae593.png",
       "away_name": "Fujian Xunxing Sturgeons",
       "away_img": "https://sta.vnres.co/file/common/20260831/262d4e790e099316487834ffae7f37b0.png",
       "league": "CBASL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788321001-0-0-a8e713537d8d18a1fbd7940636f83843"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1788321001-0-0-4de509febae2d6230930a4426727e75b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788321001-0-0-ee67aa59b82f0bb4a4ba1fc31538ef8e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1788321001-0-0-c62bb81b8276bb984286fbf1d11618f3"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=87c3d01a5bbbeef4368b10ea864262a6&txTime=6a97e339"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=7d020eae5a3dea08ead01b908fdb77bb&txTime=6a97e339"
+        }
+      ]
     },
     {
       "id": "319601",
