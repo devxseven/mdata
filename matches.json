@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788416101-0-0-a2775019b2e85d73867021611dcb774b"
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788416401-0-0-bb2fac91f95306e21c72740039fc5715"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1788416101-0-0-5a9972e55eef837f760921d1944d0eed"
+          "url": "https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1788416401-0-0-ccf2410570275e7ffeee838bb8d24416"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788416101-0-0-6d836791c9c01bb83e58bbef96a0e4ec"
+          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788416401-0-0-0fe4696a162280d41824dbe682764b68"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1788416101-0-0-0410ad462bf4e4ec851074d194e6f0ca"
+          "url": "https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1788416401-0-0-119612a8cd7b6d3807ad5ce331f327e1"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=97f4c534bc23196c02c54003e060280b&txTime=6a9956b5"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f417e3944f9acebd6f0b56b949a2c77b&txTime=6a9957e1"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=e179a88047bebcdf3c5733bbbb59164e&txTime=6a9956b5"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=5d5319068eafca7e7fd308aafe74fffc&txTime=6a9957e1"
         }
       ]
     },
@@ -48,40 +48,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788416101-0-0-53f777496ef9a7367bd0333c31b8b955"
+          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788416401-0-0-04ca559d7163333ca77e22665f33cc19"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1788416101-0-0-17b3702d177ee4f15bde5d42e96b1f8a"
+          "url": "https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1788416401-0-0-5a4f4714e53f03085dae3ac359621e68"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788416101-0-0-28b91c4638fa2f00cdb00cc23c310438"
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788416401-0-0-67849fed542856c3a8d8ab42704567c1"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1788416101-0-0-f68b45f6655799035aeedb8a99a43c5a"
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1788416401-0-0-322472fd19ad3a74879e2a4d37a57b3a"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788416101-0-0-b038964b728315f458361f336069474d"
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788416401-0-0-ff79ef172d041ad12f3548a565569b19"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1788416101-0-0-019404df9e7bd4090b3fde3d81d9f762"
+          "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1788416401-0-0-4d86885b21c37a55fddc600bb231abdb"
         }
       ]
     },
     {
       "id": "319672",
       "match_time": "1788413400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Zhejiang Guangsha Lions",
       "home_img": "https://sta.vnres.co/file/common/20260901/697524fc6097847a3f3cdba56f5017c4.png",
       "away_name": "Shanxi Loongs Fenjiu",
       "away_img": "https://sta.vnres.co/file/common/20260901/d3ddbd8ecc067ece9cb4f907ee48be46.png",
       "league": "CBASL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788416401-0-0-b65ac744d53d8025814e4050dbf1b1fe"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1788416401-0-0-0247e46741b4cac73b5cb56251887e5b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788416401-0-0-95899f4e116e07ac3294c42913dc2d36"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1788416401-0-0-d1c5d409f0d8726686a4153456ec2fe9"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788416401-0-0-0c6c3f74c7b38b733764e0678956e192"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1788416401-0-0-1016026abf35e7e8e073e9a6a50022e6"
+        }
+      ]
     },
     {
       "id": "319671",
