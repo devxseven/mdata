@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788515101-0-0-4834abbac09bd23cb4ebd9f7c3ad286c"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788515401-0-0-48a57afea3f8b8d22e6f72944eec2844"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1788515101-0-0-beb0f72937ab76779ddf8f0579249cd7"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1788515401-0-0-d3c704927b808e9692467d6fc50c9700"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788515101-0-0-f648d324582b32d0ffaf27ff2e93539f"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788515401-0-0-4efa3169435bd8f3f1b9aa723538288d"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1788515101-0-0-728e302f90d006aec9b1cafca2e56f7b"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1788515401-0-0-f25a32e6790d0a6918ec2584e5f3feee"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=04ee787c80ef976bfe345ca0fb76ab73&txTime=6a9ad96d"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=3f57c72e2f0ad2738485d0a98c14795d&txTime=6a9ada99"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=a420795782b256c61c9fbea256916a46&txTime=6a9ad96d"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=ad34cf74e24f56d47addf30af781864e&txTime=6a9ada99"
         }
       ]
     },
@@ -48,62 +48,113 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=b214c3830b504534ed325bdcc010cafe&txTime=6a9ad96d"
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=8fc22a7ca68121e7f7bec94804a9d43c&txTime=6a9ada99"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=1de4ebb6f98226f1c731c81d6f180cd8&txTime=6a9ad96d"
+          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=f800da79e22bbfd26fcab24357d7fea7&txTime=6a9ada99"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=4e6195759b628fe8015447c550d08f45&txTime=6a9ad96d"
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=69bacc4553c98d35d4f7d6fd2aef316b&txTime=6a9ada99"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=4900e596ce0421732f368864763ab088&txTime=6a9ad96d"
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=f2b57d04ab4b07c7dd698ac099680811&txTime=6a9ada99"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1788515101-0-0-dccfcadf967d0d91f0e4179189529cae"
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1788515401-0-0-30d329e9bef0b7cf2ca39dc108a83336"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1788515101-0-0-0f6befd3ce77f92ad31deb33bba678d4"
+          "url": "https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1788515401-0-0-4fb44adffe74d4204eb11c9f30771c18"
         }
       ]
     },
     {
       "id": "319639",
       "match_time": "1788512400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Lecce U20",
       "home_img": "https://sta.vnres.co/file/common/20260901/e4d496fdc38cfc7c696c7ffaf8fca46b.png",
       "away_name": "AS Roma U20",
       "away_img": "https://sta.vnres.co/file/common/20260901/690a3cc83b7686a4d0ca26e9975da3b2.png",
       "league": "ITA YTHL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=debbfc300c97cf942678187d6cc2950f&txTime=6a9ada99"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=9cd9d2387836f19db6eba492b61fb022&txTime=6a9ada99"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=4a5050051e1ae9e5325e9e4d840d3dac&txTime=6a9ada99"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=cf8709ae6c595794f98b4662169f0712&txTime=6a9ada99"
+        }
+      ]
     },
     {
       "id": "319640",
       "match_time": "1788512400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Chinland FC",
       "home_img": "https://sta.vnres.co/file/common/20260901/3acdbc95ceb268fc05861381a09eac51.png",
       "away_name": "Yangon United",
       "away_img": "https://sta.vnres.co/file/common/20260901/d61d017ca7de07c1234888bf8e0a06dc.png",
       "league": "MYA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788515401-0-0-c80b166fedc5b3e8a9602ef5e4442909"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1788515401-0-0-947c70572086aac4cd98ec9f1ff928d5"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788515401-0-0-c40d710368655c1ee461a7d41968d044"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1788515401-0-0-17dfb8549df88a13e1bb42bf0cdeaaaf"
+        }
+      ]
     },
     {
       "id": "319641",
       "match_time": "1788512400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Yangon City",
       "home_img": "https://sta.vnres.co/file/common/20260901/6eba7a167d338d23511cea53b222f2ab.png",
       "away_name": "Yadanarbon FC",
       "away_img": "https://sta.vnres.co/file/common/20260901/52a50d0b9ebc4cccd17d0b5a501e9a21.png",
       "league": "MYA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788515401-0-0-91394b5d388991e0dcf2a2683d578c2d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1788515401-0-0-2dfc6918fda00f106d5ac81c8bea33b4"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=8f0b52117f0de4d78369fb238053a02c&txTime=6a9ada99"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=54c91f5f15d69f7de5404b7f793efe15&txTime=6a9ada99"
+        }
+      ]
     },
     {
       "id": "319746",
