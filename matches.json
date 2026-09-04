@@ -3,13 +3,38 @@
     {
       "id": "319744",
       "match_time": "1788499800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Zhejiang Guangsha Lions",
       "home_img": "https://sta.vnres.co/file/common/20260902/ec62b2c67fd86d17ca7a467fc3d550a4.png",
       "away_name": "Tianjin Pioneers",
       "away_img": "https://sta.vnres.co/file/common/20260902/1f84a8c900200da938eebc4768ff57f9.png",
       "league": "CBASL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788502801-0-0-e8b45bd50fb93969a56767b3d9d355d9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1788502801-0-0-34530c88b1d352a6361152f323533d30"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788502801-0-0-b4dcc2b8aa1a37a856e28fc44081159a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1788502801-0-0-0d32ca584bb4b24b48441fc4d38dc8bf"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=8905f784a30958e8d4db494cc361a2b3&txTime=6a9aa961"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=074250c1127ee0699bf4304719d9f3d9&txTime=6a9aa961"
+        }
+      ]
     },
     {
       "id": "319745",
