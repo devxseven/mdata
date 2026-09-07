@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788788702-0-0-384ba4a74a7e87da93353d43643e51f7"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788789002-0-0-bdf1656634e53878eb8ad9d468275262"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1788788702-0-0-8bdc9129619b77ab723530f0233edfe2"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1788789002-0-0-d82f4fa227c5172e4e9d1f419a039ed9"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788788702-0-0-10127d53faffc6f37927162b453bb895"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788789002-0-0-eef406775552e99d1a8a9ef0a1b2b78c"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1788788702-0-0-6bee02af98db225cc42a723e8fe010e0"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1788789002-0-0-971b949a0cdf99f8e1e63e484c091155"
         }
       ]
     },
@@ -40,43 +40,93 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=6844b1c741099f700a6d8e314bb14837&txTime=6a9f062e"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=ec5fd4c35ca040713177dc7f3dcf0fc3&txTime=6a9f075a"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=d5b8da6ce586b085958762225c872658&txTime=6a9f062e"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=c1d53d6ca54aa48e61c17403c19393eb&txTime=6a9f075a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788788702-0-0-dcbf3bf5d53ad8b541003445edd68c5d"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788789002-0-0-ba8a470bbadf5fd6f16b91b9de91fc78"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1788788702-0-0-d638bae977cda9c58da63372b5df9d1d"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1788789002-0-0-fa4fd78c03d01c6cff8a7bebf47687c7"
         }
       ]
     },
     {
       "id": "319866",
       "match_time": "1788786000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "New Caledonia U20 Women",
       "home_img": "https://sta.vnres.co/file/common/20260904/7a2a913f8a9c76d2c53bb99f3028374f.png",
       "away_name": "China U20 Women",
       "away_img": "https://sta.vnres.co/file/common/20260904/ea2836242b3d43e4911910eb565a67c9.png",
       "league": "FIFA WU20",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=8562202d06197e3cb8c11629a927f5f0&txTime=6a9f075a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=e72ea41444286c7aef4dc55ac2669b83&txTime=6a9f075a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=b636dbacab10d89f05bc9d0936d43cb5&txTime=6a9f075a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=cf31758353bd1824874ee53b9a26bd6e&txTime=6a9f075a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788789002-0-0-8e279b1f2e1475857871b20dd34d70f7"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1788789002-0-0-4dc0c9a0f239587c464891f9c7af10d7"
+        }
+      ]
     },
     {
       "id": "319867",
       "match_time": "1788786000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "North Korea U20 Women",
       "home_img": "https://sta.vnres.co/file/common/20260904/e9b12e9ea525e6c25989e3245dff5269.png",
       "away_name": "Portugal U20 Women",
       "away_img": "https://sta.vnres.co/file/common/20260904/f2372d042fe0857042cfae3b597eadae.png",
       "league": "FIFA WU20",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788789002-0-0-1cc9551f127214887830b2627d9b706d"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1788789002-0-0-ca245fcb7abb46332070c1d051c4c122"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=fd6d230ae17b9dea4a6a5a5333019ce2&txTime=6a9f075a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=bf2c48ef6ca8daa3d4155688006df73a&txTime=6a9f075a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=de2961ab82cec6ef552ef24a0a1986bf&txTime=6a9f075a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912132_lsd.m3u8?txSecret=75d6b1053e09cc6a46062af71b41b847&txTime=6a9f075a"
+        }
+      ]
     },
     {
       "id": "319868",
