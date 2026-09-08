@@ -12,43 +12,93 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=57f347c043994d75f69df8a993e23121&txTime=6aa0d63e"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=cf5dbdb05c847906746d8244c6a40bd3&txTime=6aa0d76a"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=56e8b99c6235ceb88846739e609fff8f&txTime=6aa0d63e"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=3831b9a759e53e5ff7c9fe9a0f1079dd&txTime=6aa0d76a"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=8847575ea4ed8c6d84bbef4ba7e35312&txTime=6aa0d63e"
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=e43b73187d675408a628521f785b537d&txTime=6aa0d76a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=4b6c90fcd9f473632833636168eb07a5&txTime=6aa0d63e"
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=1533c5855eb93e8e5faa88c2e7260a34&txTime=6aa0d76a"
         }
       ]
     },
     {
       "id": "319945",
       "match_time": "1788904800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Fluminense - RJ",
       "home_img": "https://sta.vnres.co/file/common/20260906/21b163b3df41b528d61aed710cfa6aec.png",
       "away_name": "CA Platense",
       "away_img": "https://sta.vnres.co/file/common/20260906/81e16b95d0fab28875b49e14e392a4ae.png",
       "league": "LIB Cup",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=bb956524114e604a74d7b1f49032705a&txTime=6aa0d76a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=f557bc7c62c58bf51413ffd8bdc2f999&txTime=6aa0d76a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788907802-0-0-058f8dbceec8d300417c5c89cb9099df"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1788907802-0-0-811288120bd4fa5840a953f46452c234"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788886617-0-0-8e8ada19a437a743208517f59ad31732"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1788886617-0-0-47a5cfbd31be7914699b4f1332e8950c"
+        }
+      ]
     },
     {
       "id": "319946",
       "match_time": "1788904800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Independiente Santa Fe",
       "home_img": "https://sta.vnres.co/file/common/20260906/be492b05ff39bf5c4d4e8a1069ade20f.png",
       "away_name": "Vasco da Gama Saf - RJ",
       "away_img": "https://sta.vnres.co/file/common/20260906/0742ef5bddea66daeb7abfa3254b9296.png",
       "league": "CON CSA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788907802-0-0-cde64869dbfe7726f0728f64926b1733"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1788907802-0-0-2d652f1317826c1094eeebabb0722393"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=61941726171610d5ce08cab918a28427&txTime=6aa0d76a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=4472a8087d2948ff6dfb2ad8233c9d0e&txTime=6aa0d76a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788907802-0-0-52b07132ee0ba5ecfe2856ed51b7e6f9"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1788907802-0-0-c822f5c0d50bc088f0863e0687eedd8c"
+        }
+      ]
     },
     {
       "id": "320041",
