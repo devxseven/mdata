@@ -3,24 +3,50 @@
     {
       "id": "320108",
       "match_time": "1789023600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "South Korea",
       "home_img": "https://sta.vnres.co/file/common/20260908/ab266056d1a76f432ef4ec6fb2b58a0d.png",
       "away_name": "Saudi Arabia",
       "away_img": "https://sta.vnres.co/file/common/20260908/3dd85c7fccc586976144c73ba98c633a.png",
       "league": "AGB",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=f2273e9ef711e1909bc0ef52a23bbaa9&txTime=6aa2a77a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=1088689c7b52a48486474508a2ecd259&txTime=6aa2a77a"
+        }
+      ]
     },
     {
       "id": "320109",
       "match_time": "1789023600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Quezon Huskers",
       "home_img": "https://sta.vnres.co/file/common/20260908/8504bfff7bf76e40e86029be7e671003.png",
       "away_name": "Basilan Viva Portmasters",
       "away_img": "https://sta.vnres.co/file/common/20260908/511fd3de7288d43c650d465f819e7fdc.png",
       "league": "MPBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789026602-0-0-ab1082e6e378959be363c13453e0bf80"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1789026602-0-0-15845710e6ae4659a9fd094ed9b0636b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789026602-0-0-12fcbb4ebc0ddd9be8feca04eceff2a4"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1789026602-0-0-a62cd5ab67f890e2cc8d56bb2b9a3c88"
+        }
+      ]
     },
     {
       "id": "320110",
