@@ -12,43 +12,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e5eab849323b4cfba2ff90aeb45df75c&txTime=6aa40ce6"
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=70727ed8d4fc404bcb91d986d72139dc&txTime=6aa40e12"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=23ac34843a8d2b5784dd574233be2ec2&txTime=6aa40ce6"
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=8c63d39036fa74310ea495a8b72c2a73&txTime=6aa40e12"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789118102-0-0-d76dbc70fa68fa6139383c715d598ddd"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789118402-0-0-a2a7fb0a5dc7d06980214b1a536ce20b"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1789118102-0-0-bab902ba5df05d010dd9a33ca0b5ec39"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1789118402-0-0-250d995d6e8af982a182ac157240a9ad"
         }
       ]
     },
     {
       "id": "320075",
       "match_time": "1789115400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Garudayaksa FC",
       "home_img": "https://sta.vnres.co/file/common/20260907/7ff8ca12cfcbf45b309194f8faa36440.png",
       "away_name": "Persik Kediri",
       "away_img": "https://sta.vnres.co/file/common/20260907/417057053fed70be1c9a7b7885158af0.png",
       "league": "IDN D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=b62f48079fa9ea53f586dd945651e944&txTime=6aa40e12"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=de0665abf27b4cc7c6111463dbe0bbd4&txTime=6aa40e12"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789118402-0-0-681f19a283643479fca42de439aedbc4"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1789118402-0-0-d8e3e08d78ee063c4f55af6b2482da14"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789118402-0-0-599eb8f2e22e7f4d8cb3defcb97dfdb7"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1789118402-0-0-e2eda142e2ca4e7eda3b11bf250e885f"
+        }
+      ]
     },
     {
       "id": "320076",
       "match_time": "1789115400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Hue FC",
       "home_img": "https://sta.vnres.co/file/common/20260907/ec0edd8c18cac5803d5b0e370ed29020.png",
       "away_name": "Dong Thap",
       "away_img": "https://sta.vnres.co/file/common/20260907/7c69d302c8c0b87894686bc1393a51f2.png",
       "league": "VIE D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789118402-0-0-6fdfe64721345456dd1a389c1121fc89"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1789118402-0-0-c3b4b9af5a72cab3964271025350ba21"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789118402-0-0-a788109286dd77c7896dce460c15f2eb"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1789118402-0-0-7f24d087a835b7ec5849c0972b043054"
+        }
+      ]
     },
     {
       "id": "320185",
