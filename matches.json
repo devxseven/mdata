@@ -3,13 +3,38 @@
     {
       "id": "320127",
       "match_time": "1789164900",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Defensa Y Justicia",
       "home_img": "https://sta.vnres.co/file/common/20260909/ad02f4f30161006705c217d8e6db5e71.png",
       "away_name": "Gimnasia y Esgrima de Mendoza",
       "away_img": "https://sta.vnres.co/file/common/20260909/daf6ccf47ffc31bf022310b61ba8db88.png",
       "league": "ARG D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=cdaded77b3b93bebbd1181699b917c94&txTime=6aa4cf6e"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=653876ccbeeec6834640240f38041b35&txTime=6aa4cf6e"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789167902-0-0-174c230006d867eed550f94511ea57a7"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1789167902-0-0-54aa8d230d8535e3806f21952bf5db89"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=0672b4b58aa32faefbbd74c716c3c449&txTime=6aa4cf6e"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-621887_lsd.m3u8?txSecret=337c2dbfb45c02bb6ce951a15124ebb9&txTime=6aa4cf6e"
+        }
+      ]
     },
     {
       "id": "320128",
