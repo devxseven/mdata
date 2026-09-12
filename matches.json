@@ -3,13 +3,30 @@
     {
       "id": "320255",
       "match_time": "1789196400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Bahrain",
       "home_img": "https://sta.vnres.co/file/common/20260910/2ca8d30667709c656efbb3c79dd40158.png",
       "away_name": "China",
       "away_img": "https://sta.vnres.co/file/common/20260910/b789b59a16eba163d121e56e8adc4af0.png",
       "league": "AGB",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789199402-0-0-02571f76c437f7e75152533d9a591043"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1789199402-0-0-8cd1f7945c1a9c8ab50495ac5a47584a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789199402-0-0-b2a5ae1e8ae1ead4bb5504447576802b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1789199402-0-0-9b6d40ad38a0c65c36ec8335090038e8"
+        }
+      ]
     },
     {
       "id": "320140",
