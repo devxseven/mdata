@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789341302-0-0-ce3317f1aa06f8c26b58a5ab1a83b878"
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789341602-0-0-bf85869842f86b555748d703dd01a355"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1789341302-0-0-7aee107da386c81763e675396522613b"
+          "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1789341602-0-0-c93e8ed101839bde289e29bb2bd952b7"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=4397c918b111246772b59e1d2e0f5960&txTime=6aa774c6"
+          "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=9cda5eab80f3f63a4219ff48af563644&txTime=6aa775f2"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912126_lsd.m3u8?txSecret=f4a37e08d75c31774f94bc5f674e8509&txTime=6aa774c6"
+          "url": "https://pull.niur.live/live/stream-9912126_lsd.m3u8?txSecret=fefa2262d0a055272eb3420c2b124269&txTime=6aa775f2"
         }
       ]
     },
@@ -40,19 +40,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=9baf38c9c46682d700be47563b9b5005&txTime=6aa774c6"
+          "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=0b4df9ab5610435f216398424f9a0543&txTime=6aa775f2"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=20f1ec397360d65e40dbb7f10ac1b54e&txTime=6aa774c6"
+          "url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=5ee870a5c7753bfe075d5721ba60ece0&txTime=6aa775f2"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d7649c88cbab6565ef416ac35cbef9e3&txTime=6aa774c6"
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=2f6a68031b520dba46d0d5a624831ddb&txTime=6aa775f2"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=98c20df5a3e3541d80569406712fef0e&txTime=6aa774c6"
+          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=e45e132c45c3c36969678be805ca049d&txTime=6aa775f2"
         }
       ]
     },
@@ -68,32 +68,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=72129b92096c0b6703529e436080dc73&txTime=6aa774c6"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=f72e15363c997d0daa8d6b9e7bdb13bc&txTime=6aa775f2"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=1ff496f6fa58643b706a2ca39b9bf7ac&txTime=6aa774c6"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=dc374cf8f1120d1e50c09c4822243cc7&txTime=6aa775f2"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=31d5db96d3e14aaeb427da919857fe89&txTime=6aa774c6"
+          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=d0fe06a366699ad9655c5061171866fd&txTime=6aa775f2"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=7d9c9bf5c8f84e8397886e9ccc06f58b&txTime=6aa774c6"
+          "url": "https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=ecec4128f9436c83674733c2c996fa1d&txTime=6aa775f2"
         }
       ]
     },
     {
       "id": "320284",
       "match_time": "1789338600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Vancouver Whitecaps",
       "home_img": "https://sta.vnres.co/file/common/20260911/d02ff8aee59de417d6062036cc77fd35.png",
       "away_name": "Austin FC",
       "away_img": "https://sta.vnres.co/file/common/20260911/a9c7b8cd4722ffed079876fe30f2617c.png",
       "league": "Major League Soccer (MLS)",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789341602-0-0-e95128f192592a54da7da93e4d5bf278"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1789341602-0-0-05bee6ef7e568818af6fed3ce16af71c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=63a4d5573bfa92a411b52ef54ef28a72&txTime=6aa775f2"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-621887_lsd.m3u8?txSecret=64e7e4565d669d3273e53983b383a096&txTime=6aa775f2"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=0f3ee081e7281c72f5aac3a554931d7c&txTime=6aa6c190"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=8b3fa075d88a791899b5b5b19d000471&txTime=6aa6c190"
+        }
+      ]
     },
     {
       "id": "320285",
