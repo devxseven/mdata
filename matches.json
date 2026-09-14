@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=e4832ceea903f84cb8a2dc82d383c0e2&txTime=6aa8c646"
+          "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=1851873fbfc1ed9b4ea85421822fba95&txTime=6aa8c772"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-621887_lsd.m3u8?txSecret=f0e4d46b9344ae2a6f8a360c6a1340f8&txTime=6aa8c646"
+          "url": "https://pull.niur.live/live/stream-621887_lsd.m3u8?txSecret=622b0535ca194c69caa46579ced4a208&txTime=6aa8c772"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=783fe82dd6e7ce93fe687428263ec1ab&txTime=6aa8c646"
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=fb81f975cac71b36d8fafa6e48d7eb6d&txTime=6aa8c772"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=d6632087ed8614e95ec25b7cc65a4976&txTime=6aa8c646"
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=5fd081f0f74bf6bb02376ff233d95b74&txTime=6aa8c772"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789427702-0-0-c1c5b2057f257060e5e084eb3e083039"
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789428002-0-0-bc97ec43529f97bbab80d4e84368f5ee"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1789427702-0-0-c9a70f15de98811f488792a6d1a71849"
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1789428002-0-0-4f69964cc7082084c008000289607117"
         }
       ]
     },
@@ -48,51 +48,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789427702-0-0-077eb7e7c75f90782fe639868929152e"
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789428002-0-0-3a309d4aa3da3b3127ab9508f7cb4f2c"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1789427702-0-0-f7ca7e58015b6a3ae5fca139a2fb8ee7"
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1789428002-0-0-eff331143fdfae4cc7f3e877699ce895"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789427702-0-0-4ff4ab3cd6ea6f230130b919429c09f5"
+          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789428002-0-0-9584de1fc1ee0f3b218b6c7f7f91eafd"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1789427702-0-0-e365b8f1e5249ed58358862afa6e0c49"
+          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1789428002-0-0-aa2eef87fa00a3c1d3b2b19d2efcf1ab"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=76871e0aa74944638907170d25083ccb&txTime=6aa8c646"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=caca69e996b6649d37c6fdb4b4b37642&txTime=6aa8c772"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=554e9a5d4f862f5b488b4d5019c611db&txTime=6aa8c646"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=4b6621d9d470a6915035d134108d88a4&txTime=6aa8c772"
         }
       ]
     },
     {
       "id": "320335",
       "match_time": "1789425000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "America MG",
       "home_img": "https://sta.vnres.co/file/common/20260912/eb6eea7ee651fabc4e09b237e38a4eca.png",
       "away_name": "Sao Bernardo",
       "away_img": "https://sta.vnres.co/file/common/20260912/fe26e3e091b8e3f7e017ce9432e92f2a.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789428002-0-0-240b79a686dfd3fbe51e1dc48daf513a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1789428002-0-0-c4ad85e93e8f1fa7064e93dff91a047d"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ad3091cc846956b1b75fff0f4f9558b2&txTime=6aa8c772"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=1e82790da4a4b596dcb61fd1b5682129&txTime=6aa8c772"
+        }
+      ]
     },
     {
       "id": "320336",
       "match_time": "1789425000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Botafogo SP",
       "home_img": "https://sta.vnres.co/file/common/20260912/41068279d6b305796617416ee104131c.png",
       "away_name": "Goias Esporte Clube",
       "away_img": "https://sta.vnres.co/file/common/20260912/0751afed3daebee06d34956790dd6a98.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789428002-0-0-936d9fa4ce6d655c2dccc76f3b2899c9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1789428002-0-0-de1fd513abd75a6caaae0eef1875a9bc"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=6f006f696bf7ae1a327a6cb631913627&txTime=6aa8c772"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912139_lsd.m3u8?txSecret=609a5afb72c84accf0c2c1af1c6b879e&txTime=6aa8c772"
+        }
+      ]
     },
     {
       "id": "320337",
