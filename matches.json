@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8a9aa8bf584f78659ba984536778df33&txTime=6aaa17c7"
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=fe096780897a7b59bbbfcdb40cb64203&txTime=6aaa18f2"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=9ae0aab837fd69a8e4d0eb17ded1181b&txTime=6aaa17c7"
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=969d69b9879f28ac825137968db16f99&txTime=6aaa18f2"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=3c2462c4c2062aaa1ddf2c8ea519c283&txTime=6aaa17c7"
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=6f2545a38f76618965a484ff727f16dd&txTime=6aaa18f3"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=f0bc6a835ce0f709076f11af9e65b526&txTime=6aaa17c7"
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=4f4d56e11f0f8e41461f31cec3dd6306&txTime=6aaa18f3"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789514102-0-0-071c512612a1d167094c6fefc49cb0f7"
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789514402-0-0-9b5d6b609d787ce5774873d53efe9df9"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1789514102-0-0-0e3eb8b23e23be0ba51f194731fa5aee"
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1789514402-0-0-810ee3b33ecc259e0a06398416bc9e8a"
         }
       ]
     },
@@ -48,51 +48,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=9a2d6e1bfa68bfcad1e303a60e7200af&txTime=6aaa17c7"
+          "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=abcd3aec9f21fb8ae55e0ec731112077&txTime=6aaa18f3"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-621887_lsd.m3u8?txSecret=635296d7019f61388a2cb6a4808e8d99&txTime=6aaa17c7"
+          "url": "https://pull.niur.live/live/stream-621887_lsd.m3u8?txSecret=ad043e6b33298bc2ecdd1cb03f2de0f4&txTime=6aaa18f3"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=441c0dc7b3b20b9aa35c76ed8b89059c&txTime=6aaa17c6"
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=43b518a2e03a078a24a95091a80992a0&txTime=6aaa18f2"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=876a00ed0d779429f4c7966e2c7a093e&txTime=6aaa17c6"
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=06bf393564c34524cf955cd14e893689&txTime=6aaa18f2"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789514103-0-0-106c7e234aa550461755beb5b2bd6279"
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789514403-0-0-98f37171d513228f0889c6b7b82deaab"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1789514103-0-0-dc95b3a632b71b76a32f2b9b366c7865"
+          "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1789514403-0-0-e6e543424928d0bbdb99de2a1e4fb3f3"
         }
       ]
     },
     {
       "id": "320388",
       "match_time": "1789511400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Londrina PR",
       "home_img": "https://sta.vnres.co/file/common/20260913/d480527e61a305d85631905f41167e2e.png",
       "away_name": "Ponte Preta",
       "away_img": "https://sta.vnres.co/file/common/20260913/f98434754adc20a5c21525f209baa7ba.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789514402-0-0-5d308ce941f8a1337c49b076c5798987"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1789514402-0-0-a5e4da019a0a31e03a55bb8ad1317abd"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=04dfb21ce261a5cfcfc06b60d1d3a479&txTime=6aaa18f3"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912139_lsd.m3u8?txSecret=b2cbceac39485e0b122dcb1c14451268&txTime=6aaa18f3"
+        }
+      ]
     },
     {
       "id": "320389",
       "match_time": "1789511400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Nautico (PE)",
       "home_img": "https://sta.vnres.co/file/common/20260913/7433a4b60726a7b3c6aa62799ede7257.png",
       "away_name": "Operario Ferroviario PR",
       "away_img": "https://sta.vnres.co/file/common/20260913/8291eb2d50e8885dc04f38b80ec6d568.png",
       "league": "BRA D2",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789514402-0-0-16de96e2297fd030fdb18f4fd4261b28"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1789514402-0-0-147aada8c79d0ad81b6f67aa09c8a862"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789514403-0-0-b807cf35b7f445a52719504cb9d9082b"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1789514403-0-0-35fa8d32f3cfcf71345b3064808c96b7"
+        }
+      ]
     },
     {
       "id": "320390",
