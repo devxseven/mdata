@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789469102-0-0-60471ee407fc48374194cb596adaff41"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789469402-0-0-be481e289c02a246ba3f8f08f5cac36e"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1789469102-0-0-afd6155ee2fa3ccac4c2c29b23f02d30"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1789469402-0-0-d5bba1d43531a042d94b7500da83a9bc"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789469102-0-0-c5f041ae39f9161fbf4265972071d888"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789469402-0-0-f765c34d1c5280b9ea80c6637c31e73d"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1789469102-0-0-5df96bf44f38d20b5c11ea57a701ac07"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1789469402-0-0-3e60871abc895d1525023a6e734a2ba1"
         }
       ]
     },
@@ -40,84 +40,209 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789469102-0-0-02637fc97a51fbc8eae38c708164e10a"
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789469402-0-0-5198fd542c64484a6a4153a8efa3bb08"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1789469102-0-0-42ba185eb05781949f3065059e032e16"
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1789469402-0-0-60017735e5d0d5db378aa65b2e7997eb"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=9eca85041afca5f8ef018e4d99b993cf&txTime=6aa967fe"
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=beb414ea8596df214a718ab147a36f93&txTime=6aa9692a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=70675dc3038b01281f7be705104a8e12&txTime=6aa967fe"
+          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=a7ce730c67ac99c0fd1b768f408145d0&txTime=6aa9692a"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=5460298c03d7babd19fb0c5f2432131e&txTime=6aa967fe"
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=d3e156e4738f9b1044357c565ca76c03&txTime=6aa9692a"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=52f7959a6756e939399b013f6354b0de&txTime=6aa967fe"
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=e99b0bb9f2b0ac9e28ffe6cade693503&txTime=6aa9692a"
         }
       ]
     },
     {
       "id": "320346",
       "match_time": "1789466400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Vietnam U23",
       "home_img": "https://sta.vnres.co/file/common/20260912/d0c4bf54f1a1ed74b2ce7eee5479bfbe.png",
       "away_name": "Kuwait U23",
       "away_img": "https://sta.vnres.co/file/common/20260912/4457f97d2d4fc71f21a9c3f4359140be.png",
       "league": "AGS",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=0a5340a035376761fe2e0b288f7a10f4&txTime=6aa9692a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=ac9ecd6b01d8459655fc8ecd079d1517&txTime=6aa9692a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789469402-0-0-c06e9dc2d323894dbd865d24a0fea1fb"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1789469402-0-0-68e64d86ba665dba2d61ae4c44a81596"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789469402-0-0-efd4519798977686e4bbc02eceee600c"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1789469402-0-0-8f9192a7f197c6277d1752d7aa5ab6c0"
+        }
+      ]
     },
     {
       "id": "320348",
       "match_time": "1789466400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Daejeon Hana Citizen",
       "home_img": "https://sta.vnres.co/file/common/20260912/0c7756c2434e0fd61a03cbcc07e483a8.png",
       "away_name": "Kyoto Sanga",
       "away_img": "https://sta.vnres.co/file/common/20260912/95cad2c62e0bc6dd86fd0f1be052f3cf.png",
       "league": "AFC Champions League Elite",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8a33823742ec413d91e7da8e06249dff&txTime=6aa9692a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=9411055a3c966e688eb5c25b8118d6d6&txTime=6aa9692a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789469402-0-0-90b0d3a242f66a5bd5dcddf6cced125e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1789469402-0-0-86923f594ac80652e1c752ded7e960d6"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789469402-0-0-a29abe22c6d3b072ed5ec91a86153f33"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1789469402-0-0-fd7cb5510fd9b9bee92f1b3dfabb8a0c"
+        }
+      ]
     },
     {
       "id": "320349",
       "match_time": "1789466400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Kashima Antlers",
       "home_img": "https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png",
       "away_name": "Newcastle Jets",
       "away_img": "https://sta.vnres.co/file/common/20260912/3daf5a78fcbce973f78d06795f1ceb67.png",
       "league": "AFC Champions League Elite",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=fe6f52bebfbfdf85058c66585a73b91c&txTime=6aa9692a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=81679c4fcf4d5e669b29834e452a0c38&txTime=6aa9692a"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=068ac38866457d5c460285965ad8b12c&txTime=6aa9692a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=205397efb868850b1b89082d3a1fdec6&txTime=6aa9692a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=e432df503cedd84ccfdf91e4dc046f37&txTime=6aa9692a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-9912132_lsd.m3u8?txSecret=ed776d1c8027393cd1396d0b47f02c8b&txTime=6aa9692a"
+        }
+      ]
     },
     {
       "id": "320350",
       "match_time": "1789466400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Ratchaburi FC",
       "home_img": "https://sta.vnres.co/file/common/20260912/2d054b43830f6f41d3b2f40e41ac6407.png",
       "away_name": "Shanghai Port",
       "away_img": "https://sta.vnres.co/file/common/20260912/193fa27b739c848a4fd5bd2dbd320caf.png",
       "league": "AFC Champions League Elite",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789469402-0-0-a5523eaa3c60e9444d1e7f16211a7d7c"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1789469402-0-0-463a737c6914118f631afe9152585795"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789469402-0-0-a05492b6d3e4504d9bbd1616ba8a33e3"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1789469402-0-0-8866dd45f6af7687158a3deb847f80e1"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=929225b35cd61a81f7636b8fd5930db8&txTime=6aa9692a"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=07357458254de91b061a77e185f51f46&txTime=6aa9692a"
+        }
+      ]
     },
     {
       "id": "320351",
       "match_time": "1789466400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Gamba Osaka",
       "home_img": "https://sta.vnres.co/file/common/20260912/12c5fdf0a3fa7d8278d9debda1acd1da.png",
       "away_name": "Cong An Ha Noi FC",
       "away_img": "https://sta.vnres.co/file/common/20260912/bec5203a1440164d952f452c3b4b9ac2.png",
       "league": "AFC Champions League Elite",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789469402-0-0-7d539e64c884099d33bf568d8bbe8a33"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1789469402-0-0-d54ba245f95644086cb3ba1389cf176c"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=15a28801db65c0a4f780aaeb2881cabe&txTime=6aa9692a"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=9919771f8bfe7a914f87420916550206&txTime=6aa9692a"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789469402-0-0-1d5c11542a6af8257cc3f17f9007b462"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1789469402-0-0-beca645f30da8f1ea36450e5c0d1e343"
+        }
+      ]
     },
     {
       "id": "320352",
