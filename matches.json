@@ -3,13 +3,38 @@
     {
       "id": "320345",
       "match_time": "1789453800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Uzbekistan U23",
       "home_img": "https://sta.vnres.co/file/common/20260912/45500dc4a2c29d1b92aace4fb3e7dce1.png",
       "away_name": "Philippines U23",
       "away_img": "https://sta.vnres.co/file/common/20260912/d7de2a1c74fac0a419dd05032fb9f361.png",
       "league": "AGS",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=30e74e66b70408d22d30afa3ee1b8103&txTime=6aa937f2"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=0dc01c4f4cf6014d63a10e943951a46f&txTime=6aa937f2"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789456802-0-0-625eb74e979170f240d09f3ca26aa6a6"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1789456802-0-0-344d504c6948e03716cf8288c998219b"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789456802-0-0-9d19598cbf03f014617ee80806f04791"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1789456802-0-0-c7de7699be58b63647bc67c3a0b08d30"
+        }
+      ]
     },
     {
       "id": "320466",
