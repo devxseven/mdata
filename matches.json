@@ -12,32 +12,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789467302-0-0-065e216fcea9526a1e10e3946030e87f"
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789467602-0-0-11e5f241e102da7d55622c74b5897a63"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1789467302-0-0-7924ee3fa41468a1cbf42290b2fc17ed"
+          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1789467602-0-0-4e80443bb17a21373f31b8fbeef963fe"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789467302-0-0-5df4310cffc23170231416e9016d0af9"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789467602-0-0-f6d04744e5797647ed2048a0b1edab6a"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1789467302-0-0-5fba3f56dc19b03b7e895d1cbf56c0fc"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1789467602-0-0-048c9692783c5615edc3548521d0431d"
         }
       ]
     },
     {
       "id": "320347",
       "match_time": "1789464600",
-      "match_status": false,
+      "match_status": true,
       "home_name": "South Melbourne",
       "home_img": "https://sta.vnres.co/file/common/20260912/100bbf339d1dc5069a9e91d93358c956.png",
       "away_name": "Queensland Lions SC",
       "away_img": "https://sta.vnres.co/file/common/20260912/3659002adf9620e815b266dc0c010fdb.png",
       "league": "AUS FFA",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789467602-0-0-77ab6bc6b5437cea36d2a668370544f8"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1789467602-0-0-bcaf019c7d098ae407671e653742b9f6"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=8eb9d98004939879c55458f057b3c98e&txTime=6aa96222"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=652042efa8905f4b59c5f9df757439a1&txTime=6aa96222"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=7034d44d21c26c9454e3bff81e6cab5f&txTime=6aa96222"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=1ef20f6bfca218740e5ca994b38b0f2e&txTime=6aa96222"
+        }
+      ]
     },
     {
       "id": "320346",
