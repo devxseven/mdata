@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=7302326041d27f1c461968d68f94bb13&txTime=6aab6946"
+          "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=81e44d0c15b1e1ec2e035173d5de2e52&txTime=6aab6a72"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-621887_lsd.m3u8?txSecret=a1f6895eac01026e7298b1e886b93155&txTime=6aab6946"
+          "url": "https://pull.niur.live/live/stream-621887_lsd.m3u8?txSecret=72e83fc788bcb1075bafae8cd747fb6a&txTime=6aab6a72"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=bfc354a5baf776905983103a1197eb2b&txTime=6aab6946"
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=aeda17b83d9f6edae765c1da26a0d557&txTime=6aab6a72"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=403744e0a7c13c3ccfd93f7bc09c6f5e&txTime=6aab6946"
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=bdca51cee664f4405fc63deb60dc730e&txTime=6aab6a72"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789600502-0-0-89986063d2b0af6a39f65aca5791797f"
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789600802-0-0-3022d7f1741efc512541d921f2bc7cf6"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1789600502-0-0-e62c8bd637f1aa648e996452a1be5a92"
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1789600802-0-0-6e3e531f26cdc9cd4960c1d79c5685b9"
         }
       ]
     },
@@ -48,40 +48,57 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d696d9c39516e1e6f3a26da0bccfed58&txTime=6aab6946"
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=718280193f0a360603134565c4bfa5a1&txTime=6aab6a72"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=2a4e0200083a210607ce77e7c1afbf22&txTime=6aab6946"
+          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=7145f097d6e1c1a1d0fce926ffed4acc&txTime=6aab6a72"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=995f20f5e6433997b43ae53479048ca6&txTime=6aab6946"
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b772b14d9572676cb55ddb6ef457f6cc&txTime=6aab6a72"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=0c4e2b45923ed31a30c1de951f0cfaa7&txTime=6aab6946"
+          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=0829df22e643343b3a33c5b57f80f9f7&txTime=6aab6a72"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789600502-0-0-3a7f5742572e74c955db9df3323bbbe5"
+          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789600802-0-0-9c3408272c5e38e761c7870ee6996076"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1789600502-0-0-d28c71fd3340e83c3ebaab12712d299b"
+          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1789600802-0-0-e7402542abf1916ba824f705e35efb40"
         }
       ]
     },
     {
       "id": "320430",
       "match_time": "1789597800",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Botafogo - RJ",
       "home_img": "https://sta.vnres.co/file/common/20260913/a94dc1bad35bf5942ce235c49058517b.png",
       "away_name": "Grêmio - RS",
       "away_img": "https://sta.vnres.co/file/common/20260913/cd19133fd06be59bacebb7e43a9c4b37.png",
       "league": "BRA D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=4b5cab7ba418115cab99807c95bb81ee&txTime=6aab6a72"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=c2d5853809176c356707762d6e22b4bd&txTime=6aab6a72"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=0833296be0693170d3ba1059b7d15d57&txTime=6aab6a72"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=d82b575e338f271eae006fb778a78e27&txTime=6aab6a72"
+        }
+      ]
     },
     {
       "id": "320431",
