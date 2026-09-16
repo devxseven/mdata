@@ -12,40 +12,65 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=ea17b99c1ab17bf338f316506dc5d38a&txTime=6aaaa466"
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a248cc4122d2cdfe2976d46906ec151d&txTime=6aaaa593"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=1a22d89e3093085d37c2ec4369f0d62b&txTime=6aaaa466"
+          "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=9e1a2ce1b092999876656b6fa0c3c87e&txTime=6aaaa593"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=067f98d8184a468ace838fe02ecd69b2&txTime=6aaaa466"
+          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=15ab68bcb6aeb01c3232414911ae861c&txTime=6aaaa593"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-9912140_lsd.m3u8?txSecret=bd41162bf26886c975d30de396177096&txTime=6aaaa466"
+          "url": "https://pull.niur.live/live/stream-9912140_lsd.m3u8?txSecret=c952c269c4dc63ab8bd46a57eae1610d&txTime=6aaaa593"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789550102-0-0-decafbd46603e51d0588866247c90c9a"
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789550402-0-0-535d8707e776071d4ffd96ac9f0fb536"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1789550102-0-0-edbbc1bc4f4c18f9f8f41ab348eb8ae3"
+          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1789550402-0-0-5ea97ea289093e6417ccd722584b1116"
         }
       ]
     },
     {
       "id": "320400",
       "match_time": "1789547400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Borneo FC Samarinda",
       "home_img": "https://sta.vnres.co/file/common/20260913/fbdbde83e16f9add59d8ce7de354dbd7.png",
       "away_name": "Dewa United FC",
       "away_img": "https://sta.vnres.co/file/common/20260913/5c27bc31a86019d96f4d47adf1fcaa6f.png",
       "league": "IDN D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789550403-0-0-11389d2d97349631003f88b140947410"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1789550403-0-0-39b60f2632afd0953571eb62afde8676"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a0415ac17da9328a7dada9b5b1cafb68&txTime=6aaaa5bf"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=19289f1961afc6e9187163d466e14da9&txTime=6aaaa5bf"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789550402-0-0-77d57761e9a882f6fe8f3e47e0fb18e5"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1789550402-0-0-e93b239e0d4cde448771a627c5816a6a"
+        }
+      ]
     },
     {
       "id": "320396",
