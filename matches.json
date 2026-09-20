@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789892103-0-0-0a72be2de77a91f9b6d51a809509c6c1"
+          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789892403-0-0-39e3c60361bf7bab891f53460c015733"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1789892103-0-0-17b5500fe92d9c97c877bd77a42d471b"
+          "url": "https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1789892403-0-0-fdd0f0c01b7818e6e76bf94db1c50ddd"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789892103-0-0-b55e08979c27e8f456b2732c2f8f0a1e"
+          "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789892403-0-0-d959964e1448b5eabd7cde2be3a713ad"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1789892103-0-0-6d90c46d8a9956cd79b8b470e6144105"
+          "url": "https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1789892403-0-0-7c3648e103a378b04a0f3d60d608e0be"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789892103-0-0-976e56681345f84f044dcd76618aaacd"
+          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789892403-0-0-c358dcc8d9ecb9ac05c30b0e03b503d0"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1789892103-0-0-2fca1f6f175f896cecb8b232b324af35"
+          "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1789892403-0-0-04ff138ff0accbe7af544e6ced047c7e"
         }
       ]
     },
@@ -48,35 +48,85 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789892103-0-0-cc4d5d8f188274244a0e9c6225a7b0ac"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789892403-0-0-02a8ee20b9cb3ea603fa13392b9999e1"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1789892103-0-0-8d028b28bab488139bb0a1388c2a1d72"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1789892403-0-0-96d476e9bca7148114eb208698a20e68"
         }
       ]
     },
     {
       "id": "320652",
       "match_time": "1789889400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Gangwon FC",
       "home_img": "https://sta.vnres.co/file/common/20260916/e2421adb2afa3c29de36e85de2e6c095.png",
       "away_name": "Jeju SK FC",
       "away_img": "https://sta.vnres.co/file/common/20260916/f7d230a0fee7e5d72e7df65b12a07450.png",
       "league": "KOR D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=b101fbc2158ad470e7807bf5bd7480bd&txTime=6aafdd83"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=8bdae1310509ab4ed082d8fba5d0acb2&txTime=6aafdd83"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=42ae35cc1a651ef620f43c8f781ed42f&txTime=6aafdd83"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=cb50e2f65b27bae9237ab7bf106afcad&txTime=6aafdd83"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789892403-0-0-dedf380820106f52b3c700be09827c60"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1789892403-0-0-6ce0a5038b00d9157bb8e86196a33196"
+        }
+      ]
     },
     {
       "id": "320653",
       "match_time": "1789889400",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Jeonbuk Hyundai Motors",
       "home_img": "https://sta.vnres.co/file/common/20260916/dd343531a850c4847450d1f49ff87012.png",
       "away_name": "Gwangju FC",
       "away_img": "https://sta.vnres.co/file/common/20260916/c8531537a244fea261a419ec3d349a4d.png",
       "league": "KOR D1",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789892403-0-0-48a4073c2694715fc75d2f08de84eff9"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-619672_lsd.m3u8?auth_key=1789892403-0-0-f6927f24a33598e9a8a2a88ceddefc92"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789892403-0-0-8331c6e54e4a3dea1b31cf273995976e"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1789892403-0-0-a7b6332200d784ae1d8e7febf205905e"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789892403-0-0-647d98524ccd75f70a8e48b3e09f3f8c"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1789892403-0-0-0e2e51b42f7154ecfca5c1ad95fef0e8"
+        }
+      ]
     },
     {
       "id": "320779",
