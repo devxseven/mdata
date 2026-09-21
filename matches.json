@@ -3,13 +3,30 @@
     {
       "id": "320777",
       "match_time": "1789983000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Tasmania JackJumpers",
       "home_img": "https://sta.vnres.co/file/common/20260919/aafc89f3fefb8f3df59452e4252a3fd2.png",
       "away_name": "South East Melbourne",
       "away_img": "https://sta.vnres.co/file/common/20260919/76f27ec62db7c98f59edb8f127eec757.png",
       "league": "NBL",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789986003-0-0-61b31c08857aadd9b4a3794b253b754a"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1789986003-0-0-9f6430e6625658285aa521ecb964e19b"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=a1e899c4792502e02949b74322ddc7be&txTime=6ab14b23"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=8e1fde23ade4a4724f05009eb585cf9e&txTime=6ab14b23"
+        }
+      ]
     },
     {
       "id": "320711",
