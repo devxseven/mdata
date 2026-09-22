@@ -12,27 +12,27 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=e1bbecaee4964b76ad13250cb0d882c7&txTime=6ab2ccaf"
+          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=d9e7e16c95bdb9c41a4346dd53f94e7c&txTime=6ab2cddb"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=04e13eb75c3af68b8f92c503bff19154&txTime=6ab2ccaf"
+          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=db7501680be0186969e27d48ba98a6dc&txTime=6ab2cddb"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=87637f9c8ddb6b7ae351aec50019cf28&txTime=6ab2ccaf"
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=832630442fe583bfad03e0e232ade4c9&txTime=6ab2cddb"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=262e19847e2be4ed5c1435c9eed5f745&txTime=6ab2ccaf"
+          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=022ae76c03cf58b49a8fa60881a30eb5&txTime=6ab2cddb"
         },
         {
           "name": "VN HD 3",
-          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1790084703-0-0-d8f9b1e21b412d504101010126ff3963"
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1790085003-0-0-b4c005b02139711ba2014a6335dd02d3"
         },
         {
           "name": "VN SD 3",
-          "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1790084703-0-0-98d7559e4e3f4b0335f2d73dd926db5e"
+          "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1790085003-0-0-beba4ae8891317fd71eb21886ac6832f"
         }
       ]
     },
@@ -48,46 +48,121 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=f36db610d1d28fd8996ef4c6de2fa8ac&txTime=6ab2ccaf"
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=518cb52f852e8a62e59fb43b87a2eee5&txTime=6ab2cddb"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=517b255b7b039b62cb2c137226f3d0ca&txTime=6ab2ccaf"
+          "url": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=853e4144f25fc4ac9b9db12c870d32bb&txTime=6ab2cddb"
         }
       ]
     },
     {
       "id": "320866",
       "match_time": "1790082000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Mozambique U20",
       "home_img": "https://sta.vnres.co/file/common/20260921/b5a5d4ac000e94538aab1a55e24d2a63.png",
       "away_name": "Mauritius U20",
       "away_img": "https://sta.vnres.co/file/common/20260921/b371ff11e623ed0ffb7598d6348049db.png",
       "league": "CAF YCQ",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1790085003-0-0-864aa19a402ca23b8c6f6e37a7694f41"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-619672_lsd.m3u8?auth_key=1790085003-0-0-60730bfcc6da709fef465835acbd5a1f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=630d02ee5ac608f6c67e61eae4a5d41d&txTime=6ab2cddb"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-622093_lsd.m3u8?txSecret=9fa6ff2e930ae52f0a23da320a1c49f2&txTime=6ab2cddb"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1790085003-0-0-b6d16875205868c4b6f159f8d4791c86"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1790085003-0-0-5b8c2ccf10284cd5fc6dc3ab472574e2"
+        }
+      ]
     },
     {
       "id": "320867",
       "match_time": "1790082000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Namibia U20",
       "home_img": "https://sta.vnres.co/file/common/20260921/8a499463291c81c2fd02e93b9baadf38.png",
       "away_name": "Seychelles U20",
       "away_img": "https://sta.vnres.co/file/common/20260921/619a6dc75ba2b69de79ebdd9331d5faf.png",
       "league": "CAF YCQ",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1790085003-0-0-5ce37e7fb793b684dd872a5206f0f5bc"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1790085003-0-0-8a06a134203bfdcec4fa85dcc878f05f"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=ac9a5d9e4bba9248a5318a0f26426570&txTime=6ab2cddb"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=a555314df7065a39b73976f14ab193a6&txTime=6ab2cddb"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=d9e7e16c95bdb9c41a4346dd53f94e7c&txTime=6ab2cddb"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=db7501680be0186969e27d48ba98a6dc&txTime=6ab2cddb"
+        }
+      ]
     },
     {
       "id": "320927",
       "match_time": "1790082000",
-      "match_status": false,
+      "match_status": true,
       "home_name": "FC Sevastopol",
       "home_img": "https://sta.vnres.co/file/common/20260922/cfe97e3e3a0fd31c6ac0287c238db143.png",
       "away_name": "Rubin Yalta",
       "away_img": "https://sta.vnres.co/file/common/20260922/b4ab30e0ff72f3b8f4e374bfc6cf77da.png",
       "league": "RUS D3",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1790085003-0-0-1ea19d794e4ca9014fb683af1222467b"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1790085003-0-0-4501881ba43bcf8289075ddf7f3a4264"
+        },
+        {
+          "name": "VN HD 2",
+          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1790085003-0-0-de9fdccb8f4ed0c2d74d0077dda52df6"
+        },
+        {
+          "name": "VN SD 2",
+          "url": "https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1790085003-0-0-5869ad88c411f73c3459176acc338823"
+        },
+        {
+          "name": "VN HD 3",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1790085003-0-0-42808127b1af70038694c1b14840532f"
+        },
+        {
+          "name": "VN SD 3",
+          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1790085003-0-0-0eda1945ab4898b52b13da611aefa89c"
+        }
+      ]
     },
     {
       "id": "320766",
