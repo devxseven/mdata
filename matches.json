@@ -12,19 +12,19 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1790064903-0-0-25094d3e19bd955c103c59952ad4f430"
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1790065203-0-0-e4f93fe8e93414df825d55e90c45f5e7"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1790064903-0-0-7c855fed0c172a410aa7545b35ba5b25"
+          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1790065203-0-0-b3acef9932a020862806f5bd27a1e5cc"
         },
         {
           "name": "VN HD 2",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1790064903-0-0-6b59c2ea8f3291e4503e7ed10662c1b4"
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1790065203-0-0-096ba3af676dc64e0f54631b6f3236c4"
         },
         {
           "name": "VN SD 2",
-          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1790064903-0-0-d9168e2c4a8248eeec4fa884433c7472"
+          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1790065203-0-0-db74b678ec13ec22f41d540def0050f3"
         }
       ]
     },
@@ -40,24 +40,33 @@
       "links": [
         {
           "name": "VN HD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1790064903-0-0-ed00254e39b8a7cadba97a6912f47b33"
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1790065203-0-0-8f7411755f1ec448ecc313c7aeeab3de"
         },
         {
           "name": "VN SD 1",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1790064903-0-0-4af2c459e441936b72bb7bfc6cb28f69"
+          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1790065203-0-0-890f6a004fe9051cb2e1a7959f58f740"
         }
       ]
     },
     {
       "id": "320816",
       "match_time": "1790062200",
-      "match_status": false,
+      "match_status": true,
       "home_name": "Rytas",
       "home_img": "https://sta.vnres.co/file/common/20260920/78f47f10ea673c9e0f47b1e72b418f9d.png",
       "away_name": "RSSB Tigers",
       "away_img": "https://sta.vnres.co/file/common/20260920/dbd3bc1418b05a3a3cd30ed26b39d01e.png",
       "league": "FIBA IC",
-      "links": []
+      "links": [
+        {
+          "name": "VN HD 1",
+          "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=52769104b10858793c78a7bf23f9c475&txTime=6ab28083"
+        },
+        {
+          "name": "VN SD 1",
+          "url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=8623fde9e4a21ea5641488b96ef0d31b&txTime=6ab28083"
+        }
+      ]
     },
     {
       "id": "320763",
